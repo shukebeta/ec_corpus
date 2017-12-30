@@ -1,0 +1,39 @@
+version: "2"
+
+services:
+
+  # Nginx 1.11.10: https://hub.docker.com/_/nginx/
+  nginx:
+    container_name: lnmp-nginx
+    build:
+      context: ./images/nginx
+      dockerfile: Dockerfile
+    ports:
+      - 80:80
+      - 443:443
+    depends_on:
+      - php
+    volumes:
+      - ./www:/www
+      - ./images/nginx/config:/etc/nginx/conf.d
+
+   # PHP7, 兼控制台
+  php:
+    container_name: lnmp-php7
+    build:
+      context: ./images/php7
+      dockerfile: Dockerfile
+    volumes:
+      - ec_corpus:/data/ec_corpus
+      - ./www:/www
+      - ./bin:/root/bin
+      - ./images/php7/config/php.ini:/etc/php/7.0/fpm/php.ini
+      - ./images/php7/config/.vimrc:/root/.vimrc
+      - ./images/php7/config/crontabs:/var/spool/cron/crontabs
+    tty: true
+    environment:
+      RUNNING_IN_CONTAINER: "1"
+
+volumes:
+  ec_corpus:
+    external: false

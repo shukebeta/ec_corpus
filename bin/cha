@@ -1,0 +1,11 @@
+#!/bin/bash
+
+function usage()
+{
+    echo "usage:$0 '单词或者短语'"
+}
+if [ $# -lt 1 ];then
+    usage
+    exit
+fi
+grep --color=always -ihre "$1" ~/bin/四大经典词典双解版TXT

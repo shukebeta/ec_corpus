@@ -1,0 +1,4 @@
+#/bin/bash
+keyword="$@"
+curl -s 'http://cha.shukebeta.com' -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3230.0 Safari/537.36' -H 'content-type: application/x-www-form-urlencoded; charset=UTF-8' --data-urlencode "keyword=${keyword}" --compressed | grep --color=always "${keyword}"
+

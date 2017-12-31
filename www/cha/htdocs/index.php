@@ -15,7 +15,7 @@ echo <<<html
 </head>
 <body>
 <h1>查例句</h1>
-<form>
+<form action="/">
 <input id="inputbox" type="text" name="keyword" value="$keyword_input" style="font-size:18px; width:400px;height:50px" />
 <button type="submit" style="font-size:18px;width:100px;height:50px">查例句</button> <br />
 <p style="font-size:11px">Tips：</p>

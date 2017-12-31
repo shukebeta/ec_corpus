@@ -27,6 +27,7 @@ services:
       - ec_corpus:/data/ec_corpus
       - ./www:/www
       - ./bin:/root/bin
+      - ./images/php7/config/start.sh:/root/start.sh
       - ./images/php7/config/php.ini:/etc/php/7.0/fpm/php.ini
       - ./images/php7/config/.vimrc:/root/.vimrc
       - ./images/php7/config/crontabs:/var/spool/cron/crontabs

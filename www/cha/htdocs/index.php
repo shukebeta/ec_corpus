@@ -40,14 +40,14 @@ $dict = [
 ];
 $keyword = strtr($keyword, $dict);
 
-$result = `grep -ihre "${keyword}" /data/ec_corpus/四大经典词典双解版TXT`;
+$result = `grep -B2 -A3 -ihr -e "${keyword}" /data/ec_corpus/四大经典词典双解版TXT`;
 if (!$result) {
     $result = '抱歉，关键字<font color="red"> ' . $keyword_input . ' </font>一个例句也没找到。';
 }
 if(@$_REQUEST['html']) {
 
     $result = preg_replace("/(${keyword})/iu", '<font color="red">\1</font>', $result);
-    $result = str_replace("\n", "<p>", $result);
+    $result = str_replace("\n", "<br />", $result);
 }
 echo $result;
 

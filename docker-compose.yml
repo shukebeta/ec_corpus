@@ -4,13 +4,14 @@ services:
 
   # Nginx 1.11.10: https://hub.docker.com/_/nginx/
   nginx:
+    restart: always
     container_name: lnmp-nginx
     build:
       context: ./images/nginx
       dockerfile: Dockerfile
     ports:
       - 80:80
-      - 443:443
+#      - 443:443
     depends_on:
       - php
     volumes:
@@ -19,6 +20,7 @@ services:
 
    # PHP7, 兼控制台
   php:
+    restart: always
     container_name: lnmp-php7
     build:
       context: ./images/php7

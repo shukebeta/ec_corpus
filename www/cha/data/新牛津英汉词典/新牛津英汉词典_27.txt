@@ -1,0 +1,3391 @@
+﻿————————————
+★☆☆   bound
+ / baund /bound¹
+◙ verb
+1. [noobj., with adverbial of direction] walk or run with leaping strides  • 跳动，跳跃着前进
+ »Louis came bounding down the stairs.  路易斯蹦蹦跳跳地下了楼。
+ »shares bounded ahead in early dealing.  在早先的交易中，股票价格振荡盘升。
+  (of an object, typically a round one) rebound from a surface  • （物体，尤指圆形的）弹回，弹开，反跃
+ »bullets bounded off the veranda.  子弹打在走廊上弹了回去。
+◙ noun
+1. a leaping movement upwards, typically towards or over something  • 跳跃，（尤指跃向，跃过）
+ »I went up the steps in two effortless bounds.  我没费一点力气，两下就跳上了台阶。
+
+【语源】1. early 16th cent. (as a noun): from French bond (noun), bondir (verb) 'resound', later 'rebound', from late Latin bombitare, from Latin bombus 'humming'bound²
+◙ noun
+1. [常作 bounds] a territorial limit; a boundary  • 界限，边界
+ »the ancient bounds of the forest.  森林的原始边界。
+  a limitation or restriction on feeling or action  • 限制，限制范围
+ »it is not beyond the bounds of possibility that the issue could arise again.  再次出现这件事不是不可能。
+ »enthusiasm to join the union knew no bounds.  人们加入该联盟的热情无限高涨。
+  (technical)a limiting value  • [技] 界
+◙ verb
+1. [with obj.] [一般作 be bounded] form the boundary of; enclose  • 形成界限；关，围入
+ »the ground was bounded by a main road on one side and a meadow on the other.  这块地一边是一条主干道，另一边是一块草地。
+  place within certain limits; restrict  • （边界内的）地方，限制
+ »freedom of action is bounded by law.  行动自由受法律的限制。
+
+【IDIOMS】◘ in bounds
+1. inside the part of a sports field or court in which play is conducted  • 在运动场地边线以内
+◘ out of bounds
+1. (of a place) outside the limits of where one is permitted to be  • 超出界限
+ »his kitchen was out of bounds to me at mealtimes.  用餐时间，我不得进他的厨房。
+  outside the part of a sports field or court in which play is conducted  • 在运动场地以外
+  (figurative)beyond what is acceptable  • [喻] 越轨，超出容忍限度
+ »Paul felt that this conversation was getting out of bounds.  鲍尔觉得这次谈话渐渐变得让人不能接受。
+
+【语源】1. Middle English (in the senses 'landmark' and 'borderland'): from Old French bodne, from medieval Latin bodina, earlier bùtina, of unknown ultimate originbound³
+◙ adjective
+1. going or ready to go towards somewhere  • 正在到…去的，准备到…去的
+ »an express train bound for Edinburgh.  一列去爱丁堡的快车。
+ »[incombination] the three moon-bound astronauts.  三名要去月球的飞行员。
+  (figurative)destined or very likely to have a specified experience  • [喻] 准备就绪的
+ »they were bound for disaster.  他们为灾难做好了准备。
+
+【语源】1. Middle English boun (in the sense 'ready, dressed'), from Old Norse búinn, past participle of búa 'get ready'; the final -d is euphonic, or influenced by boundbound4
+◙ adjective
+1. [incombination] restricted or confined to a specified place  • 限制在某个场所的
+ »his job kept him city-bound.  他的工作把他困在城里了。
+  prevented from going somewhere or from operating normally by the specified conditions  • 被…所限制的，被…所束缚的
+ »blizzard-bound Boston.  被暴风雪所困的波士顿。
+2. [with infinitive] certain to be or to do or have something  • 一定的，肯定会
+ »there is bound to be a change of plan.  计划肯定会有变动。
+  obliged by law, circumstances, or duty to do something  • 有义务的，受约束的
+ »I'm bound to do what I can to help Sam.  我有义务帮助萨姆。
+3. [incombination] (of a book) having a specified binding  • （书）用封面包住的，装有封面的
+ »fine leather-bound books.  皮面精装的书。
+4. (of a grammatical element) occurring only in combination with another form  • （语法要素）黏附的
+  in Chomskyan linguistics, (of a reflexive, reciprocal, or other linguistic unit) dependent for its reference on another noun phrase in the same sentence  • 依附性的（乔姆斯基语言学，反身代词、相互代词或其他语言学单位的所指要靠同一句话中的另外一个名词词组才能明确的）
+
+【IDIOMS】◘ bound up in
+1. focusing on to the exclusion of all else  • 热衷于，献身于，沉迷于
+ »she was too bound up in her own misery to care that other people were hurt.  她沉迷于自己的痛苦之中无法自拔，根本没去想别人是否受到伤害。
+◘ bound up with (或 in)
+1. closely connected with or related to  • 与…有密切关系的
+ »democracy is bound up with a measure of economic and social equality.  民主与经济和社会平等程度有着密切关系。
+◘ I'll be bound
+1. used to emphasize that one is sure of something  • 我敢肯定
+ »she's hatching more little plots, I'll be bound!.  我敢肯定她正在策划更多的小阴谋！。
+◘ I'm bound to say
+1. used to precede a statement which one feels it is one's duty to make, however unwelcome it may be to the hearer  • 我有责任说
+ »I'm bound to say that I have some doubts.  我有责任告诉大家我有些疑问。
+
+
+
+————————————
+★☆☆   boundary
+ / ˈbaundəri /◙ (pl. -ies)
+1. a line which marks the limits of an area; a dividing line  • 分界线，边界；界限
+ »a county boundary.  县界。
+ »the river marks the boundary between the two regions.  这条河是这两个地区的分界线。
+ »[as modifier] a boundary wall.  界墙。
+  [常作 boundaries] (figurative)a limit of something abstract, especially a subject or sphere of activity  • [喻] （某些抽象事物的）界限
+ »a community without class or political boundaries.  一个没有阶级或政治界限的社区。
+  [Cricket] a hit crossing the limits of the field, scoring four or six runs  • [板球] 击球到（或超过）边界线得分（得4分和6分）
+
+【语源】1. early 17th cent.: variant of dialect bounder, from bound + -er,perhaps on the pattern of limitary
+
+
+
+————————————
+★☆☆   boundary condition◙ noun
+1. [Mathematics] a condition that is required to be satisfied at all or part of the boundary of a region in which a set of differential conditions is to be solved  • [数] 边界条件，极限条件，初始条件
+
+
+
+————————————
+★☆☆   boundary layer◙ noun
+1. a layer of more or less stationary fluid (such as water or air) immediately surrounding an immersed moving object  • 边界层，附面层
+
+
+
+————————————
+★☆☆   boundary rider◙ noun
+1. [Austral./NZ] a person employed to maintain the outer fences of a cattle or sheep station  • [澳/新西兰] 骑马巡视并修补牧场围栏的人
+
+
+
+————————————
+★☆☆   boundary umpire◙ noun
+1. [Australian Rules] an umpire on the boundary line who signals when the ball is out and throws it back to restart play  • [澳橄] 边界裁判
+
+
+
+————————————
+★☆☆   boundary value◙ noun
+1. [Mathematics] a value specified by a boundary condition  • [数] 边界值，极限值，初始值
+
+
+
+————————————
+★☆☆   bounden
+ / ˈbaundən /1. archaic past participle of bind  • [古] bind 的过去式
+
+【IDIOMS】◘ a (或 one's) bounden duty
+1. responsibility regarded by oneself or others as obligatory  • 本分，本职
+ »his bounden duty to respond to the call for help.  他的本职工作是处理求救电话。
+
+
+
+————————————
+★☆☆   bounder
+ / ˈbaundə /◙ noun
+1. (informal, dated, chiefly Brit.)a dishonourable man  • [非正式，旧， 主英] 不道德的人
+ »he is nothing but a fortune-seeking bounder.  他只不过是个不讲道德的投机者。
+
+
+
+————————————
+★☆☆   boundless
+ / ˈbaʊndlɪs /◙ adjective
+1. unlimited ; immense  • 无限的，无边无际的；巨大的
+ »enthusiasts who devote boundless energy to their hobby.  那些狂热的人在他们的爱好上投入了无限的精力。
+
+【派生】♦ boundlessly adverb
+♦ boundlessness noun
+
+
+
+
+————————————
+★☆☆   bounteous
+ / ˈbaʊnti:əs /◙ adjective
+1. (archaic)generously given or giving; bountiful  • [古] 宽宏大量的，慷慨的；丰富的，充裕的
+ »the earth yields a bounteous harvest.  大地赐予大丰收。
+
+【派生】♦ bounteously adverb
+♦ bounteousness noun
+
+【语源】1. late Middle English : from Old French bontif, -ive 'benevolent' (from bonte 'bounty'), on the pattern of plenteous
+
+
+
+————————————
+★☆☆   bountiful
+ / ˈbaʊntəfəl /◙ adjective
+1. large in quantity; abundant  • 大量的，丰富的，充足的
+ »the ocean provided bountiful supply of fresh food.  海洋为我们提供大量的新鲜食物。
+  giving generously  • 慷慨的
+ »this bountiful God has thought of everything.  慷慨的上帝考虑得面面俱到。
+
+【派生】♦ bountifully adverb
+
+【语源】1. early 16th cent.: from bounty + -ful
+
+
+
+————————————
+★☆☆   Bounty1. a ship of the British navy on which in 1789 part of the crew, led by Fletcher Christian, mutinied against their commander, William Bligh, and set him adrift in an open boat with eighteen companions  • 邦蒂（英国海军舰名，1789年部分船员在弗莱彻•克里斯琴的带领下发动哗变，将舰长威廉•布莱及其18名追随者赶入一艘无甲板的小船，任其漂流海上）
+
+
+
+————————————
+★☆☆   bounty
+ / ˈbaunti /◙ (pl. -ies)
+1. a monetary gift or reward in return for a service or action, in particular  • 奖金，赏金，尤指
+  a sum paid for killing or capturing a person or animal  • （为捕杀人或动物而设的）悬赏金
+ »there was an increased bounty on his head.  拿到他人头的赏金又上涨了。
+  (historical)a sum paid by the state to encourage trade  • [史] 贸易津贴
+  (chiefly historical)a sum paid by the state to army or navy recruits on enlistment  • [主史] （部队或海军新兵入伍时领的）新兵补贴
+  (poetic/literary)something given or occurring in generous amounts  • [诗/文] 大量的事物
+ »the bounties of nature.  大自然丰富的物产。
+  [mass noun] (chiefly poetic/literary)generosity  • [主诗/文] 慷慨
+ »for millennia the people along the Nile have depended entirely on its bounty.  几千年来尼罗河沿岸的居民一直完全依靠这条河慷慨的恩赐为生。
+
+【语源】1. Middle English (denoting goodness or generosity): from Old French bonte 'goodness', from Latin bonitas, from bonus 'good'. The sense 'monetary reward' dates from the early 18th cent
+
+
+
+————————————
+★☆☆   bounty hunter◙ noun
+1. a person who pursues a criminal for whom a reward is offered  • 为获得赏金而搜捕逃犯的人
+
+
+
+————————————
+★☆☆   bouquet
+ / ˈbukei /◙ noun
+1. an attractively arranged bunch of flowers, especially one presented as a gift or carried at a ceremony  • 花束
+  (figurative)an expression of approval; a compliment  • [喻] 赞扬，恭维
+ »we will happily publish the bouquets and brickbats.  我们将很高兴地发表褒贬之词。
+2. the characteristic scent of a wine or perfume  • （酒或香水的）香味，芬芳
+ »the aperitif has a faint bouquet of almonds.  开胃酒有一股淡淡的杏仁香味。
+
+【语源】1. early 18th cent.: from French (earlier clump of trees'), from a dialect variant of Old French bos 'wood' . Sense 2dates from the mid 19th cent
+
+
+
+————————————
+★☆☆   bouquet garni
+ / bʊˌkeɪ ˈgɑ:ni, bəʊˈkeɪ, ˈbʊkeɪ /◙ (pl. bouquets garnis)
+1. a bunch of herbs, typically encased in a muslin bag, used for flavouring a stew or soup  • （装在布袋中与菜肴一起烹调的）调味芳草束
+
+【语源】1. French, literally garnished bouquet'
+
+
+
+————————————
+★☆☆   Bourbaki
+ / ˌbʊəˈbɑ:ki /1. ŋicolas, a pseudonym of a group of mathematicians, mainly ʃrench, attempting to give a complete account of the foundations of pure mathematics. ðheir first publication was in 1ˌ3ˌ  • 布尔巴基，尼古拉斯（一群数学家合写论文时共用的集体笔名，他们主要为法国人，试图阐明纯数学的基本理论，1939年第一次出版其论著）
+
+【语源】1. the group was named, humorously, after a defeated French general of the Franco-Prussian War (1870-1)
+
+
+
+————————————
+★☆☆   Bourbon
+ / ˈbuəbən /ɑourbon¹
+1. the surname of a branch of the royal family of ʃrance. ðhe ɑourbons ruled ʃrance from 1ˈ8ˌ, when Henry ɪʒ succeeded to the throne, until the monarchy was overthrown in 1848, and reached the peak of their power under ɚouis Xɪʒ in the late 1ˌth century. Members of this family have also been kings of Spain (1ˌ00–1ˌ31 and since 1ˌˌˈ)  • 波旁家族（法兰西皇室的一支，自从1589年亨利四世继承了王位以后，波旁王朝一直统治法兰西，直到１８４８年整个王朝被推翻；该王朝在17世纪后期路易十四统治时达到巅峰，其皇室的成员也曾当过西班牙的国王［1700—1931和1975年后］）Bourbon²
+◙ noun
+1. [US] reactionary  • [美] 反动分子
+2. [Brit.] a chocolate-flavoured biscuit with a chocolate-cream filling  • [英] 巧克力夹心饼干
+3. (也作 Bourbon rose)a rose of a variety which flowers over a long period and has a rich scent. It arose as a natural hybrid on the island of Réunion (formerly Île de Bourbon) and was introduced into Europe in the early 19th century  • 波旁蔷薇
+4. Rosa × borboniana, a hybrid of Rosa chinensis and R. damascena, family Rosaceae  • 拉丁名Rosa × borboniana，月季花和突厥蔷薇的杂交品种，蔷薇科
+
+【语源】1. mid 19th cent. (in sense 1): from Bourbon Sense 2dates from the 1930s
+
+
+
+————————————
+★☆☆   bourbon
+ / ˈbə:bən /◙ noun
+1. [mass noun] a kind of American whisky distilled from maize and rye  • 波旁威士忌酒（一种主要用玉米和裸麦酿制的美国威士忌酒）
+
+【语源】1. mid 19th cent.: named after Bourbon County, Kentucky, where it was first made
+
+
+
+————————————
+★☆☆   Bourbonnais
+ / bu:bɔ:ŋˈneɪ /1. a former duchy and province of central ʃrance; chief town, Moulins. ɪt forms part of the æuvergne and ɔentre regions  • 波旁（前波旁省，在法国中部；主要城镇穆兰；构成了奥弗涅区以及中央大区的一部分）
+
+
+
+————————————
+★☆☆   bourdon
+ / ˈbuədn /◙ noun
+1. [Musica] low-pitched stop in an organ or harmonium, typically a stopped diapason 16-foot pitch  • [乐] 布尔东低音；管风琴或风琴的低音音栓，（尤指16音阶音高的主音栓）
+
+【语源】1. Middle English (in the sense 'drone of a bagpipe'): from Old French, drone', of imitative origin
+
+
+
+————————————
+★☆☆   Bourdon gauge
+ / ˈbʊədɔn /◙ noun
+1. a pressure gauge employing a coiled metallic tube which tends to straighten out when pressure is exerted within it  • 波顿压力仪
+
+【语源】1. mid 19th cent.: named after Eugène Bourdon (1808–84), French hydraulic engineer
+
+
+
+————————————
+★☆☆   bourgeois
+ / ˈbuəʒwɑ: /◙ adjective
+1. of or characteristic of the middle class, typically with reference to its perceived materialistic values or conventional attitudes  • 中产阶级的，具有中产阶级保守特性的
+ »a rich, bored, bourgeois family.  一个富有、乏味的中产阶级家庭。
+ »these views will shock the bourgeois critics.  这些观点会使那些中产阶级的评论家感到震惊。
+  (in Marxist contexts) upholding the interests of capitalism; not communist  • （马克思主义理论中的）资产阶级的，资本家的；非共产主义的
+ »bourgeois society took for granted the sanctity of property.  资本主义社会认为保护私有财产神圣性是理所当然的。
+◙ [复同单] 
+1. a bourgeois person  • 资产阶级分子；中产阶级分子
+
+【语源】1. mid 16th cent.: from French, from late Latin burgus 'castle' (in medieval Latin 'fortified town'), ultimately of Germanic origin and related to borough
+--› compare burgess 
+
+
+
+————————————
+★☆☆   bourgeoise
+ / ˈbuəʒwɑ:z /◙ adjective
+1. of or characteristic of female members of the bourgeoisie  • 资产阶级妇女的；中产阶级妇女的
+◙ noun
+1. a female member of the bourgeoisie  • 资产阶级妇女；中产阶级妇女
+
+【语源】1. late 18th cent.: French, feminine of bourgeois 'citizen' (see bourgeois )
+
+
+
+————————————
+★☆☆   bourgeoisie
+ / ˌbʊəʒwɑ:ˈzi: /◙ noun
+1. [treated as sing. or pl.] the middle class, typically with reference to its perceived materialistic values or conventional attitudes  • 中产阶级
+  (in Marxist contexts) the capitalist class who own most of society's wealth and means of production  • （马克思主义理论中指拥有大部分社会财富和生产资料的）资产阶级
+
+【语源】1. early 18th cent.: French, from bourgeois
+
+
+
+————————————
+★☆☆   Bourgogne
+ / bu:ˈgɔ:njə /1. ʃrench name for ɑurgundy  • [法] 同 Burgundy 
+
+
+
+————————————
+★☆☆   Bourguiba
+ / ˌbʊəˈgi:bə /1. Habib ibn æli (b. 1ˌ03), ðunisian nationalist and statesman, the first President of independent ðunisia 1ˌˈˌ–8ˌ  • 布尔吉巴，哈比卜•伊本•阿里（生于1903年，突尼斯民族主义者、政治家，突尼斯首届总统［1957—1987］）
+
+
+
+————————————
+★☆☆   Bourke-White
+ / ˈbɜ:kˈhwaɪt , -ˈwaɪt /1. Margaret (1ˌ06–ˌ1), æmerican photojournalist. During the Second θorld θar she was the first female photographer to be attached to the uS armed forces, at the end of the war accompanying the ællied forces when they entered the concentration camps  • 伯克怀特，玛格丽特（1906—1971，美国女摄影家，第二次世界大战期间首位被派送到美军前线的女摄影家，战争结束时随盟军进入集中营）
+
+
+
+————————————
+★☆☆   bourn
+ / buən /bourn¹
+◙ noun
+1. (dialect)a small stream, especially one that flows intermittently or seasonally  • [方] 小河，小溪（尤指间歇性或季节性断流的）
+
+【语源】1. Middle English : southern English variant of burnbourn²
+◙ (also bourne), noun
+1. (poetic/literary)a limit; a boundary  • [诗/文] 限制；边界
+  a goal; a destination  • 目标；目的地
+
+【语源】1. early 16th cent. (denoting a boundary of a field): from French borne, from Old French bodne (see bound )
+
+
+
+————————————
+★☆☆   Bournemouth
+ / ˈbɔ:nməθ /1. a resort on the south coast of əngland, a unitary council formerly in Dorset; pop. 1ˈ4,400 (1ˌˌ1)  • 伯恩茅斯（英格兰南部滨海度假胜地，前多西特郡的单一市议会，1991年人口154,400）
+
+
+
+————————————
+★☆☆   bourrée
+ / ˈbʊəreɪ /◙ noun
+1. a lively French dance like a gavotte  • 法国舞蹈
+  [Ballet] a series of very fast little steps, with the feet close together, usually performed on the tips of the toes and giving the impression that the dancer is gliding over the floor  • [芭蕾] 布列舞（法国一种变化甚多的民间舞蹈，特点是舞步急速和跳跃，给人一种舞者在地板上滑动的感觉）
+◙ verb
+1. [noobj.] perform a bourrée  • 跳布列舞
+
+【语源】1. late 17th cent.: French, literally faggot of twigs' (the dance being performed around a fire made with such twigs)
+
+
+
+————————————
+★☆☆   bourse
+ / buəs /◙ noun
+1. a stock market in a non-English-speaking country, especially France  • （非英语国家，尤指法国的）股票交易所。
+--› compare burse 
+  [Bourse] the Paris stock exchange  • 巴黎股票交易所
+
+【语源】1. mid 16th cent. (as burse, the usual form until the mid 19th cent.): from French, literally purse', via medieval Latin from Greek bursa 'leather'
+
+
+
+————————————
+★☆☆   Boursin
+ / ˈbʊəsã，  /◙ noun
+1. [mass noun] (trademark)a kind soft cheese from France  • [商标] 法式软奶酪
+
+【语源】1. French
+
+
+
+————————————
+★☆☆   boustrophedon
+ / ˌbaustrəˈfi:dən /◙ adjective & adverb
+1. (of written words) from right to left and from left to right in alternate lines  • 牛耕式转行书写法（一种书写法，从右至左，再从左至右互错成行）
+
+【语源】1. early 17th cent.: from Greek, literally as an ox turns in ploughing', from bous 'ox' + -strophos 'turning'
+
+
+
+————————————
+★☆☆   bout
+ / baut /◙ noun
+1. a short period of intense activity of a specified kind  • 一段，一阵，一次
+ »occasional bouts of strenuous exercise.  偶尔几次紧张的练习。
+ »a drinking bout.  一阵狂饮。
+  an attack of illness or strong emotion of a specified kind  • （疾病或感情的）发作
+ »a severe bout of flu.  流行性感冒大发作。
+  a wrestling or boxing match  • （摔跤，拳击）比赛
+2. a curve in the side of a violin, guitar, or other musical instrument  • （小提琴、吉他或其他乐器边缘的）曲线
+
+【语源】1. mid 16th cent. (denoting a curve or circuit, hence later a ‘turn’ of activity): from dialect bought 'bend, loop'; probably of Low German origin
+
+
+
+————————————
+★☆☆   boutade
+ / bu:ˈtɑ:d /◙ noun
+1. [formal] a sudden outburst or outbreak  • [正式] 突然爆发
+
+【语源】1. early 17th cent.: French, from bouter 'to thrust'
+
+
+
+————————————
+★☆☆   boutique
+ / bu:ˈti:k /◙ noun
+1. a small shop selling fashionable clothes or accessories  • 时装商店（经销服装或饰品的小商店）
+
+【语源】1. mid 18th cent.: from French, small shop', via Latin from Greek apothēkē 'storehouse'. 
+--› compare bodega 
+
+
+
+————————————
+★☆☆   boutique hotel◙ noun
+1. a stylish small hotel, typically one situated in a fashionable urban location  • （尤指位于城市繁华地段的）时尚小旅馆，精品小旅馆
+
+
+
+————————————
+★☆☆   bouton
+ / bu:ˈtɔ:n /◙ noun
+1. [Anatomy] an enlarged part of a nerve fibre or cell, especially an axon, where it forms a synapse with another nerve  • [剖] 疖，小结（哑铃状脓肿）
+
+【语源】1. mid 20th cent.: from French, literally 'button'
+
+
+
+————————————
+★☆☆   boutonnière
+ / ˌbu:tɔnˈjɛ: /◙ noun
+1. a spray of flowers worn in a buttonhole  • （别在钮孔上的）花，花束
+
+【语源】1. late 19th cent.: French, buttonhole', from bouton 'button'
+
+
+
+————————————
+★☆☆   Boutros-Ghali
+ / ˈbu:trəʊsˈgɑ:li: /1. ɑoutros (b.1ˌ22), əgyptian diplomat and politician, Secretary General of the united ŋations 1ˌˌ2–ˌˌ  • 布特罗斯加利，布特罗斯（生于1922年，埃及外交家和政治家，联合国秘书长[1992–1997] ）
+
+
+
+————————————
+★☆☆   boutu
+ / ˈbəʊtu: /◙ (也作 boto), noun
+1. a pink and grey river dolphin found in the Amazon and Orinoco River systems  • 亚马孙河豚。(亦称 amazon dolphin)
+2. Inia geoffrensis, family Platanistidae  • 拉丁名Inia geoffrensis，喙豚科
+
+
+
+————————————
+★☆☆   Bouvet Island
+ / ˈbu:veɪ /1. an uninhabited ŋorwegian island in the South ætlantic  • 布维岛（南大西洋岛屿，隶属挪威，无人居住）
+
+【语源】1. named after the French navigator François Lozier- Bouvet (1705–86), who visited it in 1739
+
+
+
+————————————
+★☆☆   bouvier
+ / ˈbu:vɪeɪ /◙ noun
+1. a large, powerful dog of a rough-coated breed originating in Belgium  • （原产于比利时的）佛兰德牧牛狗
+
+【语源】1. French, literally 'cowherd'
+
+
+
+————————————
+★☆☆   bouzouki
+ / bu:ˈzu:ki /◙ (pl. bouzoukis)
+1. a long-necked Greek form of mandolin  • 布祖基琴（一种源于希腊的长颈弦乐器，形似曼陀林琴）
+
+【语源】1. 1950s: from modern Greek mpouzouki, possibly related to Turkish bozuk 'spoilt' (with reference to roughly made instruments)
+
+
+
+————————————
+★☆☆   bovid
+ / ˈbəuvid /◙ noun
+1. [Zoology] a mammal of the cattle family [Bovidae]  • [动] 牛科动物
+
+【语源】1. late 19th cent.: from modern Latin Bovidae (plural), from bos, bov- 'ox'
+
+
+
+————————————
+★☆☆   bovine
+ / ˈbəʊˌvaɪn , -ˌvi:n /◙ adjective
+1. of, relating to, or affecting cattle  • 牛的，关于牛的
+ »bovine tuberculosis.  牛肺结核病。
+ »bovine tissue.  牛组织。
+  (of a person or their manner or expression) sluggish or stupid  • 牛一般的，呆头呆脑的，迟钝的
+ »a look of bovine contentment came into her face.  她脸上露出一种呆呆的、满足的神情。
+◙ noun
+1. an animal of the cattle group, which also includes buffaloes and bisons  • 牛类动物
+
+【派生】♦ bovinely adverb
+
+【语源】1. early 19th cent.: from late Latin bovinus, from Latin bos, bov- 'ox'
+
+
+
+————————————
+★☆☆   bovine spongiform encephalopathy◙ noun
+--› see bse 
+
+
+
+————————————
+★☆☆   Bovril◙ noun
+1. [mass noun] (trademark)a concentrated essence of beef diluted with hot water to make a drink  • [商标] 浓缩牛肉汁
+
+【语源】1. late 19th cent.: from Latin bos, bov- 'ox', the second element perhaps from vril, an imaginary form of energy described in E. Bulwer-Lytton's novel The Coming Race (1871)
+
+
+
+————————————
+★☆☆   bovver
+ / ˈbəuvə /◙ noun
+1. [usu. as modifier] [Brit. informal] hooliganism or violent disorder, especially as caused by gangs of skinheads  • [英， 非正式] （尤指街头光头仔之间的）斗殴
+ »a bovver boy.  参加斗殴的男孩。
+
+【语源】1. 1960s: representing a cockney pronunciation of bother
+
+
+
+————————————
+★☆☆   bovver boots◙ noun
+1. [Brit. informal] heavy laced boots extending to the mid-calf, typically worn by skinheads  • [英，非正式] （尤指街头光头仔斗殴时穿的）平头钉靴
+
+
+
+————————————
+★☆☆   Bow1. Clara (1905–65), American actress. One of the most popular stars and sex symbols of the 1920s, she was known as the ‘It Girl’  • 鲍，克拉拉（1905—1965，美国女演员。20世纪20年代最受欢迎的性感女演员，以“性感女孩”闻名）
+
+
+
+————————————
+★☆☆   bow
+ / bəu / n. / bau / vi., vt.bow¹
+◙ noun
+1. a knot tied with two loops and two loose ends, used especially for tying shoelaces and decorative ribbons  • 蝴蝶结，环状装饰结，蝶形领结
+ »a girl with long hair tied back in a bow.  长发用蝴蝶结束在脑后的女孩。
+  a decorative ribbon tied in such a knot  • 蝴蝶丝带
+2. a weapon for shooting arrows, typically made of a curved piece of wood joined at both ends by a taut string  • 弓
+3. a long, partially curved rod with horsehair stretched along its length, used for playing the violin and other stringed instruments  • 弦乐器的弓，琴弓
+  a single passage of such a rod over the strings  • （用琴弓拉的）一段（音乐）
+4. a thing that is bent or curved in shape, in particular  • 弯曲；弧状物，尤指
+  a curved stroke forming part of a letter (e.g. b, p)  • 字母的一弯
+  a metal ring forming the handle of a key or pair of scissors  • （钥匙、剪刀等的）金属环状柄，圆形拎环
+  [N. Amer.] a side piece or lens frame of a pair of glasses  • [北美] 眼镜架或框
+◙ verb
+1. [with obj.] play (a stringed instrument or music) using a bow  • 用弓拉（琴）
+
+【IDIOMS】◘ have (或 add) another string to one's bow
+1. [Brit.] have a further resource that one can make use of  • [英] 后备方案；第二手准备
+◘ have many strings to one's bow
+1. [Brit.] have a wide range of resources that one can make use of  • [英] 有两手准备
+
+【语源】1. Old English boga 'bend, bow, arch', of Germanic origin; related to Dutch boog and German Bogen, also to bowbow²
+◙ verb, [noobj.] 
+1. bend the head or upper part of the body as a sign of respect, greeting, or shame  • 鞠躬，欠身；下跪
+ »he turned and bowed to his father.  他转过身来向父亲鞠了一躬。
+ »they refused to bow down before the king.  他门拒绝向国王下跪。
+ »[with obj.] she knelt and bowed her head.  她跪下来并低下了头。
+  [with obj.] express (thanks, agreement, or other sentiments) by bending one's head respectfully  • 点头致意
+ »he looked at Hector before bowing grave thanks.  他看了看海克多，然后向他点头表达深深的谢意。
+  [with obj.] cause (something) to bend with age or under a heavy weight  • 压弯，压倒，使俯身
+ »the creepers were bowed down with flowers.  蔓草被花压弯了。
+  submit to pressure or someone's demands  • 屈服，让步
+ »the government has bowed to pressure from farmers to increase compensation.  政府向农场主们做了让步，为他们提供更多的补偿。
+  [with obj.andadverbial of direction] usher (someone) in a specified direction while bowing respectfully  • 鞠躬引领
+ »a gorgeously dressed footman bowed her into the hallway.  一个穿着华丽衣服的男仆弓着腰把她引进门厅。
+◙ noun
+1. an act of bending the head or upper body as a sign of respect or greeting  • 鞠躬，欠身，点头
+ »the man gave a little bow.  这个男人微微点了点头。
+
+【IDIOMS】◘ bow and scrape
+1. behave in an obsequious way to someone in authority  • 打躬作揖；奴颜婢膝
+◘ make one's bow
+1. make one's first formal appearance in a particular role  • 初次在公众前露面；首次亮相
+ »the midfielder only made his England bow nine months ago.  这个中场队员九个月前首次在英国亮相。
+◘ take a bow
+1. (of an actor or entertainer) acknowledge applause after a performance by bowing  • 鞠躬答礼，答谢；谢幕
+
+【语源】1. Old English būgan 'bend, stoop', of Germanic origin; related to German biegen, also to bow
+
+【PHR V】◘ bow out
+1. withdraw or retire from an activity, role, or commitment  • 退出（活动，职业）
+ »many artists are forced to bow out of the profession at a relatively early age.  许多艺术家在相当早的时候就被迫退出演艺圈。bow³
+◙ (also bows), noun
+1. the front end of a ship  • 船头，船首，艏
+ »water sprayed high over her bows.  水花高高地溅到船头上空。
+
+【IDIOMS】◘ on the bow
+1. [Nautical] within 45° of the point directly ahead  • [航海] 在船头前方45°范围内
+◘ a (warning) shot across the bows
+1. a statement or gesture intended to frighten someone into changing their course of action  • （意在恐吓某人使其改变行动步骤或方针的言语或姿态式的）警告
+ »supporters are firing a warning shot across the President's bows.  支持者们向总统发出警告。
+
+【语源】1. late Middle English : from Low German boog, Dutch boeg, 'shoulder or ship's bow'; related to bough
+
+
+
+————————————
+★☆☆   bow compass◙ (也作 bow compasses), noun
+1. a compass with jointed legs  • 弹簧圆规
+
+
+
+————————————
+★☆☆   bowdlerize
+ / ˈbaudləraiz /◙ (also -ise), verb
+1. [with obj.] remove material that is considered improper or offensive from (a text or account), especially with the result that the text becomes weaker or less effective  • 删节，删改（尤指删去书中不妥的地方后引起文章缺乏说服力）
+ »[as adj. bowdlerized] a bowdlerized version of the story.  该故事的删节本。
+
+【派生】♦ bowdlerism noun
+♦ bowdlerization noun
+
+【语源】1. mid 19th cent.: from the name of Thomas Bowdler (1754–1825), who published an expurgated edition of Shakespeare in 1818, + -ize
+
+
+
+————————————
+★☆☆   bowel
+ / ˈbauəl /◙ noun
+1. [常作 bowels] the part of the alimentary canal below the stomach; the intestine[as modifier]  • 肠
+  (the bowels of —)the deepest inner parts or areas of something  • 内部，深处
+ »the mineshaft descended deep into the bowels of the earth.  矿井向下延伸到地下很深的地方。
+
+【语源】1. Middle English : from Old French bouel, from Latin botellus, diminutive of botulus 'sausage'
+
+
+
+————————————
+★☆☆   bowel movement◙ noun
+1. an act of defecation  • 大便
+  the faeces discharged in an act of defecation  • 粪便
+
+
+
+————————————
+★☆☆   Bowen
+ / ˈbəʊɪn /1. əlizabeth əDorothea ɔole] (18ˌˌ–1ˌˌ3), ɑritish novelist and short-story writer, born in ɪreland.ŋotable novels: ðhe Death of the Heart (1ˌ38) and ðhe Heat of the Day (1ˌ4ˌ)  • 鲍恩，伊丽莎白（•多罗西女亚•科尔）（1899—1973，英国长篇与短篇小说作家，生于爱尔兰；代表作品: 《心之死》［1938］，《一天中最热的时候》［1949］）
+
+
+
+————————————
+★☆☆   bower
+ / ˈbaʊə /bower¹
+◙ noun
+1. a pleasant shady place under trees or climbing plants in a garden or wood  • 树荫处
+  (poetic/literary)a summer house or country cottage  • [诗/文] 避暑别墅，凉棚
+  (poetic/literary)a lady's private room or bedroom  • [诗/文] 卧室；闺房
+◙ verb
+1. [with obj.] (poetic/literary)shade or enclose (a place or person)  • [诗/文] 遮蔽，围绕
+ »[as adj. bowered] the bowered pathways into the tangle of vines.  通往蔓藤棚下的林荫小道。
+
+【语源】1. Old English būr 'dwelling, inner room', of Germanic origin; related to German Bauer 'birdcage'bower²
+◙ (也作 bower anchor), noun
+1. each of two anchors carried at a ship's bow, formerly distinguished as the best bower (starboard) or small bower (port)  • 船首锚
+
+【语源】1. late 15th cent.: from bow + -er
+
+
+
+————————————
+★☆☆   bowerbird
+ / ˈbauəbə:d /◙ noun
+1. a strong-billed Australasian bird, noted for the male's habit of constructing an elaborate run or bower adorned with feathers, shells, and other objects to attract the female for courtship  • 造园鸟，花亭鸟，园丁鸟
+2. Family Ptilonorhynchidae: several genera and species, especially the satin bowerbird [Ptilonorhynchus violaceus] , which decorates the bower with blue-coloured articles  • 园丁鸟科：数属及数种，尤指缎蓝园丁鸟（拉丁名Ｐtilonorhynchus violaceus），该鸟以蓝色物装饰花亭
+  [Austral. informal] a person who collects trivia or odds and ends  • [澳，非正式] 收集零星装饰物品的人
+
+
+
+————————————
+★☆☆   Bowery
+ / ˈbæʊəri /1. a street and district in ŋew York ɔity associated with drunks and vagrants  • 鲍厄里（纽约市的一个街区，到处都是醉鬼和流浪汉）
+
+【语源】1. mid 17th cent.: built on the site of governor Peter Stuyvesant's bowery 'farm', from Dutch bouwerij; the district became noted for its cheap lodging houses and saloons
+
+
+
+————————————
+★☆☆   bowfin
+ / ˈbəufin /◙ noun
+1. a predatory American freshwater fish with a large blunt head and a long dorsal fin. It is able to survive for long periods out of water  • 弓鳍鱼
+2. Amia calva, the only living member of the family Amiidae  • 拉丁名Amia calva，弓鳍鱼科现存的惟一成员
+
+【语源】1. late 19th cent.: from bow + fin
+
+
+
+————————————
+★☆☆   bow-fronted◙ adjective
+1. (of furniture) having a convexly curved front  • （家具）弧形的；圆凸面的
+
+【派生】♦ bow front noun & adjective
+
+
+
+
+————————————
+★☆☆   bowhead
+ / ˈbəuhed /◙ (也作 bowhead whale), noun
+1. an Arctic right whale with black skin, feeding by skimming the surface for plankton  • 北极露脊鲸。(亦称 Greenland right whale)
+2. Balaena mysticetus, family Balaenidae  • 拉丁名Balanena mysticetus，露脊鲸科
+
+【语源】1. late 19th cent.: from bow + head
+
+
+
+————————————
+★☆☆   bowhunting◙ noun
+1. [mass noun] [N. Amer.] the practice of hunting animals with a bow rather than a gun  • [北美] 弓箭狩猎
+
+【派生】♦ bowhunter noun
+
+
+
+
+————————————
+★☆☆   bowie
+ / ˈbəui /◙ (也作 bowie knife), (pl. -ies)
+1. a long knife with a blade double-edged at the point  • 鲍伊猎刀（刀尖部为双刃）
+
+【语源】1. mid 19th cent.: named after J. Bowie (see Bowie )
+
+
+
+————————————
+★☆☆   BowieBowie¹
+1. David (b.1947), English rock singer, songwriter, and actor; bornDavid Robert Jones.He is known for his theatrical performances and unconventional stage personae.Notable albums:Ziggy Stardust (1972) and Heroes (1977)  • 鲍伊，大卫（生于1947年，英国摇滚歌手、歌曲填词人、演员；出生名大卫•罗伯特•琼斯，以其戏剧性表演和非传统的舞台角色而闻名；代表专辑有：《齐格宇宙尘》[1972] 和《英雄》[1977] ）Bowie²
+1. Jim (1799–1836), American frontiersman; full nameJames Bowie.He shared command of the garrison that resisted the Mexican attack on the Alamo, where he died  • 鲍伊，吉姆（1799–1836，美国开拓者；全名詹姆斯•鲍维，曾参加指挥卫戍部队反击墨西哥人对阿拉莫进犯，后战死）
+
+
+
+————————————
+★☆☆   bowknot
+ / ˈbauˌnɔt /◙ noun
+1. a double-looped ornamental knot in a ribbon, tie, or other fastening  • （系带子、领带或其他东西时用的）蝴蝶结
+
+
+
+————————————
+★☆☆   bowl
+ / bəul /bowl¹
+◙ noun
+1. a round, deep dish or basin used for food or liquid  • 碗，钵
+ »a mixing bowl.  揉面钵。
+ »a sugar bowl.  糖钵。
+  the contents of such a container  • 一碗（或一钵）的容量；一碗（或一钵）所容纳的东西
+ »they ate huge bowls of steaming spaghetti.  他们吃了几大碗热腾腾的面条。
+  [usu. innames] a decorative round dish awarded as a prize in a competition  • 奖杯
+ »the McGeorge Rose Bowl.  麦卡乔治玫瑰杯。
+  a rounded, concave part of a object  • 某物的凹处
+ »a toilet bowl.  抽水马桶的桶身。
+ »the bowl of a spoon.  汤匙的舀物部分。
+  [Geography] a natural basin  • [地理] 盆地
+2. [innames] (chiefly US)a stadium for sporting or musical events  • [主美] 圆形剧场；圆形运动场
+ »the Hollywood Bowl.  好莱坞圆形剧场。
+  an American football game played after the regular season between leading teams[as modifier]  • （特邀优秀球队参加的）美国足球季后比赛
+
+【派生】♦ bowlful noun pl. -fuls
+
+【语源】1. Old English bolle, bolla, of Germanic origin; related to Dutch bol 'round object', also to bollbowl²
+◙ noun
+1. a wooden or hard rubber ball, slightly asymmetrical that it runs on a curved course, used in the game of bowls  • （草地滚木球戏中所用的重心略偏的）木球
+  a large ball with indents for gripping, used in tenpin bowling  • 保龄球
+  a wooden ball or disc used in playing skittles  • （撞柱戏中所用的）木球；圆盘
+2. a spell or turn of bowling in cricket  • （板球的）一轮
+◙ verb
+1. [with obj.andadverbial of direction] roll (a ball, hoop, or other round object) along the ground  • 滚（球，箍或其他圆形物）
+ »she snatched her hat off and bowled it ahead of her.  她一把揪下帽子将之往前滚去。
+2. [with obj.] [Cricket] (of a bowler) propel (the ball), typically with a smooth overarm action while running, from one end of the pitch to the other for the batsman to attempt to hit  • [板球] （投球员）投球（尤指投球员从球场的一端奔向另外一端的同时举手过肩投球给击球员）
+ »Lillee bowled another bouncer.  莉莉又投了一个球。
+ »[noobj.] Sobers bowled to Willis.  索波斯投了一个球给威利斯。
+  dismiss (a batsman) by knocking down the wicket with the ball which one has bowled  • （击中三门柱）迫使（击球员）退场
+ »Stewart was bowled for 33.  斯图亚特输３３分被迫退场。
+  (bowl a side out)get (an entire team) out  • 迫使对方全体退场
+ »they bowled Lancashire out for 143.  他们得１４３分迫使兰开夏队全体退场。
+3. [noobj., with adverbial of direction] move rapidly and smoothly in a specified direction  • （沿着特定方向）急速移动
+ »they bowled along the country roads.  他们在乡间大道上急速前进。
+
+【语源】1. late Middle English (in the general sense 'ball'): from Old French boule, from Latin bulla 'bubble'
+
+【PHR V】◘ bowl someone over
+1. knock someone down  • 击倒
+  (usu. be bowled over)[informal] completely overwhelm or astonish someone, for example by one's good qualities or looks  • [非正式] 使大吃一惊；使惊呆
+ »when he met Angela he was just bowled over by her.  遇到安吉拉时他都惊呆了。
+
+
+
+————————————
+★☆☆   bow legs◙ plural noun
+1. legs that curve outwards at the knee; bandy legs  • 膝内翻，弓形腿
+
+【派生】♦ bow-legged adjective
+
+
+
+
+————————————
+★☆☆   bowler
+ / ˈbəʊlə /bowler¹
+◙ noun
+1. [Cricket] a member of the fielding side who bowls or is bowling  • [板球] 投球手
+2. a player at bowls, tenpin bowling, or skittles  • 玩滚木球戏（或十柱滚木球戏或撞柱戏）的人bowler²
+◙ (也作 bowler hat), noun
+1. a man's hard felt hat with a round dome-shaped crown  • 常礼帽，圆顶高帽
+
+【语源】1. mid 19th cent.: named after William Bowler, the English hatter who designed it in 1850
+
+
+
+————————————
+★☆☆   Bowles
+ / bəʊlz /1. Paul əʃrederick] (b. 1ˌ10), æmerican writer and composer.His novels, which include ðhe Sheltering Sky (1ˌ4ˌ)and ðhe Spider's House (1ˌ66), typically concern westerners in the ærab world  • 鲍尔斯，保罗（•弗雷德里克）（生于1910年，美国作家和作曲家，他的小说往往讲述生活在阿拉伯国家的西方人的故事，如：《遮蔽的天空》［1949］和《蜘蛛屋》［1966］）
+
+
+
+————————————
+★☆☆   bowline
+ / ˈbəulin /◙ noun
+1. a rope attaching the weather side of a square sail to a ship's bow  • 张帆索
+2. a simple knot for forming a non-slipping loop at the end of a rope  • 单套结（拉紧时不会脱滑的单结）
+
+【语源】1. Middle English : from Middle Low German bōline, Middle Dutch boechlijne, from boeg 'ship's bow' + lijne 'line'
+
+
+
+————————————
+★☆☆   bowling
+ / ˈbəuliŋ /◙ noun, [mass noun] 
+1. the game of bowls as a sport or recreation  • 地滚球（或保龄球）戏（或运动）
+  the game of tenpin bowling  • 十柱滚木球戏
+  the game of skittles  • 撞柱戏
+2. [Cricket] the action of a bowler in sending down balls towards the batsman's wicket  • [板球] （投球手给击球手的）投球
+ »fast bowling.  快投。
+  the strength or resources of the bowlers in a cricket team  • （板球队）投球手的力量（或谋略）
+ »on paper their bowling looks thin.  从书面材料上看，他们的投球谋略尚嫌浅薄。
+
+
+
+————————————
+★☆☆   bowling alley◙ noun
+1. a long narrow track along which balls are rolled in the games of skittles or tenpin bowling  • 撞柱戏（或十柱滚木球戏）球道，滚球槽
+  a building containing such tracks  • 地滚球戏（或撞柱戏等的）球场
+
+
+
+————————————
+★☆☆   bowling average◙ noun
+1. [Cricket] the number of runs conceded by a bowler per wicket taken  • [板球] 投球手得分率
+
+
+
+————————————
+★☆☆   bowling crease◙ noun
+1. [Cricket] the line from behind which a bowler delivers the ball  • [板球] 投球线
+
+
+
+————————————
+★☆☆   bowling green◙ noun
+1. an area of closely mown grass on which the game of bowls is played  • 草地滚木球场
+
+
+
+————————————
+★☆☆   bowling rink◙ noun
+--› see rink 
+
+
+
+————————————
+★☆☆   bowls
+ / bəʊlz /◙ plural noun
+1. [treated as sing.] a game played with heavy wooden bowls, the object of which is to propel one's bowl so that it comes to rest as close as possible to a previously bowled small white ball (the jack) without touching it. Bowls is played chiefly out of doors (though indoor bowls is also popular) on a closely trimmed lawn called a green  • 草地滚木球戏
+  [Brit.] tenpin bowling or skittles  • [英] 十柱滚木球戏（或撞柱戏）
+2. Bowls is one of the oldest games known in Britain, being first recorded in the late 13th century; it is popularly associated with the story of Sir Francis Drake refusing to allow the sighting of the Spanish Armada to interrupt his game of bowls. An intentional imbalance or bias of balls was introduced in the 16th century, greatly increasing the tactical scope of the game by allowing balls to run in curved paths round obstructions. The modern rules for bowls were drawn up in the mid 19th century
+
+
+
+————————————
+★☆☆   bowman
+ / ˈbaumən /bowman¹
+◙ (pl. -men)
+1. an archer  • 射手，弓箭手bowman²
+◙ (pl. -men)
+1. the rower who sits nearest the bow of a boat, especially a racing boat  • （尤指赛舟中位于船首的）划船队员；头桨手
+
+
+
+————————————
+★☆☆   bowsaw
+ / ˈbəusɔ: /◙ noun
+1. a saw with a narrow blade stretched like a bowstring on a light frame  • 弓锯
+
+
+
+————————————
+★☆☆   bowser
+ / ˈbauzə /◙ noun
+1. (trademark)a tanker used for fuelling aircraft and other vehicles or for supplying water  • [商标] （为飞机等其他运输工具加油或供水的）加油车；供水车
+  [Austral./NZ] a petrol pump  • [澳/新西兰] 加油泵
+
+【语源】1. 1920s: from the name of a company of oil storage engineers
+
+
+
+————————————
+★☆☆   bowshot
+ / ˈbəuʃɔt /◙ noun
+1. [insing.] the distance to which a bow can send an arrow  • 箭的射程，一箭之遥
+ »the two armies camped almost within bowshot of each other.  两支军队的营地相距仅一箭之遥。
+
+
+
+————————————
+★☆☆   bowsie
+ / ˈbæʊzi: /◙ (pl. -ies)
+1. [Irish] a low-class or unruly person  • [爱尔兰] 下等人；不法之徒
+
+【语源】1. of unknown origin
+
+
+
+————————————
+★☆☆   bowsprit
+ / ˈbəusprit /◙ noun
+1. a spar running out from a ship's bow, to which the forestays are fastened  • 船首斜桁
+
+【语源】1. Middle English : from Middle Low German bōgsprēt, Middle Dutch boechspriet, from boech 'bow' + spriet 'sprit'
+
+
+
+————————————
+★☆☆   Bow Street Runner
+ / ˈbəʊ /◙ noun
+1. the popular name for a London policeman during the first half of the 19th century  • 伦敦警察（19世纪上半叶的流行语）
+
+【语源】1. named after Bow Street in London, site of the chief metropolitan magistrates' court
+
+
+
+————————————
+★☆☆   bowstring
+ / ˈbəustriŋ /◙ noun
+1. the string of an archer's bow, traditionally made of three strands of hemp  • （尤指用三根麻线制成的）弓弦
+◙ (pastandpast participle -strung)
+1. [with obj.] (historical)strangle with bowstring (a former Turkish method of execution)  • [史] （用弓弦）勒死（土耳其人旧时使用的一种处决犯人的方法）
+
+
+
+————————————
+★☆☆   bow tie◙ noun
+1. a necktie in the form of a bow or a knot with two loops  • 蝶形领结
+  a pattern used for patchwork quilts, resembling such a necktie  • 百衲被上的蝶形领结图案
+ »[as modifier] a bow-tie quilt.  一条蝶形图案百衲被。
+
+
+
+————————————
+★☆☆   bow wave◙ noun
+1. a wave or system waves set up at the bows of a moving ship  • （船航行时）船首两侧的浪花
+
+
+
+————————————
+★☆☆   bow window◙ noun
+1. a curved bay window  • 凸肚窗，圆肚窗
+
+
+
+————————————
+★☆☆   bow-wow◙ exclamation
+1. an imitation of a dog's bark  • 模仿的狗叫声，汪汪的叫声
+◙ noun
+1. [informal] a child's word for a dog  • [非正式] （儿童用语）狗
+
+
+
+————————————
+★☆☆   bowyang
+ / ˈbəujæŋ /◙ noun
+1. [Austral./NZ] a band or strap worn round the trouser leg below the knee  • [澳/新西兰] 扎裤脚的带子
+
+【语源】1. late 19th cent.: from British dialect bow-yanks, bow-yankees 'leather leggings', of unknown origin
+
+
+
+————————————
+★☆☆   bowyer
+ / ˈbəujə /◙ noun
+1. a person who makes or sells archers' bows  • 制造（或贩卖）弓的人
+
+
+
+————————————
+★☆☆   box
+ / bɔks /box¹
+◙ noun
+1. a container with a flat base and sides, typically square or rectangular and having a lid  • （多指正方形或长方形有盖子的）箱，盒，匣
+ »a cigarette box.  香烟盒。
+ »a hat box.  帽匣。
+  the contents of such a container  • 一箱（盒或匣的）容量
+ »she ate a whole box of chocolates that night.  那晚她吃了整整一盒巧克力。
+  (the box)(informal, chiefly Brit.)television or a television set  • [非正式， 主英] 电视（或电视接收机）
+ »light entertainment shows on the box.  轻松娱乐的电视节目。
+ »we sat around the box watching the match.  我们坐在电视机前，观看比赛。
+  [informal] a casing containing a computer  • [非正式] 电脑外壳
+  [informal] a coffin  • [非正式] 棺材
+ »I always thought I'd be in a box when I finally left here.  那时我常想，只有等我死了才会离开这个地方。
+  (historical)a coachman's seat  • [史] （马车的）驭者座
+  (vulgar slang, chiefly N. Amer.)a woman's vagina  • [粗俚， 主北美] （女人的）阴道
+2. an area or space enclosed within straight lines, in particular  • 方框，方格，尤指
+  an area on a page that is to be filled in or that contains separate printed matter  • 空格（或加框文字）
+ »tick the box on the coupon.  在订货单的方框里打钩。
+  an area on a computer screen for user input or displaying information  • 电脑屏幕上的用户输入区（或信息显示区）
+  a box junction  • （遇红灯时车辆不得驶入的）路口方形黄线区
+  (the box)[Soccer] the penalty area  • [英足] 罚球区
+  (the box)[Baseball] the area occupied by the batter  • [棒球] （击球手所在的）区
+3. a small structure or building for a specific purpose, in particular  • 专用区，尤指
+  a separate section or enclosed area within a larger building, especially one reserved for a group of people in a theatre or sports ground or for witnesses or the jury in a law court  • （戏院或运动场等处的）包厢；（法庭内的）证人席，陪审员席
+ »the royal box.  皇室包厢。
+  [Brit.] a small country house for use when shooting or fishing  • [英] （狩猎或捕鱼时住的）乡间小屋
+4. a protective casing for a piece of a mechanism  • 机器护箱
+  [informal] . short for gearbox  • [非正式] gearbox 的简称
+  [Brit.] a light shield for protecting a man's genitals in sport, especially in cricket  • [英] （尤指板球运动员使用的）下体护身
+5. a facility at a newspaper office for receiving replies to an advertisement  • （报社内所设的）应征应聘来函信箱
+ »write to me care of Box 112.  来信请寄112信箱转。
+  a facility at a post office whereby letters are kept until called for by the addressee  • （用户从邮局租用的）个人专用信箱
+◙ verb, [with obj.] 
+1. [常作adj. boxed] put in or provide with a box  • 装入…箱（或盒等）；把…置于箱（或盒等）内
+ »the books are sold as a boxed set.  这些书是连盒成套出售的。
+ »Muriel boxed up all Christopher's clothes.  穆里尔把克里斯托弗所有的衣服都装进箱子里了。
+  enclose (a piece of text) within printed lines  • 加框于，加花边于
+ »boxed sections in magazines.  杂志上的花边文章。
+  (box someone in)restrict the ability of (someone) to move freely  • 堵住，困住
+ »a van had double-parked alongside her car and totally boxed her in.  一辆货车双行停在她的汽车旁，将她困住。
+2. (box sheep up)[Austral./NZ] mix up different flocks  • [澳/新西兰] （非同群牲畜）混杂，混群
+
+【IDIOMS】◘ be a box of birds
+1. [Austral./NZ informal] be fine; be happy  • [澳/新西兰，非正式] 旺盛的士气；快乐
+◘ box of tricks
+1. [informal] an ingenious gadget  • [非正式] 精巧的装置
+ »all those magical effects were produced by this little box of tricks here.  所有这些魔术效应都是通过这个小玩意儿搞出来的。
+◘ out of the box
+1. [Austral./NZ informal] unusually good. (see bandbox )  • [澳/新西兰，非正式] 非常好
+ »the novel is nothing out of the box.  这本小说并不出色。
+◘ out of one's box
+1. [Brit. informal] intoxicated with alcohol or drugs  • [英，非正式] 喝醉的；（因酒精或毒品的作用而）兴奋的
+◘ think outside the box
+1. [informal] have ideas that are original, creative, or innovative  • [非正式] 创造性地思考；富有革新精神地思考；不受条条框框束缚地思考
+
+【派生】♦ boxful noun pl. -fuls
+♦ box-like adjective
+
+【语源】1. late Old English , probably from late Latin buxis, from Latin pyxis 'boxwood box', from Greek puxos (see box )box²
+◙ verb
+1. [with obj.] fight an opponent using one's fists; compete in the sport of boxing  • 与…斗拳；与…进行拳击比赛
+ »he boxed for England.  他为英格兰队参加拳击比赛。
+ »[with obj.] he had to box Benn for the title.  他不得不与本争夺拳击比赛冠军。
+◙ noun
+1. [insing.] a slap with the hand on the side of a person's head given as a punishment or in anger  • 耳光
+ »she gave him a box on the ear.  她打了他一耳光。
+
+【IDIOMS】◘ box clever
+1. [Brit. informal] act so as to outwit someone  • [英，非正式] 瞒骗；智胜
+ »she had to box clever, let Adam think she had accepted what he said.  她不得不耍个花招，让亚当相信她已经接受了他的观点。
+◘ box someone's ears
+1. slap someone on the side of the head as a punishment or in anger  • 打某人耳光
+
+【语源】1. late Middle English (in the general sense 'a blow'): of unknown originbox³
+◙ noun
+1. (也作 box tree)a slow-growing European evergreen shrub or small tree with small glossy dark green leaves. It is widely used in hedging and for topiary, and yields hard, heavy timber  • 黄杨属植物，锦熟黄杨
+2. Buxus sempervirens, family Buxaceae  • 拉丁名Buxus sempervirens，黄杨科
+3. any of a number of trees which have similar timber or foliage, in particular  • 木材或树叶相似的树，尤指
+4. several Australian eucalyptus trees (genus Eucalyptus, family Myrtaceae) the tropical American Venezuelan or West Indian box [Casearia praecox, family Flacourtiaceae] , the timber of which has now largely replaced that of the European box  • 澳大利亚桉树（桉属，桃金娘科） 南美委内瑞拉或西印度群岛的早生脚骨脆（拉丁名Casearia praecox，大风子科），早生脚骨脆木材已大量替代欧洲黄杨木
+
+【语源】1. Old English , via Latin from Greek puxosbox4
+◙ verb, [用于短语 box the compass] (chiefly Nautical)[主航海] 
+1. recite the compass points in correct order  • 依次列举罗盘方位
+2. make a complete change of direction  • 彻底改变方向
+
+【语源】1. mid 18th cent.: perhaps from Spanish bojar 'sail round', from Middle Low German bōgen 'bend', from the base of bow
+
+
+
+————————————
+★☆☆   Box and Cox[Brit.] [英] 
+◙ noun
+1. [often as modifier] used to refer to an arrangement whereby people or things make use of the same accommodation or facilities at different times, according to a strict arrangement  • （根据严格安排）轮流使用（住所或设备）
+◙ verb
+1. [noobj.] share accommodation or facilities by a strictly timed arrangement  • 轮流使用（住所或设备）
+
+【语源】1. the title of a play (1847) by J. M. Morton, in which two characters, John Box and James Cox, unknowingly become tenants of the same room
+
+
+
+————————————
+★☆☆   box-and-whisker plot◙ noun
+1. another term for box plot  • 同 box plot 
+
+
+
+————————————
+★☆☆   box beam◙ noun
+1. another term for box girder  • 同 box girder 
+
+
+
+————————————
+★☆☆   boxboard
+ / ˈbɔksbɔ:d /◙ noun
+1. [mass noun] a type of stiff cardboard used to make boxes  • （制箱、盒用的）硬纸板
+
+
+
+————————————
+★☆☆   box camera◙ noun
+1. a simple box-shaped hand camera  • （结构简单的）方镜箱照相机
+
+
+
+————————————
+★☆☆   box canyon◙ noun
+1. [N. Amer.] a narrow canyon with a flat bottom and vertical walls  • [北美] （底部平坦、山壁陡峭的）峡谷
+
+
+
+————————————
+★☆☆   boxcar
+ / ˈbɔksˌkɑ: /◙ noun
+1. [N. Amer.] an enclosed railway freight wagon, typically with sliding doors on the sides  • [北美] 铁路上用的棚车，货车车厢（多指两边有滑门的那种）
+
+
+
+————————————
+★☆☆   box elder◙ noun
+1. an American maplewith leaves that resemble those of the elder and green or purplish twigs  • 梣叶槭
+2. Acer negundo, family Aceraceae  • 拉丁名Acer negundo，槭树科
+
+
+
+————————————
+★☆☆   Boxer◙ noun
+1. a member of a fiercely nationalistic Chinese secret society which flourished in the 19th century. In 1899 the society led a Chinese uprising against Western domination which was eventually crushed by a combined European force, aided by Japan and the US  • 义和团团员（义和团兴起于19世纪，是当时中国具有强烈民族主义色彩的秘密社团；1899年举行反西方势力统治的斗争，最终被欧洲联军在日本和美国的帮助下所镇压）
+
+【语源】1. from boxer,translating Chinese yì hé quán, literally 'righteous harmony fists'
+
+
+
+————————————
+★☆☆   boxer◙ noun
+1. a person who takes part in boxing, especially for sport  • 拳击运动员，拳师
+2. medium-sized dog of a breed with a smooth brown coat and pug-like face  • 斗拳狗
+
+
+
+————————————
+★☆☆   boxercise◙ noun
+1. [mass noun] (trademark)a form of exercise based on boxing training and using boxing equipment  • [商标] 健身拳击
+
+【语源】1. 1980s: blend of boxerand exercise
+
+
+
+————————————
+★☆☆   boxer shorts◙ plural noun
+1. men's loose underpants similar in shape to the shorts worn by boxers  • 拳击裤；平脚短裤
+
+
+
+————————————
+★☆☆   boxfish
+ / ˈbɔksˌfɪʃ /◙ [复同单，或 -fishes] 
+1. a tropical marine fish that has a shell of bony plates enclosing the body, from which spines project  • 箱鲀鱼。(亦称 trunkfish)
+2. Family Ostraciontidae: numerous species, including the widely distributed Tetrosomus gibbosus  • 箱鲀科：众多种，包括分布广泛的驼背三棱箱鲀
+
+
+
+————————————
+★☆☆   box girder◙ noun
+1. a hollow girder square in cross section  • 箱形梁
+
+
+
+————————————
+★☆☆   Boxgrove man◙ noun
+1. a fossil hominid of the Middle Pleistocene period, whose fragmentary remains were found at Boxgrove near Chichester, SE England, in 1993 and 1995. Dated (controversially) to about 500,000 years ago, it is one of the earliest known humans in Europe  • 博克斯格罗甫人（中更新世时期的人类化石，1993年和1995年在英格兰东南部奇切斯特市附近的博克斯格罗甫发现了这种化石的碎片，其历史可追溯到５０万年前［尚有争议］，是目前所知的最早的欧洲人类之一）
+2. Homo heidelbergensis (or H. erectus), family Hominidae  • 拉丁名Homo heidelbergensis（或H. erectus），人科
+
+
+
+————————————
+★☆☆   boxing
+ / ˈbɔksɪŋ /◙ noun
+1. the sport or practice of fighting with the fists, especially with padded gloves in a roped square ring according to prescribed rules (known as the Queensberry Rules after the Marquess of Queenberry, who codified them in 1885)  • 拳击运动（尤指戴着拳击手套遵循约定的规则在绳圈的方形台上进行的拳击比赛，该规则是昆斯伯里侯爵于1885年制定的并以其称号命名）
+
+
+
+————————————
+★☆☆   Boxing Day◙ noun
+1. (in parts of the Commonwealth) a public holiday celebrated on the first day (strictly, the first weekday) after Christmas Day  • 节礼日（部分英联邦国家的法定假日，在圣诞节的次日，如遇周末则往后推迟一日）
+
+【语源】1. mid 19th cent.: from the custom of giving tradespeople a Christmas box on this day
+
+
+
+————————————
+★☆☆   boxing glove◙ noun
+1. a heavily padded mitten worn in boxing  • 拳击手套
+
+
+
+————————————
+★☆☆   boxing weight◙ noun
+1. each of a series of fixed weight ranges at which boxers are matched  • （根据运动员体重划分的）拳击等级
+2. The Olympic amateur scale is as follows: light flyweight, flyweight, bantamweight, featherweight, lightweight, light welterweight, welterweight, light middleweight, middleweight, light heavyweight, heavyweight, superheavyweight. The weights and divisions are modified in professional boxing
+
+
+
+————————————
+★☆☆   box jelly◙ noun
+1. a jellyfish with a box-shaped swimming bell, living in warm seas  • 立方水母，海蜇。 亦见 sea wasp
+2. Class Cubozoa (formerly order Cubomedusae)  • 立方水母纲（原称立方水母目）
+
+
+
+————————————
+★☆☆   box junction◙ noun
+1. [Brit.] a road area at a junction marked with a yellow grid, which a vehicle should enter only if its exit from it is clear  • [英] （遇红灯时车辆不得驶入的）路口方形黄线区域
+
+
+
+————————————
+★☆☆   box kite◙ noun
+1. a tailless kite in the form of a long box open at each end  • 箱形风筝
+
+
+
+————————————
+★☆☆   box number◙ noun
+1. a number identifying a private advertisement in a newspaper and functioning as an address for replies  • 信箱号码
+
+
+
+————————————
+★☆☆   box office◙ noun
+1. a place at a theatre, cinema, or other arts establishment where tickets are bought or reserved  • （戏院或电影院等的）票房，售票处
+  [insing.] used to refer to the commercial success of a film, play, or actor in terms of the audience size or takings they command  • 受欢迎；叫座
+ »[as modifier] the movie was a huge box office hit.  这部电影很叫座。
+
+
+
+————————————
+★☆☆   boxout◙ noun
+1. a piece of text written to accompany a larger text and printed in a separate area of the page  • 陪文（正文的附带文本，印在同一页的另一部分）
+
+
+
+————————————
+★☆☆   box pew◙ noun
+1. an old-fashioned church pew enclosed by wooden partitions  • 礼拜堂的厢座
+
+
+
+————————————
+★☆☆   box pleat◙ noun
+1. a pleat consisting of two parallel creases facing opposite directions and forming a raised band  • 箱形褶裥
+
+
+
+————————————
+★☆☆   box plot◙ (也作 box-and-whisker plot), noun
+1. [Statistics] a simple way of representing statistical data on a plot in which a rectangle drawn to represent the second and third quartiles, usually with a vertical line inside to indicate the median value. The lower and upper quartiles are shown as horizontal lines either side of the rectangle  • [统计] 箱形图
+
+
+
+————————————
+★☆☆   box room◙ noun
+1. [Brit.] a very small room used for storage or as a bedroom  • [英] 小储藏室；小卧室
+
+
+
+————————————
+★☆☆   box score◙ noun
+1. [N. Amer.] the tabulated results of a baseball game or other sporting event, with statistics given for each player's performance  • [北美] （棒球比赛等的）个人得分记录表
+
+
+
+————————————
+★☆☆   box seat◙ noun
+1. a seat in a box in a theatre or sports stadium  • （戏院或运动场的）包厢座位
+2. (historical)a coachman's seat  • [史] （马车上的）驭者座
+
+【IDIOMS】◘ in the box seat
+1. [Austral./NZ] in an advantageous position  • [澳/新西兰 ] 处于有利位置
+
+
+
+————————————
+★☆☆   box-shifter◙ noun
+1. [informal] a retail company which aims to maximize sales with little regard for quality or customer care  • [非正式] （不考虑商品质量和顾客意愿，一味追求销售额最大化的）零售公司
+
+
+
+————————————
+★☆☆   box spanner◙ noun
+1. [Brit.] a cylindrical spanner with a hexagonal end fitting over the head of a nut  • [英] 套筒扳手
+
+
+
+————————————
+★☆☆   box spring◙ noun
+1. each of a set of vertical springs housed in a frame in a mattress or upholstered chair base  • 床垫弹簧，沙发弹簧
+
+
+
+————————————
+★☆☆   boxthorn
+ / ˈbɔksθɔ:n /◙ noun
+1. a thorny shrub of warm-temperate regions, which bears red berries. Some kinds are used for hedging  • 枸杞。 [参见 tea tree 义项2] 
+2. Genus Lycium, family Solanaceae: several species  • 茄科，枸杞属：数种 [参见 tea tree 义项2] 
+
+
+
+————————————
+★☆☆   box turtle◙ noun
+1. a land-living turtle which has a lower shell with hinged lobes that can be drawn up tightly to enclose the animal. It is native to North America and Mexico and is commonly kept as a pet in the US  • 箱龟（一种陆地龟，生于北美和墨西哥，美国人常常将其作为宠物）
+2. Genus Terrapene, family Emydidae: several species  • 箱龟属，龟科：数种
+
+
+
+————————————
+★☆☆   boxty
+ / ˈbɔksti /◙ (也作 boxty bread), noun
+1. [mass noun] a type of bread made using grated raw potatoes and flour, originally in Ireland  • （爱尔兰用磨碎的生马铃薯和面粉制成的）马铃薯面包
+
+【语源】1. from Irish bacstai
+
+
+
+————————————
+★☆☆   boxy
+ / ˈbɔksi /◙ (boxier, boxiest)
+1. squarish in shape  • 四四方方的；宽松直统的
+ »a boxy jacket.  宽松的夹克。
+  (of a room or space) cramped  • （房间或空间）狭促的
+  (of recorded sound) restricted in tone  • （录音）音色不丰满的，闷在箱子里似的
+
+
+
+————————————
+★☆☆   boy
+ / bɔi /◙ noun
+1. a male child or youth  • 男孩，男青年
+  a person's son  • 儿子
+ »she put her little boy to bed.  她把年幼的儿子放到床上。
+  [with modifier] a male child or young man who does a specified job  • （做某项差使的）男孩（或男青年）
+ »a delivery boy.  男送货员。
+2. [usu. with adj.] a man, especially a young or relatively young one  • （尤指年轻或比较年轻的）男人
+ »the inspector was a local boy.  检验员是一位当地小伙儿。
+ »I was the new boy at the office.  我是办公室新来的男孩。
+  (boys)[informal] men who mix socially or who belong to a particular group, team, or profession  • [非正式] （指同属一个团队或有共同职业的）一群男人
+ »he wants to stay one of the boys.  他想留住这些男人中的一个。
+ » our boys have finished bombing.  士兵们已经完成了轰炸任务。
+  [dated] used as a friendly form of address from one man to another, often from an older man to a young man  • [旧] （男性之间的称呼，通常是年长称呼年幼者）小伙子
+ » my dear boy, don't say another word!.  小伙子，什么都别说了！。
+  (dated, offensive)(often used as a form of address) a black male servant or worker  • [旧，冒犯] （常为白人对非白人仆役的称呼）男仆，男佣；侍者，服务员
+  used as a form of address to a male dog  • （对公狗的称呼）伙计
+ »down boy, down!.  下来，伙计！。
+◙ exclamation
+1. [informal] used to express strong feelings, especially of excitement or admiration  • [非正式] （用于表示强烈的感情，尤用于表示激动或赞赏）好家伙
+ »oh boy, that's wonderful!.  好家伙，太妙了！。
+
+【IDIOMS】◘ boys in blue
+1. [informal] policemen; the police  • [非正式] 警察
+◘ boys will be boys
+1. used to express the view that mischievous or childish behaviour is typical of boys or young men and should not cause surprise when it occurs  • 孩子总是孩子嘛！（意为男孩子难免要淘气，不足为怪）
+◘ the big boys
+1. men or organizations considered to be the most powerful and successful  • 大人物（或大机构）
+
+【派生】♦ boyhood noun
+
+【语源】1. Middle English (denoting a male servant): of unknown origin
+
+
+
+————————————
+★☆☆   boyar
+ / bəuˈjɑ: /◙ noun
+1. (historical)a member of the old aristocracy in Russia, next in rank to a prince  • [史] 波雅尔（沙俄一贵族阶层成员，地位仅次于王公）
+
+【语源】1. late 16th cent.: from Russian boyarin 'grandee'
+
+
+
+————————————
+★☆☆   boy band◙ (或 girl band), noun
+1. a pop group composed of attractive young men (or young women), whose music and image are designed to appeal primarily to a young teenage audience  • （流行音乐）少男（或少女）组合
+
+
+
+————————————
+★☆☆   Boyce1. William (1711–79), English composer and organist. His compositions include songs, overtures,and eight symphonies; one of his most famous songs is‘Hearts of Oak’. He is also noted for his Cathedral Music (1760–73)  • 博伊斯，威廉（1711–1779，英国作曲家和风琴师，作品包括歌曲、序曲和八首交响曲；最著名的歌曲作品有《勇敢者》；他的《教堂音乐》［1760–1773］也很有名）
+
+
+
+————————————
+★☆☆   boycott
+ / ˈbɔikɔt /◙ verb
+1. [with obj.] withdraw from commercial or social relations with (a country, organization, or person) as a punishment or protest  • 抵制（国家，组织或个人）
+  refuse to buy or handle (goods) as a punishment or protest  • 拒绝购买（或经销）（商品）
+  refuse to cooperate with or participate in (a policy or event)  • 拒绝合作（或参与）（某一政策或事件）
+◙ noun
+1. a punitive ban on relations with other bodies, cooperation with a policy, or the handling of goods  • 抵制（不准与其他机构发生任何关系、不准就某一政策进行磋商或合作、不准经销某种商品的报复性禁令）
+
+【语源】1. from the name of Captain Charles C. Boycott (1832–97), an Irish land agent so treated in 1880, in an attempt instigated by the Irish Land League to get rents reduced
+
+
+
+————————————
+★☆☆   Boycott1. Geoffrey (b.1940), English cricketer. He was an opening batsman for England, and was captain of Yorkshire 1971–5  • 包伊克特，杰弗里（生于1940年，英国板球运动员，英格兰队开场击球手，1971–1975期间任约克郡队队长）
+
+
+
+————————————
+★☆☆   Boyd
+ / bɔid /1. ærthur əMerric ɑloomfield] (b.1ˌ20), æustralian painter, potter, etcher, and ceramic artist. He is famous for his large ceramic sculptures and for his pictures inspired by his travels among æboriginals  • 博伊德，阿瑟（•梅里克•布卢姆菲尔德）（生于1920年，澳大利亚画家、制陶师、蚀刻师和陶瓷艺术家，因其巨大的陶瓷雕像和在土著居住区旅行后创作的画幅而闻名）
+
+
+
+————————————
+★☆☆   Boyer
+ / ˈbɔɪeɪ /1. ɔharles (18ˌˌ–1ˌˌˌ), ʃrench-born æmerican actor. ɑefore going to Hollywood in the 1ˌ30s he enjoyed a successful stage career in ʃrance. ŋotable films: Mayerling (1ˌ36), Gaslight (1ˌ44), and ɑarefoot in the Park (1ˌ68)  • 布瓦耶，查尔斯（1897—1977，法国出生的美国演员，20世纪30年代去美国好莱坞发展之前他在法国的演艺事业就已相当成功；著名影片有《梅耶林》［1936］：《煤气灯下》［1944］和《赤脚游园记》［1968］）
+
+
+
+————————————
+★☆☆   boyfriend
+ / ˈbɔɪˌfrend /◙ noun
+1. a person's regular male companion with whom they have a romantic or sexual relationship  • 男朋友
+
+
+
+————————————
+★☆☆   boyish
+ / ˈbɔɪɪʃ /◙ adjective
+1. of, like, or characteristic of a male child or young man  • 男孩（似）的；孩子气的
+ »his boyish charm.  他那男孩般的魅力。
+ »she looked boyish and defiant.  她看起来像男孩，而且很倔强。
+
+【派生】♦ boyishly adverb
+♦ boyishness noun
+
+
+
+
+————————————
+★☆☆   boyla
+ / ˈbɔilə /◙ noun
+1. [Austral.] an Aboriginal witch doctor  • [澳] 土著巫医
+
+【语源】1. from Nyungar bolya
+
+
+
+————————————
+★☆☆   Boyle
+ / bɔil /1. ɔobert (162ˌ–ˌ1), ɪrish-born scientist.ɑoyle advanced a corpuscular view of matter which was a precursor of the modern theory of chemical elements and a cornerstone of his mechanical philosophy which became very influential. He is best known for his experiments with the air pump,which led to the law named after him  • 玻意耳，罗伯特（1627—1691，生于爱尔兰的科学家，提出了关于物质的微粒观念，是现代化学元素理论的先驱，因其所作的关于空气泵的实验而出名，在该实验的基础上得出了玻意耳定律）
+
+
+
+————————————
+★☆☆   Boyle's law1. [Chemistry] a law stating that the pressure of a given mass of an ideal gas is inversely proportional to its volume at a constant temperature  • [化] 玻意耳定律
+
+
+
+————————————
+★☆☆   Boyne, Battle of the
+ / bɔɪn /1. a battle fought near the ɔiver ɑoyne in ɪreland in 16ˌ0, in which the Protestant army of θilliam of Orange, the newly crowned θilliam ɪɪɪ, defeated the ɔatholic army (including troops from both ʃrance and ɪreland) led by the recently deposed ʊames ɪɪ. ðhe battle is celebrated annually (on 12 ʊuly) in ŋorthern ɪreland as a victory for the Protestant cause  • 博因河战役（1690年发生在爱尔兰博因河畔的战役，在该战役中英国国王威廉三世率领新教军队打败了前国王詹姆士二世；北爱尔兰每年七月十二日都要庆祝博因河战役的胜利，认为这是新教的胜利）
+
+
+
+————————————
+★☆☆   boyo◙ (pl. -os)
+1. [Welsh & Irish informal] a boy or man (used chiefly as a form of address)  • [威尔士， 爱尔兰，非正式] 小伙子，男孩；男人，家伙
+
+
+
+————————————
+★☆☆   boy racer◙ noun
+1. [informal] a youth or young man fond of driving very fast and aggressively in high-powered cars  • [非正式] 青年男性飙车者
+
+
+
+————————————
+★☆☆   Boys' Brigade1. the oldest of the national organizations for boys in Britain, founded in 1883 with the aim of promoting ‘Christian manliness’ , discipline, and self-respect. Companies are now also found in the US and in Commonwealth countries; each is connected with a church  • 少年大队（1883年创建的英国男童组织，旨在加强“基督徒的刚强果敢精神”、纪律性和自尊心；现在美国和英联邦国家也有这样的组织，每个组织都和一个教会团体挂钩）
+
+
+
+————————————
+★☆☆   Boy Scout◙ noun
+1. old-fashioned term for scout (in sense 2)  • [旧] 同 scout [义项 2] 
+
+
+
+————————————
+★☆☆   boysenberry
+ / ˈbɔisnbəri /◙ (pl. -ies)
+1. a large red edible blackberry-like fruit  • 博伊森莓果
+2. the shrubby plant that bears this fruit, which is a hybrid of several kinds of bramble  • 博伊森树莓，罗苷莓
+3. Rubus loganobaccus, family Rosaceae  • 拉丁名Rubus loganobaccus，悬钩子属浆果，蔷薇科
+
+【语源】1. 1930s: named after Robert Boysen (died 1950), the American horticulturalist who developed it
+
+
+
+————————————
+★☆☆   boy toy◙ noun
+1. (informal, derogatory)a young woman considered sexually attractive to young men  • [非正式，贬] 男性的玩偶（被认为对年轻男子有性吸引力的年轻女子）
+  a young man considered sexually attractive to women  • 男玩偶（被认为对女性有性吸引力的年轻男子）
+
+【语源】1. 1980s: inversion of toy boy
+
+
+
+————————————
+★☆☆   boy wonder◙ noun
+1. an exceptionally talented young man or boy  • 神童
+
+
+
+————————————
+★☆☆   Boz
+ / bɔz /1. the pseudonym used by ɔharles Dickens in his Pickwick Papers and contributions to the Morning ɔhronicle  • 博兹（１９世纪英国作家查尔斯•狄更斯写《皮克威克外传》时和为《纪事晨报》撰稿时用的笔名）
+
+
+
+————————————
+★☆☆   bozo
+ / ˈbəuzəu /◙ (pl. -os)
+1. (informal, chiefly N. Amer.)a stupid insignificant person  • [非正式， 主北美] 笨蛋
+  a man  • 男人
+
+【语源】1. 1920s: of unknown origin
+
+
+
+————————————
+★☆☆   boîte
+ / bwʌt /◙ [读音复同单] 
+1. a small restaurant or nightclub  • 小饭店，夜总会
+
+【语源】1. French, literally box'
+
+
+
+————————————
+★☆☆   Boötes
+ / bəʊˈəʊti:z /1. əæstronomy] a northern constellation (the Herdsman), said represent a man holding the leash of two dogs əɔanes ʒenatici] while driving a bear əursa Major] . ɪt contains the bright star ærcturus  • [天文] 牧夫星座
+  [as genitive Boötis] used with preceding letter or numeral to designate a star in this constellation  • ［与其前面的字母或数字连用以标记该星座中的星］牧夫星座的
+ »the star Gamma Boötis.  牧夫座α星。
+
+【语源】1. Greek
+
+
+
+————————————
+★☆☆   Bp◙ for abbreviation
+1. Bishop  • 同 Bishop 
+
+
+
+————————————
+★☆☆   bp◙ for abbreviation
+  [Biochemistry] base pair(s), as a unit of length in nucleic acid chains  • [生化] 碱基对
+  [Finance] basis point(s)  • [财政] 基点
+  (b.p.)boiling point  • 沸点
+
+
+
+————————————
+★☆☆   BP◙ for abbreviation
+1. before the present (era)  • 上一纪元
+ »18,000 years BP.  公元前18,000年。
+  blood pressure  • 血压
+  British Petroleum, a large multinational oil company  • 英国石油公司（一大型跨国公司）
+  (indicating listing in the) British Pharmacopoeia  • （表示已列入）《英国药典》
+
+
+
+————————————
+★☆☆   BPC◙ for abbreviation
+1. British Pharmaceutical Codex  • 《英国药典》
+
+
+
+————————————
+★☆☆   BPH[Medicine] [医] 
+◙ for abbreviation
+1. benign prostatic hyperplasia (or hypertrophy), an enlargement of the prostate gland common in elderly men  • 良性前列腺增生（肥大）
+
+
+
+————————————
+★☆☆   BPhil◙ for abbreviation
+1. Bachelor of Philosophy  • 哲学学士
+
+
+
+————————————
+★☆☆   bpi[Computing] [计算机] 
+◙ for abbreviation
+1. bits per inch, used to indicate the density of data that can be stored on magnetic tape or similar media  • 位/英寸
+
+
+
+————————————
+★☆☆   B-picture◙ noun
+1. another term for B-movie  • 同 B-movie 
+
+
+
+————————————
+★☆☆   bpm◙ for abbreviation
+1. beats per minute  • 每分钟的节拍数
+ »a pulse rate of 40 bpm.  每分钟跳40次的脉搏。
+
+
+
+————————————
+★☆☆   BPR◙ for abbreviation
+1. business process re-engineering  • 同 business process re-engineering 
+
+
+
+————————————
+★☆☆   bps[Computing] [计算机] 
+◙ for abbreviation
+1. bits per second  • 位/秒
+
+
+
+————————————
+★☆☆   Bq◙ for abbreviation
+1. becquerel  • 同 becquerel 
+
+
+
+————————————
+★☆☆   BR◙ for abbreviation
+  [N. Amer.] bedroom or bedrooms  • [北美] 同 bedroom 或bedrooms
+  Brazil (international vehicle registration)  • 同 Brazil （国际车辆注册用语）
+  (in the UK) British Rail or (formerly) British Railways  • 英国铁路公司
+
+
+
+————————————
+★☆☆   Br.◙ for abbreviation
+  (with reference to journal titles) British  • ［用于杂志标题中］同 British
+  (with reference to religious orders) Brother  • ［用于称呼中］同 Brother
+
+
+
+————————————
+★☆☆   Br◙ for symbol
+1. the chemical element bromine  • （化学元素）溴
+
+
+
+————————————
+★☆☆   bra
+ / brɑ: /◙ noun
+1. an undergarment worn by women to support the breasts  • 奶罩，胸罩
+  (也作 auto bra , car bra)[N. Amer.] a carbon-based cover that fits over the front bumper of a car, absorbing the microwaves used by police radar equipment to minimize the risk of detection for the speeding motorist  • [北美] 汽车保险罩
+
+【派生】♦ braless adjective
+
+【语源】1. 1930s: abbreviation of brassiere
+
+
+
+————————————
+★☆☆   braai
+ / ˈbraɪ /əS. æfrican] ə南非] 
+◙ (pl. braais)
+1. short for braaivleis  • braaivleis 的简称
+  a structure on which a fire can be made for the outdoor grilling of meat  • 烤肉架
+◙ (braaied, braaiing or braaing)
+1. [with obj.] grill (meat) over an open fire  • 烤（肉）
+
+【语源】1. Afrikaans
+
+
+
+————————————
+★☆☆   braaivleis
+ / ˈbraifleis /◙ noun
+1. [S. African] a picnic or barbecue where meat is grilled over an open fire  • [南非] 烤肉野餐会
+  [mass noun] meat cooked in this way  • 烤肉
+
+【语源】1. Afrikaans, grilled meat', from braai 'to grill' + vleis 'meat'
+
+
+
+————————————
+★☆☆   braata
+ / ˈbrɑ:tə /◙ (也作 braatas), noun
+1. [W. Indian] a small amount added to a purchase in a market to encourage the customer to return  • [西印度] 加量（商贩为招徕回头客在生意成交后少量奉送的商品）
+
+【语源】1. probably from Spanish barata 'bargain'
+
+
+
+————————————
+★☆☆   Brabant
+ / brəˈbænt /1. a former duchy in western əurope, lying between the Meuse and Scheldt ɔivers. ɪts capital was ɑrussels. ɪt is now divided into two provinces in two countries: ŋorth ɑrabant in the ŋetherlands, of which the capital is 's-Hertogenbosch; and ɑrabant in ɑelgium, of which the capital remains ɑrussels  • 布拉班特（前西欧公国，位于默兹河与斯海尔德河之间，首府布鲁塞尔；现分为两部分，分属荷兰和比利时两国： 荷属北布拉班特省，首府是赫托根波许；比利时布拉班特省，首府依旧是布鲁塞尔）
+
+
+
+————————————
+★☆☆   Brabham
+ / ˈbræbəm /1. Sir ʊack (b.1ˌ26), æustralian motor-racing driver; full nameʊohn ærthur ɑrabham.He won the ʃormula One world championship three times (1ˌˈˌ, 1ˌ60, 1ˌ66)  • 布拉巴姆，杰克爵士（生于1926年，澳大利亚赛车手；全名约翰•阿瑟•布拉巴姆，曾于1959、1960以及1966年三次获得一级方程式世界冠军）
+
+
+
+————————————
+★☆☆   brace
+ / breis /◙ [复同单] 
+1. a device that clamps things tightly together or that gives support, in particular  • 支柱，托架，夹头，尤指
+  (braces)[Brit.] a pair of straps that pass over the shoulders and fasten to the top of trousers at the front and back to hold them  • [英] （裤子的）背带
+  a device fitted to a weak or injured part of the body, such as the neck or leg, to give support  • （用以支承病体或身体受伤部位的）梏具
+  a wire device fitted in the mouth to straighten the teeth  • 畸齿矫正钢丝架
+  a strengthening piece of iron or timber used in building or carpentry  • （建筑或木工用的铁制或木制）支柱，撑柱
+  (也作 brace and bit)a drilling tool with a crank handle and a socket to hold a bit  • 手摇曲柄钻
+  a rope attached to the yard of a ship for trimming the sail  • （船上的）转帆索
+2. [复同单] a pair of something, typically of birds or mammals killed in hunting  • （尤指鸟或哺乳动物等已被猎杀的猎物）一对，一双
+ »thirty brace of grouse.  30对松鸡。
+3. [Printing] either of the two marks { and }, used either to indicate that two or more items on one side have the same relationship as each other to the single item to which the other side points, or in pairs to show that words between them are connected  • [印刷] 大括弧（即｛ ｝）
+  [Music] a similar mark connecting staves to be performed at the same time  • [乐] 连谱号
+◙ verb
+1. [with obj.] make (a structure) stronger or firmer with wood, iron, or other forms of support  • 支撑，使固定，使稳固；把…绷紧
+ »the posts were braced by lengths of timber.  这些柱子用几根木头撑着。
+  press (one's body or part of one's body) firmly against something in order to stay balanced  • 撑牢，站稳
+ »she braced her feet against a projecting shelf.  她把脚踩在一个突出来的岩石上站稳。
+ »[as adj. braced] he stood with legs braced.  他叉开双腿站稳。
+  prepare (someone or oneself) for something difficult or unpleasant  • （使）作好防备
+ »both stations are bracing themselves for job losses.  两个电台都在为就业岗位减少作准备。
+
+【语源】1. Middle English (as a verb meaning 'clasp, fasten tightly'): from Old French bracier 'embrace', from brace 'two arms', from Latin bracchia, plural of bracchium 'arm', from Greek brakhiōn
+
+【PHR V】◘ brace up
+1. be strong or courageous  • 坚强起来；鼓起勇气
+
+
+
+————————————
+★☆☆   bracelet
+ / ˈbreislit /◙ noun
+1. an ornamental band, hoop, or chain worn on the wrist or arm  • 手镯
+  (bracelets)[informal] handcuffs  • [非正式] 手铐
+
+【语源】1. late Middle English : from Old French, from bras 'arm', from Latin bracchium
+
+
+
+————————————
+★☆☆   bracer
+ / ˈbreisə /bracer¹
+◙ noun
+1. [informal] an alcoholic drink intended to prepare one for something difficult or unpleasant  • [非正式] 烈性饮料；兴奋剂bracer²
+◙ noun
+1. a sort of wristguard used in archery and other sports  • 护腕
+  (historical)a portion of a suit of armour covering the arm  • [史] （盔甲的）护臂
+
+【语源】1. late Middle English : from Old French braciere, from bras 'arm' (see bracelet )
+
+
+
+————————————
+★☆☆   bracero
+ / brəˈserəu /◙ (pl. braceros)
+1. (pl. braceros)a Mexican labourer allowed into the United States for a limited time as a seasonal agricultural worker  • （被允许在限定的时间内进入美国从事季节性农业劳动的）墨西哥劳工
+
+【语源】1. 1970s: Spanish, literally 'labourer', from brazo 'arm'
+
+
+
+————————————
+★☆☆   brachial
+ / ˈbreikiəl /◙ adjective
+1. [Anatomy] of or relating to the arm or arm-like structure  • [剖] 臂的，肱的，臂状的
+ »the brachial artery.  肱动脉。
+  like an arm  • 像手臂的
+  [Zoology] denoting the upper valve of a brachiopod's shell  • [动] （腕足动物）腕的，腕板的
+
+【语源】1. late Middle English : from Latin brachialis, from brac(c)hium 'arm'
+
+
+
+————————————
+★☆☆   brachiate
+ / ˈbreikiit /◙ verb
+1. [noobj., usu. with adverbial of direction] (of certain apes) move by using the arms or swing from branch to branch  • （猴等）用双臂吊荡树枝前进
+◙ adjective
+1. [Biology] branched, especially having widely spread paired branches on alternate sides  • [生] 有枝的（尤指交互对生枝的，十字对生的）
+  having arms  • 有臂的
+
+【派生】♦ brachiation noun
+♦ brachiator noun
+
+【语源】1. mid 18th cent. (originally in the sense 'having paired branches'): from Latin brachium 'arm' + -ate
+
+
+
+————————————
+★☆☆   Brachiopoda
+ / ˌbrækiˈɔpədə /1. əɛoology] a phylum of marine invertebrates that comprises the lamp shells  • [动] （海洋无脊椎动物）腕足动物门
+
+【派生】♦ brachiopod noun
+
+【语源】1. modern Latin (plural), from Greek brakhiōn 'arm' + pous, pod- 'foot'
+
+
+
+————————————
+★☆☆   brachiosaurus
+ / ˌbrækɪə(ʊ)ˈsɔ:rəs /◙ noun
+1. a huge herbivorous dinosaur of the late Jurassic to mid Cretaceous periods, with forelegs much longer than the hind legs  • 腕龙（侏罗纪后期至白垩纪中期一种前腿远长于后腿的食草大恐龙）
+2. Genus Brachiosaurus, infraorder Sauropoda, order Saurischia  • 腕龙属，蜥脚次龙亚目，蜥臀目
+
+【语源】1. modern Latin, from Greek brakhiōn 'arm' + sauros 'lizard'
+
+
+
+————————————
+★☆☆   brachistochrone
+ / brəˈkistəˌkrəun /◙ noun
+1. a curve between two points along which a body can move under gravity in a shorter time than for any other curve  • 最速降线，捷线（指连接两点的曲线；物体在重力作用下沿此曲线运动所需时间较任何其他曲线为短）
+
+【语源】1. late 18th cent.: from Greek brakhistos 'shortest' + khronos 'time'
+
+
+
+————————————
+★☆☆   brachy-
+ / ˈbræki /◙ for combining
+1. short  • 短的
+ »brachycephalic.
+
+【语源】1. from Greek brakhus 'short'
+
+
+
+————————————
+★☆☆   brachycephalic
+ / ˌbrækisəˈfælik /◙ adjective
+1. having a relatively broad, short skull (typically with the breadth at least 80 per cent of the length). Often contrasted with dolichocephalic  • 短头的（尤指颅骨宽度至少等于长度的８０％的）。 常与 dolichocephalic 相对
+
+【派生】♦ brachycephaly noun
+
+
+
+
+————————————
+★☆☆   brachytherapy
+ / ˌbrækiˈθerəpi /◙ noun
+1. the treatment of cancer, especially prostate cancer, by the insertion of radioactive implants directly into the tissue  • （尤指前列腺癌的）近距放射治疗
+
+【语源】1. 1990s: from brachy- + therapy
+
+
+
+————————————
+★☆☆   bracing
+ / ˈbreɪsɪŋ /◙ adjective
+1. fresh and invigorating  • 使人心旷神怡的；令人振奋的
+ »the bracing sea air.  清新的海洋空气。
+2. [attrib.] (of a support) serving to brace a structure  • 支撑的
+ »bracing struts.  支柱。
+
+【派生】♦ bracingly adverb
+1. [义项 1] 
+♦ bracingness noun
+1. （义项 1）
+
+
+
+————————————
+★☆☆   brack
+ / bræk /◙ noun
+1. [Irish] a cake or bun containing dried fruit  • [爱尔兰] 果脯面包
+
+【语源】1. shortening of barmbrack
+
+
+
+————————————
+★☆☆   bracken
+ / ˈbrækən /◙ noun
+1. [mass noun] a tall fern with coarse lobed fronds, which occurs worldwide and can cover large areas  • 欧洲蕨
+2. Pteridium aquilinum, family Dennstaedtiaceae (or Hypolepidaceae)  • 拉丁名Pteridium aquilinum，碗蕨科
+  [informal] any large coarse fern resembling this  • [非正式] 蕨类植物
+
+【语源】1. Middle English : of Scandinavian origin; related to Danish bregne, Swedish bräken
+
+
+
+————————————
+★☆☆   bracket
+ / ˈbrækit /◙ noun
+1. each of a pair of marks ﹙﹚ ［］｛｝〈〉 used to enclose words or figures so as to separate them from the context  • 括号（）［］｛｝〈〉中的一个
+ »symbols are given in brackets.  符号在括号中给出。
+2. [with adj. or noun modifier] a category of people or things that are similar or fall between specified limits  • 同等级的人（或事）
+ »those in a high income bracket.  同属高收入阶层。
+3. a right-angled support attached to and projecting from a wall for holding a shelf, lamp, or other object  • （固定在墙上并从墙上成直角伸出，用于安放搁板、灯或其他物体的）托架，托座
+  a shelf fixed with such a support to a wall  • （固定在墙上有此种托架的）搁板，架子
+  (the bracket)(informal, dated)a person's nose or jaw  • [非正式，旧] 鼻子，下巴
+4. [Military] the distance between two artillery shots fired either side of the target to establish range  • [军] 夹叉射击（指为测距向目标试射的远弹和近弹）；夹中目标（指夹叉射击时远近两弹落点间的距离）
+◙ (bracketed, bracketing)
+1. [with obj.] [一般作 be bracketed] place (one or more people or things) in the same category or group  • 把…归入同一类；将…相提并论
+ »he is sometimes bracketed with the ‘new wave’ of film directors.  他有时被归为“新潮派”导演。
+2. enclose (words or figures) in brackets  • 把（词或数字）置于括号内
+ »[as adj. bracketed] the relevant data are included as bracketed points.  相关数据都被放在括号里了。
+  [Mathematics] enclose (a complex expression) in brackets to denote that the whole of the expression rather than just a part of it has a particular relation, such as multiplication or division, to another expression  • [数] 用括号括
+  (figurative)surround or enclose (someone or something) physically  • [喻] 包围；把…容纳在内
+ »the lines of exhaustion bracketing his mouth.  他嘴巴四周布满因过度操劳而留下的皱纹。
+  put (a belief or matter) aside temporarily  • 暂不考虑；放在一边
+ »he bracketed off the question of God himself.  他把上帝是否存在这个问题暂时撂到了一边。
+3. hold or attach (something) by means of a right-angled support  • 给…装托架；用托架托住
+ »pipes should be bracketed.  必须用托架托住管子。
+4. [Military] establish the range of (a target) by firing two preliminary shots, one short of the target and the other beyond it  • [军] 采用夹叉射击测定目标距离
+  [Photography] establish (the correct exposure) by taking several pictures with slightly more or less exposure  • [摄] 曝光量测定（以略高或略低的曝光量拍摄数张照片以便确定正确的曝光量）
+
+【语源】1. late 16th cent.: from French braguette or Spanish bragueta 'codpiece, bracket, corbel', from Provençal braga, from Latin braca, (plural) bracae 'breeches'
+
+
+
+————————————
+★☆☆   bracket fungus◙ noun
+1. a fungus which forms shelf-like projections on the trunks of living or dead trees, sending hyphae into the wood and sometimes causing the death of the tree or decay of the timber  • 檐状菌，多孔菌
+2. Several families in the order Aphyllophorales, class Hymenomycetes  • 层菌纲，多孔菌目，数科
+
+
+
+————————————
+★☆☆   brackish
+ / ˈbrækiʃ /◙ adjective
+1. (of water) slightly salty, as present in river estuaries  • （指水）略含盐分的；微咸的
+  (of fish or other organisms) living in or requiring such water  • （指鱼或其他有机体）（离不开）咸水的
+
+【派生】♦ brackishness noun
+
+【语源】1. mid 16th cent.: from obsolete brack 'salty', from Middle Low German, Middle Dutch brac
+
+
+
+————————————
+★☆☆   braconid
+ / ˈbrækənɪd /◙ noun
+1. [Entomology] a small parasitic wasp of family [Braconidae] which is related to the ichneumons. Unlike the latter, braconids lay numerous eggs in a single host  • [昆] 茧蜂科昆虫
+
+【语源】1. late 19th cent.: from modern Latin Braconidae (plural), formed irregularly from Greek brakhus 'short'
+
+
+
+————————————
+★☆☆   bract
+ / brækt /◙ noun
+1. [Botany] a modified leaf or scale, typically small, with a flower or flower cluster in its axil. Bracts are sometimes larger and more brightly coloured than the true flower, as in poinsettia  • [植] 苞片，苞
+
+【派生】♦ bracteate adjective
+
+【语源】1. late 18th cent.: from Latin bractea 'thin plate of metal'
+
+
+
+————————————
+★☆☆   bracteate
+ / ˈbræktiit /◙ noun
+1. [Archaeology] an ornament or plate of thinly beaten precious metal, typically a thin gold disc  • [考古] 苞状饰片（尤指圆形黄金饰片）
+
+【语源】1. early 19th cent.: from Latin bracteatus, from bractea (see bract )
+
+
+
+————————————
+★☆☆   brad
+ / bræd /◙ noun
+1. a nail of rectangular cross section with a flat tip and small, typically asymmetrical head  • 角钉，平头型钉；无头钉；曲头钉
+
+【语源】1. late Middle English : from Old Norse broddr 'spike'
+
+
+
+————————————
+★☆☆   bradawl
+ / ˈbrædɔ:l /◙ noun
+1. a tool for boring holes, resembling a small, sharpened screwdriver  • 打眼钻，锥钻
+
+【语源】1. early 19th cent.: from brad + awl
+
+
+
+————————————
+★☆☆   Bradbury
+ / ˈbrædbəri /ɑradbury¹
+1. Malcolm əStanley] (b. 1ˌ32), ənglish novelist, critic, and academic. æs a novelist he is known for satires of university life such as ðhe History Man (1ˌˌˈ) and ɔates of əxchange (1ˌ83)  • 布雷德伯里，马尔科姆（•斯坦利）（生于1932年，英国小说家，评论家和学者，以讽刺大学校园生活的小说闻名，如：《历史家》［1975］和《兑汇率》［1983］等）Bradbury²
+1. Ray (b.1920), American writer of science fiction; full nameRaymond Douglas Bradbury. Notable works: The Martian Chronicles (short story collection, 1950) Fahrenheit 451 (novel, 1951)  • 布雷德伯里，雷（生于1920年，美国科幻小说作家；全名雷蒙德•道格拉斯•布雷德伯里；代表作有短篇小说集《火星人编年史》［1950］和长篇小说《华氏451度》［1951］等）
+
+
+
+————————————
+★☆☆   Bradenham ham
+ / ˈbræd(ə)nəm /◙ noun
+1. [mass noun] (trademark)a dark sweet-cured ham  • [商标] 布雷登火腿（一种用蜜糖腌制的火腿）
+
+
+
+————————————
+★☆☆   Bradford
+ / ˈbrædfəd /1. an industrial city in northern əngland, a unitary council formerly in Yorkshire; pop. 44ˌ,100 (1ˌˌ0)  • 布雷德福（英格兰北部工业城市，以前约克郡的地方行政区，1990年人口449,100）
+
+
+
+————————————
+★☆☆   Bradley
+ / ˈbrædli /1. ʊames (16ˌ3–1ˌ62), ənglish astronomer. ɑradley was appointed æstronomer ɔoyal in 1ˌ42. He discovered the aberration of light and also observed the oscillation of the earth's axis, which he termed nutation. His star catalogue was published posthumously  • 布拉德雷，詹姆斯（1693–1762，英国天文学家，1742年被任命为皇室天文学家，发现了光行差效应，观察到了地轴的振动，并称之为“章动”；他的星系目录在死后才出版）
+
+
+
+————————————
+★☆☆   Bradman1. Don (b. 1908), Australian cricketer; full nameSir Donald George Bradman. Bradmanholds the record for the highest Australian test score against England (334in 1930). His test match batting average of 99.94 is well above that of any other cricketer of any era  • 布雷德曼，唐（生于1908年，澳大利亚板球运动员，全名唐纳德•乔治•布雷德曼爵士，1930年在澳大利亚同英格兰队的决赛中得334分，个人赛事平均得分为99．94，比其他任何时期的板球运动员都高）
+
+
+
+————————————
+★☆☆   bradoon
+ / brəˈdu:n /◙ noun
+1. variant spelling of bridoon  • 同 bridoon 
+
+
+
+————————————
+★☆☆   Bradshaw
+ / ˈbrædʃɔ: /◙ noun
+1. a timetable of all passenger trains in Britain, issued 1839–1961  • （1839至1961年间发行的全英）火车时刻表
+
+【语源】1. named / after its first publisher, George Bradshaw (1801–53), printer and engraver
+
+
+
+————————————
+★☆☆   bradycardia
+ / brædiˈkɑ:diə /◙ noun
+1. [mass noun] [Medicine] abnormally slow heart action  • [医] 心搏徐缓
+
+【语源】1. late 19th cent.: from Greek bradus 'slow' + kardia 'heart'
+
+
+
+————————————
+★☆☆   bradykinin
+ / ˌbrædiˈkainin /◙ noun
+1. [mass noun] [Biochemistry] a compound released in the blood in some circumstances which causes contraction of smooth muscle and dilation of blood vessels. It is a peptide with nine amino-acid residues  • [生化] 缓激肽，血管舒缓激肽
+
+【语源】1. 1940s: from Greek bradus 'slow' + kinēsis 'motion' + -in
+
+
+
+————————————
+★☆☆   brae
+ / brei /◙ noun
+1. [Scottish] a steep bank or hillside  • [苏格兰] 陡岸，陡坡
+
+【语源】1. Middle English : from Old Norse brá 'eyelash'. Compare with brow,in which a similar sense development occurred
+
+
+
+————————————
+★☆☆   Braeburn
+ / ˈbreɪbə:n /◙ noun
+1. a dessert apple of a variety kwith crisp flesh, first grown in New Zealand  • 新西兰脆苹果
+
+【语源】1. 1950s: from Braeburn Orchards, where IT was first grown commercially
+
+
+
+————————————
+★☆☆   brag
+ / bræɡ /◙ (bragged, bragging)
+1. [reporting verb] say something in a boastful manner  • 吹牛，吹嘘，夸耀
+ »[with clause] he bragged that he was sure of victory.  他夸口说自己肯定能赢。
+ »[noobj.] they were bragging about how easy it had been.  他们吹嘘说一切都很容易。
+◙ noun
+1. [mass noun] a gambling card game which is a simplified form of poker  • 布莱格牌戏（一种简化扑克，属赌博性牌戏）
+2. [insing.] a boastful statement; an act of talking boastfully  • 大话，牛皮，夸耀之词；吹嘘，夸耀
+◙ adjective
+1. [attrib.] (informal, chiefly US)excellent; first-rate  • [非正式， 主美] 卓越的；一流的
+
+【派生】♦ bragger noun
+♦ braggingly adverb
+
+【语源】1. Middle English (as an adjective in the sense 'boastful'): of unknown origin [French braguer is recorded only later] 
+
+
+
+————————————
+★☆☆   Braga
+ / ˈbrɑ:gə /1. a city in northern Portugal, capital of a mountainous district of the same name; pop. ˌ0,ˈ3ˈ (1ˌˌ1)  • 布拉加（葡萄牙北部城市，多山的布拉加区的首府；1991年人口90,535）
+
+
+
+————————————
+★☆☆   Braganza
+ / brəˈgænzə /ɑraganza¹
+1. a city in ŋə Portugal, capital of a mountainous district of the same name; pop. 16,ˈˈ0 (1ˌˌ1). ɪt was the original seat of the ɑraganza dynasty. Portuguese name ɑragança) from 1822 until the formation of a republic in 188ˌ  • 布拉干萨王朝（1640年起统治葡萄牙直至1910年君主制度结束，并从巴西1822年自葡萄牙独立起统治巴西直至1889年巴西成立共和国）
+
+
+
+————————————
+★☆☆   Bragg
+ / bræɡ /1. Sir θilliam Henry (1862–1ˌ42), ənglish physicist, a founder of solid-state physics. He collaborated with his son, Sir əθilliam] ɚawrence ɑragg (18ˌ0–1ˌˌ1), in developing the technique of X-ray diffraction for determining the atomic structure of crystals; for this they shared the 1ˌ1ˈ ŋobel Prize for Physics  • 布拉格，威廉•亨利爵士（1862—1942，英国物理学家，固体物理学创始人之一；因与儿子劳伦斯•布拉格合作发明了用于确定晶体原子结构的X射线衍射技术而同获1915年诺贝尔物理学奖）
+
+
+
+————————————
+★☆☆   braggadocio
+ / bræɡəˈdəuʃiəu /◙ noun
+1. [mass noun] boastful or arrogant behaviour  • 自夸；吹牛
+
+【语源】1. late 16th cent. (denoting a boaster): from Braggadocchio, the name of a braggart in Spenser's Faerie Queene, from bragor braggart +the Italian suffix -occio, denoting something large of its kind
+
+
+
+————————————
+★☆☆   braggart
+ / ˈbræɡət /◙ noun
+1. a person who boasts about their achievements or possessions  • 自夸者；吹牛者
+
+【语源】1. late 16th cent.: from French bragard, from braguer to 'brag'
+
+
+
+————————————
+★☆☆   Brahe
+ / brɑ: , ˈbrɑ:hi: , ˈbrɑ:ə /1. ðycho (1ˈ46–1601), Danish astronomer. He built an observatory equipped with precision instruments, but despite demonstrating that comets follow sun-centred paths he adhered to a geocentric picture for the planets  • 布拉赫（1546—1601，丹麦天文学家，建立了配有精密仪器的天文台，但尽管他论证了彗星是绕太阳运动的，他仍坚持认为行星是绕地球运动的）
+
+
+
+————————————
+★☆☆   Brahma
+ / ˈbrɑ:mə /1. the creator god in Hinduism, who forms a triad with ʒishnu and Shiva. ɑrahma was an important god of late ʒedic religion, but has been little worshipped since the ˈth century ad  • 婆罗贺摩，梵天，梵（印度教主神之一，创造之神，众生之本）
+2. another term for Brahman (in sense 2)  • 同 Brahman [见义项2] 
+
+【语源】1. from Sanskrit brahman
+
+
+
+————————————
+★☆☆   brahma
+ / ˈbrɑ:mə /◙ noun
+1. short for brahmaputra  • brahmaputra 的简称
+
+
+
+————————————
+★☆☆   Brahman
+ / ˈbrɑ:mən /◙ (pl. -mans)
+
+【Sanskrit】1. (也作 Brahmin)a member of the highest Hindu caste, that of the priesthood  • （印度种姓等级中最高等级）婆罗门之一员，（印度）僧侣贵族之一员
+2. [without article] the ultimate reality underlying all phenomena in the Hindu scriptures  • 婆罗门（指印度教经文中作为万物之本的终极实体），印度教精义
+3. US spelling of Brahmin (in sense 3)  • [美] 同 Brahmin [义项3] 
+
+【派生】♦ Brahmanic adjective
+♦ Brahmanical adjective
+
+
+
+
+————————————
+★☆☆   Brahmana
+ / ˈbrɑ:mənə /◙ noun
+1. (in Hinduism) any of the lengthy commentaries on the Vedas, composed in Sanskrit c. 900–700 bc and containing expository material relating to Vedic sacrificial ritual  • 梵书（印度教《吠陀经》的各种详尽评注，约于公元前900–前700年用梵文写就，阐释包括对吠陀献祭仪式的解释等）
+
+
+
+————————————
+★☆☆   Brahmanism
+ / ˈbrɑ:mənizm /◙ (也作 Brahmi-nism), noun
+1. [mass noun] the complex sacrificial religion that emerged in post-Vedic India (c. 900 bc) under the influence of the dominant priesthood [Brah-mans] , an early stage in the development of Hinduism  • 婆罗门教（由吠陀教演变而成的古代印度宗教，约出现于公元前900年，是印度教的前身）
+
+
+
+————————————
+★☆☆   Brahmaputra
+ / ˌbrɑ:məˈpu:trə /1. a river of southern æsia, rising in the Himalayas and flowing 2,ˌ00 km (1,800 miles) through the ɔhinese autonomous region of ðibet, ŋə ɪndia, and ɑangladesh, to join the Ganges at its delta on the ɑay of ɑengal  • 布拉马普特拉河（南亚的一条河流，发源于喜马拉雅山区，流经中国西藏自治区、印度东北部，孟加拉国后在孟加拉湾恒河三角洲与恒河汇合，流程2,900公里，即1,800英里）
+
+
+
+————————————
+★☆☆   brahmaputra
+ / ˌbrɑ:məˈpu:trə /◙ (也作 brahma), noun
+1. a chicken of a large Asian breed  • 布拉马普特拉鸡
+
+【语源】1. mid 19th cent.: named after the Brahmaputra,where it originated
+
+
+
+————————————
+★☆☆   Brahmin
+ / ˈbrɑ:min /◙ noun
+1. variant spelling of Brahman (in sense 1)  • 同 Brahman [义项1] 
+2. [US] a socially or culturally superior person, especially one from New England  • [美] （尤指来自新英格兰的）高雅之士，有学问有教养的人物
+3. (也作 Brahminy bull 或美 Brahman)an ox of humped breed originally domesticated in India, which is tolerant of heat and drought and is now kept widely in tropical and warm-temperate countries  • 印度牛。(亦称 zebu)
+4. Bos indicus, family Bovidae; now usually included under the name B. taurus with other domestic cattle  • 拉丁名Bos indicus，牛科，现常包括原牛名下的其他家牛
+
+【派生】♦ Brahminical adjective
+1. （限义项 1, 2）
+
+
+
+————————————
+★☆☆   Brahms
+ / brɑ:mz /1. ʊohannes (1833–ˌˌ), German composer and pianist.He eschewed programme music and opera and concentrated on traditional forms. He wrote four symphonies, four concertos, chamber and piano music, choral works including the German ɔequiem (18ˈˌ–68), and nearly 200 songs  • 勃拉姆斯，约翰内斯（1833—1897，德国作曲家、钢琴家，作品多为非标题音乐，继承了古典传统；共创作了四部交响乐、四部协奏曲、室内和钢琴音乐、合唱曲以及近200首歌曲，包括《德意志安魂曲》［1857—1868］）
+
+【派生】♦ Brahmsian adjective
+
+
+
+
+————————————
+★☆☆   Brahms and Liszt◙ adjective
+1. [predic.] [Brit. informal] drunk  • [英，非正式] 醉；酩酊
+
+【语源】1. 1970s: rhyming slang for 'pissed'
+
+
+
+————————————
+★☆☆   Brahui
+ / brəˈhu:i /◙ [复同单] 
+1. a member of a pastoral people of western Pakistan  • （巴基斯坦西部的）布拉灰族，布拉灰人
+2. [mass noun] the language of this people, a Dravidian language isolated for several thousand years from other members of the family. It has nearly 2 million speakers  • 布拉灰语（从达罗毗荼语分离而来，共有200万人操此种语言）
+◙ adjective
+1. of or relating to this people of their language  • 布拉灰族（或人）的；布拉灰语的
+
+【语源】1. from Brahui
+
+
+
+————————————
+★☆☆   braid
+ / breɪd /◙ noun
+1. [mass noun] threads of silk, cotton, or other material woven into a decorative band for edging or trimming garments  • （用丝、棉或其他材料编成的）镶边；穗带
+ »a coat trimmed with gold braid.  镶金边的上衣。
+ »[count noun] fancy braids.  精致的穗带。
+2. a length of hair made up of three or more interlaced strands  • （将头发分成三股或三股以上编成的）辫子，发辫
+ »her hair curled neatly in blonde braids.  她金黄色的头发整洁地梳成一根根辫子。
+  a length made up of three of more interlaced strands of any flexible material  • （任何弹性材料编成的含三股或三股以上的）辫子
+ »a flexible copper braid.  有弹性的铜缏。
+◙ verb, [with obj.] 
+1. interlace three or more strands of (hair or other flexible material) to form a length  • 把（头发）编成辫子；把…编成带（或缏）
+ »their long hair was tightly braided.  他们的长发被紧紧编成了辫子。
+2. [often as adj. braided] edge or trim (a garment) with braid  • （用饰带等）镶边，镶缀
+ »braided red trousers.  镶边的红裤子。
+3. [usu. as adj. braided] (of a river or stream) flow into shallow interconnected channels divided by deposited earth or alluvium  • （河或小溪）交叉往来
+
+【语源】1. Old English bregdan 'make a sudden movement', 'also interweave', of Germanic origin; related to Dutch breien (verb)
+
+
+
+————————————
+★☆☆   braiding
+ / ˈbreidiŋ /◙ noun
+1. [mass noun] decorative braid or braided work  • （镶缀用的）饰带；编结物
+ »curtains heavy with gold braiding.  缀满了沉甸甸的金色饰带的窗帘。
+
+
+
+————————————
+★☆☆   brail
+ / breil /əSailing航海] 
+◙ noun
+1. (brails)small ropes that are led from the leech of a fore-and-aft sail to pulleys on the mast for temporarily furling it  • 卷帆索
+◙ verb
+1. [with obj.] (brail a sail up)furl (a sail) by hauling on such ropes  • 用卷帆索卷（帆）
+
+【语源】1. late Middle English : from Old French braiel, from medieval Latin bracale 'girdle', from braca 'breeches'
+
+
+
+————————————
+★☆☆   Braille
+ / breil /ɑraille¹
+1. ɚouis (180ˌ–ˈ2), ʃrench educationist. ɑlind from the age of 3, by the age of 1ˈ he had developed his own system of raised-point reading and writing,which was officially adopted two years after his death  • 布莱叶，路易（1809—1852，法国教育家，三岁起失明，15岁时发明了一套布莱叶凸点读写法，这套方法在他逝世两年以后被官方采用）Braille²
+◙ noun
+1. [mass noun] a form of written language for the blind, in which characters are represented by patterns of raised dots that are felt with the fingertips  • 布莱叶盲文，布莱叶点字法
+◙ verb
+1. [with obj.] print or transcribe in Braille  • 用布莱叶点字法印刷；把…译成布莱叶盲文
+
+【语源】1. mid 19th cent.: named after Louis Braille (see Braille )
+
+
+
+————————————
+★☆☆   brain
+ / brein /◙ noun
+1. an organ of soft nervous tissue contained in the skull vertebrates, functioning as the coordinating centre of sensation and intellectual and nervous activity  • 脑
+  (brains)the substance of such an organ, typically that of animal, used as food  • （尤指供食用的动物）脑髓，脑浆
+  [informal] an electronic device with functions comparable to those of the human brain  • [非正式] 电脑
+2. The human brain consists of three main parts. (i) The forebrain, greatly developed into the cerebrum, consists of two hemispheres joined by a bridge of nerve fibres, and is responsible for the exercise of thought and control of speech. (ii) The midbrain, the upper part of the tapering brainstem, contains cells concerned in eye movements. (iii) The hindbrain, the lower part of the brainstem, contains cells responsible for breathing and for regulating heart action, the flow of digestive juices, and other unconscious actions and processes. The cerebellum, which lies behind the brain stem, plays an important role of the execution of highly skilled movements
+3. intellectual capacity  • 智力，智慧
+ »I didn't have enough brains for the sciences.  我可没有足够的智力去搞科学。
+ »[mass noun] success requires brain as well as brawn.  成功要有足够的智力和体力。
+  (the brains)[informal] a clever person who supplies the ideas and plans for a group of people  • [非正式] 智囊，谋划组织者
+ »Tom was the brains of the outfit.  汤姆是这帮人的军师。
+  a person's mind  • 头脑
+ »a tiny alarm bell began to ring in her brain.  她脑子里有个小小的警钟响了。
+◙ verb
+1. [with obj.] [informal] hit (someone) hard on the head with an object  • [非正式] 用…敲打某人的脑袋
+ »she brained me with a rolling pin.  她用擀面杖狠敲我的脑袋。
+
+【IDIOMS】◘ have (got) something on the brain
+1. [informal] be obsessed with something  • [非正式] 萦绕于脑际，念念不忘
+ »John has cars on the brain.  约翰心里老是惦记着汽车。
+
+【语源】1. Old English brægen, of West Germanic origin; related to Dutch brein
+
+
+
+————————————
+★☆☆   Brain1. Dennis (1921–57), English French-horn player. His mastery of the instrument's entire rangeinspired many composers, including Benjamin Britten and Paul Hindemith, to write works for him  • 布莱恩，丹尼斯（1921—1957，英国法国号演奏家，他的涵盖圆号整个音域的娴熟技艺激发了很多作曲家的灵感，包括本杰明布•布雷顿、保罗•亨得明斯等在内的作曲家都为他谱过曲）
+
+
+
+————————————
+★☆☆   brainbox◙ noun
+1. [Brit. informal] a very clever person  • [英，，非正式] 非常聪明的人
+
+
+
+————————————
+★☆☆   brain cell◙ noun
+1. a cell in the tissue of the brain  • 脑细胞
+  [informal] used to refer to someone's intellectual power  • [非正式] 智力
+ »it does help if the student has more than one brain cell.  这学生若是稍微有点头脑的话，这确会有所帮助。
+
+
+
+————————————
+★☆☆   brainchild
+ / ˈbreɪnˌtʃaɪld /◙ (pl. -children)
+1. [informal] an idea or invention which is considered as a particular person's creation  • [非正式] 脑力劳动的产物（如主意或发明）
+ »the statue is the brainchild of a local landscape artist.  这座雕像是当地一位风景画家的作品。
+
+
+
+————————————
+★☆☆   brain coral◙ noun
+1. a compact coral with a convoluted surface resembling that of the brain  • 脑珊瑚
+2. Diploria and other genera, order Scleractinia  • 拉丁语Diploria及其他属，石珊瑚目
+
+
+
+————————————
+★☆☆   brain damage◙ noun
+1. [mass noun] injury to the brain that impairs its functions, especially permanently  • 脑损伤
+
+【派生】♦ brain-damaged adjective
+
+
+
+
+————————————
+★☆☆   brain-dead◙ adjective
+1. having suffered brain death  • 脑死亡的
+ »brain-dead patients.  脑死亡病人。
+  [informal] extremely stupid  • [非正式] 愚蠢至极的
+ »a brain-dead computer zombie.  一个对电脑一窍不通的呆子。
+
+
+
+————————————
+★☆☆   brain death◙ noun
+1. [mass noun] irreversible brain damage causing the end of independent respiration, regarded as indicative of death  • 脑死亡
+
+
+
+————————————
+★☆☆   brain drain◙ noun
+1. [insing.] [informal] the emigration of highly trained or qualified people from a particular country  • [非正式] 人才外流，人才流失
+
+
+
+————————————
+★☆☆   Braine
+ / breɪn /1. ʊohn əGerard] (1ˌ22–86), ənglish novelist, famous for his first novel, ɔoom at the ðop (1ˌˈˌ), whose opportunistic hero was hailed as a representative example of an ‘angry young man’  • 布雷恩，约翰（•杰勒德）（1922—1986，英国小说家，因其第一部小说《最高的房间》［1957］而出名，其中的主人公是个机会主义者，被奉为“愤怒的青年人”的代表性人物）
+
+
+
+————————————
+★☆☆   brained
+ / breɪnd /◙ adjective
+1. [incombination] (of vertebrates) having a brain of certain size or kind  • （脊椎动物）有一定脑容量的；有某种类型的脑的
+ »large-brained mammals.  脑容量大的哺乳动物。
+  [derogatory] (of a person) having an intellectual capacity of a certain quality or kind  • [贬] （人）有…头脑的
+ »half-brained twits.  有点头脑的傻瓜。
+
+
+
+————————————
+★☆☆   brain fever◙ noun
+1. [mass noun] [dated] inflammation of the brain  • [旧] 脑炎，脑脊膜炎
+
+
+
+————————————
+★☆☆   brainfever bird◙ noun
+1. the common hawk cuckoo of India and Sri Lanka, which has a monotonous and maddeningly persistent call  • 南亚鹰鹃（产于印度和斯里兰卡的一种鹰鹃鸟，常久鸣不休）
+2. Cuculus varius, family Cuculidae  • 拉丁名Cuculus varius，杜鹃科
+
+
+
+————————————
+★☆☆   brain fungus◙ noun
+1. (也作 yellow brain fungus)a soft yellow gelatinous fungus with a lobed and folded surface, living on dead wood in both Eurasia and North America  • 脑蕈
+2. Tremella mesenterica, family Tremellaceae, class Hymenomycetes  • 拉丁名Tremella mesenterica，银耳科，层菌纲
+3. another term for cauliflower fungus  • 同 cauliflower fungus 
+
+
+
+————————————
+★☆☆   brainiac
+ / ˈbreɪni:ˌæk /◙ noun
+1. [N. Amer. informal] an exceptionally intelligent person  • [北美，非正式] 奇才，天才
+
+【语源】1. 1950s: from the name of a superintelligent intelligent alien character of the Superman comic strip, from a blend of brainand maniac
+
+
+
+————————————
+★☆☆   brainless
+ / ˈbreinlis /◙ adjective
+1. stupid ; foolish  • 愚蠢的，笨的
+ »a brainless bimbo.  没头脑的女人。
+
+【派生】♦ brainlessly adverb
+♦ brainlessness noun
+
+
+
+
+————————————
+★☆☆   brainpan
+ / ˈbreinpæn /◙ noun
+1. (informal, chiefly N. Amer.)a person's skull  • [非正式， 主北美] 脑壳，头盖骨
+
+
+
+————————————
+★☆☆   brainpower
+ / ˈbreɪnˌpaʊə /◙ noun
+1. [mass noun] mental ability; intelligence  • 智能，智力
+
+
+
+————————————
+★☆☆   brainstem◙ noun
+1. [Anatomy] the central trunk of the mammalian brain, consisting of the medulla oblongata, pons, and midbrain, and continuing downwards to form the spinal cord  • [剖] 脑干
+
+
+
+————————————
+★☆☆   brainstorm
+ / ˈbreɪnˌstɔ:m /◙ noun
+1. [informal] a moment in which one is suddenly unable to think clearly or act sensibly  • [非正式] 脑猝变；脑子混乱，发晕
+2. a spontaneous group discussion to produce ideas and ways of solving problems  • 集体自由讨论；献计献策攻关会
+  (informal, chiefly N. Amer.)a sudden clever idea  • [非正式， 主北美] 突然想到的妙计（或好办法）
+◙ verb
+1. [noobj.] produce an idea or way of solving a problem by holding a spontaneous group discussion  • 开献计献策攻关会
+ »[as noun modifier brainstorming] a brainstorming session.  献计献策攻关会。
+
+
+
+————————————
+★☆☆   brains trust◙ noun
+1. [Brit.] a group of experts who give impromptu answers to questions on topics of general or current interest in front of an audience or on the radio  • [英] （在公共集会、广播或电视节目中即席回答问题的）专家小组
+  another term for braintrust  • 同 braintrust 
+
+
+
+————————————
+★☆☆   brain-teaser◙ (也作 brain-twister), noun
+1. [informal] a problem or puzzle, typically one designed to be solved for amusement  • [非正式] （为娱乐目的）测验机敏程度的难题；难以解答的问题；令人迷惑的问题
+
+【派生】♦ brain-teasing adjective
+
+
+
+
+————————————
+★☆☆   brain trust◙ noun
+1. [N. Amer.] a group of experts appointed to advise a government or politician  • [北美] （政府或政客的）智囊团，顾问班子
+
+
+
+————————————
+★☆☆   brainwash
+ / ˈbreɪnˌwɔʃ , -ˌwɔ:ʃ /◙ verb
+1. [with obj.] pressurize (someone) into adopting radically different beliefs by using systematic and often forcible means  • 对…实施洗脑，把思想强行灌输给
+ »people are brainwashed into believing family life is the best.  人们被洗了脑，认为家庭生活才是最好的。
+ »[as noun brainwashing] victims of brainwashing.  被洗脑的人。
+
+
+
+————————————
+★☆☆   brainwave◙ noun
+1. [一般作 brainwaves] an electrical impulse in the brain  • 脑电波
+  [usu. insing.] [informal] a sudden clever idea  • [非正式] （突发的）奇思；突然想到的妙计
+
+
+
+————————————
+★☆☆   brainy
+ / ˈbreini /◙ (brainier, brainiest)
+1. having or showing intelligence  • 有头脑的，明智的，聪明的
+ »a brainy discussion.  一场机智的讨论。
+ »she was brainy, except for maths.  她很聪明，只是数学不行。
+
+【派生】♦ brainily adverb
+♦ braininess noun
+
+
+
+
+————————————
+★☆☆   braise
+ / breiz /◙ verb
+1. [with obj.] fry (food) lightly and then stew it slowly in a closed container  • （将食物稍煎后用文火）炖
+ »[as adj. braised] braised veal.  炖小牛肉。
+
+【语源】1. mid 18th cent.: from French braiser, from braise 'live coals' (in which the container was formerly placed)
+
+
+
+————————————
+★☆☆   brak
+ / bræk /əS. æfrican] ə南非] 
+◙ adjective
+1. (of water or soil) brackish or alkaline  • （水或土壤）有盐味的；碱性的
+◙ noun
+1. [mass noun] brackishness or alkalinity of soil or water  • （土壤或水的）盐性，碱性
+
+【语源】1. Afrikaans, from Dutch
+
+
+
+————————————
+★☆☆   brake
+ / breik /brake¹
+◙ noun
+1. a device for slowing or stopping a moving vehicle, typically by applying pressure to the wheels  • 闸；刹车；制动装置
+ »he slammed on his brakes.  他使劲踩住了刹车。
+ »[as modifier] a brake pedal.  刹车踏板。
+  (figurative)a thing that slows or hinders a process  • [喻] 阻碍（物），抑制（物）
+ »constrained resources will act as a brake on research.  有限的资源将阻碍研究进程。
+  another term for brake van  • 同 brake van 
+◙ verb
+1. [noobj.] make a moving vehicle slow down or stop by using a brake  • （用刹车）使（某物）减速或停下；刹住（车）
+ »she had to brake hard to avoid a milk float.  为了不撞上那辆送牛奶的电瓶车，她不得不来了个急刹车。
+ »[as adj. braking] an anti-lock braking system.  防抱刹车系统。
+
+【语源】1. late 18th cent.: of unknown originbrake²
+◙ noun
+1. (historical)an open horse-drawn carriage with four wheels  • [史] 敞篷四轮马车
+
+【语源】1. mid 19th cent.: variant of breakbrake³
+◙ noun
+1. a toothed instrument used for crushing flax and hemp  • （亚麻纤维等的）捣碎机
+  (也作 brake harrow)a heavy machine formerly used in agriculture for breaking up large lumps of earth  • （旧时的重型）碎土机
+
+【语源】1. late Middle English : possibly related to Middle Low German brake and Dutch braak, and perhaps also to breakbrake4
+◙ noun
+1. (archaic or poetic/literary)a thicket  • [古，诗/文] 灌木丛。
+--› see fernbrake 
+
+【语源】1. Old English bracu (first recorded in the plural in fearnbraca 'thickets of fern'), related to Middle Low German brake 'branch, stump'brake5
+◙ (也作 brake fern), noun
+1. a coarse fern of warm and tropical countries, frequently having the fronds divided into long linear segments  • 欧洲蕨，凤尾蕨
+2. Genus Pteris, family Pteridaceae  • 凤尾蕨属，凤尾蕨科
+  archaic term for bracken  • [古] 同 bracken 
+
+【语源】1. Middle English : perhaps an abbreviation of bracken (interpreted as plural)brake6
+1. archaic past of break  • [古] break 的过去式
+
+
+
+————————————
+★☆☆   brake block◙ noun
+1. a block of hard material pressed against the rim of a wheel to slow it down by friction, especially one of a pair made of hardened rubber used on a bicycle  • 刹车片，制动闸瓦
+
+
+
+————————————
+★☆☆   brake caliper◙ noun
+ --› see [义项1] ">caliper [义项1] 
+
+
+
+————————————
+★☆☆   brake disc◙ noun
+1. the disc attached to the wheel in a disc brake  • 制动圆盘
+
+
+
+————————————
+★☆☆   brake drum◙ noun
+1. a broad, very short cylinder attached to a wheel, against which the brake shoes press in a drum brake  • 制动鼓
+
+
+
+————————————
+★☆☆   brake fluid◙ noun
+1. [mass noun] fluid used in a hydraulic brake system  • （用于液压制动器的）制动液
+
+
+
+————————————
+★☆☆   brake harrow◙ noun
+ --› see brake 
+
+
+
+————————————
+★☆☆   brake horsepower◙ [复同单] 
+1. an imperial unit of power, equal to one horsepower but used only as a measure of the power available at the shaft of an engine  • 制动马力（仅指发动机传动轴的可用功率的英制单位，等于1马力）
+  the available power of an engine, assessed by measuring the force needed to brake it  • 制动马力
+
+
+
+————————————
+★☆☆   brake light◙ noun
+1. a red light at the back of a vehicle that is automatically illuminated when the brakes are applied  • （汽车尾部的）制动信号灯，刹车时点亮的红灯
+
+
+
+————————————
+★☆☆   brake lining◙ noun
+1. a layer of hard material attached to a brake shoe or brake pad to increase friction against the drum or disc  • 制动衬面
+
+
+
+————————————
+★☆☆   brakeman
+ / ˈbreikmən /◙ (pl. -men)
+1. [英亦作 brakesman] (chiefly N. Amer.)a railway worker responsible for a train's brakes or for other duties such as those of a guard  • [主北美] （火车上的）司闸员，制动手
+2. a person in charge of brakes, especially in a bobsleigh  • （尤指大雪橇的）刹车手
+
+
+
+————————————
+★☆☆   brake pad◙ noun
+1. a thin block, typically one of a pair, which presses to the disc in a disc brake  • 刹车垫
+
+
+
+————————————
+★☆☆   brake shoe◙ noun
+1. a long curved block, typically one of a pair, which presses on to the drum in a drum brake  • 机动瓦，闸瓦
+
+
+
+————————————
+★☆☆   brake van◙ noun
+1. [Brit.] a railway carriage or wagon from which the train's brakes can be controlled by the guard  • [英] （火车的）守车，司闸车
+
+
+
+————————————
+★☆☆   Bramah
+ / ˈbrɑ:mə /1. ʊoseph (1ˌ48–1814), ənglish inventor. One of the most influential engineers of the ɪndustrial ɔevolution, ɑramah is best known for his hydraulic press, used for heavy forging  • 布拉马，约瑟夫（1748—1814，英国发明家，工业革命时期最有影响的工程师之一，因发明液压机用于重型锻压而闻名于世）
+
+
+
+————————————
+★☆☆   Bramante
+ / brəˈmɑ:nteɪ , brɑ:ˈmɑ:nte /1. Donato (di ængelo) (1444–1ˈ14), ɪtalian architect.æs architect to Pope ʊulius ɪɪ he drew up the first plan for the new St Peter's (begun in 1ˈ06), instigating the concept of a huge central dome  • 布拉曼特，多纳特（•安杰罗）（1444—1514，意大利建筑师，为教皇尤利乌斯二世效力，为圣彼得大教堂［始建于1506年］设计第一张平面图，提出了使用巨型圆顶）
+
+
+
+————————————
+★☆☆   bramble
+ / ˈbræmbl /◙ noun
+1. a prickly scrambling shrub of the rose family, especially a blackberry  • 悬钩子属有刺灌木（尤指黑莓）
+  (chiefly Brit.)the fruit of the blackberry  • [主英] 黑莓
+◙ verb
+1. [noobj.] [usu. as noun brambling] [Brit.] gather blackberries  • [英] 采摘黑莓
+
+【派生】♦ brambly adjective
+
+【语源】1. Old English bræmbel, brǣmel, of Germanic origin; related to broom
+
+
+
+————————————
+★☆☆   bramble shark◙ noun
+1. a heavy-bodied, dull-coloured shark of the tropical Atlantic, with numerous thornlike spines on the back  • 棘吻鲨
+2. Echinorhinus brucus, family Echinorhinidae  • 拉丁名Echinorhinus brucus，棘吻鲨科
+
+
+
+————————————
+★☆☆   brambling
+ / ˈbræmbliŋ /◙ noun
+1. a northern Eurasian finch with a white rump, related to the chaffinch. The male has a black head and range breast in summer  • （欧亚大陆北部的）燕雀
+2. Fringilla montifringilla, family Fringillidae  • 拉丁名Fringilla montifringilla，燕雀科
+
+【语源】1. mid 16th cent.: perhaps from or related to the obsolete German synonym Brämling, related to bramble
+
+
+
+————————————
+★☆☆   Bramley
+ / ˈbræmli /◙ (也作 Bramley's seedling), (pl. -eys)
+1. an English cooking apple of a large variety with firm green flesh  • （供烹食的）绿色大苹果
+
+【语源】1. early 20th cent.: named after Matthew Bramley, the English butcher in whose garden it is said to have first grown c. 1850
+
+
+
+————————————
+★☆☆   bran
+ / bræn /◙ noun
+1. [mass noun] pieces of grain husk separated from flour after milling  • 糠，麸
+
+【语源】1. Middle English : from Old French, of unknown origin
+
+
+
+————————————
+★☆☆   Branagh
+ / ˈbrænə /1. Kenneth əɔharles] (b.1ˌ60), ənglish actor, producer, and director. θith the ɔoyal Shakespeare ɔompany he attracted critical acclaim for roles such as Henry ʒ. Hehas also directed and starred in films such as Hamlet (1ˌˌ6)  • 布拉纳，肯尼思（•查尔斯）（生于1960年，英国演员、制片人和导演，因数度在皇家莎士比亚剧团演出的莎剧中担任角色，如《亨利五世》一剧的同名主角等而受到评论界的赞扬；他还曾担任数部影片的导演或主角，如《哈姆雷特》［1996年］）
+
+
+
+————————————
+★☆☆   branch
+ / brɑ:ntʃ /◙ noun
+1. a part of a tree which grows out from the trunk or from a bough  • 树枝；分枝，枝
+  a lateral extension or subdivision extending from the main part of something, typically one extending from a river, road, or railway  • （尤指河流、公路或铁路的）支流，支路，支线
+  a division or office of a large business or organization, operating locally or having a particular function  • （企业或机构的）分部，分行
+ »he went to work at our Birmingham branch.  他去我们的伯明翰分部工作了。
+  a conceptual subdivision of something, especially a family, group of languages, or a subject  • （尤指家族、语言或学科的）分支，语支；分科
+ »a branch of mathematics called graph theory.  一个称为图论的数学分科。
+◙ verb, [noobj.] 
+1. (of a road or path) divide into one or more subdivisions  • 分支；分岔，分叉
+ »follow this track south until it branches into two.  沿这条小路往南直到岔道口。
+  (of a tree or plant) bear or send out branches  • （树或植物）出枝
+ »[as adj. branched] the common sea lavender can be identified by its branched stem.  可从抽了枝的树干辨认普通海生薰衣草。
+  (branch off)diverge from the main route or part  • 分叉
+ »the road branched off at the market town.  这条路在集镇那儿分了叉。
+  (branch out)extend or expand one's activities or interests in a new direction  • 扩大活动（或兴趣）范围
+ »the company is branching out into Europe.  该公司正把业务扩展到欧洲。
+
+【派生】♦ branchlet noun
+♦ branch-like adjective
+♦ branchy adjective
+
+【语源】1. Middle English : from Old French branche, from late Latin branca 'paw'
+
+
+
+————————————
+★☆☆   branchia
+ / ˈbræŋkiə /◙ (pl. branchiae -kɪiː)
+1. the gills of fish and some invertebrate animals  • （鱼和某些无脊动物的）鳃
+
+【派生】♦ branchial adjective
+
+【语源】1. late 17th cent.: from Latin branchia, (plural) branchiae, from Greek brankhia (plural)
+
+
+
+————————————
+★☆☆   Branchiopoda
+ / ˌbræŋkɪəˈpəʊdə /1. əɛoology] a class of small aquatic crustaceans that includes water fleas and fairy shrimps, which are distinguished by having gills upon the feet  • [动] 鳃足纲动物（水栖小型甲壳类动物，包括水蚤和丰年虫，特点是其鳃长在足上而非在头部）
+
+【派生】♦ branchiopod noun
+
+【语源】1. modern Latin (plural), from Greek brankhia 'gills' + pous, pod- 'foot'
+
+
+
+————————————
+★☆☆   branch line◙ noun
+1. a secondary railway line running from a main line to a terminus  • （铁路）支线
+
+
+
+————————————
+★☆☆   branch water◙ (也作 branch), noun
+1. [mass noun] [US] ordinary water, especially when added to alcoholic drinks  • [美] （调制酒精饮料用的）清水
+
+
+
+————————————
+★☆☆   Brancusi
+ / brænˈku:zi: , brɑ:ŋˈku:ʃ /1. ɔonstantin (18ˌ6–1ˌˈˌ), ɔomanian sculptor, who spent much of his working life in ʃrance. His sculpture represents an attempt to move away from a representational art and to capture the essence of forms by reducing them to their ultimate, almost abstract, simplicity  • 布兰库兹，康斯坦丁（1876—1957，罗马尼亚雕塑家，在法国度过其大部分职业生涯；他的雕塑代表这样一种尝试，即脱离具象派艺术，通过将形式极度简化为抽象单纯的状态，以抓住形式的实质）
+
+
+
+————————————
+★☆☆   brand
+ / brænd /◙ noun
+1. a type of product manufactured by a particular company under a particular name  • 同一牌子的商品
+ »a new brand of soap powder.  一种新牌子的肥皂粉。
+  a brand name  • 商标
+ »the firm will market computer software under its own brand.  该公司将推出自有品牌的计算机软件。
+  a particular type or kind of something  • （独特的）一种，一类
+ »the Finnish brand of democratic socialism.  芬兰式的民主社会主义。
+2. identifying mark burned on livestock or (especially in former times) criminals or slaves with a branding iron  • （尤指从前打在囚犯或奴隶身上的）烙印，火印
+  (archaic)a branding iron  • [古] 烙铁
+  (figurative)a habit, trait, or quality that causes someone public shame or disgrace  • [喻] 耻辱的标志，污名
+ »the brand of Paula's dipsomania.  保拉有嗜酒狂的坏名声。
+3. a piece of burning or smouldering wood  • 燃烧的木头，烧焦的木头
+ »took two burning brands from the fire.  从火里面取出两根正在燃烧的木头。
+4. (poetic/literary)a sword  • [诗/文] 剑
+◙ verb, [with obj.] 
+1. mark (an animal or, in former times, a criminal or slave) with a branding iron  • （用烙铁）打烙印于（动物、囚犯或奴隶身上）；以烙铁打标记
+  mark indelibly  • 留下痕迹，留下斑点
+ »an ointment that branded her with unsightly violet-coloured splotches.  药膏在她身上留下了很不好看的紫斑。
+  describe (someone or something) as having a nature or quality regarded as bad or shameful  • 谴责，加污名于
+ »the media was intent on branding us as villains.  媒体一心想给我们扣上恶棍的帽子。
+ »[with obj.andcomplement] she was branded as a liar.  人们谴责她是个撒谎精。
+2. assign a brand name to  • 加商标于
+ »[as adj. branded] cut-price branded goods.  打折的品牌商品。
+  [as noun branding] the promotion of a particular product or company by means of advertising and a distinctive design  • 促销；宣传
+
+【派生】♦ brander noun
+
+【语源】1. Old English brand 'burning' (also in sense 3), of Germanic origin; related to German Brand, also to burnThe verb sense 'mark permanently with a hot iron' dates from late Middle English , giving rise to the noun sense 'a mark of ownership made by branding' (mid 17th cent.), whence sense 1 (early 19th cent.)
+
+
+
+————————————
+★☆☆   brandade
+ / brɔŋˈdɑ:d /◙ noun
+1. a Provençal dish consisting of salt cod mixed into a purée with olive oil and milk  • （法国普罗旺斯地区的一种菜肴）奶油烙（鳕）鱼，鱼羹
+
+【语源】1. French, from modern Provençal brandado, literally 'something that has been shaken'
+
+
+
+————————————
+★☆☆   Brandenburg
+ / ˈbrændənˌbɜ:g , ˈbrɑ:ndənˌbʊək /1. a state of ŋə Germany; capital, Potsdam.ðhe modern state corresponds to the western part of the former Prussian electorate, of which the eastern part was ceded to Poland after the Second θorld θar  • 勃兰登堡州（德国东北部的一个州，首府波茨坦；现该州所在地即前普鲁士选帝侯领地的西部，该领地的东部二战以后划归波兰）
+
+
+
+————————————
+★☆☆   Brandenburg Gate1. one of the city gates of Berlin (built 1788–91), the only one that survives. After the construction of the Berlin Wall in 1961 it stood in East Berlin, a conspicuous symbol of a divided city. It was reopened in December 1989  • 勃兰登堡门（柏林惟一保留至今的、建于1788—1791期间的城门；1961年柏林墙建成后勃兰登堡门地处东柏林，是柏林分隔的触目象征，1989年重新开放）
+
+
+
+————————————
+★☆☆   brand extension◙ noun
+1. an instance of using an established brand name or trademark on new products, so as to increase sales  • 品牌推广
+
+
+
+————————————
+★☆☆   branding iron◙ noun
+1. metal implement which is heated and used to brand livestock or (especially in former times) criminals or slaves  • （为牲口，或［尤在旧时］囚犯或奴隶打标记用的）烙铁
+
+
+
+————————————
+★☆☆   brandish
+ / ˈbrændɪʃ /◙ verb
+1. [with obj.] wave or flourish (something, especially a weapon) as a threat or in anger or excitement  • 挥舞，挥动（尤指武器）
+
+【派生】♦ brandisher noun
+
+【语源】1. Middle English : from Old French brandiss-, lengthened stem of brandir; ultimately of Germanic origin and related to brand
+
+
+
+————————————
+★☆☆   brand leader◙ noun
+1. the best-selling or most highly regarded product or brand of its type  • 知名品牌
+
+
+
+————————————
+★☆☆   brandling
+ / ˈbrændlɪŋ /◙ noun
+1. a red earthworm with rings of a brighter colour, typically found in manure, and used as bait by anglers and in composting kitchen waste  • 赤子爱蚯蚓，红蚯蚓
+2. Eisenia fetida, family Lumbricidae  • 拉丁名Eisenia fetida，正蚓科
+
+【语源】1. mid 17th cent.: from brand + -ling
+
+
+
+————————————
+★☆☆   brand loyalty◙ noun
+1. [mass noun] the tendency of some consumers to continue buying the same brand of goods despite the availability of competing brands  • 品牌忠信度
+
+
+
+————————————
+★☆☆   brand name◙ noun
+1. a name given by the maker to a product or range of products, especially a trademark  • 一种商品（或一系列商品的）名称（尤指商标）
+
+
+
+————————————
+★☆☆   brand new◙ adjective
+1. completely new  • 崭新的，全新的
+
+【语源】1. late 16th cent.: from brand + new,with the idea 'straight from the fire'
+
+
+
+————————————
+★☆☆   Brando
+ / ˈbrændəʊ /1. Marlon (b. 1ˌ24), æmerican actor. æn exponent of method acting, first attracted critical acclaim in the stage production of æ Streetcar ŋamed Desire (1ˌ4ˌ); he starred in the film version four years later. Other notable films: On the θaterfront (1ˌˈ4, for which he won an Oscar) and ðhe Godfather (1ˌˌ2)  • 白兰度，马龙（生于1924年，美国演员，体验派表演方法代表人物，在演出舞台剧《欲望号街车》［1947］时首次受到了评论界的赞扬；四年以后在电影《欲望号街车》里担任主角；他参加演出的知名影片还有： 《在河滨区》［1954］，该剧为他赢得奥斯卡奖，和《教父》［1972］）
+
+
+
+————————————
+★☆☆   Brands Hatch1. a motor-racing circuit near Farningham in Kent  • 布兰兹哈奇赛道（英国肯特郡法宁汉姆附近的一个赛车环形赛道）
+
+
+
+————————————
+★☆☆   Brandt
+ / brænt /ɑrandt¹
+1. ɑill (1ˌ04–83), German-born ɑritish photographer; full nameHermann θilhelm ɑrandt. He is best known for his almost abstract treatment of the nude, as in Perspectives of ŋudes (1ˌ61)  • 布兰特，比尔（德国出生的英国摄影家，全名赫尔曼•威廉•布兰特，主要以其对裸体形象的抽象处理闻名，如其作品集《裸体的透视》［1961年］中所为）Brandt²
+1. Willy (1913–92), German statesman, Chancellor of West Germany 1969–74; bornKarl Herbert Frahm. He achieved international recognition for his policy of détente and the opening of relations with the countries of the Eastern bloc [Ostpolitik] .Nobel Peace Prize (1971)  • 勃兰特•威利（1913—1992，德国政治家，西德总理［1969—1974］，原名卡尔•赫伯特•弗拉姆；因奉行缓和国际关系及与东方集团国家建立关系的东方政策［Ostpolitik］而得到了国际社会的认可，1971年获诺贝尔和平奖）
+
+
+
+————————————
+★☆☆   Brand X◙ noun
+1. a name used for an unidentified brand contrasted unfavourably with a product of the same type which is being promoted  • （为促销某商品而进行比较时用作陪衬的）X牌货
+
+
+
+————————————
+★☆☆   brandy
+ / ˈbrændi /◙ (pl. -ies)
+1. [mass noun] a strong alcoholic spirit distilled from wine or fermented fruit juice  • 白兰地（用葡萄酒或发酵果汁酿成的烈性酒）
+
+【语源】1. mid 17th cent.: from earlier brandwine, brandewine, from Dutch brandewijn, from branden 'burn, distil' + wijn 'wine'
+
+
+
+————————————
+★☆☆   brandy-bottle◙ noun
+1. the common yellow water lily, the flowers of which produce an alcoholic smell which is attractive to beetles  • 欧亚萍蓬草。 见 water lily
+
+
+
+————————————
+★☆☆   brandy butter◙ noun
+1. [mass noun] [Brit.] a stiff mixture of brandy, butter, and sugar, served with hot desserts  • [英] 白兰地黄油，白兰地白脱
+
+
+
+————————————
+★☆☆   brandy snap◙ noun
+1. a crisp, rolled, gingerbread wafer, typically filled with cream  • （用白兰地调味的）姜汁饼干
+
+
+
+————————————
+★☆☆   branks
+ / bræŋks /◙ plural noun
+1. (historical)an instrument of punishment for a scolding woman, consisting of an iron framework for the head and a sharp metal gag for restraining the tongue  • [史] 口钳（用来惩治骂街泼妇的一种金属刑具）
+
+【语源】1. mid 16th cent.: origin uncertain; compare with German Pranger 'a pillory or bit for a horse' and Dutch prang 'a fetter'; also with late Middle English barnacle(s), denoting a powerful bit for restraining a horse
+
+
+
+————————————
+★☆☆   branle
+ / ˈbræn(ə)l /◙ noun
+1. a 16th-century court dance of French origin  • 布郎莱舞（16世纪宫廷舞，起源于法国）
+
+【语源】1. late 16th cent.: from French, from branler 'shake'
+
+
+
+————————————
+★☆☆   brannigan
+ / ˈbræniɡən /◙ (也作 branigan), noun
+1. [N. Amer. informal] a brawl or violent argument  • [北美， 非正式] 争吵，激烈的争
+
+【语源】1. late 19th cent.: of unknown origin; perhaps from the surname Brannigan
+
+
+
+————————————
+★☆☆   Branson1. Richard (b.1950), English businessman. He made his name with the company Virgin Records, which he set up in 1969. He later influenced the opening of air routes with Virgin Atlantic Airways, established in 1984  • 布兰松，理查德（生于1950年，英国商人，1969年创办了维尔京唱片公司并因此而出名，后为建于1984年的维珍航空公司开辟航线出了很大的力）
+
+
+
+————————————
+★☆☆   brant
+ / brænt /◙ noun
+1. North American term for brent goose  • [北美] 同 brent goose 
+
+
+
+————————————
+★☆☆   bran tub◙ noun
+1. [Brit.] a lucky dip in which the hidden items are buried in bran  • [英] 摸彩桶
+
+
+
+————————————
+★☆☆   Braque
+ / brɑ:k , bræk /1. Georges (1882–1ˌ63), ʃrench painter. His collages, which introduced commercial lettering and fragmented objects into pictures to contrast the real with the ‘illusory’ painted image, were the first stage in the development of synthetic cubism  • 布拉克•乔治（1882—1963，法国画家，在拼贴画中使用商业文字体和细碎物体，将真实与虚幻对照起来，他是综合立体画派的早期代表人物）
+
+
+
+————————————
+★☆☆   brash
+ / bræʃ /brash¹
+◙ adjective
+1. self-assertive in a rude, noisy, or overbearing way  • 粗鲁的，无礼的
+ »he was brash, cocky, and arrogant.  他这个人无礼，自大且傲慢。
+  (of a place or object) having an ostentatious or tasteless appearance  • （地方或物品）铺张的，无品味的
+ »the cafe was a brash new building.  这家咖啡馆是座铺张的新楼。
+  (of colour) too bright; loud  • 刺眼的，俗艳的
+ »the bright, brash scarlet of her hair.  她那头惹眼的、猩红色头发。
+
+【派生】♦ brashly adverb
+♦ brashness noun
+
+【语源】1. early 19th cent. (originally dialect); perhaps a form of rashbrash²
+◙ noun
+1. [mass noun] a mass of fragments, in particular  • 碎物堆，尤指
+  loose broken rock or ice  • 碎石堆，碎冰堆
+  clippings from hedges, shrubs, or other plants  • （修剪树篱、灌木或其他植物时剪下的）树枝堆
+
+【语源】1. late 18th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   Brasil
+ / brəˈzil /1. Portuguese name for ɑrazil  • [葡] 同 Brazil 
+
+
+
+————————————
+★☆☆   Brasilia
+ / brəˈzi:ljə /1. the capital, since 1ˌ60, of ɑrazil; pop. 1,601,100 (1ˌˌ1). Designed by ɚúcio ɔosta in 1ˌˈ6, the city was located in the centre of the country with the intention of drawing people away from the crowded coastal areas  • 巴西利亚（1960年迄今为巴西首都；1991年人口1,601,100, 1956年，由鲁西欧•科斯塔设计，该市被设在巴西中部，旨在解决沿海地区人口拥挤的问题）
+
+
+
+————————————
+★☆☆   brass
+ / brɑ:s /◙ noun
+1. [mass noun] a yellow alloy of copper and zinc  • 黄铜（铜锌合金）
+ »[as modifier] brass plate on the door.  黄铜门牌。
+  [count noun] a decorative object made of such an alloy  • 黄铜饰品
+ »shining brasses stood on the mantelpiece.  壁炉上闪亮的黄铜饰品。
+  (也作 horse brass)[count noun] a round flat brass ornament for the harness of a draught horse  • 黄铜马饰
+  [count noun] [Brit.] a memorial, typically a medieval one, consisting of a flat piece of inscribed brass, laid on the floor to set into the wall of a church  • [英] （教堂内放在地上或镶在墙上刻有铭文的）黄铜纪念碑
+  [count noun] a brass block or die used for stamping a design on a book binding  • （用于书籍封面设计等的）铜版
+  [Brit. informal] money  • [英， 非正式] 钱
+ »they wanted to spend their newly acquired brass.  他们想花掉刚赚的钱。
+  [Music] brass wind instruments (including trumpet, horn, and trombone) forming a band or a section of an orchestra  • [乐] 铜管乐器
+ »the brass and percussion were consistently too loud.  铜管乐器和打击乐器终归嫌吵。
+  (也作 top brass)[informal] people in authority or of high military rank  • [非正式] 官方权威人士，高级军官
+  [informal] an extended metaphorical use referring to a person's hardness or effrontery  • [非正式] 冷漠的；厚颜无耻的
+ »I didn't think that his mother would have the brass neck to come round here.  我想他母亲不可能厚着脸皮到这里来。
+
+【IDIOMS】◘ brassed off
+1. [Brit. informal] exasperated  • [英，非正式] 厌烦的，恼怒的，满腹牢骚的
+◘ a brass farthing
+1. [with negative] [informal] no money or assets at all  • [非正式] 小钱；微乎其微的量
+ »she hasn't got two brass farthings to rub together.  她一无所有。
+◘ get down to brass tacks
+1. [informal] start to consider the basic facts or practical details  • [非正式] 讨论实质问题
+◘ the brass ring
+1. [N. Amer. informal] success, typically as regarded as a reward for ambition or hard work  • [北美，非正式] 成功的机遇；发财的机会
+◘ where there's muck there' brass --› see muck 
+
+【语源】1. Old English bræs, of unknown origin
+
+
+
+————————————
+★☆☆   brassard
+ / ˈbræsɑ:d /◙ noun
+1. a band worn on the sleeve, typically with a uniform  • 臂章，袖章
+  (historical)a piece of armour for the upper arm  • [史] 臂铠
+
+【语源】1. late 16th cent. (denoting a piece of armour for the upper arm): from French, from bras 'arm'
+
+
+
+————————————
+★☆☆   brass band◙ noun
+1. a group of musicians playing brass instruments and sometimes also percussion  • 铜管乐队，军乐队
+
+
+
+————————————
+★☆☆   brasserie
+ / ˈbræsəri: /◙ (pl. -ies)
+1. a restaurant in France or one in French style, typically serving inexpensive food  • （尤指供应廉价食品的）法国餐馆（或法式餐馆）
+
+【语源】1. mid 19th cent.: French, originally brewery', from brasser 'to brew'
+
+
+
+————————————
+★☆☆   Brassey
+ / ˈbræsi /1. ðhomas (180ˈ–ˌ0), ənglish engineer and railway contractor. He built more than 10,000 km (6,ˈ00 miles) of railways in əurope, ɪndia, South æmerica, and æustralia  • 布拉西•托马斯（１８０５—１８７０，英国工程师、铁路建设承包商，他在欧洲、印度、南美以及澳大利亚承包建设的建铁路总长在10,000公里，即6,500英里以上）
+
+
+
+————————————
+★☆☆   brass hat◙ noun
+1. [Brit. informal] a high-ranking officer in the armed forces  • [英，非正式] 高级军官
+
+【语源】1. late 19th cent.: so named because of the gilt insignia on the caps of such officers
+
+
+
+————————————
+★☆☆   brassica
+ / ˈbræsɪkə /◙ noun
+1. a plant of a genus that includes cabbage, swede, rape, and mustard  • 芸苔
+2. Genus Brassica, family Cruciferae  • 芸苔属，十字花科
+
+【语源】1. modern Latin, from Latin, literally cabbage'
+
+
+
+————————————
+★☆☆   brassie
+ / ˈbrɑ:si /◙ (也作 brassy), (pl. -ies)
+1. [Golf, informal] a number two wood  • [高尔夫非正式] 铜头球棒；第二号球棒
+
+【语源】1. late 19th cent.: so named because the wood was originally shod with brass
+
+
+
+————————————
+★☆☆   brassiere
+ / ˈbræsiə /◙ noun
+1. full form of bra  • bra 的全名
+
+【语源】1. early 20th cent.: from French, literally bodice, child's vest'
+
+
+
+————————————
+★☆☆   brass monkey◙ noun
+1. [informal] used in phrases to refer to extremely cold weather  • [非正式] 猴儿冷（指特别冷）
+ »it's brass monkey weather tonight.  今晚特别冷。
+ »it was cold enough to freeze the balls off a brass monkey.  天太冷，快要把下巴都冻掉了。
+
+【语源】1. late 19th cent.: from a type of brass rack or ‘monkey’ in which cannonballs were stored and which contracted in very cold weather, ejecting the balls
+
+
+
+————————————
+★☆☆   brass rubbing◙ noun
+1. [mass noun] the action of rubbing heelball or chalk over paper laid on an engraved brass to reproduce its design  • （在黄铜碑、牌上拓取图像、铭文等的）拓印技艺；拓印
+  [count noun] an image created by doing this  • 拓片，拓印图
+
+
+
+————————————
+★☆☆   brassware
+ / ˈbrɑ:sweə /◙ noun
+1. [mass noun] utensils or other objects made of brass  • 黄铜制品，黄铜器皿
+
+
+
+————————————
+★☆☆   brassy
+ / ˈbrɑ:si /brassy¹
+◙ (brassier, brassiest)
+1. resembling brass in colour; bright or harsh yellow  • 黄铜色的
+  sounding like a brass musical instrument; harsh and loud  • （声音）似铜管乐器的，响而刺耳的
+  (of a person, typically a woman) tastelessly showy or loud in appearance or manner  • （人，尤指女人）浮华的，俗艳的；厚颜无耻的
+ »her brassy, audacious exterior.  她的俗艳而放肆的外表。
+
+【派生】♦ brassily adverb
+♦ brassiness noun
+brassy²
+◙ noun
+1. variant spelling of brassie  • 同 brassie 
+
+
+
+————————————
+★☆☆   Brassó
+ / ˈbrɔʃʃo: /1. Hungarian name for ɑraşov  • [匈牙利] 同 Braşov 
+
+
+
+————————————
+★☆☆   brat
+ / bræt /◙ noun
+1. (informal, derogatory or humorous)a child, typically badly behaved one  • [非正式，贬，幽默] （尤指举止粗鲁的）孩子，顽童
+
+【派生】♦ brattish adjective
+♦ brattishness noun
+♦ bratty adjective
+
+【语源】1. mid 16th cent.: perhaps an abbreviation of synonymous Scots. bratchet, from Old French brachet 'hound, bitch'; or perhaps from dialect brat rough garment, rag, based on Old Irish bratt 'cloak'
+
+
+
+————————————
+★☆☆   Bratislava
+ / ˌbrætiˈslɑ:və /1. the capital of Slovakia, a port on the Danube; pop. 441,4ˈ0 (1ˌˌ1). ʃrom 1ˈ26 to 1ˌ84 it was the capital of Hungary. German name Pressburg; Hungarian name Pozsony  • 布拉迪斯拉发（斯洛伐克首都，多瑙河上的港口城市；1991年人口441,450，1526年到1784年期间是匈牙利的首都；。 德语名 Pressburg; 匈牙利语名 Pozsony）
+
+
+
+————————————
+★☆☆   brat pack◙ noun
+1. [informal] a rowdy and ostentatious group of young celebrities, typically film stars  • [非正式] 一群吵闹、招摇的年轻名流（尤指电影明星）
+
+【派生】♦ brat packer noun
+
+【语源】1. 1980s: after rat pack
+
+
+
+————————————
+★☆☆   brattice
+ / ˈbrætis /◙ noun
+1. a partition or shaft lining in a coal mine, typically made of wood or heavy cloth  • （矿井中通气用的）隔板，风障
+
+【派生】♦ bratticed adjective
+
+【语源】1. Middle English (denoting a temporary wooden gallery for use in a siege): from Old French bretesche, from medieval Latin britisca, from Old English brittisc 'British'. The current sense dates from the mid 19th cent
+
+
+
+————————————
+★☆☆   brattle
+ / ˈbrætl /(dialect)ə方] 
+◙ noun
+1. a sharp rattling sound  • 格格声，轰隆声
+ »a distant brattle of thunder.  远处隆隆的雷声。
+◙ verb
+1. [with obj.] rattle (something)  • 使发出格格声（或隆隆声）
+  [noobj.] produce a rattling sound  • 发出格格声（或隆隆声）
+
+【语源】1. early 16th cent.: probably imitative, from a blend of break and rattle
+
+
+
+————————————
+★☆☆   bratwurst
+ / ˈbrætwə:st /◙ noun
+1. [mass noun] a type of fine German pork sausage that is generally fried or grilled  • （供煎食的）德国式香肠
+
+【语源】1. German, from Brat 'a spit' + Wurst 'sausage'
+
+
+
+————————————
+★☆☆   Braun
+ / braun /ɑraun¹
+1. əva (1ˌ10–4ˈ), German mistress of ædolf Hitler.ɑraun and Hitler are thought to have married during the fall of ɑerlin, shortly before committing suicide together in the air-raid shelter of his ɑerlin headquarters  • 布劳恩，爱娃（1910—1945，希特勒的德国情妇；人们认为布劳恩和希特勒在柏林陷落时结婚，此后不久就与希特勒在柏林总部的防空洞里双双自杀）Braun²
+1. Karl Ferdinand (1850–1918), German physicist. Brauninvented the coupled system of radio transmission and the Braun tube (forerunner of the cathode ray tube), in which a beam of electrons could be deflected. Nobel Prize for Physics (1909)  • 布劳恩，卡尔•费迪南德（1850—1918，德国物理学家，发明了无线电报发报耦合系统和电子束能在其中偏斜的布劳恩管，即阴极射线管的前身；1909年获诺贝尔物理奖）Braun³
+1. Wernher Magnus Maximilian von (1912–77), German-born American rocket engineer. Braun led development of the V-2 rockets used by Germany in the Second World War. After the war he moved to the US, where he pioneered the work which resulted in the US space programme  • 布劳恩，魏伯纳•马格纳斯•麦克西米利安•冯（1912—1977，德国出生的美国火箭工程师，领导了V２型火箭的研发工作，德国在二战中曾使用过该火箭，二战后移居美国，在那里他所从事的开拓性工作导致了太空计划的产生）
+
+
+
+————————————
+★☆☆   Braunschweig
+ / ˈbraunʃwaiɡ /1. German name for ɑrunswick  • [德] 同 Brunswick 
+
+
+
+————————————
+★☆☆   bravado
+ / brəˈvɑ:dəʊ /◙ noun
+1. [mass noun] a bold manner or a show of boldness intended to impress or intimidate  • 虚张声势，装作气势汹汹的样子
+
+【语源】1. late 16th cent.: from Spanish bravada, from bravo 'bold' (see brave , -ado )
+
+
+
+————————————
+★☆☆   brave
+ / breiv /◙ adjective
+1. ready to face and endure danger or pain; showing courage  • 勇敢的
+ »she was very brave about the whole thing.  在整个过程之中她都很勇敢。
+ »he put up a brave fight before losing.  输之前他进行了勇敢的斗争。
+ »[as plural noun the brave] it was a time to remember the brave.  是记住勇士们的时候了。
+  (poetic/literary)fine or splendid in appearance  • [诗/文] 美好的，壮观的
+ »his medals made a brave show.  他那些奖章很是光彩夺目。
+◙ noun
+  [dated] an American Indian warrior  • [旧] 美洲印第安武士
+  a young man who shows courage or a fighting spirit  • 英勇善战的年轻人
+◙ verb
+1. [with obj.] endure or face (unpleasant conditions or behaviour) without showing fear  • 勇敢面对
+ »he pulled on his coat ready to brave the elements.  他穿好大衣准备面对恶劣的天气。
+ »I'll brave it out and meet new people.  我会鼓作勇气去结识新的人们。
+
+【IDIOMS】◘ brave new world
+1. used to refer, often ironically, to a new and hopeful period in history resulting from major changes in society  • 美好的新世界（指社会大变动后出现的使人满怀希望的新时期，常含有讽刺意味）
+ » the brave new world of the health care market.  保健市场这个大有可为的新天地。
+◘ put a brave face on something --› see face 
+
+【派生】♦ bravely adverb
+♦ braveness noun
+
+【语源】1. late 15th cent.: from French, from Italian bravo 'bold' or Spanish bravo 'courageous', untamed, savage, based on Latin barbarus (see barbarous )
+
+
+
+————————————
+★☆☆   bravery
+ / ˈbreɪvəri: , ˈbreɪvri: /◙ noun
+1. [mass noun] courageous behaviour or character  • 勇敢的行为（或性格）
+
+【语源】1. mid 16th cent. (in the sense 'bravado'): from French braverie or Italian braveria 'boldness', based on Latin barbarus (see barbarous )
+
+
+
+————————————
+★☆☆   bravo
+ / ˈbrɑ:vəʊ , brɑ:ˈvəʊ /bravo¹
+◙ exclamation
+1. used to express approval when a performer or other person has done something well  • 好啊，妙
+ »people kept on clapping and shouting ‘bravo!’.  人们一直不停地拍手欢呼“好啊！”。
+◙ (pl. -os)
+1. a cry of bravo  • 喝彩声
+ »bravos rang out.  突然响起喝彩声。
+2. a code word representing the letter B, used in radio communication  • （无线电通信中）字母B的代码
+
+【语源】1. mid 18th cent.: from French, from Italian, literally bold' (see brave )bravo²
+◙ (pl. -os 或 -oes)
+1. a thug or hired assassin  • 暴徒，（受雇于人的）杀手
+
+【语源】1. late 16th cent.: from Italian, from bravo bold (one') (see brave )
+
+
+
+————————————
+★☆☆   bravura
+ / brəˈvjuərə /◙ noun
+1. [mass noun] great technical skill and brilliance shown in a performance or activity  • 出色的表演，高超的技巧
+ »the recital ended with a blazing display of bravura.  独奏会以出色的表演而结束。
+ »[as modifier] a bravura performance.  出色的高难度表演。
+  the display of great daring  • 大胆的行为
+ »the show of bravura hid a guilty timidity.  表面上的大胆掩盖了心虚和怯懦。
+
+【语源】1. mid 18th cent.: from Italian, from bravo 'bold'
+
+
+

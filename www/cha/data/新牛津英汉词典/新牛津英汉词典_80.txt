@@ -1,0 +1,3731 @@
+﻿————————————
+★☆☆   feed
+ / fi:d /◙ (past and past participle fed fɛd), [with obj.] 
+1. give food to  • 给…食物；喂
+ »the raiders fed the guard dog to keep it quiet.  偷袭者为了让护门犬不出声给它吃了东西。
+ »[with two objs] she fed him bits of biscuit.  她喂了他几片饼干。
+  [no obj.] (especially of an animal or baby) take food; eat something  • （尤指动物、婴儿）吃东西，进食
+ »the baby will feed according to her needs.  婴儿会根据自己的需要进食。
+  (feed someone/thing up)give a person or animal large amounts of food  • 为（人，动物）大量供食
+  provide an adequate supply of food for  • 为…提供充足的食物；养活
+ »the island's simple agriculture could hardly feed its inhabitants.  这座岛农业单一，无法养活岛上的居民。
+  [informal] satisfy (a drug habit)  • [非正式] 满足（毒瘾）
+ »users who commit crime to feed their habit.  为满足毒瘾而犯罪的吸毒者。
+  [no obj.] (feed on/off)derive regular nourishment from (a particular substance)  • 以…为主食，主要吃，专吃
+ »the bird feeds on cliff-top vegetation.  这种鸟专吃悬崖顶上的植物。
+ »his powerful mind fed off political discussion.  他靠政治讨论锻炼了强健的思维。
+  encourage the growth of  • 激发，促进
+ »I could feed my melancholy by reading Romantic poetry.  阅读浪漫派诗歌可以引发我的忧思。
+  give fertilizer to (a plant)  • 给（植物）施肥
+  put fuel on (a fire)  • 给（火）添柴；为…加燃料
+2. supply (a machine) with material or power  • 为（机器）提供原料（或动力）
+ »the programs are fed into the computer.  程序装入了计算机。
+  [with two objs] supply (someone) with (information, ideas, etc.)  • 为（人）提供（信息、主意等）
+ »I think he is feeding his old employer commercial secrets.  我想他在为以前的雇主提供商业机密。
+  supply water to (a body of water)  • 为（水体）供水
+ »the pond is fed by a small stream.  这个池塘的水来自一条小溪。
+ »[no obj.] water feeds into the lower pool.  水流入了更低处的池子。
+  insert further coins into (a meter) to extend the time for which it operates  • 继续向（计费器）投币
+  [with two objs] prompt (an actor) with (a line)  • 为（演员）提（台词）
+ »you were still in the wings feeding Micky his lines.  你当时仍在舞台侧面为米其提示台词。
+  (in ball games) pass (the ball) to a player  • （球类运动用语）传（球）
+ »he took the ball and fed Salley.  他抢到球，把它传给了沙莉。
+3. [with obj. and adverbial of direction] cause to move gradually and steadily, typically through a confined space  • 使穿过（受限的空间）
+ »make holes through which to feed the cables.  钻穿电缆的洞。
+  [no obj.] (feed through)(of a new factor or development) begin to be influential  • （新因素，新发展）开始产生影响
+ »the impact of the cut in interest rates has yet to feed through.  降低利率的影响还未显现出来。
+◙ noun
+1. an act of giving food, especially to animals or a baby, or of having food given to one  • （尤指给动物或婴儿）喂食
+ »you'll see the baby in the morning for her first feed.  早上第一次喂婴儿时你就会看到她。
+  [informal] a meal  • [非正式] 一餐
+ »there were games and a lovely feed.  玩了些游戏又吃了一顿美餐。
+  [mass noun] food for domestic animals  • （家畜的）饲料
+ »cow feed.  牛饲料。
+2. a device or pipe for supplying material to a machine  • （机器的）给料管，给料装置
+ »the plotter has a continuous paper feed.  这个绘图仪有一个连续进纸的装置。
+  the supply of raw material to a machine or device  • （机器、设备的）原料供给
+ »[as modifier] a feed pipe.  给料管。
+  (chiefly N. Amer.)a broadcast distributed by a satellite or network from a central source to a large number of radio or television stations  • [主北美] 传播（从一个中心源通过卫星或网络传送到大量广播电视台的广播）
+ »a satellite feed from Washington.  来自华盛顿的卫星传播。
+3. a line or prompt given to an actor on stage  • （给舞台演员的）提词，提白
+  an actor who provides such a line or prompt  • 提示台词的演员
+
+【IDIOMS】◘ off one's feed
+1. [informal] having no appetite  • [非正式] 没胃口
+
+【语源】1. Old English fēdan (verb), of Germanic origin; related to Dutch voeden and food
+
+【PHR V】◘ feed back
+1. (of a response) influence the development of the thing that has provoked it  • （反应）产生影响，反馈
+ »what the audience tells me feeds back into my work.  观众的意见反馈到我的工作中。
+2. (of an electrical or other system) produce feedback  • （电或其他系统）产生反馈
+
+
+
+————————————
+★☆☆   feedback
+ / ˈfi:dbæk /◙ noun, [mass noun] 
+1. information about reactions to a product, a person's performance of a task, etc. which is used as a basis for improvement  • 反馈信息
+2. the modification or control of a process or system by its results or effects, for example in a biochemical pathway or behavioural response  • （生化途径或行为反应等的）回授，反馈。
+--› see negative feedback , positive feedback 
+  the return of a fraction of the output signal from an amplifier, microphone, or other device to the input of the same device; sound distortion produced by this  • （扩音器、麦克风等的）回授（流）；反馈噪音
+
+
+
+————————————
+★☆☆   feeder
+ / ˈfi:də /◙ noun
+1. a person or animal that eats a particular food or in a particular manner  • 进某食物者；以某方式进食者
+ »a plankton feeder.  以浮游生物为食者。
+2. a container filled with food for birds or mammals  • （鸟类、哺乳动物的）食槽；喂食器
+  [Brit.] a child's feeding bottle  • [英] 奶瓶
+  [Brit.] a bib for an infant  • [英] 婴儿口水兜
+  [Fishing] . short for swimfeeder  • [渔] swimfeeder的简称
+3. a person or thing that supplies something, in particular  • 提供者，尤指
+  a device supplying material to a machine  • 给料装置，加料器
+ »the automatic sheet feeder holds up to 10 sheets of paper.  这种自动进纸器可装十张纸。
+  a tributary stream  • 支流
+  [usu. as modifier] a branch road or railway line linking outlying districts with a main communication system  • （连接偏远地区与主要交通网络的）支路，（铁路）支线
+  a main carrying electricity to a distribution point  • 馈电线，馈路
+  [usu. as modifier] a school, sports team, etc. from which members move on to one more advanced  • 预备学校（或运动队等）
+ »a sixth-form college and its feeder schools.  一所六年制学院及其预备学校。
+
+
+
+————————————
+★☆☆   feedforward
+ / ˌfi:dˈfɔ:wəd /◙ noun
+1. [mass noun] the modification or control of a process using its anticipated results or effects  • 前馈
+
+
+
+————————————
+★☆☆   feeding bottle◙ noun
+1. [Brit.] a bottle fitted with a teat for giving milk or other drinks to babies and very young children  • [英] 奶瓶
+
+
+
+————————————
+★☆☆   feeding frenzy◙ noun
+1. an aggressive and competitive group attack on prey by a number of sharks or piranhas  • （鲨鱼、水虎鱼的）群体捕食
+  (figurative)an episode of frantic competition or rivalry for something  • [喻] 激烈竞争，激烈对抗
+ »the remark caused a media feeding frenzy.  这句话引发了媒体的激烈竞争。
+
+
+
+————————————
+★☆☆   feedlot
+ / ˈfi:dlɔt /◙ noun
+1. an area or building where livestock are fed or fattened up  • （家畜）饲养场
+
+
+
+————————————
+★☆☆   feedstock
+ / ˈfi:dstɔk /◙ noun
+1. [mass noun] raw material to supply or fuel a machine or industrial process  • （机器、工业生产的）原料，给料
+
+
+
+————————————
+★☆☆   feedstuff
+ / ˈfi:dstʌf /◙ noun
+1. [一般作 feedstuffs] a food provided for cattle and other livestock  • 饲料
+
+
+
+————————————
+★☆☆   feedthrough◙ noun, [mass noun] 
+1. the passage of something or transfer of an influence through or beyond a specified point or stage  • 通道；途径，渠道
+ »the feedthrough to further education.  进修的途径。
+  [count noun] an electrical connector used to join two parts of a circuit on opposite sides of something, such as a circuit board or an earthing screen  • （电路）插座，接线盒（如电路板、地网）
+
+
+
+————————————
+★☆☆   fee farm◙ noun
+1. [Law, chiefly historical] an estate or land held in fee simple subject to a perpetual fixed rent  • [律主史] （租金恒定的）非限定继承者身份的保有土地；世袭地租农场
+  [mass noun] the tenure of land by such means  • 非限定继承土地的保有权
+  [mass noun] the rent paid for such land  • 非限定继承土地的永久地租
+
+
+
+————————————
+★☆☆   feel
+ / fi:l /◙ (past and past participle felt ), [with obj.] 
+1. be aware of (a person or object) through touching or being touched  • （通过触觉）感知，感觉（人，物体）
+ »she felt someone touch her shoulder.  她感觉有人碰了她的肩膀。
+  be aware of (something happening) through physical sensation  • 感知，感觉（正在发生的事件）
+ »she felt the ground give way beneath her.  她感到脚下的地面塌陷了。
+  examine or search by touch  • 摸着查找；摸索
+ »he touched her head and felt her hair.  他摸到了她的头，抚摸着她的头发。
+ »[no obj.] he felt around for the matches.  他四处摸火柴。
+  [no obj.] be capable of sensation  • 有知觉，能感知
+ »the dead cannot feel.  死人是没有知觉的。
+  [no obj., with complement] give a sensation of a particular physical quality when touched  • 摸上去觉得；有某种手感
+ »the wool feels soft.  这种羊毛手感很柔软。
+  (feel one's way)find one's way by touch rather than sight  • 摸索着走路
+  (feel one's way)(figurative)act cautiously, especially in an area with which one is unfamiliar  • [喻] （对不熟悉的事）慎重行事；摸索
+ »she was new in the job, still feeling her way.  她刚做这工作，还在摸索中。
+  (feel something out)[informal] investigate something cautiously  • [非正式] 慎重调查；弄清楚
+ »they want to feel out the situation.  他们想摸清情况。
+  (feel someone up)[informal] fondle someone surreptitiously and without their consent, for one's own sexual stimulation  • [非正式] 猥亵
+2. experience (an emotion or sensation)  • 经历，感受（情感，感觉）
+ »I felt a sense of excitement.  我感到一阵激动。
+ »[no obj., with complement] I felt angry and humiliated.  我感到又气又羞。
+  [no obj., with complement] consider oneself to be in a particular state or exhibiting particular qualities  • 觉得，认为（自己处于某状态或具有某素质）
+ »he doesn't feel obliged to visit every weekend.  他不认为自己每个周末都得去拜访。
+  (feel up to)have the strength and energy to do or deal with  • 有力气（或精力）做（或处理）
+ »after the accident she didn't feel up to driving.  事故之后她开车力不从心。
+  [usu. with negative] (feel oneself)be healthy and well  • 健康，无恙
+ »Ruth was not quite feeling herself.  露丝身体不适。
+  be emotionally affected by  • 感情受…的影响；感受
+ »he didn't feel the loss of his mother so keenly.  他从未如此深切地感受到丧母之痛。
+  [no obj. with adverbial] have a specified reaction or attitude, especially an emotional one, towards something  • （对某事）作出（情绪化）反应，抱（情绪化）态度
+ »we feel very strongly about freedom of expression.  我们对言论自由反应强烈。
+  (feel for)have compassion for  • 同情，怜悯
+ »poor woman—I do feel for her.  可怜的女人——我真同情她。
+3. [with clause] have a belief or impression, especially without an identifiable reason  • （尤指莫名地）觉得，感到
+ »she felt that the woman positively disliked her.  她觉得那女的肯定不喜欢她。
+  hold an opinion  • 认为
+ »I felt I could make a useful contribution.  我认为我能起作用。
+◙ noun, [usu. in sing.] 
+1. an act of touching something to examine it  • 摸着检查，触摸
+  [mass noun] the sense of touch  • 触觉，手感
+ »he worked by feel rather than using his eyes.  他工作时依靠的是手感而不是眼睛。
+2. a sensation given by an object or material when touched  • （物体、材料的）手感
+ »nylon cloth with a cotton feel.  手感像棉布的尼龙布。
+  the impression given by something  • 印象
+ »the restaurant has a modern bistro feel.  这个饭馆给人的感觉像个现代小酒吧。
+
+【IDIOMS】◘ feel one's age
+1. become aware that one is growing older and less energetic  • 感到自己衰老
+◘ feel free (to do something)
+1. have no hesitation or shyness (often used as an invitation or for reassurance)  • ［常用作邀请、安慰］请随便
+ »feel free to say what you like.  请畅所欲言。
+◘ feel like (doing) something
+1. be inclined to have or do  • 想拥有；想做
+ »I feel like celebrating.  我想庆祝一下。
+◘ feel one's oats --› see oat 
+◘ feel the pinch --› see pinch 
+◘ feel the pulse of --› see pulse 
+◘ feel small --› see small 
+◘ feel strange --› see strange 
+◘ get a (或 the) feel for (或 of)
+1. become accustomed to  • 习惯于；熟悉
+ »you can explore to get a feel of the place.  你可以四处看看，熟悉一下这个地方。
+◘ have a feel for
+1. have a sensitive appreciation or an intuitive understanding of  • 能欣赏；能理解
+ »you have to have a feel for animals.  你得善于理解动物。
+◘ make oneself (或 one's presence) felt
+1. make people keenly aware of one; have a noticeable effect  • 让别人感到自己的存在；显现
+ »the economic crisis began to make itself felt.  经济危机开始显现出来。
+
+【语源】1. Old English fēlan, of West Germanic origin; related to Dutch voelen and German fühlen
+
+
+
+————————————
+★☆☆   feeler
+ / ˈfi:lə /◙ noun
+1. an animal organ such as an antenna or palp that is used for testing things by touch or for searching for food  • 触须，触角
+  (figurative)a tentative proposal intended to ascertain someone's attitude or opinion  • [喻] 试探性提议
+ »they were sufficiently depressed to put out peace feelers.  他们十分灰心丧气，试探性地提出和解。
+
+
+
+————————————
+★☆☆   feeler gauge◙ noun
+1. a gauge consisting of a number of thin blades for measuring narrow gaps or clearances  • 测隙规，厚薄规，千分垫，塞尺
+
+
+
+————————————
+★☆☆   feel-good◙ adjective
+1. [attrib.] causing a feeling of happiness and well-being  • 让人感觉幸福美满的
+ »a feel-good movie.  让人感觉幸福美满的电影。
+
+【IDIOMS】◘ feel-good factor
+1. [Brit.] a widespread feeling of well-being and financial security, especially viewed as a factor in increased consumer spending  • [英] （尤指被看作消费性开支增长因素的）富足感，满足感
+
+【派生】♦ feel-goodism noun
+
+
+
+
+————————————
+★☆☆   feeling
+ / ˈfi:liŋ /◙ noun
+1. an emotional state or reaction  • 感受，感觉
+ »a feeling of joy.  愉悦感。
+  (feelings)the emotional side of someone's character; emotional responses or tendencies to respond  • 感情；情绪（化）
+ »I don't want to hurt her feelings.  我不想伤害她的感情。
+  [mass noun] strong emotion  • 强烈情感，激情
+ »‘God bless you!’ she said with feeling.  “上帝保佑你！”她动情地说。
+2. a belief, especially a vague or irrational one  • （尤指模糊、不合理的）信念；想法
+ »[with clause] he had the feeling that he was being watched.  他隐约觉得自己被监视了。
+  an opinion, typically one shared by several people  • （尤指共同的）观点，看法
+ »a feeling grew that justice had not been done.  人们开始感到正义没有得到伸张。
+3. [mass noun] the capacity to experience the sense of touch  • 手感；触觉
+ »a loss of feeling in the hands.  双手知觉的丧失。
+  the sensation of touching or being touched by a particular thing  • 触觉
+ »the feeling of the water against your skin.  水贴着皮肤的感觉。
+4. (feeling for)a sensitivity to or intuitive understanding of  • 对…的欣赏（或悟性）
+ »she says I have a feeling for medicine.  她说我对医学很有悟性。
+◙ adjective
+1. showing emotion or sensitivity  • 多情的；感情细腻的
+ »she was a feeling child, sensitive and emotional.  她是个感情细腻的孩子，敏感而又易动感情。
+
+【IDIOMS】◘ one's better feelings
+1. one's conscience  • 良知，良心
+
+【派生】♦ feelingless adjective
+
+
+
+
+————————————
+★☆☆   feelingly◙ adverb
+1. (of the expression of a feeling or opinion) in a heartfelt way  • （情感、观点的表达）衷心地，诚心诚意地
+ »‘Thank goodness,’ she said feelingly.  “谢天谢地，”她由衷地说。
+
+
+
+————————————
+★☆☆   fee simple◙ (pl. fees simple)
+1. [Law] a permanent and absolute tenure of an estate in land with freedom to dispose of it at will, especially in full fee simple absolute in possession a freehold tenure, which is the main type of land ownership  • [律] 地产绝对保有权（尤指作为土地主要拥有形式的终身保有权，全称为fee simple absolute in possession）
+
+
+
+————————————
+★☆☆   feet
+ / fi:t /1. plural form of foot  • foot的复数
+
+
+
+————————————
+★☆☆   fee tail◙ (pl. fees tail)
+1. [Law, historical] a former type of tenure of an estate in land with restrictions or entailment regarding the line of heirs to whom it may be willed  • [律史] 限嗣继承土地拥有权，（有继承限制的）地产保有权
+
+【语源】1. late Middle English: from Anglo-Norman French fee tailé (see fee , tail )
+
+
+
+————————————
+★☆☆   feh
+ / fei /◙ exclamation
+1. (in Jewish use) conveying disapproval, displeasure, or disgust  • （犹太人用语）［表示不赞成、不高兴或反感］呸
+ »The greatest writer in the English language? Feh!.  用英语写作的最伟大作家？呸！。
+
+
+
+————————————
+★☆☆   Fehling's solution
+ / ˈfeɪlɪŋz /◙ (也作 Fehling's reagent), noun
+1. [mass noun] an alkaline solution of copper[II] sulphate and a tartrate, used in a laboratory test for sugars  • 费林试液
+
+【语源】1. late 19th cent.: named after the German chemist Hermann von Fehling (1812–85)
+
+
+
+————————————
+★☆☆   feign
+ / feɪn /◙ verb
+1. [with obj.] pretend to be affected by (a feeling, state, or injury)  • 假装，伪装（感情，状态，受伤）
+ »she feigned nervousness.  她故作紧张。
+  (archaic)invent (a story or excuse)  • [古] 捏造，杜撰（事实，借口）
+  [no obj.] (archaic)indulge in pretence  • [古] 弄虚作假
+
+【语源】1. Middle English: from Old French feign-, stem of feindre, from Latin fingere 'mould, contrive'. Senses in Middle English (taken from Latin) included 'make something', 'invent a story, excuse, or allegation', hence 'make a pretence of a feeling or response'. Compare with fiction and figment
+
+
+
+————————————
+★☆☆   feijoa
+ / feiˈdʒəuə /◙ noun
+1. an evergreen shrub or small tree that bears edible green fruit resembling guavas. It is native to tropical South America and cultivated in New Zealand for its fruit  • 费约果树
+2. Genus Feijoa, family Myrtaceae: two species  • 费约果属，桃金娘科：2种
+  the fruit of this plant  • 费约果
+
+【语源】1. late 19th cent.: modern Latin, named after J. da Silva Feijó (1760–1824), Brazilian naturalist
+
+
+
+————————————
+★☆☆   feijoada
+ / feɪˈ(d)ʒwæðə, -də /◙ noun
+1. [mass noun] a Brazilian or Portuguese stew of black beans with pork or other meat and vegetables, served with rice  • 巴西（或葡萄牙）炖菜（由黑豆、肉、蔬菜做成，下饭用）
+
+【语源】1. Portuguese, from feijão, from Latin phaseolus 'bean'
+
+
+
+————————————
+★☆☆   feint
+ / feɪnt /feint¹
+◙ noun
+1. a deceptive or pretended blow, thrust, or other movement, especially in boxing or fencing  • （尤指拳击、击剑的）假动作，佯击，佯攻
+ »a brief feint at the opponent's face.  朝着对手脸部的一记快速佯攻。
+  a mock attack or movement in warfare, made in order to distract or deceive an enemy  • （战争中的）声东击西，佯攻
+◙ verb
+1. [no obj., with adverbial of direction] make a deceptive or distracting movement, especially during a fight  • （尤指打架时）出假动作，虚击，虚晃一招
+ »he feinted left, drawing a punch and slipping it.  他向左虚晃一招，引对方出拳后随即躲了过去。
+  [with obj. and adverbial of direction] pretend to throw a (punch or blow) in order to deceive or distract an opponent  • 作势要（打，击），佯（打）
+ »‘You would, would you?’ said Bob, feinting punches back at them.  “你们会的，对吧？”鲍勃说，作势要向他们反击。
+
+【语源】1. late 17th cent.: from French feinte, past participle (used as a noun) of feindre 'feign'feint²
+◙ adjective
+1. denoting paper printed with faint lines as a guide for handwriting; denoting the lines so printed  • 摹字纸的；淡格线的
+
+【语源】1. mid 19th cent.: variant of faint
+
+
+
+————————————
+★☆☆   feis
+ / feʃ /◙ (pl. feiseanna)
+1. an Irish or Scottish festival of music and dancing  • （爱尔兰或苏格兰的）音乐舞蹈节
+
+【语源】1. Irish feis, fess 'meeting, assembly'
+
+
+
+————————————
+★☆☆   feisty
+ / ˈfaisti /◙ (feistier, feistiest)
+1. [informal] having or showing exuberance and strong determination  • [非正式] 活跃果敢的，生气勃勃的
+ »Hollywood doesn't have a lot of good feisty roles for girls my age.  好莱坞没多少适合我这个年龄的女孩子扮演的生气勃勃的好角色。
+  touchy and aggressive  • 暴躁易怒的；好斗的
+ »he got a bit feisty by trying to hit me back.  他想要还击我，一下变得有些好斗。
+
+【派生】♦ feistily adverb
+♦ feistiness noun
+
+【语源】1. late 19th cent.: from earlier feist, fist 'small dog', from fisting cur or hound, a derogatory term for a lapdog, from Middle English fist 'break wind', of West Germanic origin. 
+--› compare fizzle 
+
+
+
+————————————
+★☆☆   felafel
+ / fəˈlɑ:fəl /◙ noun
+1. variant spelling of falafel  • 同 falafel 
+
+
+
+————————————
+★☆☆   Feldenkrais method
+ / ˈfɛld(ə)nkraɪs /◙ noun
+1. a system designed to promote bodily and mental efficiency and well-being by conscious analysis of neuromuscular activity via exercises which improve flexibility and coordination and increase ease and range of motion  • 费尔登克莱斯方法（通过提高灵活性和协调性、增加轻松感、扩大运动幅度的锻炼，自觉地分析神经肌肉活动，从而增强身心机能和健康的一套方法）
+
+【语源】1. 1930s: named after Moshe Feldenkrais (1904–84), Russian-born physicist and mechanical engineer
+
+
+
+————————————
+★☆☆   feldspar
+ / ˈfeldspɑ: /◙ (也作 felspar), noun
+1. [mass noun] an abundant rock-forming mineral typically occurring as colourless or pale-coloured crystals and consisting of aluminosilicates of potassium, sodium, and calcium  • 长石
+
+【语源】1. mid 18th cent.: alteration of German Feldspat, Feldspath, from Feld 'field' + Spat, Spath 'spar' (see spar ). The form felspar is by mistaken association with German Fels 'rock'
+
+
+
+————————————
+★☆☆   feldspathic
+ / feldˈspæθik /◙ adjective
+1. [Geology] (of a mineral or rock) of the nature of or containing feldspar  • [地质] （矿物，岩石）（含）长石的；长石质的
+
+
+
+————————————
+★☆☆   feldspathoid
+ / feldˈspæθɔid /◙ noun
+1. [Geology] any of a group of minerals chemically similar to feldspar but containing less silica, such as nepheline and leucite  • [地质] 似长石
+
+【派生】♦ feldspathoidal adjective
+
+
+
+
+————————————
+★☆☆   felicific
+ / ˌfi:liˈsifik /◙ adjective
+1. [Ethics] relating to or promoting increased happiness  • [伦理] 事关幸福的；造福的，带来幸福的
+ »the institution of a rule against murder is in general felicific.  定规立法制止凶杀，总体而言是造福大众的。
+
+【语源】1. mid 19th cent.: from Latin felicificus, from felix, felic- 'happy'
+
+
+
+————————————
+★☆☆   felicitate
+ / fɪˈlɪsɪˌteɪt /◙ verb
+1. [with obj.] congratulate  • 祝贺，庆贺，恭喜，致贺
+ »the award winner was felicitated by the cultural association.  获奖者得到了该文化团体的祝贺。
+
+【语源】1. early 17th cent. (in the sense 'regard as or pronounce happy or fortunate'): from late Latin felicitat- 'made happy', from the verb felicitare, from Latin felix, felic- 'happy'
+
+
+
+————————————
+★☆☆   felicitations◙ plural noun
+1. words expressing praise for an achievement or good wishes on a special occasion  • 赞词，贺词，祝词
+
+
+
+————————————
+★☆☆   felicitous
+ / fɪˈlɪsɪtəs /◙ adjective
+1. well chosen or suited to the circumstances  • 恰当的，合适的，妥帖的，贴切的，得体的
+ »a felicitous phrase.  恰如其分的措辞。
+  pleasing and fortunate  • 悦人的；幸运的
+ »the view was the room's only felicitous feature.  这景色是这个房间的惟一亮点。
+
+【派生】♦ felicitously adverb
+♦ felicitousness noun
+
+
+
+
+————————————
+★☆☆   felicity
+ / fɪˈlɪsɪti: /◙ (pl. -ies), [mass noun] 
+1. intense happiness  • 巨大幸福；十分快乐
+ »domestic felicity.  天伦之乐。
+2. the ability to find appropriate expression for one's thoughts  • 言辞巧妙
+ »he exposed the kernel of the matter with his customary elegance and felicity.  他一如既往，简洁明了而又精当得体地指出了问题的核心。
+  [count noun] a particularly effective feature of a work of literature or art  • （文学或艺术作品的）别具匠心之处
+ »a book full of minor felicities.  一本细节处处见匠心的书。
+
+【语源】1. late Middle English: from Old French felicite, from Latin felicitas, from felix, felic- 'happy'
+
+
+
+————————————
+★☆☆   felid
+ / ˈfi:lid /◙ noun
+1. [Zoology] a mammal of the cat family [Felidae] ; a wild cat  • [动] 猫科动物；野猫
+
+【语源】1. late 19th cent.: from modern Latin Felidae (plural), from Latin feles 'cat'
+
+
+
+————————————
+★☆☆   feline
+ / ˈfi:ˌlaɪn /◙ adjective
+1. of, relating to, or affecting cats or other members of the cat family  • （有关）猫（科）的
+ »feline leukaemia.  猫白血病。
+  catlike, especially in beauty or slyness  • 似猫的（尤指如猫般美丽、狡猾）
+ »her face was feline in shape.  她的脸形像猫。
+◙ noun
+1. a cat or other member of the cat family  • 猫；猫科动物
+
+【派生】♦ felinity noun
+
+【语源】1. late 17th cent.: from Latin felinus, from feles 'cat'
+
+
+
+————————————
+★☆☆   felix culpa
+ / ˌfi:lɪks ˈkʌlpə, ˌfeɪlɪks, ˈkʊlpɑ: /◙ noun
+1. [Christian Theology] the sin of Adam viewed as fortunate, because it brought about the blessedness of the Redemption  • [基督教神学] 幸运的罪过（指亚当犯下的罪过，因其带来了救赎之福而被视为幸事）
+  an apparent error or disaster with happy consequences  • 带来好结果的错误（或灾难）
+ »he presents the revolt of the Noldor as a felix culpa.  他把诺尔多起义说成是一场幸运的灾难。
+
+【语源】1. Latin, literally happy fault'
+
+
+
+————————————
+★☆☆   Felixstowe
+ / ˈfi:lɪkstəʊ /1. a port on the east coast of əngland, in Suffolk; pop. 24,460 (1ˌ81)  • 费利克斯托（英格兰东海岸港口，位于萨福克郡内，1981年人口24,460）
+
+
+
+————————————
+★☆☆   fell
+ / fel /fell¹
+1. past of fall  • fall的过去式fell²
+◙ verb, [with obj.] 
+1. [一般作 be felled] cut down (a tree)  • 砍倒，伐（树）
+  knock down  • 击（或打、推）倒
+ »she felt an urge to fell him to the floor.  她感到一阵冲动，想把他打倒在地。
+ »to have his daughter return nearly felled him.  为了让女儿回来他几乎崩溃了。
+2. (也作 flat-fell)stitch down (the edge of a seam) to lie flat  • 平缝（接缝）
+ »[as adj. flat-felled] a flat-felled seam.  平缝的接缝。
+◙ noun
+1. an amount of timber cut  • （一大批）采伐的木材
+
+【语源】1. Old English fellan, of Germanic origin; related to Dutch vellen and German fällen, also to fallfell³
+◙ noun
+1. a hill or stretch of high moorland, especially in northern England  • （尤指英格兰北部的）山（冈），丘陵；高沼地
+ »[in place names] Cross Fell.  克罗斯山。
+ »[mass noun] an area of fell and moor.  丘陵沼泽地区。
+
+【语源】1. Middle English: from Old Norse fjall, fell 'hill'; probably related to German Fels 'rock'fell4
+◙ adjective
+1. (poetic/literary)of terrible evil or ferocity; deadly  • [诗/文] 邪恶的；残暴的；凶猛的；可怕的；致命的
+ »sorcerers use spells to achieve their fell ends.  男巫师利用符咒来达到他们的邪恶目的。
+
+【IDIOMS】◘ in (或 at) one fell swoop
+1. all in one go  • 一举，一下子
+ »in one fell swoop they exceeded the total number of tries scored last year.  他们在对方球门线后带球触地的得分一下子超过了去年的得分总数。
+
+【语源】1. Middle English: from Old French fel, nominative of felon 'wicked (person') (see felon )fell5
+◙ noun
+1. (archaic)an animal's hide or skin with its hair  • [古] 兽皮，生皮
+
+【语源】1. Old English fel, fell, of Germanic origin; related to Dutch vel and German Fell, from an Indo-European root shared by Latin pellis and Greek pella 'skin'
+
+
+
+————————————
+★☆☆   fella
+ / ˈfelə /◙ (也作 fellah), noun
+1. non-standard spelling of fellow , used in representing speech in various dialects:  • [非规范] 同 fellow （用于多种方言）
+ »you can't blame the wee fella.  你不能责备这个娃娃。
+
+
+
+————————————
+★☆☆   fellah
+ / ˈfelə /◙ (pl. fellahin)
+1. an Egyptian peasant  • （埃及的）农夫，农民
+
+【语源】1. from Arabic fallāḥ 'tiller of the soil', from falaḥa 'till the soil'
+
+
+
+————————————
+★☆☆   fellate
+ / ˈfeleit , fəˈleit /◙ verb
+1. [with obj.] perform fellatio on (a man)  • 与（男子）口交，吮吸…的阴茎
+
+【语源】1. late 19th cent.: from Latin fellat- 'sucked', from the verb fellare
+
+
+
+————————————
+★☆☆   fellatio
+ / fəˈleɪʃi:ˌəʊ , -ˈlɑ:ti:ˌəʊ , fe- /◙ noun
+1. [mass noun] oral stimulation of a man's penis  • 口交，吮吸阴茎
+
+【派生】♦ fellator noun
+
+【语源】1. late 19th cent.: modern Latin, from Latin fellare 'to suck'
+
+
+
+————————————
+★☆☆   feller
+ / ˈfelə /feller¹
+◙ noun
+1. non-standard spelling of fellow , used in representing speech in various dialects  • [非规范] 同 fellow （用于多种方言）feller²
+◙ noun
+1. a person who cuts down trees  • 伐木工
+
+
+
+————————————
+★☆☆   Fellini
+ / fəˈli:ni /1. ʃederico (1ˌ20–ˌ3), ɪtalian film director. He rose to international fame with ɚa Strada (1ˌˈ4), which won an Oscar for best foreign film. Other major films include ɚa Dolce vita (1ˌ60), a satire on ɔome's high society and winner of the Grand Prix at ɔannes  • 费利尼，弗德里科（1920–1993，意大利电影导演，因影片《道路》［1954］享誉世界，获奥斯卡最佳外语片奖；其他主要作品有讽刺罗马上流社会的《甜蜜的生活》［1960］，赢得了戛纳电影节大奖）
+
+
+
+————————————
+★☆☆   felloes
+ / ˈfɛləʊz /◙ (也作 fellies), plural noun
+1. the outer rim of a wheel, to which the spokes are fixed  • 轮缘，轮辋
+
+【语源】1. Old English felg (singular); related to Dutch velg and German Felge; of unknown ultimate origin
+
+
+
+————————————
+★☆☆   fellow
+ / ˈfeləu /◙ noun
+1. [informal] a man or boy  • [非正式] 男人；男孩；小伙子
+ »he was an extremely obliging fellow.  他是一个极为热情的小伙子。
+  a boyfriend or lover  • 男朋友；情人
+ »has she got a fellow?  她有男朋友了吗？
+2. [一般作 fellows] a person in the same position, involved in the same activity, or otherwise associated with another  • 伙伴，同伴；同事
+ »he was learning with a rapidity unique among his fellows.  他学习之快在同事中无与伦比。
+  a thing of the same kind as or otherwise associated with another  • 同类物；相关物
+ »the page has been torn away from its fellows.  这一页已从其他页上撕下来了。
+3. a member of a learned society  • （学术团体的）成员
+  [Brit.] an incorporated senior member of a college  • [英] （学院）董事
+ »a tutorial fellow.  教导董事。
+  (也作 research fellow)an elected graduate receiving a stipend for a period of research  • （研究期间领取津贴的）研究生
+  a member of the governing body in some universities  • （某些大学的）校务委员会委员
+◙ adjective
+1. [attrib.] sharing a particular activity, quality, or condition with someone or something  • 伙伴的；同事的；同类的
+ »they urged the troops not to fire on their fellow citizens.  他们敦促军队不要向自己的市民开枪。
+
+【语源】1. late Old English fēolaga 'a partner or colleague' (literally 'one who lays down money in a joint enterprise'), from Old Norse félagi, from fé 'cattle, property, money' + the Germanic base of lay
+
+
+
+————————————
+★☆☆   fellow feeling◙ noun
+1. [mass noun] sympathy and fellowship existing between people based on shared experiences or feelings  • 同感；同病相怜
+
+
+
+————————————
+★☆☆   fellowship
+ / ˈfeləuʃip /◙ noun
+1. [mass noun] friendly association, especially with people who share one's interests  • （尤指与志趣相投者的）交情；友谊
+ »they valued fun and good fellowship as the cement of the community.  他们把乐趣和睦邻关系珍视为社区的凝固剂。
+  [count noun] a group of people meeting to pursue a shared interest or aim  • （志趣相同的）团体，协会；联谊会
+  [count noun] a guild or corporation  • 行会，同业公会
+2. the status of a fellow of a college or society  • （学院、社团的）成员资格；董事职位
+ »a fellowship in mathematics.  数学协会的会员资格。
+
+
+
+————————————
+★☆☆   fellow-traveller◙ noun
+1. a person who travels with another  • 旅伴，同路人，同游者
+  a person who is not a member of a particular group or political party (especially the Communist Party), but who sympathizes with the group's aims and policies  • （团体或党派，尤指共产党的）同情者，亲近者
+
+【派生】♦ fellow-travelling adjective
+
+
+
+
+————————————
+★☆☆   Fell pony◙ noun
+1. a large pony, typically black, of a breed with a long wavy mane and tail  • 费尔小马
+
+
+
+————————————
+★☆☆   fell-walking◙ noun
+1. [mass noun] the activity of walking or rambling on the fells  • 丘陵漫步
+
+【派生】♦ fell-walker noun
+
+
+
+
+————————————
+★☆☆   felo de se
+ / ˌfi:ləʊ deɪ ˈseɪ, ˌfɛ- /◙ (pl. felos de se)
+1. [mass noun] suicide  • 自杀，自毁
+
+【语源】1. from Anglo-Latin, literally 'felon of himself'; formerly a criminal act in the UK
+
+
+
+————————————
+★☆☆   felon
+ / ˈfelən /felon¹
+◙ noun
+1. a person who has committed a felony  • 重罪犯
+◙ adjective
+1. [attrib.] (archaic)cruel ; wicked  • [古] 残忍的，残酷的；邪恶的
+ »the felon undermining hand of dark corruption.  黑暗腐败的邪恶破坏之手。
+
+【语源】1. Middle English: from Old French, literally wicked, a wicked person' (oblique case of fel 'evil'), from medieval Latin fello, fellon-, of unknown origin. 
+--› compare felon felon²
+◙ noun
+1. archaic term for whitlow  • 古同 whitlow 
+
+【语源】1. Middle English: perhaps a specific use of felon; medieval Latin fello, fellon- had the same sense
+
+
+
+————————————
+★☆☆   felonious
+ / fiˈləunjəs /◙ adjective
+1. of, relating to, or involved in crime  • 和罪行有关（或有牵连）的；犯罪的
+ »they turned their felonious talents to the smuggling trade.  他们把自己的犯罪天分转到了走私贸易上。
+  [Law] relating to or of the nature of felony  • [律] 犯重罪的；重罪性质的
+ »his conduct was felonious.  他的行为已构成重罪。
+
+【派生】♦ feloniously adverb
+
+
+
+
+————————————
+★☆☆   felony
+ / ˈfeləni: /◙ (pl. -ies)
+1. a crime, typically one involving violence, regarded in the US and many other judicial systems as more serious than a misdemeanour  • 重罪
+ »he pleaded guilty to six felonies.  他认了六条重罪。
+ »[mass noun] an accusation of felony.  一项重罪指控。
+
+【语源】1. Middle English: from Old French felonie, from felon (see felon )
+
+【用法】1. In the US the distinction between felonies and misdemeanours usually depends on the penalties or consequences attaching to the crime. In English law felony originally comprised those offences (murder, wounding, arson, rape, and robbery) for which the penalty included forfeiture of land and goods. Forfeiture was abolished in 1870, and in 1967 felonies and misdemeanours were replaced by indictable and non-indictable offences
+
+
+
+————————————
+★☆☆   felsic
+ / ˈfelsik /◙ adjective
+1. [Geology] of, relating to, or denoting a group of light-coloured minerals including feldspar, feldspathoids, quartz, and muscovite  • [地质] 长英矿物的，长英质的。 常与 mafic 相对
+
+【语源】1. early 20th cent.: from feldspar + a contraction of silica
+
+
+
+————————————
+★☆☆   felspar
+ / ˈfelspɑ: /◙ noun
+1. variant spelling of feldspar  • 同 feldspar 
+
+
+
+————————————
+★☆☆   felt
+ / felt /felt¹
+◙ noun
+1. [mass noun] a kind of cloth made by rolling and pressing wool or another suitable textile accompanied by the application of moisture or heat, which causes the constituent fibres to mat together to create a smooth surface  • 毛毡
+◙ verb, [with obj.] 
+1. make into felt; mat together  • 把…织成毡；织，编
+ »the wood fibres are shredded and felted together.  木纤维分成细条，编织在一起。
+  cover with felt  • 用毡盖（或遮）
+ »[as adj. felted] a felted roof.  盖着毛毡的屋顶。
+  [no obj.] become matted  • 纠结，交织
+ »care must be taken in washing, or the wool will shrink and felt.  务请小心洗涤，否则羊毛会缩水纠结。
+
+【派生】♦ felty adjective
+
+【语源】1. Old English, of West Germanic origin; related to Dutch vilt, also to filterfelt²
+1. past and past participle of feel  • feel 的过去式和过去分词
+
+
+
+————————————
+★☆☆   felt-tip pen◙ (也作 felt-tipped pen 或 felt tip), noun
+1. a pen with a writing point made of felt or tightly packed fibres, typically containing a brightly coloured ink and used for colouring pictures  • 毡头笔
+
+
+
+————————————
+★☆☆   felucca
+ / feˈlʌkə /◙ noun
+1. a small boat propelled by oars or lateen sails or both, used on the Nile and formerly more widely in the Mediterranean region  • 三桅小帆船（由桨、三角帆或两者共同推进的一种小船，尼罗河上使用，以前更常用于地中海地区）
+
+【语源】1. early 17th cent.: from Italian feluc(c)a, probably from obsolete Spanish faluca, of Arabic origin
+
+
+
+————————————
+★☆☆   felwort
+ / ˈfelˌwɜ:t , -ˌwɔ:t /◙ noun
+1. a European gentian of dry grassland, which produces mauve flowers in the autumn  • 龙胆草，苦味假龙胆
+2. Gentianella amarella, family Gentianaceae  • 拉丁名Gentianella amarella，龙胆科
+
+【语源】1. Old English feldwyrt (see field , wort )
+
+
+
+————————————
+★☆☆   fem
+ / fem /◙ noun
+1. variant spelling of femme  • 同 femme 
+
+
+
+————————————
+★☆☆   FEMA [US] [美] 
+◙ for abbreviation
+1. Federal Emergency Management Agency  • 联邦应急管理局
+
+
+
+————————————
+★☆☆   female
+ / ˈfi:meil /◙ adjective
+1. of or denoting the sex that can bear offspring or produce eggs, distinguished biologically by the production of gametes (ova) which can be fertilized by male gametes  • 雌性的，母性的
+ »a herd of female deer.  一群母鹿。
+  relating to or characteristic of women or female animals  • 女的；母的；女性特有的；雌性动物的
+ »a female audience.  女性观众。
+ »a female name.  女性的名字。
+  (of a plant or flower) having a pistil but no stamens  • （植物，花）雌的，雌蕊的
+  (of parts of machinery, fittings, etc.) manufactured hollow so that a corresponding male part can be inserted  • （机械、装置等部件）阴的，凹的，内孔的
+◙ noun
+1. a female person, animal, or plant  • 女子；母畜；雌株
+
+【派生】♦ femaleness noun
+
+【语源】1. Middle English: from Old French femelle, from Latin femella, diminutive of femina 'a woman'. The change in the ending was due to association with male, but the words male and female are not linked etymologically
+
+
+
+————————————
+★☆☆   female circumcision◙ noun
+1. [mass noun] (among some peoples) the action or traditional practice of cutting off the clitoris and sometimes the labia of girls or young women  • （某些民族的）女性割礼
+
+
+
+————————————
+★☆☆   female condom◙ noun
+1. a contraceptive device made of thin rubber, inserted into a woman's vagina before sexual intercourse  • 女用避孕套
+
+
+
+————————————
+★☆☆   feme covert
+ / fi:m ˈkʌvət /◙ noun
+1. [Law, historical] a married woman  • [律史] 已婚妇女，有夫之妇
+
+【语源】1. early 16th cent.: from Anglo-Norman French, literally a woman covered (i.e. protected by marriage')
+
+
+
+————————————
+★☆☆   feme sole
+ / fi:m ˈsəʊl /◙ (也作 femme sole), noun
+1. [Law, historical] a woman without a husband, especially one that is divorced  • [律史] 单身女子；（尤指）离异妇女
+
+【语源】1. early 16th cent.: from Anglo-Norman French feme soule 'a woman alone'
+
+
+
+————————————
+★☆☆   feminal
+ / ˈfeminəl /◙ adjective
+1. (archaic)of or relating to a woman  • [古] 女的，有关妇女的
+
+【派生】♦ feminality noun
+
+【语源】1. late Middle English: from medieval Latin feminalis, from Latin femina 'woman'
+
+
+
+————————————
+★☆☆   femineity
+ / ˌfemiˈni:iti /◙ noun
+1. [mass noun] (archaic)the quality of being feminine  • [古] 女子特质；阴柔；娇柔
+
+【语源】1. early 19th cent.: from Latin femineus 'womanish' (from femina 'woman') + -ity
+
+
+
+————————————
+★☆☆   feminine
+ / ˈfeminin /◙ adjective
+1. having qualities or an appearance traditionally associated with women, especially delicacy and prettiness  • 女人味儿的，女性的（尤指娇美的）
+ »a feminine frilled blouse.  一件女人味儿十足的褶边短衫。
+  of or relating to women; female  • （有关）妇女的，女性的
+ »he enjoys feminine company.  他喜欢结交异性。
+2. [Grammar] of or denoting a gender of nouns and adjectives, conventionally regarded as female  • [语法] 阴性的
+◙ noun, (the feminine)
+1. the female sex or gender  • 女性
+ »the association of the arts with the feminine.  艺术与女性的联系。
+  [Grammar] a feminine word or form  • [语法] 阴性词；阴性形式
+
+【派生】♦ femininely adverb
+♦ feminineness noun
+♦ femininity noun
+
+【语源】1. late Middle English: from Latin femininus, from femina 'woman'
+
+
+
+————————————
+★☆☆   feminine rhyme◙ noun
+1. [Prosody] a rhyme between stressed syllables followed by one or more unstressed syllables (e.g. stocking/shocking, glamorous/amorous)  • [诗韵] 弱韵。
+--› compare masculine rhyme 
+
+
+
+————————————
+★☆☆   feminism
+ / ˈfeminizəm /◙ noun
+1. [mass noun] the advocacy of women's rights on the ground of the equality of the sexes  • 女权主义；女权运动
+
+【语源】1. late 19th cent.: from French féminisme
+
+【用法】1. The issue of rights for women first became prominent during the French and American revolutions in the late 18th century. In Britain it was not until the emergence of the suffragette movement in the late 19th century that there was significant political change. A ‘second wave’ of feminism arose in the 1960s, with an emphasis on unity and sisterhood; seminal figures included Betty Friedan and Germaine Greer
+
+
+
+————————————
+★☆☆   feminist
+ / ˈfeminist /◙ noun
+1. a person who supports feminism  • 女权主义者；女权运动者
+◙ adjective
+1. of, relating to, or supporting feminism  • （有关）女权主义的；支持女权运动的
+ »feminist literature.  女权主义文学。
+
+【语源】1. late 19th cent.: from French féministe, from Latin femina 'woman'
+
+
+
+————————————
+★☆☆   feminity
+ / fiˈminiti /◙ noun
+1. (rare). term forfemininity. (see feminine )  • [罕] 同 femininity. （见 feminine）
+
+【语源】1. late Middle English: from Old French feminite, from medieval Latin feminitas, from Latin femina 'woman'
+
+
+
+————————————
+★☆☆   feminize
+ / ˈfeminaiz /◙ (也作 -ise), verb
+1. [with obj.] make (something) more characteristic of or associated with women  • 使（某事物）女性化
+ »as office roles changed, clerical work was increasingly feminized.  随着办公室职能的变化，文书工作越来越多地由女性担任了。
+
+【派生】♦ feminization noun
+
+
+
+
+————————————
+★☆☆   femme
+ / fem /◙ (也作 fem), noun
+1. [informal] a lesbian who takes a traditionally feminine sexual role  • [非正式] （担任女角的）女同性恋者
+
+【语源】1. 1960s: French, 'woman'
+
+
+
+————————————
+★☆☆   femme fatale
+ / ˌfæm fəˈtɑ:l /◙ (pl. femmes fatales 读音同)
+1. an attractive and seductive woman, especially one who will ultimately cause distress to a man who becomes involved with her  • 祸水红颜
+
+【语源】1. early 20th cent.: French, literally disastrous woman'
+
+
+
+————————————
+★☆☆   femme sole◙ noun
+1. variant spelling of feme sole  • 同 feme sole 
+
+
+
+————————————
+★☆☆   femto-
+ / ˈfemtəu /◙ for combining
+1. (used in units of measurement) denoting a factor of 10-15  • ［用于度量单位］表示“10－15”，“毫微微”，“千万亿分之一”
+ »femtosecond.
+
+【语源】1. from Danish or Norwegian femten 'fifteen'
+
+
+
+————————————
+★☆☆   femur
+ / ˈfi:mə /◙ (pl. femurs 或 femora)rə)
+1. [Anatomy] the bone of the thigh or upper hindlimb, articulating at the hip and the knee  • [剖] 股骨
+  [Zoology] the third segment of the leg in insects and some other arthropods, typically the longest and thickest segment  • [动] （昆虫的）股节
+
+【派生】♦ femoral adjective
+
+【语源】1. late 15th cent.: from Latin femur, femor- 'thigh'
+
+
+
+————————————
+★☆☆   fen
+ / fen /fen¹
+◙ noun
+1. a low and marshy or frequently flooded area of land  • 低位沼，沼泽
+ »a flooded fen.  淹水沼泽。
+ »[mass noun] 55 acres of fen.  55英亩的沼泽。
+  (the Fens)the flat low-lying areas of eastern England, mainly in Lincolnshire, Cambridgeshire, and Norfolk, formerly marshland but largely drained for agriculture since the 17th century  • （英格兰东部、主要在林肯郡、剑桥郡和诺福克境内的）平坦低地（曾是沼泽，17世纪以来大多被排水后用作农田）
+  [mass noun] [Ecology] wetland with alkaline, neutral, or only slightly acid peaty soil  • [生态] （土壤为碱性、中性或弱酸性泥炭土的）沼泽地；碱沼。
+--› compare bog 
+
+【派生】♦ fenny adjective
+
+【语源】1. Old English fen(n), of Germanic origin; related to Dutch veen and German Fennfen²
+◙ [复同单] 
+1. a monetary unit of China, equal to one hundredth of a yuan  • 分（中国货币单位，100分等于1元）
+
+【语源】1. from Chinese fēn 'a hundredth part'
+
+
+
+————————————
+★☆☆   fenberry◙ (pl. -ies)
+1. another term for cranberry  • 同 cranberry 
+
+
+
+————————————
+★☆☆   fence
+ / fens /◙ noun
+1. a barrier, railing, or other upright structure, typically of wood or wire, enclosing an area of ground to prevent or control access or escape  • （尤指木制或金属丝的）栅栏，篱笆，围栏
+  a large upright obstacle in steeplechasing, showjumping, or cross-country  • （越野赛马、骑马越障表演赛、越野赛中的）障碍物
+  a guard or guide on a plane, saw, or other tools  • （电刨、电锯等工具的）防护装置；导向装置
+2. [informal] a person who deals in stolen goods  • [非正式] 买卖赃物的人
+◙ verb
+1. [with obj.] surround or protect with a fence  • 筑栅围住（或保护）
+ »our garden was not fully fenced.  我们的花园没有全围起来。
+  (fence something in/off)enclose or separate with a fence for protection or to prevent escape  • （用栅栏）围住（或隔离）
+ »everything is fenced in to keep out the wolves.  为防止狼群入内，一切都给用栅栏围住了。
+  (fence someone/thing out)use a barrier to exclude someone or something  • （用障碍物）把…拦在外面，隔开
+ »walkers may find themselves fenced out of the moor.  步行者可能会发现自己被拦在沼泽地外。
+2. [withobj.] [informal] deal in (stolen goods)  • [非正式] 买卖（赃物）
+ »after stealing your ring, he didn't even know how to fence it.  偷了你的戒指后，他甚至不知道怎样把它脱手。
+3. [no obj.] fight with swords, especially as a sport  • 击剑（尤指击剑运动）。
+--› see fencing 
+  (figurative)conduct a discussion or argument in such a way as to avoid the direct mention of something  • [喻] （讨论、争论中）回避，兜圈子
+
+【IDIOMS】◘ mend (one's) fences
+1. see mend 
+◘ over the fence
+1. [Austral./NZ informal] unreasonable or unacceptable  • [澳/新西兰，非正式] 不可理喻的，不合理的；难以接受的；过分的
+ »it's over the fence, the way you've been carrying on.  过分了，你做事的方式。
+◘ side of the fence
+1. used to refer to either of the opposing or conflicting positions or interests involved in a particular debate or situation  • （辩论、冲突中的任意）一方
+ »whatever side of the fence you are on, the issue is here to stay.  不管你站在哪一方，问题总是存在的。
+◘ sit on the fence
+1. avoid making a decision or choice  • 避免作选择（或决定）；做骑墙派；犹豫观望
+
+【派生】♦ fenceless adjective
+♦ fencer noun
+
+【语源】1. Middle English (in the sense 'defending, defence'): shortening of defence. Compare with fencible and fend
+
+
+
+————————————
+★☆☆   fence lizard◙ noun
+1. a small grey-brown North American spiny lizard that typically has bright markings and often basks on rail fences, logs, and tree stumps  • 东方强棱蜥
+2. Sceloporus undulatus, family Iguanidae  • 拉丁名Sceloporus undulatus，美洲鬣蜥科
+
+
+
+————————————
+★☆☆   fence post◙ noun
+1. a timber or metal post set in the ground as a supporting part of a fence  • 栅栏柱
+
+
+
+————————————
+★☆☆   fencerow
+ / ˈfɛnsrəʊ /◙ noun
+1. [N. Amer.] an uncultivated strip of land on each side of and below a fence  • [北美] （未耕种的）栅栏线地垄
+
+
+
+————————————
+★☆☆   fencible
+ / ˈfensibəl /◙ noun
+1. [一般作 fencibles] (historical)a soldier belonging to a British militia which could be called up only for service on home soil  • [史] （只应召在本国服役的英国）民兵
+
+【语源】1. Middle English (in the sense 'fit or suitable for defence'): shortening of defensible. Compare with fence, fend
+
+
+
+————————————
+★☆☆   fencing
+ / ˈfensiŋ /◙ noun, [mass noun] 
+1. the sport of fighting with swords, especially foils, épées, or sabres, according to a set of rules, in order to score points against an opponent  • 击剑运动
+ »[as modifier] a fencing foil.  花剑。
+  (figurative)the action of conducting a discussion or argument so as to avoid the direct mention of something  • [喻] （在讨论或争论中）避而不答，回避
+2. a series of fences  • 栅栏，围栏，篱笆
+ »security fencing.  安全栅。
+  material used for the construction of fences  • 筑栅栏用材料
+ »chestnut is still in demand for fencing.  栗木做栅栏仍有需求。
+  the erection of fences  • 筑栅
+  the jumping of fences by a racehorse  • （赛马）跨越障碍
+ »[as modifier] the horse makes his fencing debut today.  这匹马今天是首次亮相跨越障碍。
+
+
+
+————————————
+★☆☆   fend
+ / fend /◙ verb
+1. [no obj.] (fend for oneself)look after and provide for oneself, without any help from others  • 独立谋生，照料自己
+ »how could any mother leave a child to fend for itself?  做母亲的怎么能撒手让孩子去独立谋生呢？
+2. [with obj.] (fend someone/thing off)defend oneself from a blow, attack, or attacker  • 防御，抵挡（打击，袭击者）
+  evade someone or something in order to protect oneself  • 逃避，躲避
+ »he fended off the awkward questions.  他避开了那些尴尬的问题。
+
+【语源】1. Middle English (in the sense 'defend'): shortening of defend. Compare with fence and fencible
+
+
+
+————————————
+★☆☆   Fender
+ / ˈfɛndə /1. ɚeo (1ˌ0ˌ–ˌ1), æmerican guitar-maker. He pioneered the production of electric guitars, designing the first solid-body electric guitar to be widely available and founding the ʃender company  • 芬德，利奥（1907–1991，美国吉他制作者，电吉他制作先驱，设计了第一把商业化的实心电吉他，创立了芬德公司）
+
+
+
+————————————
+★☆☆   fender
+ / ˈfendə /◙ noun
+1. a low frame bordering a fireplace to keep in falling coals  • 壁炉围栏
+  a thing used to keep something off or prevent a collision, in particular  • 阻隔物，防护物，尤指
+  a plastic cylinder, tyre, piece of old rope or matting, etc., hung over a ship's side to protect it against impact  • 护船碰垫，护舷木，防擦材
+2. [N. Amer.] the mudguard or area around the wheel well of a vehicle  • [北美] 挡泥板
+
+
+
+————————————
+★☆☆   fender bender◙ noun
+1. [N. Amer. informal] a minor collision between motor vehicles  • [北美非正式] 机动车辆相互轻度碰撞，小车祸
+
+
+
+————————————
+★☆☆   fenestella
+ / ˌfenisˈtelə /◙ noun
+1. [Architecture] a niche in a wall south of a church's altar, holding the piscina and often the credence  • [建筑] （教堂祭台南墙的）窗式壁龛（上置排水石盆，通常还有祭器柜）
+
+【语源】1. late Middle English: from Latin, diminutive of fenestra 'window'
+
+
+
+————————————
+★☆☆   fenestra
+ / fiˈnestrə /◙ (pl. fenestrae -triː)
+1. [Anatomy & Zoology] a small natural hole or opening, especially in a bone. The mammalian middle ear is linked by the fenestra ovalis to the vestibule of the inner ear, and by the fenestra rotunda to the cochlea  • [剖，动] （尤指骨上的）原生孔，窗
+2. [Medicine] an artificial opening  • [医] 人工开口
+  an opening in a bandage or cast  • （绷带、渔网的）网状格
+  a perforation in a forceps blade  • （外科手术钳上的）小孔
+  a hole made by surgical fenestration  • （外科开窗术所开的）孔
+
+【语源】1. early 19th cent. (as a botanical term denoting a small scar left by the separation of the seed from the ovary): from Latin, literally window'
+
+
+
+————————————
+★☆☆   fenestrate
+ / fiˈnestrit /◙ adjective
+1. [Botany & Zoology] having small window-like perforations or transparent areas  • [植，动] 具窗孔的；具透明点的
+
+【语源】1. mid 19th cent.: from Latin fenestratus 'provided with openings', from the verb fenestrare
+
+
+
+————————————
+★☆☆   fenestrated
+ / fiˈnestreitid /◙ adjective
+1. provided with a window or windows  • 有窗的；开窗的
+ »the fenestrated heights of nearby buildings.  附近楼房的窗户高度。
+  (chiefly Anatomy)having perforations, apertures, or transparent areas  • [主剖] 有窗状小孔的；有透明部分的
+ »the capillaries have a fenestrated epithelium.  毛细管的上皮有窗状小孔。
+
+【语源】1. early 19th cent.: from Latin fenestrare (see fenestrate ) + -ed
+
+
+
+————————————
+★☆☆   fenestration
+ / ˌfenisˈtreiʃən /◙ noun, [mass noun] 
+1. [Architecture] the arrangement of windows in a building  • [建筑] 窗布局
+  [Botany & Zoology] the condition of being fenestrate  • [植，动] 穿孔；膜孔
+  [Medicine] a surgical operation in which a new opening is formed, especially in the bony labyrinth of the inner ear to treat certain types of deafness  • [医] （耳科手术的）开窗术
+
+
+
+————————————
+★☆☆   fen-fire◙ noun
+1. a will-o'-the-wisp  • 鬼火，磷火
+
+
+
+————————————
+★☆☆   feng shui
+ / ˌfɛŋ ˈʃu:i, ˌfʌŋ ˈʃweɪ /◙ noun
+1. [mass noun] (in Chinese thought) a system of laws considered to govern spatial arrangement and orientation in relation to the flow of energy (chi), and whose favourable or unfavourable effects are taken into account when siting and designing buildings  • 风水（中国人思想中的一套法则，被认为支配着与能量流，即“气”，相联系的空间布局和方向，在建筑物择址和设计时须考虑其有利或不利影响）
+
+【语源】1. Chinese, from fēng 'wind' and shuĭ 'water'
+
+
+
+————————————
+★☆☆   Fenian
+ / ˈfi:njən /◙ noun
+1. a member of the Irish Republican Brotherhood, a 19th-century revolutionary nationalist organization among the Irish in the US and Ireland. The Fenians staged an unsuccessful revolt in Ireland in 1867 and were responsible for isolated revolutionary acts against the British until the early 20th century, when they were gradually eclipsed by the IRA  • 芬尼亚组织成员（即爱尔兰共和兄弟会成员，该组织是19世纪爱尔兰人在美国和爱尔兰的革命民族主义组织，1867年在爱尔兰发动起义失败，遂从事孤立的反英革命行动直至20世纪初，此后逐渐为爱尔兰共和军所取代）
+  (informal, offensive)(chiefly in Northern Ireland) a Protestant name for a Catholic  • [非正式，冒犯] （主北爱尔兰）芬尼亚（新教徒对天主教徒的称呼）
+
+【派生】♦ Fenianism noun
+
+【语源】1. from Old Irish féne, the name of an ancient Irish people, confused with fíann, fianna (see Fianna Fáil )
+
+
+
+————————————
+★☆☆   fenland
+ / ˈfenlænd /◙ noun
+1. [mass noun] (也作 fenlands)land consisting of fens  • 沼泽地
+ »thousands of acres of fenland.  数千英亩沼泽地。
+  [一般作 the Fenland] the Fens of eastern England  • 英格兰东部沼泽地
+
+
+
+————————————
+★☆☆   fennec
+ / ˈfenek /◙ (也作 fennec fox), noun
+1. a small pale fox with large pointed ears, native to the deserts of North Africa and Arabia  • 耳廓狐
+2. Vulpes zerda, family Canidae  • 拉丁名Vulpes zerda，犬科
+
+【语源】1. late 18th cent.: via Arabic from Persian fanak, fanaj
+
+
+
+————————————
+★☆☆   fennel
+ / ˈfenl /◙ noun
+1. [mass noun] an aromatic yellow-flowered European plant of the parsley family, with feathery leaves  • 茴香
+2. Foeniculum vulgare, family Umbelliferae: two subspecies, a hardy perennial (subsp. dulce), the seeds and leaves of which are used as culinary herbs, and the annual Florence or sweet fennel (subsp. azoricum), with swollen leaf bases which are eaten as a vegetable  • 拉丁名Foeniculum vulgare，伞形科：2亚种，其一是硬质的多年生植物（甜亚种），籽、叶用作烹饪香料，另一种是一年生的甘茴香（亚速尔亚种），叶厚且多，作蔬菜食用
+
+【语源】1. Old English finule, fenol, from Latin faeniculum, diminutive of faenum 'hay'
+
+
+
+————————————
+★☆☆   Fennoscandia
+ / ˈfenəuˈskændiə /1. a land mass in ŋθ əurope comprising Scandinavia, ʃinland, and the adjacent area of ŋə ɔussia  • 芬诺斯干地亚（欧洲西北部的大陆板块，包括斯堪的纳维亚、芬兰和俄罗斯东北部相邻地区）
+
+
+
+————————————
+★☆☆   fenugreek
+ / ˈfenju:ɡri:k /◙ noun
+1. [mass noun] a white-flowered herbaceous plant of the pea family, with aromatic seeds that are used for flavouring, especially ground and used in curry powder  • 胡卢巴，香草，香豆
+2. Trigonella foenum-graecum, family Leguminosae  • 拉丁名Trigonella foenum-graecum，豆科
+
+【语源】1. Old English fenogrecum (superseded in Middle English by forms from Old French fenugrec), from Latin faenugraecum, from faenum graecum 'Greek hay' (the Romans used the dried plant as fodder)
+
+
+
+————————————
+★☆☆   feodary
+ / ˈfju:dəri /◙ (pl. -ies)
+1. (historical)a feudal tenant  • [史] （封建）佃客，租户
+
+
+
+————————————
+★☆☆   feoffee
+ / feˈfi: , fi:ˈfi: /◙ noun
+1. a trustee invested with a freehold estate to hold in possession for a purpose, typically a charitable one  • （尤指慈善目的）受托保管终身保有制产业者
+  (historical)(in feudal law) a person to whom a grant of freehold property is made  • [史] （封建法律）采邑承受人
+
+【语源】1. late Middle English: from Anglo-Norman French feoffe 'enfeoffed', past participle of feoffer, variant of Old French fieffer (see feoffment )
+
+
+
+————————————
+★☆☆   feoffment
+ / ˈfefmənt /◙ noun
+1. (historical)(in feudal law) a grant of ownership of freehold property to someone  • [史] （封建法律）授（或赐）予采邑
+
+【派生】♦ feoffor noun
+
+【语源】1. Middle English: from an Anglo-Norman French variant of Old French fieffer 'put in legal possession', from fief (see fee and fief )
+
+
+
+————————————
+★☆☆   feral
+ / ˈfiərəl /◙ adjective
+1. (especially of an animal) in a wild state, especially after escape from captivity or domestication  • （尤指动物）野（生）的；未驯服的
+ »a feral cat.  一只野猫。
+  resembling a wild animal  • 野兽般的；野性的；凶残的
+ »a feral snarl.  野兽般的咆哮。
+
+【语源】1. early 17th cent.: from Latin fera 'wild animal' (from ferus 'wild') + -al
+
+
+
+————————————
+★☆☆   feral pigeon◙ noun
+1. see pigeon (sense 1)  • 见 pigeon [义项1] 
+
+
+
+————————————
+★☆☆   ferberite
+ / ˈfə:bərait /◙ noun
+1. [mass noun] a black mineral consisting of ferrous tungstate, typically occurring as elongated prisms  • 钨铁矿
+
+【语源】1. early 19th cent.: named after Rudolph Ferber (1743–90), Swedish mineralogist, + -ite
+
+
+
+————————————
+★☆☆   fer de lance
+ / ˌfɛ: də ˈlɑ:ns /◙ (pl. fers de lance 读音同或 fer de lances)
+1. a large and dangerous pit viper native to Central and South America  • 矛头蝮
+2. Genus Bothrops, family Viperidae: several species, in particular B. atrox  • 矛头蝮属，蝰科：数种，尤指矛头蝮
+
+【语源】1. late 19th cent.: from French, literally iron (head) of a lance'
+
+
+
+————————————
+★☆☆   Ferdinand
+ / ˈfə:dinənd /1. of æragon (14ˈ2–1ˈ16), king of ɔastile 14ˌ4–1ˈ16 and of æragon 14ˌˌ–1ˈ16; known as ʃerdinand the ɔatholic. His marriage to ɪsabella of ɔastile in 146ˌ ensured his accession (as ʃerdinand ʒ) to the throne of ɔastile with her. ʃerdinand subsequently succeeded to the throne of æragon (as ʃerdinand ɪɪ) and was joined as monarch by ɪsabella. ðhey instituted the Spanish ɪnquisition in 14ˌ8 and supported ɔolumbus's expedition in 14ˌ2. ðheir capture of Granada from the Moors in the same year effectively united Spain as one country  • 阿拉贡的费迪南德（1452–1516，卡斯蒂利亚国王［1474–1516在位］，阿拉贡国王［1479–1516 在位］，人称“天主教徒费迪南德”，1469年与卡斯蒂利亚的伊莎贝拉联姻，成为斐迪南五世，和伊莎贝拉共同继承了卡斯蒂利亚的王位，后又作为斐迪南二世戴上了阿拉贡的皇冠，与伊莎贝拉一起成为君主，1478年共同设立了西班牙宗教裁判所，1492年支持哥伦布探险，同年从摩尔人手中获得格拉纳达，有效地实现了西班牙的统一）
+
+
+
+————————————
+★☆☆   Ferguson
+ / ˈfə:gəs(ə)n /1. ælex (b.1ˌ41), Scottish football manager and footballer; full name ælexander ɔhapman ʃerguson. He became manager of Manchester united in 1ˌ86, taking them to three Premier ɚeague championships and three ʃæ ɔup wins in ten years  • 弗格森，亚历克斯（生于1941年，苏格兰足球经理、足球运动员，全名亚历山大•查普曼•弗格森，1986年任曼彻斯特联队经理，带领该队十年内获得了三次超级联赛冠军、三次英国足协杯冠军）
+
+
+
+————————————
+★☆☆   feria
+ / ˈfiəriə /◙ noun
+1. (in Spain and Spanish-speaking America) a fair  • （西班牙、美洲西班牙语地区的）集市；交易会，展销会；博览会
+
+【语源】1. Spanish, from Latin, literally holiday'
+
+
+
+————————————
+★☆☆   ferial
+ / ˈfiəriəl /◙ adjective
+1. [Christian Church] denoting an ordinary weekday, as opposed to one appointed for a festival or fast  • [基督教] （节日、斋戒日之外的）平日，周日
+
+【语源】1. late Middle English: from medieval Latin ferialis, from Latin feria 'holiday'. In late Latin feria was used with a prefixed ordinal number to mean 'day of the week' (e.g. secunda feria 'second day, Monday'), but Sunday [Dominicus] and Saturday [Sabbatum] were usually referred to by their names; hence feria came to mean 'ordinary weekday'
+
+
+
+————————————
+★☆☆   feringhee
+ / fəˈrɪŋgi /◙ (也作 feringhi), noun
+1. (chiefly derogatory)(in India and parts of the Middle and Far East) a foreigner, especially one with white skin  • [主贬] （印度、中东和远东部分地区）（尤指白人）外国人
+2. (archaic)a person of Indian–Portuguese parentage  • [古] 印（度）葡（萄牙）混血儿
+
+【语源】1. via Urdu from Persian firangī, from the base of Frank
+
+
+
+————————————
+★☆☆   Ferlinghetti
+ / ˌfə:lɪŋˈgɛti /1. ɚawrence əMonsanto] (b.1ˌ1ˌ), æmerican poet and publisher; born ɚawrence ʃerling. ɪdentified with San ʃrancisco's beat movement, he founded the publishing house ɔity ɚights, which produced works such as ællen Ginsberg's Howl (1ˌˈˌ). ŋotable works: æ ɔoney ɪsland of the Mind (1ˌˈ8)  • 费林格蒂，劳伦斯（•蒙桑托）（生于1919年，美国诗人、出版商，出生名劳伦斯•费林，由于支持旧金山的避世运动，建立了“城市之光”出版社，出版过艾伦•金斯堡的《嚎叫》［1957］ 等作品；代表作品：《心中的科尼岛》［1958］）
+
+
+
+————————————
+★☆☆   Ferm.◙ for abbreviation
+1. Fermanagh  • 同 Fermanagh 
+
+
+
+————————————
+★☆☆   Fermanagh
+ / fəˈmænə /1. one of the Six ɔounties of ŋorthern ɪreland, formerly an administrative area; chief town, ənniskillen  • 弗马纳郡（北爱尔兰六郡之一，曾是一个行政区域，主要城市恩尼斯基伦）
+
+
+
+————————————
+★☆☆   Fermat
+ / ˈfə:mɑ: /1. Pierre de (1601–6ˈ), ʃrench mathematician. His work on curves led directly to the general methods of calculus introduced by ŋewton and ɚeibniz. He is also recognized as the founder of the theory of numbers  • 费马，皮埃尔•德（1601–1605，法国数学家，对曲线的研究直接促成了牛顿和莱布尼兹首创的微积分的总体方法，还被尊为数论的奠基人）
+
+
+
+————————————
+★☆☆   fermata
+ / fəˈmɑ:tə /◙ noun
+1. [Music] a pause of unspecified length on a note or rest  • [乐] 延音
+  a sign indicating a prolonged note or rest  • 延音记号
+
+【语源】1. Italian, from fermare 'to stop'
+
+
+
+————————————
+★☆☆   Fermat's last theorem1. [Mathematics] a conjecture by Fermat that if n is an integer greater than 2, the equation xn + yn = zn has no positive integral solutions. Fermat noted that he had ‘a truly wonderful proof’ of the conjecture, but never wrote it down. In 1995 a general proof was published by the Princeton-based British mathematician Andrew Wiles  • [数] 费马最后定理
+
+
+
+————————————
+★☆☆   ferment
+ / fəˈment / v. / ˈfɜ:ment / n.◙ verb
+1. [no obj.] (of a substance) undergo fermentation  • 发酵
+ »the drink had fermented, turning some of the juice into alcohol.  饮料发酵了，把一些果汁变成了酒精。
+  [with obj.] cause the fermentation of (a substance)  • 使发酵
+2. [with obj.] incite or stir up (trouble or disorder)  • 挑起，煽动，激起（麻烦，动乱）
+ »the politicians and warlords who are fermenting this chaos.  挑起这场混乱的政客和军阀。
+◙ noun
+1. [mass noun] agitation and excitement among a group of people, typically concerning major change and leading to trouble or violence  • （尤指大变动中的）狂热，骚动
+ »Germany at this time was in a state of religious ferment.  此时的德国处于一种宗教狂热之中。
+ »[in sing.] a ferment of revolutionary upheaval.  革命动乱的狂热。
+2. (archaic)a fermenting agent or enzyme  • [古] 酵素；酶
+
+【派生】♦ fermentable adjective
+
+【语源】1. late Middle English: from Old French ferment (noun), fermenter (verb), based on Latin fermentum 'yeast', from fervere 'to boil'
+
+
+
+————————————
+★☆☆   fermentation
+ / ˌfɜ:mənˈteɪʃən , -men- /◙ noun
+1. [mass noun] the chemical breakdown of a substance by bacteria, yeasts, or other micro-organisms, typically involving effervescence and the giving off of heat  • 发酵
+  the process of this kind involved in the making of beers, wines, and spirits, in which sugars are converted to ethyl alcohol  • （啤酒、果酒、白酒的）发酵过程
+  (archaic)agitation; excitement  • [古] 狂热；骚乱，纷扰
+ »I had found Paris in high fermentation.  我发现巴黎非常动荡不安。
+
+【派生】♦ fermentative adjective
+
+【语源】1. late Middle English: from late Latin fermentatio(n-), from Latin fermentare 'to ferment' (see ferment )
+
+
+
+————————————
+★☆☆   fermenter
+ / fə:ˈmentə /◙ [美亦作 fermentor] , noun
+1. a container in which fermentation takes place  • 发酵容器
+  an organism which causes fermentation  • 发酵物质，酵素
+
+
+
+————————————
+★☆☆   Fermi1. Enrico (1901–54), Italian-born American atomic physicist, who directed the first controlled nuclear chain reaction in 1942. Nobel Prize for Physics (1938)  • 费密，恩里科（1901–1954，意大利出生的美国原子物理学家，1942年指导了首次受控链式核反应；1938年获诺贝尔物理学奖）
+
+
+
+————————————
+★☆☆   fermi◙ [复同单] 
+1. a unit of length equal to 10-15 metre (one femtometre), used in nuclear physics. It is similar to the diameter of a proton  • 费密
+
+【语源】1. early 20th cent.: named after E. Fermi
+
+
+
+————————————
+★☆☆   Fermi-Dirac statistics◙ plural noun
+1. [treated as sing.] [Physics] a type of quantum statistics used to describe systems of fermions  • [物理] 费密迪拉克统计法
+
+【语源】1. 1920s: named after E. Fermi and P. A. M. Dirac
+
+
+
+————————————
+★☆☆   fermion
+ / ˈfə:miɔn /◙ noun
+1. [Physics] a subatomic particle, such as a nucleon, which has half-integral spin and follows the statistical description given by Fermi and Dirac  • [物理] 费密子
+
+【语源】1. 1940s: from the name of E. Fermi + -on
+
+
+
+————————————
+★☆☆   fermium
+ / ˈfə:miəm /◙ noun
+1. [mass noun] the chemical element of atomic number 100, a radioactive metal of the actinide series. Fermium does not occur naturally and was discovered in 1953 in the debris of the first hydrogen bomb explosion[Symbol: Fm]  • （化学元素）镄（符号：Fm）
+
+【语源】1. 1950s: from the name of E. Fermi + -ium
+
+
+
+————————————
+★☆☆   fern
+ / fɜ:n /◙ [复同单或 ferns] 
+1. a flowerless plant which has feathery or leafy fronds and reproduces by spores released from the undersides of the fronds. Ferns have a vascular system for the transport of water and nutrients  • 蕨，蕨类植物，羊齿植物
+2. Class Filicopsida, division Pteridophyta  • 真蕨纲，蕨类植物门
+
+【派生】♦ fernery noun pl. -ies
+♦ ferny adjective
+
+【语源】1. Old English fearn, of West Germanic origin; related to Dutch varen and German Farn
+
+
+
+————————————
+★☆☆   Fernando Póo
+ / fəˌnændəʊ ˈpəʊ /1. former name (until 1ˌˌ3) for ɑioko  • 费尔南多波岛 (Bioko 的原称［1973年前］）
+
+
+
+————————————
+★☆☆   fernbird◙ noun
+1. a secretive warbler found only in New Zealand, with dark streaked plumage  • 新西兰大尾莺
+2. Megalurus punctatus, family Sylviidae  • 拉丁名Megalurus punctatus，莺科
+
+
+
+————————————
+★☆☆   fernbrake◙ noun
+1. a bed or thicket of ferns  • 羊齿植物丛
+
+【语源】1. early 17th cent: from fern, + brake
+
+
+
+————————————
+★☆☆   ferocious
+ / fəˈrəuʃəs /◙ adjective
+1. savagely fierce, cruel, or violent  • 凶恶的，凶猛的；残忍的；狂暴的
+ »a ferocious beast.  猛兽。
+  (of a conflict) characterized by or involving aggression, bitterness, and determination  • （冲突）激烈的，针锋相对的
+ »a ferocious argument.  一场针锋相对的争论。
+  extreme and unpleasant  • 剧烈的
+ »a ferocious headache.  剧烈的头疼。
+
+【派生】♦ ferociously adverb
+♦ ferociousness noun
+
+【语源】1. mid 17th cent.: from Latin ferox, feroc- 'fierce' + -ious
+
+
+
+————————————
+★☆☆   ferocity
+ / fəˈrɔsɪti: /◙ (pl. -ies)
+1. [mass noun] the state or quality of being ferocious  • 凶残；凶猛；狂暴
+ »the ferocity of the storm caught them by surprise.  这场风暴来势凶猛，让他们大为吃惊。
+ »[count noun] she hated him with a ferocity that astonished her.  她恨他之深，连她自己也感到震惊。
+
+【语源】1. mid 16th cent.: from French, or from Latin ferocitas, from ferox, feroc- 'fierce'
+
+
+
+————————————
+★☆☆   -ferous◙ [一般作 -iferous] , for combining
+1. having, bearing, or containing (a specified thing)  • 表示“具有”，“含有”，“产生”
+ »Carboniferous.
+ »pestiferous.
+
+【派生】♦ -ferously for
+1. in corresponding adverbs  • ［用于相应的副词］，
+♦ -ferousness for
+1. in corresponding nouns  • ［用于相应的名词］
+
+【语源】1. from French -fère or Latin -fer 'producing', from ferre 'to bear'
+
+
+
+————————————
+★☆☆   ferox
+ / ˈferɔks /◙ (也作 ferox trout), noun
+1. a brown trout of a very large variety, occurring in large deep lakes in NW Europe  • 猛鲑
+
+【语源】1. mid 19th cent.: from modern Latin Salmo ferox, literally 'fierce salmon', former name of the variety
+
+
+
+————————————
+★☆☆   Ferranti
+ / fəˈrænti /1. Sebastian ɛiani de (1864–1ˌ30), ənglish electrical engineer. He was one of the pioneers of electricity generation and distribution in ɑritain, his chief contribution being the use of high voltages for economical transmission over a distance  • 费兰蒂，塞巴斯蒂安•日阿利•德（1864–1930，英国电气工程师，英国发电和配电的先驱之一，主要贡献是利用高电压实现低成本远距离输电）
+
+
+
+————————————
+★☆☆   Ferrara
+ / fəˈrɑ:rə , feˈrɑ:rɑ: /1. a city in northern ɪtaly, capital of a province of the same name; pop. 140,600 (1ˌˌ0). ʃerrara grew to prominence in the 13th century under the rule of the powerful əste family  • 法拉拉（意大利北部城市，法拉拉省省会，1990年人口140,600，13世纪在势力强大的埃斯特家族的统治下崛起）
+
+
+
+————————————
+★☆☆   Ferrari
+ / fəˈrɑ:ri /1. ənzo (18ˌ8–1ˌ88), ɪtalian car designer and manufacturer. ɪn 1ˌ2ˌ he founded the company named after him, producing a range of high-quality sports and racing cars. Since the early 1ˌˈ0s ʃerraris have won the greatest number of world championship Grands Prix of any car  • 法拉利，恩佐（1898–1988，意大利汽车设计师、制造商，1929年创立以自己的名字命名的公司，生产了一系列高质量的跑车和赛车；自20世纪50年代初以来法拉利汽车在国际汽车大奖赛中夺魁次数最多）
+
+
+
+————————————
+★☆☆   ferrate
+ / ˈfereit /◙ noun
+1. [Chemistry] a salt in which the anion contains both iron (typically ferric iron) and oxygen  • [化] 高铁酸盐
+
+【语源】1. mid 19th cent.: from Latin ferrum 'iron' + -ate
+
+
+
+————————————
+★☆☆   ferrel
+ / ˈferəl /◙ noun
+1. variant spelling of ferrule  • 同 ferrule 
+
+
+
+————————————
+★☆☆   Ferrel's law
+ / ˈfɛrəlz /◙ noun
+1. [Meteorology] a law stating that Coriolis forces deflect winds and freely moving objects to the right in the northern hemisphere and to the left in the southern hemisphere  • [气象] 费雷尔定律
+
+【语源】1. early 20th cent.: named after William Ferrel (1817–91), American meteorologist
+
+
+
+————————————
+★☆☆   ferret
+ / ˈferɪt /◙ noun
+1. a domesticated polecat used chiefly for catching rabbits. It is typically albino in coloration, but sometimes brown  • 白鼬，雪貂。 见 polecat-ferret
+2. Mustela furo, family Mustelidae; descended mainly from the European polecat  • 拉丁名Mustela furo，鼬科，主要源自欧洲林鼬
+3. a search for something, typically in a small or enclosed space  • （尤指在封闭或狭小空间中的）搜寻，寻找
+ »he had a quick ferret around.  他迅速四处搜寻了一通。
+  a person who searches assiduously and tenaciously  • 不遗余力的搜查者（或调查员、侦探）
+ »the cops rarely liaised with the income tax ferrets.  警察极少和所得税稽查员打交道。
+◙ (ferreted, ferreting)
+1. [no obj.] (of a person) hunt with ferrets, typically for rabbits  • （人）用雪貂狩猎（尤指猎兔）
+ »[as noun ferreting] ferreting is increasing in popularity.  用雪貂猎兔越来越时兴。
+  clear (a hole or area of ground) of rabbits with ferrets  • 用雪貂赶出（洞穴里、地面上）的兔子
+  [withadverbial of place] rummage about in a place or container in search of something  • （翻箱倒柜地）找，搜寻
+ »he shambled over to the desk and ferreted around.  他蹒跚地走到书桌前，翻箱倒柜地找起来。
+  [with obj.] (ferret something out)search tenaciously for something  • （执著地）找，搜寻；调查，探寻
+ »she had the ability to ferret out the facts.  她有能耐把事情搞个水落石出。
+
+【派生】♦ ferreter noun
+♦ ferrety adjective
+
+【语源】1. late Middle English: from Old French fuiret, alteration of fuiron, based on late Latin furo 'thief, ferret', from Latin fur 'thief'
+
+
+
+————————————
+★☆☆   ferret-badger◙ noun
+1. a small tree-climbing badger found in SE Asia, having a long tail and a brownish coat with conspicuous facial markings  • 鼬獾
+2. Genus Melogale, family Mustelidae: three species  • 鼬獾属，鼬科：3种
+
+
+
+————————————
+★☆☆   ferri-
+ / ˈferi , ˈferai /◙ for combining
+1. [Chemistry] of iron with a valency of three; ferric  • [化] 表示“（含）三价铁的”，“含（正）铁的”。
+--› compare ferro- 
+
+【语源】1. from Latin ferrum 'iron'
+
+
+
+————————————
+★☆☆   ferriage
+ / ˈferiidʒ /◙ noun
+1. [mass noun] (archaic)the action of transporting someone or something by ferry  • [古] 摆渡
+  the fare paid for a journey by ferry  • 摆渡费，渡船费
+
+
+
+————————————
+★☆☆   ferric
+ / ˈferik /◙ adjective
+1. of or relating to iron  • （与）铁（有关）的
+  [Chemistry] of iron with a valency of three; of iron[III]  • [化] 三价铁的，高铁（基）的。
+--› compare ferrous 
+
+【语源】1. late 18th cent.: from Latin ferrum 'iron' + -ic
+
+
+
+————————————
+★☆☆   ferricyanide
+ / ˌferiˈsaiənaid /◙ noun
+1. [Chemistry] a salt containing the anion Fe(CN)63-  • [化] 氰铁酸盐；铁氰化物
+
+
+
+————————————
+★☆☆   Ferrier
+ / ˈfɛrɪə /1. Kathleen (1ˌ12–ˈ3), ənglish contralto. She is particularly famous for her performance in 1ˌ4ˌ of Mahler's song cycle Das ɚied von der ərde  • 费里尔，凯丝琳（1912–1953，英国女低音歌手，尤以1947年演唱马勒的联篇歌曲《大地之歌》著名）
+
+
+
+————————————
+★☆☆   ferrimagnetic
+ / ˌferimæɡˈnetik /◙ adjective
+1. [Physics] (of a substance) displaying a weak form of ferromagnetism associated with parallel but opposite alignment of neighbouring atoms. In contrast with antiferromagnetic materials, these alignments do not cancel out and there is a net magnetic moment  • [物理] （物质）亚铁磁性的
+
+【派生】♦ ferrimagnetism noun
+
+
+
+
+————————————
+★☆☆   Ferris wheel
+ / ˈfɛrɪs /◙ noun
+1. a fairground ride consisting of a giant vertical revolving wheel with passenger cars suspended on its outer edge  • （游乐场的）费里斯转轮，摩天轮
+
+【语源】1. late 19th cent.: named after George W. G.Ferris (1859–96), the American engineer who invented it
+
+
+
+————————————
+★☆☆   ferrite
+ / ˈferait /◙ noun, [mass noun] 
+1. a ceramic compound consisting of a mixed oxide of iron and one or more other metals which has ferrimagnetic properties and is used in high-frequency electrical components such as aerials  • 铁氧体；铁淦氧；陶铁磁体
+2. [Metallurgy] a form of pure iron with a body-centred cubic crystal structure, occurring in low-carbon steel  • [冶] 铁素体
+
+【派生】♦ ferritic adjective
+1. [限义项 2] 
+
+【语源】1. mid 19th cent.: from Latin ferrum 'iron' + -ite
+
+
+
+————————————
+★☆☆   ferritin
+ / ˈferitən /◙ noun
+1. [mass noun] [Biochemistry] a protein produced in mammalian metabolism which serves to store iron in the tissues  • [生化] 铁蛋白
+
+【语源】1. 1930s: from ferri- + -t- (for ease of pronunciation) + -in
+
+
+
+————————————
+★☆☆   ferro-
+ / ˈfɛrəʊ /◙ for combining
+1. containing iron  • 表示“含铁的”
+ »ferroconcrete.
+  [Chemistry] of iron with a valency of two; ferrous  • [化] 二价铁，亚铁。
+--› compare ferri- 
+
+【语源】1. from Latin ferrum 'iron'
+
+
+
+————————————
+★☆☆   ferrocene
+ / ˈferəˌsi:n /◙ noun
+1. [Chemistry] an orange crystalline compound whose molecule has a sandwich structure in which two planar cyclopentadiene ligands enclose an iron atom  • [化] 二茂（络）铁
+2. Chem. formula: Fe(C5H5)2  • 化学式：Fe（C5H5）2
+
+【语源】1. 1950s: from ferro- 'containing iron' + -cene from c(yclopentadi)ene
+
+
+
+————————————
+★☆☆   ferroconcrete
+ / ˌferəuˈkɔŋkri:t /◙ noun
+1. [mass noun] [often as modifier] concrete reinforced with steel  • 钢筋混凝土，钢骨水泥
+ »a ferroconcrete storage tank.  钢筋混凝土储罐（或储槽）。
+
+
+
+————————————
+★☆☆   ferrocyanide
+ / ˌferəuˈsaiənaid /◙ noun
+1. [Chemistry] a salt containing the anion Fe(CN)64-  • [化] 氰亚铁酸盐，亚铁氰化物
+
+
+
+————————————
+★☆☆   ferroelectric
+ / ˌferəuiˈlektrik /əPhysics] ə物理] 
+◙ adjective
+1. (of a substance) exhibiting permanent electric polarization which varies in strength with the applied electric field  • （物质）铁电的
+◙ noun
+1. a ferroelectric substance  • 铁电体
+
+【派生】♦ ferroelectricity noun
+
+【语源】1. 1930s: from electric, on the pattern of ferromagnetic
+
+
+
+————————————
+★☆☆   ferrofluid
+ / ˌferəuˈflu:id /◙ noun
+1. [often as modifier] a fluid containing a magnetic suspension  • 铁磁流体
+ »ferrofluid cooling.  铁磁流体冷却。
+
+
+
+————————————
+★☆☆   ferromagnesian
+ / ˌferəumæɡˈni:ʃən /◙ adjective
+1. [Geology] (of a rock or mineral) containing iron and magnesium as major components  • [地质] （岩石，矿物）含铁和镁的，铁镁质的
+
+
+
+————————————
+★☆☆   ferromagnetic
+ / ˌferəumæɡˈnetik /◙ adjective
+1. [Physics] (of a body or substance) having a high susceptibility to magnetization, the strength of which depends on that of the applied magnetizing field, and which may persist after removal of the applied field. This is the kind of magnetism displayed by iron, and is associated with parallel magnetic alignment of neighbouring atoms  • [物理] （物体，物质）铁磁（性）的
+
+【派生】♦ ferromagnetism noun
+
+
+
+
+————————————
+★☆☆   ferrous
+ / ˈferəs /◙ adjective
+1. (chiefly of metals) containing or consisting of iron  • （多指金属）含铁的，铁质的
+  [Chemistry] of iron with a valency of two; of iron[II]  • [化] 二价铁的，亚铁的。
+ --› compare ferric 
+
+【语源】1. mid 19th cent.: from Latin ferrum 'iron' + -ous
+
+
+
+————————————
+★☆☆   ferrous sulphate◙ noun
+1. [mass noun] a pale green iron salt used in inks, tanning, water purification, and treating anaemia  • 硫酸亚铁
+2. Alternative name: Iron[II] sulphate; chem. formula (crystals): FeSO4.7H2O  • 又名：硫酸二价铁。化学式：FeSO4•7H2O
+
+
+
+————————————
+★☆☆   ferruginous
+ / feˈru:dʒinəs /◙ adjective
+1. containing iron oxides or rust  • 含氧化铁的；有铁锈的
+ »a band of ferruginous limestone.  一条含有氧化铁的石灰石。
+  reddish brown; rust-coloured  • 红棕色的；铁锈色的
+ »the ferruginous earth of southern Brazil.  巴西南部的红棕色土壤。
+
+【语源】1. mid 17th cent.: from Latin ferrugo, ferrugin- 'rust, dark red' (from ferrum 'iron') + -ous
+
+
+
+————————————
+★☆☆   ferruginous duck◙ noun
+1. a Eurasian diving duck related to the pochard, the male of which has mainly dark red-brown breeding plumage  • 白眼潜鸭
+2. Aythya nyroca, family Anatidae  • 拉丁名Aythya nyroca，鸭科
+
+
+
+————————————
+★☆☆   ferrule
+ / ˈferu:l /◙ (也作 ferrel), noun
+1. a ring or cap, typically a metal one, which strengthens the end of a handle, stick, or tube and prevents it from splitting or wearing  • （把手、棍棒、管子顶端防裂或防磨损的）金属圈，金属箍，包头
+  a metal band strengthening or forming a joint  • （用于加固或形成接头的）金属包条
+
+【语源】1. early 17th cent.: alteration (probably by association with Latin ferrum 'iron') of obsolete verrel, from Old French virelle, from Latin viriola, diminutive of viriae 'bracelets'
+
+
+
+————————————
+★☆☆   ferry
+ / ˈferi /◙ (pl. -ies)
+1. (也作 ferry boat)a boat or ship for conveying passengers and goods, especially over a relatively short distance and as a regular service  • 渡船
+  a service for conveying passengers or goods in this way  • 摆渡
+  the place where such a service operates from  • 摆渡口，渡口
+  a similar service using another mode of transport, especially aircraft  • 运输；（尤指）空运
+◙ (-ies, -ied)
+1. [with obj. and adverbial of direction] convey in a boat, especially across a short stretch of water  • （尤指短距离）渡运，摆渡
+ »the British Expeditionary Force was safely ferried across the Channel.  英国远征军平安渡过了英吉利海峡。
+  transport (someone or something) from one place to another, especially as a regular service  • （尤指定期）运送（人，东西）
+ »all supplies were ferried in by regular helicopter deliveries.  所有的给养均由直升机定期运来。
+
+【派生】♦ ferryman noun pl. -men
+
+【语源】1. Middle English: from Old Norse ferja 'ferry boat', of Germanic origin and related to fare
+
+
+
+————————————
+★☆☆   fertile
+ / ˈfə:tail /◙ adjective
+1. (of soil or land) producing or capable of producing abundant vegetation or crops  • （土壤，土地）肥沃的，多产的
+ »areas of fertile, sandy ground.  肥沃的沙质土地区。
+  (of a seed or egg) capable of becoming a new individual  • （种子）能生长的；（卵）能孵化的
+  (of a person, animal, or plant) able to conceive young or produce seed  • （人、动植物）能受孕的；能生育的，有繁殖力的
+ »Karen carefully calculated the period when she was most fertile.  卡伦仔细地计算了自己的最佳受孕期。
+  (of a person's mind or imagination) producing many new and inventive ideas with ease  • （思想，想像）丰富的，有创造力的
+  ( of a situation or subject) being fruitful and productive in generating new ideas  • （情况，问题）能启迪新思想的；发人深思的
+ »a series of fertile debates within the social sciences.  社会科学界一系列颇有创见的辩论。
+  [Physics] (of nuclear material) able to become fissile by the capture of neutrons  • [物理] （核材料）可裂变的，增殖性的
+
+【派生】♦ fertility noun
+
+【语源】1. late Middle English: via French from Latin fertilis, from ferre 'to bear'
+
+
+
+————————————
+★☆☆   Fertile Crescent1. a crescent-shaped area of fertile land in the Middle East extending from the eastern Mediterranean coast through the valley of the Tigris and Euphrates Rivers to the Persian Gulf. It was the centre of the Neolithic development of agriculture (from 7000 bc), and the cradle of the Assyrian, Sumerian, and Babylonian civilizations  • 新月沃地（中东的一块新月形的肥沃土地，从地中海东岸经底格里斯河和幼发拉底河流域，延伸至波斯湾，是新石器时代农业［始于公元前7000年］发展中心，亚述文明、苏美尔文明和巴比伦文明的摇篮）
+
+
+
+————————————
+★☆☆   fertility cult◙ noun
+1. a pagan religious system of some agricultural societies in which seasonal rites are performed with the aim of ensuring good harvests and the future well-being of the community  • 丰收崇拜（某些农业社会的异教徒宗教崇拜方式，随季节不同而举行祈求丰收和社会福祉的仪式）
+
+
+
+————————————
+★☆☆   fertilization
+ / ˌfə:tilaiˈzeiʃən /◙ (也作 -isation), noun, [mass noun] [Biology] 
+1. the action or process of fertilizing an egg or a female animal or plant, involving the fusion of male and female gametes to form a zygote  • [生] 授精
+  the action or process of applying a fertilizer to soil or land  • （土壤或土地的）施肥
+
+
+
+————————————
+★☆☆   fertilize
+ / ˈfɜ:tlˌaɪz /◙ (也作 -ise), verb, [with obj.] 
+1. cause (an egg, female animal, or plant) to develop a new individual by introducing male reproductive material  • 使（卵，植物）受精；使（雌性动物）怀孕
+  make (soil or land) more fertile or productive by adding suitable substances to it  • 给（土壤，土地）施肥
+
+【派生】♦ fertilizable adjective
+
+
+
+
+————————————
+★☆☆   fertilizer
+ / ˈfə:tilaizə /◙ (也作 -iser), noun
+1. a chemical or natural substance added to soil or land to increase its fertility  • 肥料
+ »a nitrogenous fertilizer.  氮肥。
+ »[mass noun] these varieties need pesticides and more fertilizer.  这些品种需要杀虫剂和更多的肥料。
+
+
+
+————————————
+★☆☆   Fertö Tó
+ / ˌfɛrtø ˈto: /1. Hungarian name for ŋeusiedler See  • [匈] 同 Neusiedler See 
+
+
+
+————————————
+★☆☆   ferula
+ / ˈferulə /◙ noun
+1. a tall large-leaved Eurasian plant of a genus that includes asafoetida and its relatives  • 阿魏属植物
+2. Genus Ferula, family Umbelliferae  • 阿魏属，伞形科
+3. rare term for ferule  • [罕] 同 ferule 
+
+【语源】1. late Middle English: from Latin, giant fennel, rod'
+
+
+
+————————————
+★☆☆   ferule
+ / ˈferu:l /◙ noun
+1. (historical)a flat ruler with a widened end, formerly used for beating children  • [史] 戒尺
+
+【语源】1. late Middle English (denoting the giant fennel): from Latin ferula (see ferula )
+
+
+
+————————————
+★☆☆   fervent
+ / ˈfɜ:vənt /◙ adjective
+1. having or displaying a passionate intensity  • 热情的；盛情的
+ »40,000 fervent admirers of the Great Leader.  伟大领袖的四万名膜拜者。
+  (archaic)hot, burning, or glowing  • [古] 炽热的；燃烧的；光辉的
+
+【派生】♦ fervency noun
+♦ fervently adverb
+
+【语源】1. Middle English: via Old French from Latin fervent- 'boiling', from the verb fervere. Compare with fervid and fervour
+
+
+
+————————————
+★☆☆   fervid
+ / ˈfə:vid /◙ adjective
+1. intensely enthusiastic or passionate, especially to an excessive degree  • （过分）热衷的；激情（过头）的
+ »she had a fervid interest in sex.  她对性简直如饥似渴。
+  (poetic/literary) burning, hot, or glowing  • [诗/文] 燃烧的；炽热的；光辉的
+
+【派生】♦ fervidly adverb
+
+【语源】1. late 16th cent. (in the sense 'glowing, hot'): from Latin fervidus, from fervere 'to boil'. Compare with fervent and fervour
+
+
+
+————————————
+★☆☆   fervour
+ / ˈfɜ:və /◙ [美 fervor] , noun
+1. [mass noun] intense and passionate feeling  • 激情；炽热的情感
+ »he talked with all the fervour of a new convert.  他以一个新皈依者的澎湃激情滔滔而论。
+  (archaic)intense heat  • [古] 炽热
+
+【语源】1. Middle English: via Old French from Latin fervor, from fervere 'to boil'. Compare with fervent and fervid
+
+
+
+————————————
+★☆☆   fescue
+ / ˈfeskju: /◙ noun
+1. any of a number of narrow-leaved grasses  • 细叶草
+2. a perennial grass that is a valuable pasture and fodder species (genus Festuca, family Gramineae) an annual grass that typically occurs on drier soils such as on dunes and heathland (genus Vulpia, family Gramineae)  • 羊茅（羊茅属，禾本科） 乌尔波草（乌尔波草属，禾本科）
+
+【语源】1. Middle English festu, festue 'straw, twig', from Old French festu, based on Latin festuca 'stalk, straw'. The change of -t- to -c- occurred in the 16th cent.; the current sense dates from the mid 18th cent
+
+
+
+————————————
+★☆☆   fess
+ / fes /fess¹
+◙ (也作 fesse), noun
+1. [Heraldry] an ordinary in the form of a broad horizontal stripe across the middle of the shield  • [纹章] （横贯盾形徽标中部的）横带
+
+【IDIOMS】◘ in fess
+1. across the middle third of the field
+
+【语源】1. late 15th cent.: from Old French fesse, alteration of faisse, from Latin fascia 'band'. 
+--› compare fascia fess²
+◙ verb
+1. [no obj.] (fess up)[informal] confess; own up  • [非正式] 坦白，承认
+ »‘Fess up’, she demanded. ‘What were you doing in Peter's private office?’.  “快说，”她责令道，“你刚才在彼得的私人办公室里干什么？”。
+
+【语源】1. early 19th cent.: shortening of confess
+
+
+
+————————————
+★☆☆   Fessenden
+ / ˈfɛs(ə)nd(ə)n /1. ɔeginald æubrey (1866–1ˌ32), ɔanadian-born æmerican pioneer of radio-telephony, who invented the heterodyne receiver  • 费森登，雷金纳德•奥布里（1866–1932，加拿大出生的美国无线电话先驱，外差式接收机的发明者）
+
+
+
+————————————
+★☆☆   fess point◙ noun
+1. [Heraldry] a point at the centre of a shield  • [纹章] 盾形徽标的中心点，盾心
+
+
+
+————————————
+★☆☆   -fest◙ for combining
+1. in nouns denoting a festival or large gathering of a specified kind  • ［用于名词］表示“…节”，“…大型聚会”
+ »a media-fest.
+ »a jazz fest.
+
+【语源】1. from German Fest 'festival'
+
+
+
+————————————
+★☆☆   festa
+ / ˈfestə /◙ noun
+1. (in Italy and other Mediterranean countries) a religious or other festival  • （意大利及其他地中海国家）宗教节日，节日
+
+【语源】1. early 19th cent.: from Italian, festival', from Latin
+
+
+
+————————————
+★☆☆   festal
+ / ˈfestəl /◙ adjective
+1. (chiefly archaic)of, like, or relating to a celebration or festival  • [主古] 庆典的；节日的；喜庆的；欢乐的
+ »plum pudding was originally served on festal days as a main course.  葡萄干布丁原本是节日期间的一道主菜。
+
+【派生】♦ festally adverb
+
+【语源】1. late 15th cent.: via Old French from late Latin festalis, from Latin festum, (plural) festa 'feast'
+
+
+
+————————————
+★☆☆   fester
+ / ˈfestə /◙ verb
+1. [no obj.] [often as adj. festering] (of a wound or sore) become septic; suppurate  • （伤口，痛处）溃烂，化脓
+ »a festering abscess.  正在溃烂的脓肿。
+  (of food or rubbish) become rotten and offensive to the senses  • （食物，垃圾）腐烂
+ »sandwiches curled open to show festering meats.  三明治卷开了口，露出腐烂的肉。
+  (of a negative feeling or a problem) become worse or more intense, especially through long-term neglect or indifference  • （消极的情感、问题）恶化，激化（尤指因长期忽略或冷淡所致）
+ »a festering controversy.  愈演愈烈的争论。
+  (of a person) undergo physical and mental deterioration in isolated inactivity  • （人因孤独和缺少活动而）身心退化；健康恶化
+ »I might be festering in jail now.  因为待在牢里，我的健康可能正在恶化。
+
+【语源】1. late Middle English: from the rare word fester 'fistula', later 'festering sore', or Old French festrir (verb), both from Old French festre (noun), from Latin fistula 'pipe, reed, fistula'
+
+
+
+————————————
+★☆☆   festival
+ / ˈfestəvəl /◙ noun
+1. a day or period of celebration, typically for religious reasons  • （尤指宗教）节日，喜庆日
+ »a Jewish festival.  犹太节日。
+ »[as modifier] a festival atmosphere.  节日氛围。
+  an organized series of concerts, plays, or films, typically one held annually in the same place  • （尤指每年在同一地方举行的）音乐（或电影、戏剧）节；会演
+ »a major international festival of song.  一个重要的国际歌曲节。
+
+【语源】1. Middle English (as an adjective): via Old French from medieval Latin festivalis, from Latin festivus, from festum, (plural) festa 'feast'
+
+
+
+————————————
+★☆☆   Festival of Britain1. a festival celebrated with lavish exhibitions and shows throughout Britain in May 1951 to mark the centenary of the Great Exhibition of 1851  • 英国节（1951年5月英国为庆祝1851年的大博览会百年华诞而在全国各地隆重举行的展览和演出等庆祝活动）
+
+
+
+————————————
+★☆☆   festival of lights◙ noun
+1. another term for Hanukkah  • 同 Hanukkah 
+2. another term for Diwali  • 同 Diwali 
+
+
+
+————————————
+★☆☆   Festival of the Dead◙ noun
+1. another term for Bon  • 同 Bon 
+
+
+
+————————————
+★☆☆   festive
+ / ˈfestɪv /◙ adjective
+1. of or relating to a festival, especially Christmas  • 节日的（尤指圣诞节的）
+ »the festive season .  圣诞节期间。
+  cheerful and jovially celebratory  • 喜庆的，欢乐的；庆祝的
+ »the sombre atmosphere has given way to a festive mood.  欢乐的情绪一扫阴沉的气氛。
+
+【派生】♦ festively adverb
+♦ festiveness noun
+
+【语源】1. mid 17th cent.: from Latin festivus, from festum, (plural) festa 'feast'
+
+
+
+————————————
+★☆☆   festivity
+ / feˈstɪvɪti: /◙ (pl. -ies)
+1. [mass noun] the celebration of something in a joyful and exuberant way  • 欢庆
+ »the jolly festivity of the Last Night of the Proms.  伦敦逍遥音乐会最后一晚的喜乐气氛。
+  (festivities)activities or events celebrating a special occasion  • 庆典，庆祝活动；欢宴
+
+【语源】1. late Middle English: from Old French festivite or Latin festivitas, from festivus 'festive', from festum, (plural) festa 'feast'
+
+
+
+————————————
+★☆☆   festoon
+ / fesˈtu:n /◙ noun
+1. a chain or garland of flowers, leaves, or ribbons, hung in a curve as a decoration  • 花彩
+  a carved or moulded ornament representing such a garland  • （雕成、铸成的）花环饰物；垂花雕饰
+2. a Eurasian butterfly or moth patterned with dark arcs on a lighter background  • 欧亚蝴蝶（或蛾）
+3. a large yellowish butterfly with black and red markings [Zerynthia and other genera, family Papilionidae] a small brown moth [Apoda avellana, family Limacodidae]  • 凤蝶（亚凤蝶属及其他属，凤蝶科） 大甲蛾（拉丁名Apoda avellana，刺蛾科）
+◙ verb
+1. [with obj.] [常作 be festooned with] adorn (a place) with chains, garlands, or other decorations  • 用（花链、花环等饰品）装点（某处）
+ »the staffroom was festooned with balloons and streamers.  员工活动室装点着气球和彩带。
+
+【派生】♦ festoonery noun
+
+【语源】1. mid 17th cent.: from French feston, from Italian festone 'festal ornament', from festum, (plural) festa 'feast'
+
+
+
+————————————
+★☆☆   festoon blind◙ noun
+1. a window blind consisting of vertical rows of horizontally gathered fabric that may be drawn up into a series of ruches  • 花彩窗帘
+
+
+
+————————————
+★☆☆   Festschrift
+ / ˈfɛstˌʃrɪft /◙ (pl. Festschriften 或 Festschrifts)
+1. a collection of writings published in honour of a scholar  • （纪念某学者的）纪念文集
+
+【语源】1. late 19th cent.: from German, from Fest 'celebration' + Schrift 'writing'
+
+
+
+————————————
+★☆☆   FET◙ for abbreviation
+1. field-effect transistor  • 同 field-effect transistor 
+
+
+
+————————————
+★☆☆   feta
+ / ˈfetə /◙ (也作 feta cheese 或 fetta), noun
+1. [mass noun] a white salty Greek cheese made from the milk of ewes or goats  • 羊奶干酪
+
+【语源】1. from modern Greek pheta
+
+
+
+————————————
+★☆☆   fetal
+ / ˈfi:tl /◙ adjective
+1. of or relating to a fetus  • （有关）胎儿的
+ »nutrients essential for normal fetal growth.  胎儿正常生长必不可少的营养物质。
+  denoting a posture characteristic of a fetus, with the back curved forwards and the limbs folded in front of the body  • 胎儿般蜷曲的，胎姿的
+
+
+
+————————————
+★☆☆   fetal alcohol syndrome◙ [缩写: FAS] , noun
+1. [mass noun] [Medicine] a congenital syndrome associated with excessive consumption of alcohol by the mother during pregnancy, and characterized by retardation of mental development and of physical growth, particularly of the skull and face  • [医] 胎儿乙醇中毒综合征
+
+
+
+————————————
+★☆☆   fetch
+ / fetʃ /fetch¹
+◙ verb, [with obj.] 
+1. go for and then bring back (someone or something) for someone  • （为某人）去取来，去拿来
+ »he ran to fetch help.  他跑去求援。
+ »[with two objs] she fetched me a cup of tea.  她去给我端了一杯茶来。
+  (of a person, action, or thing) be the reason for (someone) to come to a place  • （人，行为，事情）使（某人）来
+ »it was not horse-trading that fetched Harper to Belgium, but Sharpe.  把哈珀引到比利时来的不是马的买卖，而是夏普这个人。
+  (archaic)bring forth (blood or tears)  • [古] 使出（血）；使流（泪）
+ »kind offers fetched tears from me.  好心的施予令我潸然泪下。
+  (archaic)draw or take a (breath); heave (a sigh)  • 〈古〉吸（气）；叹息
+2. achieve (a particular price) when sold  • 卖价达到
+ »the land could fetch over a million pounds.  这块地售价可超过100万英镑。
+3. [with two objs] [informal] inflict (a blow or slap) on (someone)  • [非正式] 对（某人）施加（重击，巴掌）
+ »he always used to slam the gate and try and fetch her shins a wallop.  他过去总是砰然关上大门，然后对准她的胫骨猛击一拳。
+4. (informal, dated)cause great interest or delight in (someone)  • [非正式，旧] 吸引（某人），使（某人）高兴
+ »to say that the child has got the father's nose fetches the parents.  孩子鼻子长得像父亲这一说法让他的父母非常高兴。
+◙ noun
+1. the distance travelled by wind or waves across open water  • 风区长度
+  the distance a vessel must sail to reach open water  • （船只到达开阔水域的）航行距离
+2. [insing] an act of going for something and then bringing it back  • 去取回，去拿来
+ »he thought the best part of the fetch was wrestling over the stick.  他认为去取东西时最精彩的部分就是设法对付手杖。
+3. (archaic)a contrivance, dodge, or trick  • [古] 计谋；诡计
+ »it is no ingenious fetches of argument that we want.  我们想要的决不是高超的辩术。
+
+【IDIOMS】◘ fetch and carry
+1. run backwards and forwards bringing things to someone in a servile fashion  • 做杂务，当听差，跑腿
+
+【派生】♦ fetcher noun
+
+【语源】1. Old English fecc(e)an, variant of fetian, probably related to fatian 'grasp', of Germanic origin and related to German fassen
+
+【PHR V】◘ fetch up
+1. [informal] arrive or come to rest somewhere, typically by accident or unintentionally  • [非正式] （尤指偶然或无意中）到达，停留（某地）fetch²
+◙ noun
+1. [Brit, chieflyarchaic] the apparition or double of a living person, formerly believed to be a warning of that person's impending death  • [英，主古] （活人的）鬼魂，幽灵（旧时认为是此人濒死的征兆）
+
+【语源】1. late 17th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   fetching
+ / ˈfetʃiŋ /◙ adjective
+1. attractive  • 迷人的，有魅力的
+ »a fetching little garment of pink satin.  一件迷人的粉红色缎子小衣服。
+
+【派生】♦ fetchingly adverb
+
+
+
+
+————————————
+★☆☆   fetich
+ / ˈfi:tiʃ , ˈfetiʃ /◙ noun
+1. archaic spelling of fetish  • [古] 同 fetish 
+
+
+
+————————————
+★☆☆   feticide
+ / ˈfi:tisaid /◙ noun
+1. [mass noun] destruction or abortion of a fetus  • 堕胎
+
+
+
+————————————
+★☆☆   fetid
+ / ˈfetɪd , ˈfi:tɪd /◙ (也作 foetid), adjective
+1. smelling extremely unpleasant  • 恶臭的，臭气熏天的
+ »the fetid water of the marsh.  沼泽地的臭水。
+
+【派生】♦ fetidly adverb
+♦ fetidness noun
+
+【语源】1. late Middle English: from Latin fetidus (often erroneously spelled foetidus), from fetere 'to stink'. 
+--› compare fetor 
+
+
+
+————————————
+★☆☆   fetish
+ / ˈfetɪʃ , ˈfi:tɪʃ /◙ noun
+1. an inanimate object worshipped for its supposed magical powers or because it is considered to be inhabited by a spirit  • 物神，奉若神明之物
+  a course of action to which one has an excessive and irrational commitment  • 痴迷，迷恋
+ »he had a fetish for writing more opinions each year than any other justice.  他的一个癖好是每年比其他任何一位法官写出更多的裁定理由。
+  a form of sexual desire in which gratification is linked to an abnormal degree to a particular object, item of clothing, part of the body, etc  • （物体、衣物、身体某一部分引起的）恋物癖
+ »Victorian men developed fetishes focusing on feet, shoes, and boots.  维多利亚时期的男性对脚、鞋和靴有恋物癖。
+
+【派生】♦ fetishism noun
+♦ fetishist noun
+♦ fetishistic adjective
+
+【语源】1. early 17th cent. (originally denoting an object used by the peoples of West Africa as an amulet or charm): from French fétiche, from Portuguese feitiço 'charm, sorcery' (originally an adjective meaning 'made by art'), from Latin factitius (see factitious )
+
+
+
+————————————
+★☆☆   fetishize
+ / ˈfetɪˌʃaɪz /◙ (也作 -ise), verb
+1. [with obj.] have an excessive and irrational commitment to (something)  • 迷恋，痴迷，嗜好（某物）
+ »an author who fetishizes privacy.  迷恋隐私题材的作者。
+  make (something) the object of a sexual fetish  • 把（某物）当作性崇拜对象
+ »women's bodies are so intensely fetishized.  女性的身体得到了如此热烈的膜拜。
+
+【派生】♦ fetishization noun
+
+
+
+
+————————————
+★☆☆   fetlock
+ / ˈfetlɔk /◙ (也作 fetlock joint), noun
+1. the joint of a horse's or other quadruped's leg between the cannon bone and the pastern  • （马及其他四足动物腿上的）肢关节
+
+【语源】1. Middle English: ultimately of Germanic origin; related to German Fessel 'fetlock', also to foot
+
+
+
+————————————
+★☆☆   feto-◙ for combining
+1. representing fetus  • fetus 表示“胎（儿）”
+
+
+
+————————————
+★☆☆   fetor
+ / ˈfi:tə , ˈfi:tɔ: /◙ noun
+1. a strong, foul smell  • 恶臭
+ »the fetor of decay.  腐臭味。
+
+【语源】1. late 15th cent.: from Latin, from fetere 'to stink'. 
+--› compare fetid 
+
+
+
+————————————
+★☆☆   fetta
+ / ˈfetə /◙ noun
+1. variant spelling of feta  • 同 feta 
+
+
+
+————————————
+★☆☆   fetter
+ / ˈfetə /◙ noun
+1. (也作 fetters)a chain or manacle used to restrain a prisoner, typically placed around the ankles  • 镣铐（尤指脚镣）
+ »he lay bound with fetters of iron.  他戴着铁镣躺着。
+  a restraint or check on someone's freedom to do something, typically one considered unfair or overly restrictive  • （尤指不公平或过度的）束缚，羁绊
+ »the fetters of discipline and caution.  纪律与戒心这些羁绊。
+◙ verb
+1. [with obj.] restrain with chains or manacles, typically around the ankles  • 铐住（尤指铐在脚踝处）
+ »[as adj. fettered] a ragged and fettered prisoner.  一个衣衫褴褛、戴着脚镣的囚犯。
+  [often be fettered] restrict or restrain (someone) in an unfair or undesirable fashion  • （不公平地或违人愿地）限制，束缚，羁绊（人）
+ »he was not fettered by tradition.  他不囿于传统。
+
+【语源】1. Old English feter, of Germanic origin; related to Dutch veter 'a lace', from an Indo-European root shared by foot
+
+
+
+————————————
+★☆☆   fetterlock
+ / ˈfetəlɔk /◙ noun
+1. a D-shaped fetter for tethering a horse by the leg, now only as represented as a heraldic charge  • （套在马腿上的）D字形脚镣（现在仅作纹章图案）
+
+
+
+————————————
+★☆☆   fettle
+ / ˈfetl /◙ noun
+1. [mass noun] condition  • 情形，状况；条件
+ »the aircraft remains in fine fettle.  这架飞机仍然状况良好。
+◙ verb
+1. [with obj.] trim or clean the rough edges of (a metal casting or a piece of pottery) before firing  • （焙烧前）打磨，修整，清除（金属铸件、陶器的毛边）
+  [N. English] make or repair (something)  • [北英格兰] 制造；修补
+ »[with twoobjs] I paid a smith to fettle me an iron vest.  我出钱请一位铁匠给我做一件铁马甲。
+
+【语源】1. late Middle English (as a verb in the general sense 'get ready, prepare', specifically 'prepare oneself for battle, gird up'): from dialect fettle 'strip of material, girdle', from Old English fetel, of Germanic origin; related to German Fessel 'chain, band'
+
+
+
+————————————
+★☆☆   fettler◙ noun
+1. [Brit. & Austral.] a person who does repair or maintenance work on a railway  • [英， 澳] 铁路保养工，养路工
+2. a person who fettles metal castings or pottery  • （金属铸件，陶器）修整工；抛光工
+
+
+
+————————————
+★☆☆   fettuccine
+ / ˌfetəˈtʃi:ni /◙ (也作 fettucini), plural noun
+1. pasta made in ribbons  • 意大利宽面条
+
+【语源】1. from Italian, plural of fettucina, diminutive of fetta 'slice, ribbon'
+
+
+
+————————————
+★☆☆   fetus
+ / ˈfi:təs /◙ (英，[非技] 亦作 foetus), (pl. fetuses)
+1. an unborn or unhatched offspring of a mammal, in particular, an unborn human more than eight weeks after conception  • （尤指受孕八周后的）胎儿
+
+【语源】1. late Middle English: from Latin fetus 'pregnancy, childbirth, offspring'
+
+【用法】1. The spelling foetus has no etymological basis but is recorded from the 16th century and until recently was the standard British spelling in both technical and non-technical use. In technical usage fetus is now the standard spelling throughout the English-speaking world, but foetus is still found in British English outside technical contexts
+
+
+
+————————————
+★☆☆   feu
+ / fju: /əScots ɚaw] ə苏格兰律] 
+◙ noun
+1. a perpetual lease at a fixed rent  • （租金固定的）永久租赁
+  a piece of land held by such a lease  • （租金固定的）永久租赁地
+◙ (feus, feued, feuing)
+1. [with obj.] grant (land) on such a lease  • 授（或批准）永久租用（地）
+
+【语源】1. late 15th cent. (originally denoting a feudal tenure in which an annual payment was made in lieu of military service): from Old French (see fee )
+
+
+
+————————————
+★☆☆   feud
+ / fju:d /◙ noun
+1. a prolonged and bitter quarrel or dispute  • 长期不和（或争端）
+ »his complex arguments and bitter feuds with the Holy See.  他与教廷的复杂争论以及长期的尖锐对立。
+  a state of prolonged mutual hostility, typically between two families or communities, characterized by murderous assaults in revenge for a previous injuries  • 长期敌对（尤指世仇）
+ »a savage feud over drugs money.  因争夺毒品所得的黑钱引起的残酷争斗。
+◙ verb
+1. [no obj.] take part in such a quarrel or violent conflict  • 参与争执（或暴力冲突）
+ »Hoover feuded with the CIA for decades.  胡佛与中情局对抗了几十年。
+
+【语源】1. Middle English fede 'hostility, ill will', from Old French feide, from Middle Dutch, Middle Low German vēde, of Germanic origin; related to foe
+
+
+
+————————————
+★☆☆   feudal
+ / ˈfju:dl /◙ adjective
+1. according to, resembling, or denoting the system of feudalism  • 封建（制度）的
+ »the feudal system.  封建体制。
+  absurdly outdated or old-fashioned  • （违背常理地）落伍的，过时的
+ »his view of patriotism was more than old-fashioned—it was positively feudal.  他对爱国主义的看法不只是落伍——简直是老掉了牙。
+
+【派生】♦ feudalization noun
+♦ feudalize verb
+1. (也作 -ise)
+♦ feudally adverb
+
+【语源】1. early 17th cent.: from medieval Latin feudalis, from feudum (see fee )
+
+
+
+————————————
+★☆☆   feudalism
+ / ˈfju:dlˌɪzəm /◙ noun
+1. [mass noun] (historical)the dominant social system in medieval Europe, in which the nobility held lands from the Crown in exchange for military service, and vassals were in turn tenants of the nobles, while the peasants (villeins or serfs) were obliged to live on their lord's land and give him homage, labour, and a share of the produce, notionally in exchange for military protection  • [史] 封建主义，封建制度
+
+【派生】♦ feudalist noun
+♦ feudalistic adjective
+
+
+
+
+————————————
+★☆☆   feudality
+ / fju:ˈdæliti /◙ noun
+1. [mass noun] (archaic)the principles and practice of the feudal system  • [古] 封建制度
+
+【语源】1. late 18th cent.: from French féodalité, from féodal, from medieval Latin feudalis 'feudal', from feudum (see fee )
+
+
+
+————————————
+★☆☆   feudatory
+ / ˈfju:dətəri /(historical)ə史] 
+◙ adjective
+1. owing feudal allegiance to  • 臣属的，隶属的
+ »they had for a long period been feudatory to the Norwegian Crown.  他们长期隶属于挪威王室。
+◙ (pl. -ies)
+1. a person who holds land under the conditions of the feudal system  • 封臣，藩臣
+
+【语源】1. late 16th cent.: from medieval Latin feudatorius, from feudare 'enfeoff', from feudum (see fee )
+
+
+
+————————————
+★☆☆   feu de joie
+ / ˌfə: də ˈʒwɑ: /◙ (pl. feux de joie 读音同)
+1. a rifle salute fired by soldiers on a ceremonial occasion, each soldier firing in succession along the ranks to make a continuous sound  • 鸣枪礼
+
+【语源】1. French, literally fire of joy'
+
+
+
+————————————
+★☆☆   feudist
+ / ˈfju:dist /◙ noun
+1. [US] a person taking part in a feud  • [美] 结世仇者，宿怨冤家
+
+
+
+————————————
+★☆☆   Feuerbach
+ / ˈfɔiərba:k /1. ɚudwig əændreas] (1804–ˌ2), German materialist philosopher. ɪn his best-known work, ðhe əssence of ɔhristianity (1841), he argued that the dogmas and beliefs of ɔhristianity are figments of human imagination, fulfilling a need inherent in human nature  • 费尔巴哈，路德维希（•安德烈亚斯）（1804–1872，德国唯物主义哲学家，在其最著名的作品《基督教的本质》［1841］中指出，基督教教义和信念只是满足人性内在要求的想像虚构之物）
+
+
+
+————————————
+★☆☆   feuilleton
+ / ˈfɔiitə:n /◙ noun
+1. a part of a newspaper or magazine devoted to fiction, criticism, or light literature; an article printed in such a part  • （报刊的）文艺专栏；文艺专栏作品
+
+【语源】1. mid 19th cent.: French, from feuillet, diminutive of feuille 'leaf'
+
+
+
+————————————
+★☆☆   fever
+ / ˈfi:və /◙ noun
+1. an abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium  • 发烧，发热；热病
+ »her mother died of a fever.  她母亲死于热病。
+ »[mass noun] African equine fever.  非洲马热病。
+  a state of nervous excitement or agitation  • 激动不安，焦躁
+ »I was mystified, and in a fever of expectation.  我困惑不解，焦躁不安地期待着。
+  [mass noun] [with modifier] the excitement felt by a group of people about a particular public event  • （对某一公众事件的）狂热
+ »election fever reaches its climax tomorrow.  选举热明天将达到高潮。
+◙ verb
+1. [with obj.] (archaic)bring about a high body temperature or a state of nervous excitement in (someone)  • [古] 使发高烧；使狂热，煽动
+ »a heart which sin has fevered.  被罪恶蛊惑的心灵。
+
+【语源】1. Old English fēfor, from Latin febris; reinforced in Middle English by Old French fievre, also from febris
+
+
+
+————————————
+★☆☆   fevered◙ adjective
+1. having or showing the symptoms associated with a dangerously high temperature  • 发高烧的
+ »her fevered eyes.  她因发烧而变红的双眼。
+  feeling or displaying an excessive degree of nervous excitement, agitation, or energy  • 兴奋过度的；躁动不安的；好动的
+ »my fevered adolescent imagination.  我那青春期躁动不安的想像。
+
+
+
+————————————
+★☆☆   feverfew
+ / ˈfi:vəfju: /◙ noun
+1. a small bushy aromatic Eurasian plant of the daisy family, with feathery leaves and daisy-like flowers. It is used in herbal medicine to treat headaches  • 小白菊，野甘菊，菊蒿
+2. Tanacetum parthenium, family Compositae  • 拉丁名Tanacetum parthenium，菊科
+
+【语源】1. Old English feferfuge, from Latin febrifuga, from febris 'fever' + fugare 'drive away'. 
+--› compare febrifuge 
+
+
+
+————————————
+★☆☆   fever grass◙ noun
+1. West Indian term for lemon grass  • [西印度] 防热草 [同 lemon grass] 
+
+
+
+————————————
+★☆☆   feverish
+ / ˈfi:vərɪʃ /◙ adjective
+1. having or showing the symptoms of a fever  • 发烧的，患热病的
+ »he suffered from feverish colds.  他多次感冒发烧。
+  displaying a frenetic excitement or energy  • 狂热的，亢奋的，躁动不安的
+ »the next couple of weeks were spent in a whirl of feverish activity.  随后的两周是在紧张忙乱中度过的。
+
+【派生】♦ feverishly adverb
+♦ feverishness noun
+
+
+
+
+————————————
+★☆☆   feverous
+ / ˈfi:vərəs /◙ adjective
+1. (archaic)apt to cause fever  • [古] 易致热病的
+  feverish  • 发烧的，患热病的；狂热的，亢奋的
+
+
+
+————————————
+★☆☆   fever pitch◙ noun
+1. [mass noun] a state of extreme excitement  • 极度兴奋，亢奋
+ »the football crowd was at fever pitch.  足球赛观众情绪十分激动。
+ »[in sing.] a fever pitch of nervous excitement.  极度焦躁。
+
+
+
+————————————
+★☆☆   fever tree◙ noun
+1. any of a number of trees which are believed to either cause or cure fever, in particular  • 疟疾树，尤指
+2. a North American tree used in the treatment of malaria during the civil war [Pinckneya pubens, family Rubiaceae] a southern African tree which was formerly believed to cause malaria [Acacia xanthophloea, family Leguminosae]  • 短毛苦疟树（拉丁名Pinckneya pubens，茜草科） 黄木金合欢（拉丁名Acacia xanthophloea，豆科）
+
+
+
+————————————
+★☆☆   few
+ / fju: /◙ determiner, pronoun & adjective
+1. (a few)a small number of  • 少量；几个
+ »[as determiner] may I ask a few questions?  我可以问几个问题吗？
+ »[as pronoun] I will recount a few of the stories told me.  我要讲几个我听过的故事。
+ »many believe it but only a few are prepared to say.  许多人都相信这回事，但只有几个人愿意说出来。
+2. used to emphasize how small a number of people or things is  • ［用于强调量少］没几个；几乎不；几乎没
+ »[as determiner] he had few friends.  他几乎没朋友。
+ »[as pronoun] few thought to challenge these assumptions.  几乎没人想过去质疑这些假设。
+ »very few of the titles have any literary merit.  这些书刊几乎没有几本有文学价值。
+ »a club with as few as 20 members.  只有20个成员的俱乐部。
+ »[comparative] a population of fewer than two million.  不足200万的人口。
+ »[as adj.] sewing was one of her few pleasures.  缝纫是她为数不多的爱好之一。
+ »comforts here are few.  此处没有什么康乐设施。
+ »[superlative] ask which products have the fewest complaints.  问一下哪些产品投诉最少。
+◙ noun
+1. [as plural noun the few] the minority of people; the elect  • 少数人；特权人士
+ »a world that increasingly belongs to the few.  日益掌握在少数人手里的世界。
+  (the Few)[Brit.] the RAF pilots who took part in the Battle of Britain  • [英] 参加不列颠之战的英国皇家空军飞行员
+
+【IDIOMS】◘ every few
+1. once in every small group of (typically units of time)  • （尤指时间单位）每隔几…一次
+ »she visits every few weeks.  她每隔几周探望一次。
+◘ few and far between
+1. scarce ; infrequent  • 稀少，罕有；稀疏
+ »my inspired moments are few and far between.  我难得有灵感。
+◘ a good few
+1. [Brit.] a fairly large number of  • [英] 大量的，许多的
+ »it had been around for a good few years.  多年来它一直挥之不去。
+◘ have a few
+1. [informal] drink enough alcohol to be slightly drunk  • [非正式] 喝得微醉
+◘ no fewer than
+1. used to emphasize a surprisingly large number  • ［强调数字大得惊人］ 不少于，多达
+ »there are no fewer than seventy different brand names.  不同的品牌名称多达70种。
+◘ not a few
+1. a considerable number  • 众多的，大量的，可观的
+ »his fiction has caused not a few readers to see red.  他的小说犯了众怒。
+◘ quite a few
+1. a fairly large number  • 相当多的，不少的
+ »quite a few people can do it.  这事许多人都干得了。
+◘ some few
+1. some but not many  • 一些，有些
+
+【语源】1. Old English fēawe, fēawa, of Germanic origin; related to Old High German fao, from an Indo-European root shared by Latin paucus and Greek pauros 'small'
+
+【用法】1. Fewer versus less: strictly speaking, the rule is that fewer, the comparative form of few, is used with words denoting people or countable thingsfewer members; fewer books; fewer than ten contestantsLess on the other hand, is used with mass nouns, denoting things which cannot be countedless money; less musicIn addition, less is normally used with numbersless than 10,000and with expressions of measurement or timeless than two weeks; less than four miles awayBut to use less with count nouns, as in less people or less wordsis incorrect in standard English. It is perhaps one of the most frequent errors made by native speakers of English, although in written sources the error is found less frequently (around 8 per cent in the British National Corpus)
+
+
+
+————————————
+★☆☆   fey
+ / fei /◙ adjective
+1. giving an impression of vague unworldliness  • 神秘古怪的；非现实的
+ »his mother was a strange, fey woman.  他的母亲是一个神经兮兮的怪女人。
+  having supernatural powers of clairvoyance  • 超自然的，有魔法的
+  (chiefly Scottish)fated to die or at the point of death  • [主苏格兰] 注定要死的；濒死的
+ »now he is fey, he sees his own death, and I see it too.  现在他要死了，他看见了自己的死亡，我也看见了。
+
+【派生】♦ feyly adverb
+♦ feyness noun
+
+【语源】1. Old English fæge (in the sense 'fated to die soon'), of Germanic origin; related to Dutch veeg and to German feige 'cowardly'
+
+
+
+————————————
+★☆☆   Feydeau
+ / ˈfeɪdəʊ,  /1. Georges (1862–1ˌ21), ʃrench dramatist. His name has become a byword for ʃrench bedroom farce. He wrote some forty plays, including Hotel Paradiso (18ˌ4) and ɚe Dindon (18ˌ6)  • 费多，乔治（1862–1921，法国剧作家，其名字已成为法国卧室闹剧的代名词；写了约40部剧作，包括《天堂饭店》［1894］和《火鸡》［1896］）
+
+
+
+————————————
+★☆☆   Feynman
+ / ˈfainmən /1. ɔichard Phillips (1ˌ18–88), æmerican theoretical physicist, noted for his work on quantum electrodynamics. ŋobel Prize for Physics (1ˌ6ˈ)  • 费因曼，理查德•菲利普斯（1918–1988，美国理论物理学家，因研究量子电动力学而著名，1965年获诺贝尔物理学奖）
+
+
+
+————————————
+★☆☆   Feynman diagram◙ noun
+1. [Physics] a diagram showing electromagnetic interactions between subatomic particles  • [物理] 费曼图
+
+
+
+————————————
+★☆☆   Fez◙ (也作 Fès)
+1. a city in northern Morocco, founded in 808; pop. 564,000 (1993)  • 费斯（摩洛哥北部城市，建于公元808年，1993年人口564,000）
+
+
+
+————————————
+★☆☆   fez◙ (pl. fezzes)
+1. a flat-topped conical red hat with a black tassel on top, worn by men in some Muslim countries (formerly the Turkish national headdress)  • 费斯帽，土耳其帽（一些穆斯林国家的男式平顶红色锥形帽，顶上饰有黑缨，曾是土耳其的民族头饰）
+
+【派生】♦ fezzed adjective
+
+【语源】1. early 19th cent.: from Turkish fes (perhaps via French fez), named after Fez, once the chief place of manufacture
+
+
+
+————————————
+★☆☆   ff.◙ for abbreviation
+  folios  • 同 folios 
+  following pages  • 后页，以下各页
+
+
+
+————————————
+★☆☆   ff[Music] [乐] 
+◙ for abbreviation
+1. fortissimo  • 同 fortissimo 
+
+
+
+————————————
+★☆☆   Fg Off◙ for abbreviation
+1. (in the UK) Flying Officer  • （英国）。 (同 flying officer )
+
+
+
+————————————
+★☆☆   f-hole◙ noun
+1. either of a pair of soundholes resembling an ʃ and a reversed ʃ in shape, cut in the front of musical instruments of the violin family, and some other stringed instruments such as semi-acoustic electric guitars or mandolins f  • 孔
+
+
+
+————————————
+★☆☆   FHSA[Brit.] [英] 
+◙ for abbreviation
+1. Family Health Services Authority, a body responsible for running general health services, such as those provided by general practitioners, dentists, and opticians, for a particular area  • 家庭保健服务管理局（负责管理地区的普通保健服务，如地区全科医师、牙医、验光配镜师等提供的服务）
+
+
+
+————————————
+★☆☆   fiacre
+ / fi:ˈɑ:kə /◙ noun
+1. (historical)a small four-wheeled carriage for public hire  • [史] 小型四轮出租马车
+
+【语源】1. late 17th cent.: from French, named after the Hôtel de St Fiacre in Paris, where such vehicles were first hired out
+
+
+
+————————————
+★☆☆   fianchetto
+ / ˌfi:ənˈtʃetəu /əɔhess] ə棋] 
+◙ (pl. -oes)
+1. the development of a bishop by moving it one square to a long diagonal of the board  • （国际象棋中“象"的）侧翼出动
+◙ (-oes, -oed)
+1. [with obj.] develop (a bishop) in such a way  • 使（“象"）侧翼出动
+
+【语源】1. mid 19th cent.: from Italian, diminutive of fianco 'flank', ultimately of Germanic origin
+
+
+
+————————————
+★☆☆   fiancé
+ / ˌfi:ənˈsei /◙ noun
+1. a man to whom a woman is engaged to be married  • 未婚夫
+
+【语源】1. mid 19th cent.: from French, past participle of fiancer 'betroth', from Old French fiance 'a promise', based on Latin fidere 'to trust'
+
+
+
+————————————
+★☆☆   fiancée
+ / ˌfi:ənˈsei /◙ noun
+1. a woman to whom a man is engaged to be married  • 未婚妻
+
+
+
+————————————
+★☆☆   Fianna Fáil
+ / fɪˌænə ˈfɔɪl,  /1. one of the two main political parties of the ɔepublic of ɪreland. ɚarger and traditionally more republican than its rival ʃine Gael, it was formed in 1ˌ26 in opposition to the ænglo-ɪrish ðreaty of 1ˌ21 by əamon de ʒalera together with some of the moderate members of Sinn ʃein  • 替天行道士兵党，共和党（爱尔兰共和国两大政党之一，比其对手爱尔兰统一党更大、更具共和传统，1926年由伊蒙•德•瓦勒拉与新芬党的一些温和成员为反对1921年的《爱英条约》而成立）
+
+【语源】1. Irish, from fianna 'band of warriors' (applied to the soldiers of Finn MacCool; compare with Fenian) and Fáil, genitive of Fál, an ancient name for Ireland. The phrase Fianna Fáil was used in 15th-cent. poetry in the neutral sense ‘people of Ireland’, but the founders of the political party interpreted it to mean ‘soldiers of destiny’
+
+
+
+————————————
+★☆☆   fiasco
+ / fi:ˈæskəʊ , -ˈɑ:skəʊ /◙ (pl. -os)
+1. a thing that is a complete failure, especially in a ludicrous or humiliating way  • 惨败
+ »his plans turned into a fiasco.  他的计划一败涂地。
+
+【语源】1. mid 19th cent.: from Italian, literally bottle, flask', in the phrase far fiasco, literally 'make a bottle', figuratively 'fail in a performance': the reason for the figurative sense is unexplained
+
+
+
+————————————
+★☆☆   fiat
+ /  ˈfaɪæt /◙ noun
+1. a formal authorization or proposition; a decree  • 授权，批准，许可；命令，法令
+ »the reforms left most prices fixed by government fiat.  改革把大部分价格留待政府法令确定。
+
+【语源】1. late Middle English: from Latin, let it be done', from fieri 'be done or made'
+
+
+
+————————————
+★☆☆   fiat money◙ noun
+1. [mass noun] inconvertible paper money made legal tender by a government decree  • （根据政府法令作为合法货币发行的）不兑现纸币
+
+
+
+————————————
+★☆☆   fib
+ / fɪb /◙ noun
+1. a lie, typically an unimportant one  • 小谎，无伤大雅的谎言
+ »why did you tell him such a dreadful fib?  你怎么会向他撒这么讨厌的一个小谎呢？
+◙ (fibbed, fibbing)
+1. [no obj.] [often as noun fibbing] tell such a lie  • 撒小谎
+
+【派生】♦ fibber noun
+
+【语源】1. mid 16th cent.: perhaps a shortening of obsolete fible-fable 'nonsense', reduplication of fable
+
+
+
+————————————
+★☆☆   fiber
+ / ˈfaibə /◙ noun
+1. US spelling of fibre  • [美] 同 fibre 
+
+
+
+————————————
+★☆☆   Fibonacci
+ / ˌfɪbəˈnɑ:tʃi /1. ɚeonardo (c.11ˌ0–c.12ˈ0), ɪtalian mathematician; known as ʃibonacci of Pisa. ʃibonacci popularized the use of the ‘new’ ærabic numerals in əurope. He made many original contributions in complex calculations, algebra, and geometry, and pioneered number theory and indeterminate analysis, discovering the ʃibonacci series  • 斐波纳契，莱昂纳多（约1170–约1250，意大利数学家，通称“比萨的斐波纳契"，推广了“新"阿拉伯数字在欧洲的使用，在复杂运算、代数和几何方面作出了诸多独创性的贡献，是数论和不定解析的先驱，发现了斐波纳契数列）
+
+
+
+————————————
+★☆☆   Fibonacci series◙ noun
+1. [Mathematics] a series of numbers in which each number [Fibonacci number] is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc.  • [数] 斐波纳契数列
+
+
+
+————————————
+★☆☆   fibre
+ / ˈfaibə /◙ [美 fiber] , noun
+1. a thread or filament from which a vegetable tissue, mineral substance, or textile is formed  • （构成植物组织、矿物质、纺织品的）纤维，丝
+ »the basket comes lined with natural coco fibres.  做出来的篮子有天然椰子纤维做衬里。
+  a substance formed of such threads or filaments  • 纤维物质；纤维质料；织物
+ »ordinary synthetics don't breathe as well as natural fibres.  普通的合成材料不像天然织物那样透气。
+ »[mass noun] high strength carbon fibre.  高强度的碳纤维。
+  a thread-like structure forming part of the muscular, nervous, connective, or other tissue in the human or animal body  • （肌肉、神经、关节等组织的）纤维
+ »there were degenerative changes in muscle fibres.  肌肉纤维有退变。
+ »she wanted him with every fibre of her being.  她全身心地想要他。
+  [mass noun] (figurative)strength of character  • [喻] 人格力量，道义力量，精神力量
+ »a weak person with no moral fibre.  一个意志薄弱、毫无道义的人。
+2. [mass noun] dietary material containing substances such as cellulose, lignin, and pectin, that are resistant to the action of digestive enzymes  • 含纤维食物
+
+【派生】♦ fibred adjective
+ »[in combination] long-fibred wools.  长绒羊毛。
+♦ fibreless adjective
+
+【语源】1. late Middle English (in the sense 'lobe of the liver' (plural) 'entrails'): via French from Latin fibra 'fibre, filament, entrails'
+
+
+
+————————————
+★☆☆   fibreboard◙ [美 fiberboard] , noun
+1. [mass noun] a building material made of wood or other plant fibres compressed into boards  • 纤维板
+
+
+
+————————————
+★☆☆   fibrefill
+ / ˈfaibəfil /◙ noun
+1. [mass noun] synthetic material used for padding and insulation in garments and soft furnishings such as cushions and duvets  • （服装、垫子、被褥等的）合成纤维填充物
+
+
+
+————————————
+★☆☆   fibreglass◙ [美 fiberglass] , noun, [mass noun] 
+1. a reinforced plastic material composed of glass fibres embedded in a resin matrix  • 玻璃纤维
+2. a textile fabric made from woven glass filaments  • 玻璃棉
+
+
+
+————————————
+★☆☆   fibre optics◙ plural noun
+1. [treated as sing.] the use of thin flexible fibres of glass or other transparent solids to transmit light signals, chiefly for telecommunications or for internal inspection of the body  • 纤维光学
+  [treated as pl.] the fibres and associated devices so used  • 光导纤维，光纤
+
+【派生】♦ fibre-optic adjective
+
+
+
+
+————————————
+★☆☆   fibrescope
+ / ˈfaibəskəup /◙ [美 fiberscope] , noun
+1. a fibre-optic device for viewing inaccessible internal structures, especially in the human body  • 纤维内窥镜
+
+
+
+————————————
+★☆☆   fibre tip◙ noun
+1. a pen with a writing point made of tightly packed fibres which hold the ink  • 纤维笔
+  [usu as modifier] a tip of such a kind  • 纤维笔尖
+ »a fibre-tip pen.  纤维笔。
+
+
+
+————————————
+★☆☆   fibril
+ / ˈfaibril /◙ noun
+1. (technical)a small or slender fibre  • [技] 小纤维，纤丝，原纤维
+ »each muscle fibre is subdivided into smaller fibrils.  每束肌肉纤维都细分成了更小的纤丝。
+
+【派生】♦ fibrillar adjective
+♦ fibrillary adjective
+
+【语源】1. mid 17th cent.: from modern Latin fibrilla, diminutive of Latin fibra (see fibre )
+
+
+
+————————————
+★☆☆   fibrillate
+ / ˈfaibrileit /◙ verb, [no obj.] 
+1. (of a muscle, especially in the heart) make a quivering movement due to uncoordinated contraction of the individual fibrils  • （肌肉，尤指心肌）作纤维性颤动
+ »the atria ceased to fibrillate when the temperature was reduced.  温度下降后心房不再作纤维性颤动。
+2. (of a fibre) split up into fibrils  • （纤维）细纤维化，纤丝化
+  [with obj.] break (a fibre) into fibrils  • 使纤丝化
+
+【派生】♦ fibrillation noun
+
+
+
+
+————————————
+★☆☆   fibrin
+ / ˈfaibrin /◙ noun
+1. [mass noun] [Biochemistry] an insoluble protein formed from fibrinogen during the clotting of blood. It forms a fibrous mesh that impedes the flow of blood  • [生化] 血纤蛋白，纤维蛋白
+
+【派生】♦ fibrinoid adjective
+♦ fibrinous adjective
+
+【语源】1. early 19th cent.: from fibre + -in
+
+
+
+————————————
+★☆☆   fibrinogen
+ / faiˈbrinədʒən /◙ noun
+1. [mass noun] [Biochemistry] a soluble protein present in blood plasma, from which fibrin is produced by the action of the enzyme thrombin  • [生化] 血纤蛋白原，纤维蛋白原
+
+
+
+————————————
+★☆☆   fibrinolysis
+ / ˌfaibriˈnɔlisis /◙ noun
+1. [mass noun] [Physiology] the enzymatic breakdown of the fibrin in blood clots  • [生理] （血）纤维蛋白溶解作用
+
+【派生】♦ fibrinolytic adjective
+
+
+
+
+————————————
+★☆☆   fibro-◙ for combining
+1. of, relating to, or characterized by fibres  • 表示“（有关）纤维的"
+ »fibroblast.
+ »fibroma.
+
+【语源】1. from Latin fibra 'fibre'
+
+
+
+————————————
+★☆☆   fibro◙ (pl. -os)
+1. [mass noun] [Austral./NZ] a mixture of asbestos and cement, used in sheets for building  • [澳/新西兰] 石棉水泥
+  [count noun] a house constructed mainly of such sheets  • 石棉水泥房屋
+
+【语源】1. 1950s: abbreviation of fibro-cement
+
+
+
+————————————
+★☆☆   fibroadenoma
+ / ˌfaɪbrəʊædɪˈnəʊmə /◙ (pl. fibroadenomas 或 fibroadenomata -mətə)
+1. [Medicine] a tumour formed of mixed fibrous and glandular tissue, typically occurring as a benign growth in the breast  • [医] 纤维腺瘤（尤指胸部的良性瘤）
+
+
+
+————————————
+★☆☆   fibroblast
+ / ˈfaibrəublɑ:st /◙ noun
+1. [Physiology] a cell in connective tissue which produces collagen and other fibres  • [生理] 成纤维细胞，纤维原细胞
+
+【语源】1. late 19th cent.: from fibro- + -blast
+
+
+
+————————————
+★☆☆   fibrocystic
+ / ˌfaibrəuˈsistik /◙ adjective
+1. [attrib.] [Medicine] (of a disease) characterized by the development of fibrous tissue and cystic spaces, typically in the pancreas or the breast  • [医] 纤维囊性的
+
+
+
+————————————
+★☆☆   fibroid
+ / ˈfaibrɔid /◙ adjective
+1. of or characterized by fibres or fibrous tissue  • 纤维性的；纤维状的
+◙ noun
+1. [Medicine] a benign tumour of muscular and fibrous tissues, typically developing in the wall of the womb  • [医] （尤指子宫内的）纤维瘤；子宫肌瘤
+
+
+
+————————————
+★☆☆   fibroin
+ / ˈfaibrəuin /◙ noun
+1. [mass noun] a protein which is the chief constituent of silk  • 蚕丝蛋白
+
+【语源】1. mid 19th cent.: from fibro- + -in
+
+
+
+————————————
+★☆☆   fibrolite
+ / ˈfaibrəlait /◙ noun
+1. another term for sillimanite  • 同 sillimanite 
+
+
+
+————————————
+★☆☆   fibroma
+ / faiˈbrəumə /◙ (pl. fibromas 或 fibromata -mətə)
+1. [Medicine] a benign fibrous tumour of connective tissue  • [医] 纤维瘤
+
+【语源】1. mid 19th cent.: from Latin fibra (see fibre ) + -oma
+
+
+
+————————————
+★☆☆   fibromyalgia
+ / ˌfaɪbrəʊmaɪˈældʒɪə /◙ noun
+1. [mass noun] a rheumatic condition characterized by muscular or musculoskeletal pain with stiffness and localized tenderness at specific points on the body  • 风湿性纤维肌肉痛
+
+
+
+————————————
+★☆☆   fibrosarcoma
+ / ˌfaibrəusɑ:ˈkəumə /◙ (pl. fibrosarcomas 或 fibrosarcomata -mətə)
+1. [Medicine] a sarcoma in which the predominant cell type is a malignant fibroblast  • [医] 纤维肉瘤
+
+【派生】♦ fibrosarcomatous adjective
+
+
+
+
+————————————
+★☆☆   fibrosis
+ / faiˈbrəusis /◙ noun
+1. [mass noun] [Medicine] the thickening and scarring of connective tissue, usually as a result of injury  • [医] 纤维化，纤维变性
+
+【派生】♦ fibrotic adjective
+
+【语源】1. late 19th cent.: from Latin fibra (see fibre ) + -osis
+
+
+
+————————————
+★☆☆   fibrositis
+ / ˌfaibrəuˈsaitis /◙ noun
+1. [mass noun] [Medicine] inflammation of fibrous connective tissue, typically affecting the back and causing stiffness and pain  • [医] 肌风湿病，纤维织炎
+
+【派生】♦ fibrositic adjective
+
+【语源】1. early 20th cent.: from Latin fibrosus 'fibrous' (from fibra 'fibre') + -itis
+
+
+
+————————————
+★☆☆   fibrous
+ / ˈfaibrəs /◙ adjective
+1. consisting of or characterized by fibres  • 含纤维的；纤维性的
+ »a good fibrous root system.  状况良好的纤维性根系。
+
+【派生】♦ fibrously adverb
+♦ fibrousness noun
+
+
+
+
+————————————
+★☆☆   fibula
+ / ˈfibjulə /◙ (pl. fibulae -liː 或 fibulas)
+1. [Anatomy] the outer and usually smaller of the two bones between the knee and the ankle (or the equivalent joints in other terrestrial vertebrates), parallel with the tibia  • [剖] 腓骨
+2. [Archaeology] a brooch or clasp  • [考古] 扣衣针，胸针，饰针
+
+【派生】♦ fibular adjective
+
+【语源】1. late 16th cent.: from Latin, brooch', perhaps related to figere 'to fix'. The bone is so named because the shape it makes with the tibia resembles a clasp, the fibula being the tongue
+
+
+
+————————————
+★☆☆   -fic◙ [一般作 -ific] , suffix
+1. (forming adjectives) producing; making  • ［构成形容词］表示“引起…的"，“形成…的"，“…化的"
+ »prolific.
+ »soporific.
+
+【派生】♦ -fically suffix
+1. forming corresponding adverbs  • ［构成相应副词］
+
+【语源】1. from French -fique or Latin -ficus from facere 'do, make'
+
+
+
+————————————
+★☆☆   -fication◙ [一般作 -ification] , suffix
+1. forming nouns of action from verbs ending in -fy (such as simplification from simplify)  • ［由以-fy结尾的动词构成动作性名词，如由simplify构成 simplification］表示“形成"，“…化"
+
+【语源】1. from French, or from Latin -fication- (from verbs ending in -ficare)
+
+
+
+————————————
+★☆☆   fiche
+ / fi:ʃ /◙ noun
+1. short for microfiche  • microfiche 的简称
+
+
+
+————————————
+★☆☆   Fichte
+ / ˈfiktə /1. ʊohann Gottlieb (1ˌ62–1814), German philosopher. æ pupil of Kant, he postulated that the ego is the basic reality; the world is posited by the ego in defining and delimiting itself. His political addresses had some influence on the development of German nationalism and the overthrow of ŋapoleon  • 费希特，约翰•戈特利布（1762–1814，德国哲学家，康德的学生，提出自我是基本的实在，世界是自我在规定和限制它自己过程中的产物；其政治演说对德国民族主义的发展和拿破仑的倒台产生过一定影响）
+
+
+
+————————————
+★☆☆   fichu
+ / ˈfi:ʃu: /◙ noun
+1. a small triangular shawl, worn round a woman's shoulders and neck  • 女用三角小披肩
+
+【语源】1. mid 18th cent.: from French, from ficher 'to fix, pin'
+
+
+
+————————————
+★☆☆   fickle
+ / ˈfɪkəl /◙ adjective
+1. changing frequently, especially as regards one's loyalties or interests  • （尤指忠诚、兴趣）变幻无常的，多变的，善变的
+ »his supporters are so fickle.  他的支持者真是靠不住。
+
+【派生】♦ fickleness noun
+♦ fickly adverb
+
+【语源】1. Old English ficol 'deceitful', of Germanic origin
+
+
+
+————————————
+★☆☆   fictile
+ / ˈfiktail /◙ adjective
+1. made of earth or clay by a potter  • 黏土制的，陶制的
+  of or relating to pottery or its manufacture  • 陶器的，陶制的；陶器制作的
+
+【语源】1. early 17th cent.: from Latin fictilis, from fict- 'formed, contrived', from the verb fingere
+
+
+
+————————————
+★☆☆   fiction
+ / ˈfikʃən /◙ noun
+1. [mass noun] literature in the form of prose, especially novels, that describes imaginary events and people  • 小说，长篇小说
+  invention or fabrication as opposed to fact  • 虚构，杜撰，编造；捏造
+ »the president dismissed the allegation as absolute fiction.  庭长驳回了指控，称其纯系捏造。
+  [insing.] a belief or statement which is false, but is often held to be true because it is expedient to do so  • 幌子
+ »the notion of the country being a democracy is a polite fiction.  认为该国是民主国家不过是一个场面上的幌子。
+
+【派生】♦ fictionist noun
+
+【语源】1. late Middle English (in the sense 'invented statement'): via Old French from Latin fictio(n-), from fingere 'form, contrive'. Compare with feign and figment
+
+
+
+————————————
+★☆☆   fictional
+ / ˈfɪkʃənl /◙ adjective
+1. of or relating to fiction; invented for the purposes of fiction  • （有关）小说的，小说式的；（为小说）虚构的，编造的，杜撰的
+ »fictional texts.  小说文本。
+ »a fictional character.  虚构的人物。
+
+【派生】♦ fictionality noun
+♦ fictionalization noun
+♦ fictionalize verb
+1. (也作 -ise)
+♦ fictionally adverb
+
+
+
+
+————————————
+★☆☆   fictitious
+ / fɪkˈtɪʃəs /◙ adjective
+1. not real or true, being imaginary or having been fabricated  • 假的，非真实的；虚构的；捏造的，杜撰的
+ »reports of a deal were dismissed as fictitious by the Minister.  部长称关于某笔交易的报告不实，因此不予受理。
+  of, relating to, or denoting the imaginary characters and events found in fiction  • 小说的，关于小说人物和情节的
+
+【派生】♦ fictitiously adverb
+♦ fictitiousness noun
+
+【语源】1. early 17th cent.: from Latin ficticius (from fingere 'contrive, form') + -ous (see also -itious )
+
+
+
+————————————
+★☆☆   fictive
+ / ˈfiktiv /◙ adjective
+1. creating or created by imagination  • 虚构的，想像出来的，臆造的
+ »the novel's fictive universe.  这部小说虚构的世界。
+
+【派生】♦ fictiveness noun
+
+【语源】1. early 17th cent. (but rare before the 19th cent.): from French fictif, -ive or medieval Latin fictivus, from Latin fingere 'contrive, form'
+
+
+
+————————————
+★☆☆   ficus
+ / ˈfaikəs /◙ [复.同单] 
+1. a tree, shrub, or climber of a large genus that includes the figs and the rubber plant. They grow in tropical and warm climates and several species are of commercial importance  • 榕属植物
+2. Genus Ficus, family Moraceae  • 榕属，桑科
+
+【语源】1. mid 19th cent.: from Latin, fig, fig tree'
+
+
+
+————————————
+★☆☆   fid
+ / fɪd /◙ noun
+1. (chieflyBrit. or Nautical)a thick peg, wedge, or supporting pin, in particular  • [主英航海] 大钉（或栓、楔），尤指
+  a square wooden or iron bar which takes the weight of a topmast stepped to a lower mast by being passed through holes in both masts  • 桅栓
+  a conical pin or spike used in splicing rope  • （接绳用的圆锥形）尖钉
+
+【语源】1. early 17th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   Fid. Def.◙ for abbreviation
+1. Fidei Defensor  • 同 Fidei Defensor 见 Defender of the Faith
+
+
+
+————————————
+★☆☆   fiddle
+ / ˈfidl /◙ noun
+1. [informal] a violin  • [非正式] 小提琴
+2. (informal, chiefly Brit.)an act of defrauding, cheating, or falsifying  • [非正式，主英] 欺骗，欺诈；伪造；骗局
+ »a major mortgage fiddle.  抵押大骗局。
+3. [informal] a small task that seems awkward and unnecessarily complex  • [非正式] 繁琐的小麻烦
+ »inserting a tape is a bit of a fiddle.  插入磁带略嫌麻烦。
+4. [Nautical] a contrivance, such as a raised rim, that prevents things from rolling or sliding off a table in bad weather  • [航海] 餐桌围框
+◙ verb, [informal] [非正式] 
+1. [no obj.] touch or fidget with something in a restless or nervous way  • （紧张、不安地）抚弄，摆弄，拨弄
+ »Lena fiddled with her cup.  莉娜不安地摆弄着她的杯子。
+  tinker with something in an attempt to make minor adjustments or improvements  • （为稍加调整或改进而）摆弄，倒腾
+ »he sat in the car and played the radio, fiddling with the knobs.  他坐在车里拨弄着收音机的旋钮收听广播。
+  (fiddle around)pass time aimlessly, without doing or achieving anything of substance  • 虚度光阴，混时间
+2. [with obj.] (chiefly Brit.)falsify (figures, data, or records), typically in order to gain money  • [主英] （尤指为赚钱而）伪造，篡改，谎报（数字，数据，记录）
+ »everyone is fiddling their expenses.  人人都在谎报支出。
+3. [no obj.] (archaic)play the violin  • [古] 拉小提琴
+
+【IDIOMS】◘ fiddle while Rome burns
+1. be concerned with relatively trivial matters while ignoring the serious or disastrous events going on around one  • 只顾小事，不看大局
+◘ (as) fit as a fiddle
+1. in very good health  • 非常健康
+◘ on the fiddle
+1. [informal] engaged in cheating or swindling  • [非正式] 行骗
+◘ play second fiddle to
+1. take a less important and subordinate role to someone or something in a way often considered demeaning  • 屈居人下；屈从；迁就
+ »she had to play second fiddle to the interests of her husband.  她不得不迁就她丈夫的喜好。
+
+【语源】1. Old English fithele, denoting a violin or similar instrument (originally not an informal or depreciatory term), related to Dutch vedel and German Fiedel, based on Latin vitulari 'celebrate a festival, be joyful', perhaps from Vitula, the name of a Roman goddess of joy and victory. 
+--› compare viol 
+
+
+
+————————————
+★☆☆   fiddle-back◙ noun
+1. [usu. as modifier] a thing shaped like the back of a violin, with the sides deeply curved inwards, in particular  • 小提琴琴背式物品，尤指
+  the back of a chair  • 椅背
+  the front of a chasuble  • 十字褡襟
+2. (fiddleback)[mass noun] a rippled effect in the grain of fine wood, often exploited when making the backs of violins  • （常用来制作小提琴琴背的上等木材的）波状纹理
+ »[as modifier] fiddleback mahogany.  波纹状桃花心木。
+
+
+
+————————————
+★☆☆   fiddle-de-dee
+ / ˌfɪdldi:ˈdi: /◙ noun
+1. [mass noun] [often as exclamation] [dated] nonsense  • [旧] 胡说，胡言乱语
+
+【语源】1. late 18th cent.: from fiddle + a reduplication without meaning
+
+
+
+————————————
+★☆☆   fiddle-faddle
+ / ˈfid(ə)lfæd(ə)l /◙ noun
+1. [mass noun] trivial matters; nonsense  • 琐事；胡言乱语
+ »he's concerned with petty fiddle-faddle about his personal arrangements.  他在乎关于他私生活的无聊话。
+ »[as exclamation] Are you as fit as you say you are? Fiddle-faddle!.  你真的像自己所说的那么健康吗？瞎说！。
+◙ verb
+1. [no obj.] mess about; fuss  • 瞎忙，瞎混；忙乱；惊慌
+ »you haven't time to fiddle-faddle about like that.  你没时间那样瞎混。
+
+【语源】1. late 16th cent.: reduplication of fiddle
+
+
+
+————————————
+★☆☆   fiddlehead
+ / ˈfidlhed /◙ noun
+1. (也作 fiddlehead fern 或 fiddlehead green)[N. Amer.] the young, curled, edible frond of certain ferns  • [北美] （某些蕨类植物可食用的）拳卷叶芽
+2. a scroll-like carving at a ship's bows  • （船首卷轴状）艏饰
+
+
+
+————————————
+★☆☆   fiddle pattern◙ noun
+1. [mass noun] a style of spoons and forks, with handles shaped like the body of a violin  • 小提琴形柄的刀（或叉）
+
+
+
+————————————
+★☆☆   fiddler
+ / ˈfidlə /◙ noun
+1. [informal] a person who plays the violin, especially one who plays folk music  • [非正式] （尤指演奏民间音乐的）小提琴手
+2. [Brit. informal] a person who cheats or swindles, especially one indulging in petty theft  • [英，非正式] 骗子；小偷小摸者
+
+【语源】1. Old English fithelere, from fithele (see fiddle )
+
+
+
+————————————
+★☆☆   fiddler crab◙ noun
+1. a small amphibious crab, the males of which have one greatly enlarged claw which they wave in territorial display and courtship  • 招潮蟹
+2. Genus Uca, family Ocypodidae  • 招潮属，沙蟹科
+
+
+
+————————————
+★☆☆   Fiddler's Green1. the sailor's Elysium, traditionally a place of wine, women, and song  • 水手乐园（通常有美酒、女人和歌舞）
+
+
+
+————————————
+★☆☆   fiddlestick
+ / ˈfidəstik /◙ exclamation
+1. (fiddlesticks)nonsense  • 胡说，胡言乱语
+◙ noun
+1. [informal] a violin bow  • [非正式] 小提琴琴弓
+
+
+
+————————————
+★☆☆   fiddling
+ / ˈfidliŋ /◙ adjective
+1. annoyingly trivial or petty  • 琐碎的；微不足道的
+ »fiddling little details.  鸡毛蒜皮的细节。
+2. [attrib.] [informal] (of a person) involved with a swindle or embezzlement  • [非正式] （人）诈骗的；弄虚作假的
+ »a fiddling financier.  弄虚作假的金融家。
+
+
+
+————————————
+★☆☆   fiddly◙ (fiddlier, fiddliest)
+1. [Brit. informal] complicated or detailed and awkward to do or use  • [英，非正式] 精巧而难弄的，需要手巧的
+ »replacing the battery is fiddly.  换电池需要手巧。
+
+
+
+————————————
+★☆☆   Fidei Defensor
+ / ˌfaɪdɪaɪ dɪˈfɛnsɔ:, ˌfi:deɪi: /◙ noun
+1. Latin term for Defender of the Faith  • [拉丁] 同 Defender of the Faith 
+
+【语源】1. Latin
+
+
+
+————————————
+★☆☆   fideism
+ / ˈfi:deiˌizm /◙ noun
+1. [mass noun] the doctrine that knowledge depends on faith or revelation  • 信仰主义，僧侣主义（认为知识依赖于信仰或启示）
+
+【派生】♦ fideist noun
+♦ fideistic adjective
+
+【语源】1. late 19th cent.: from Latin fides 'faith' + -ism
+
+
+
+————————————
+★☆☆   fidelity
+ / fiˈdeliti /◙ noun, [mass noun] 
+1. faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support  • 忠诚，忠实，忠贞
+ »he sought only the strictest fidelity to justice.  他寻求的只是绝对公正。
+  sexual faithfulness to a spouse or partner  • （对配偶或搭档的）忠贞
+  the degree of exactness with which something is copied or reproduced  • 保真度，逼真度
+ »the 1949 recording provides reasonable fidelity.  1949年的录音保真度还不错。
+
+【语源】1. late Middle English: from Old French fidelite or Latin fidelitas, from fidelis 'faithful', from fides 'faith'. 
+--› compare fealty 
+
+
+
+————————————
+★☆☆   fidelity insurance◙ noun
+1. [mass noun] insurance taken out by an employer against losses incurred through dishonesty by employees  • 忠实保险
+
+
+
+————————————
+★☆☆   fidget
+ / ˈfɪdʒɪt /◙ (fidgeted, fidgeting)
+1. [no obj.] make small movements, especially of the hands and feet, through nervousness or impatience  • 坐立不安；手足无措
+ »the audience had begun to fidget on their chairs.  观众开始在座位上坐立不安起来。
+  be impatient or uneasy  • 焦急难耐，烦躁，不安
+ »[with infinitive] he was fidgeting to get back to his shop.  他急于回到自己的店里。
+  [withobj.] make (someone) uneasy or uncomfortable  • 使（某人）不安（或烦躁、不适）
+ »she fidgets me with her never-ending spit and polish.  她那无休止的精雕细琢让我烦躁不安。
+◙ noun
+1. a quick, small movement, typically a repeated one, caused by nervousness or impatience  • 坐立不安；动来晃去
+ »he disturbed other people with convulsive fidgets.  他神经质般地动来晃去，扰得别人心神不宁。
+  a person given to such movements, especially one whom other people find irritating  • （尤指讨人厌的）坐立不安者
+  [一般作 fidgets] a state of mental or physical restlessness or uneasiness  • （身心）紧张，不安，烦躁
+ »a marketing person full of nervous energy and fidgets.  一位精力充沛却又紧张兮兮的销售人员。
+
+【派生】♦ fidgeter noun
+♦ fidgetiness noun
+♦ fidgety adjective
+
+【语源】1. late 17th cent.: from obsolete or dialect fidge 'to twitch'; perhaps related to Old Norse fikja 'move briskly, be restless or eager'
+
+
+
+————————————
+★☆☆   fidget pie◙ noun
+1. [Brit.] a savoury pie containing onions, apples, bacon, and sometimes potatoes  • [英] 费杰馅饼（一种开胃饼，用洋葱、苹果、熏肉制成有时还加土豆）
+
+【语源】1. late 18th cent. (as fitchet-pie): perhaps from fitchet, a dialect word for 'polecat', because of the strong, unpleasant odour of the pie during cooking. The change in spelling of the first word was due to association with fidget 
+
+
+
+————————————
+★☆☆   Fido
+ / ˈfaɪdəʊ /1. (historical)a system for dispersing fog using petrol-burners on the ground to enable aircraft to land. ɪt was developed by the ællies during the ʃirst θorld θar  • [史] 燃油加热去雾系统
+
+【语源】1. acronym from Fog Intensive Dispersal Operation
+
+
+
+————————————
+★☆☆   fiducial
+ / fiˈdju:ʃəl /◙ adjective
+1. (technical)(especially of a point or line) assumed as a fixed basis of comparison  • [技] （尤指点、线）基准的
+
+【语源】1. late 16th cent.: from late Latin fiducialis, from fiducia 'trust', from fidere 'to trust'
+
+
+
+————————————
+★☆☆   fiduciary
+ / fiˈdju:ʃəri /◙ adjective
+1. [Law] involving trust, especially with regard to the relationship between a trustee and a beneficiary  • [律] 信托的，信用的
+ »the company has a fiduciary duty to shareholders.  公司对股东负有信用责任。
+  (archaic)held or given in trust  • [古] 被信托的
+ »fiduciary estates.  信托财产。
+  [Finance] (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer  • [财政] （纸币）信用发行的
+◙ (pl. -ies)
+1. a trustee  • 受信托者
+
+【语源】1. late 16th cent. (in the sense 'something inspiring trust; credentials'): from Latin fiduciarius, from fiducia 'trust', from fidere 'to trust'
+
+
+
+————————————
+★☆☆   fidus Achates
+ / ˌfaɪdəs əˈkeɪti:z /◙ noun
+1. a faithful friend or devoted follower  • 忠实的朋友；知己；忠实的追随者；亲信
+
+【语源】1. Latin, literally faithful Achates' (see Achates )
+
+
+
+————————————
+★☆☆   fie
+ / fai /◙ exclamation
+1. (archaic or humorous)used to express disgust or outrage  • [古或幽默] 呸，咄
+
+【语源】1. Middle English: via Old French from Latin fi, an exclamation of disgust at a stench
+
+
+
+————————————
+★☆☆   fief
+ / fi:f /◙ noun
+1. (historical). another term for fee （in sense2）  • [史] 同 fee （义项2）
+2. a person's sphere of operation or control  • （人的）活动范围；控制领域
+
+【语源】1. early 17th cent.: from French (see fee )
+
+
+
+————————————
+★☆☆   fiefdom
+ / ˈfi:fdəm /◙ noun
+1. a fief  • 封地，采邑；活动范围；控制领域
+
+
+
+————————————
+★☆☆   field◙ noun
+1. an area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences  • （多围有栅栏的）田；地；牧场
+ »a wheat field.  麦田。
+ »a field of corn.  玉米地。
+  a piece of land used for a particular purpose, especially an area marked out for a game or sport  • （为特定用途、尤指为比赛或体育运动划出的）场地，场所
+ »a football field.  足球场。
+  a large area of land or water completely covered in a particular substance, especially snow or ice  • （尤指冰雪覆盖下的）大片陆地；大片水体
+ »an ice field.  冰原。
+  an area rich in a natural product, typically oil or gas  • （尤指油、气的）埋藏带；油田；气田
+ »a gas field.  气田。
+  an area on which a battle is fought  • 战地
+ »a field of battle.  战场。
+  (archaic)a battle  • [古] 战斗
+ »many a bloody field was to be fought.  要打许多血腥的战斗。
+  a place where a subject of scientific study or of artistic representation can be observed in its natural location or context  • （科研、艺术表现的）实地；野外
+2. a particular branch of study or sphere of activity or interest  • （研究、活动、兴趣的）范围，领域
+ »we talked to professionals in various fields.  我们与各领域的专业人士交谈。
+  [Computing] a part of a record, representing an item of data  • [计算机] 字段，信息组
+  [Linguistics & Psychology] a general area of meaning within which individual words make particular distinctions  • [语言学， 心理学] 语义场
+  a space or range within which objects are visible from a particular viewpoint or through a piece of apparatus  • 视场，视野。
+--› see field of vision 
+  [Heraldry] the surface of an escutcheon or of one of its divisions  • [纹章] 盾面
+3. [一般作 the field] all the participants in a contest or sport  • （竞赛或体育运动的）全体参赛者
+ »he destroyed the rest of the field with a devastating injection of speed.  他以惊人的速度击败了其他参赛者。
+  [Cricket] fielders collectively, or the manner in which they are spread over the pitch  • [板球] 外场员；防守队；守队阵势
+ »he sees the ball early and strokes it through the gap in the field.  他早早地看见了球，把它击过了守场员之间的空隙。
+  a fielder  • 守场员
+4. [Physics] the region in which a particular condition prevails, especially one in which a force or influence is effective regardless of the presence or absence of a material medium  • [物理] 场
+  the force exerted or potentially exerted in such an area  • 场作用
+ »the variation in the strength of the field.  场作用的强弱变化。
+  [Mathematics] a system subject to two binary operations analogous to those for the multiplication and addition of real numbers, and having similar commutative and distributive laws  • [数] 域，场
+◙ verb
+1. [no obj.] (chiefly Cricket & Baseball)attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing  • [主板球， 主棒球] 防守
+  [with obj.] catch or stop (the ball) and return it  • 接，掷还（球）
+ »his swinging bunt was fielded by the Chicago catcher.  他那记弧线短打被芝加哥的接球手截住了。
+2. [with obj.] send out (a team or individual) to play in a game  • 派（队，个人）参赛，让…上场
+ »Leeds fielded a team of youngsters.  利兹队派出一批小青年上场。
+  (of a political party) put up (a candidate) to stand in an election  • （政党）推出（候选人）参选
+ »the Ecology party fielded 109 candidates.  生态党推出109名候选人参选。
+  deploy (an army)  • 部署，调动（军队）
+ »Russia was committed to fielding 800,000 men.  俄罗斯承诺派遣80万人的部队。
+3. [with obj.] deal with (a difficult question, telephone call, etc.)  • 应付，处理（难题、电话等）
+◙ adjective
+1. [attrib.] carried out or working in the natural environment, rather than in a laboratory or office  • 实地的；野外的
+ »field observations and interviews.  实地观察采访。
+  (of military equipment) light and mobile for use on campaign  • （军事装备）轻便的，机动的
+ »field artillery.  野战炮。
+  used in names of animals or plants found in the open country, rather than among buildings or as cultivated varieties, e.g.field mouse  • ［用于野外动植物名称，与室内、培植品种相对，如field mouse］
+  denoting a game played outdoors on a marked field  • （比赛）户外的，运动场的
+
+【IDIOMS】◘ hold the field
+1. remain the most important  • 继续保持首要地位
+ »the principles of quantum theory hold the field as the convincing account of the physics of the microworld.  量子论原理对微观世界物理现象的描述仍然是最令人信服的。
+◘ in the field
+1. on campaign; (while) engaged in combat or manoeuvres  • 参赛；参战
+ »troops in the field.  作战部队。
+  away from the laboratory, office, or studio; engaged in practical work in a natural environment  • 在野外；在实地
+◘ keep the field
+1. (archaic)continue a military campaign  • [古] 继续军事行动
+◘ lead the field
+1. be the leader in a race  • （赛跑中）领先
+  be the best or most popular  • 领先；最受欢迎
+ »the brand leads the field in vegetarian ready meals.  该品牌是即食素食中最受欢迎的。
+◘ play the field
+1. [informal] indulge in a series of sexual relationships without committing oneself to anyone  • [非正式] 滥交情人
+◘ take the field
+1. (of a sports team) go on to a field to begin a game  • （运动队）入场开赛，上阵
+  start a military campaign  • 开战
+
+【语源】1. Old English feld (also denoting a large tract of open country; compare with veld), of West Germanic origin; related to Dutch veld and German Feld
+
+
+
+————————————
+★☆☆   Field1. John (1782–1837), Irish composer and pianist. He is noted for the invention of the nocturne and for his twenty compositions in this form  • 菲尔德，约翰（1782–1837，爱尔兰作曲家、钢琴家，因首创夜曲及以夜曲形式创作的20部作品而著名）
+
+
+
+————————————
+★☆☆   field bean◙ noun
+1. a bean plant closely related to the broad bean but with smaller seeds, grown to improve soil fertility and for stockfeeding  • 蚕豆
+2. Vicia faba, family Leguminosae  • 拉丁名Vicia faba，豆科
+
+
+
+————————————
+★☆☆   field book◙ noun
+1. a book in which a surveyor writes down measurements and other technical notes taken in the field  • 野外测绘工作记录本
+
+
+
+————————————
+★☆☆   field boot◙ noun
+1. a close-fitting, knee-length military boot  • （及膝的）长统军靴
+
+
+
+————————————
+★☆☆   field cornet◙ noun, [S. African historical] [南非，史] 
+1. a civilian official invested with the rank and responsibilities of a military officer and with judicial powers enabling him to act as a local administrator and magistrate  • 地方治安官（一种文职，但具有军官的官衔和职责，并有司法权，可行使地方行政长官和地方法官的权力）
+2. a rank in the army equivalent to that of lieutenant  • （陆军）中尉
+
+【语源】1. translating South African Dutch veld kornet, from veld 'field' + kornet, specifying a military rank
+
+
+
+————————————
+★☆☆   fieldcraft◙ noun
+1. [mass noun] the techniques involved in living, travelling, or making military or scientific observations in the field, especially while remaining undetected  • （尤指保持隐匿的）野外生存（或旅行、军事、科学考察）技能，野外活动技能
+
+
+
+————————————
+★☆☆   field cricket◙ noun
+1. a European cricket that lives in a burrow in grassland and has a music al birdlike chirp  • 田蟋蟀
+2. Gryllus campestris, family Gryllidae  • 拉丁名Gryllus campestris，蟋蟀科
+
+
+
+————————————
+★☆☆   field day◙ noun
+1. [in sing.] an opportunity for action, success, or excitement, especially at the expense of others  • （尤指有损他人的）行动（或取胜、寻求刺激的）机会
+ »shoplifters are having a field day in the store.  商店扒手正在这家商店大肆行窃。
+2. [Military] a review or an exercise, especially in manoeuvring  • [军] 军事检阅；军事演习
+3. (chieflyN. Amer.)a day devoted to athletics or other sporting events and contests  • [主北美] 体育运动（或比赛）日
+4. [Austral./NZ] a day set aside for the display of agricultural machinery  • [澳/新西兰] 农机展示日
+
+
+
+————————————
+★☆☆   field-effect transistor◙ [缩略词: FET] , noun
+1. [Electronics] a transistor in which most current is carried along a channel whose effective resistance can be controlled by a transverse electric field  • [电子] 场效应晶体管
+
+
+
+————————————
+★☆☆   field emission◙ noun
+1. [mass noun] [Physics] the emission of electrons from the surface of a conductor under the influence of a strong electrostatic field, as a result of the tunnel effect  • [物理] 场致发射
+
+
+
+————————————
+★☆☆   fielder
+ / ˈfi:ldə /◙ noun
+1. (chiefly Cricket & Baseball)a player on the fielding team, especially one other than the bowler or pitcher  • [主主板球， 主棒球] 外场手，守场员
+
+
+
+————————————
+★☆☆   field events◙ plural noun
+1. athletic sports other than races, such as throwing and jumping events  • （投掷、跳跃之类与径赛相对的）田赛项目。
+--› compare track events 
+
+
+
+————————————
+★☆☆   fieldfare
+ / ˈfi:ldfɛə /◙ noun
+1. a large migratory thrush with a grey head, breeding in northern Eurasia  • 田鸫
+2. Turdus pilaris, family Turdidae  • 拉丁名Turdus pilaris，鸫科
+
+【语源】1. late Old English feldefare, perhaps from feld 'field' + the base of faran to 'travel' (see fare )
+
+
+
+————————————
+★☆☆   field glasses◙ plural noun
+1. binoculars for outdoor use  • （野外）双筒望远镜
+
+
+
+————————————
+★☆☆   field goal◙ noun
+1. [American Football] a goal scored by a place kick, scoring three points  • [美橄] 定位射门得分球（可得三分）
+2. [Basketball] a goal scored while the clock is running and the ball is in play  • [篮球] 投球中篮
+
+
+

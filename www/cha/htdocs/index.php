@@ -12,23 +12,38 @@ echo <<<html
     <meta name="description" content="查例句, 你输入一个词汇，或者一个短语，我帮你找出例句。" />
     <meta name="keywords" content="查例句" />
     <title>例句：{$keyword}</title>
+    <style>
+	body {
+          margin: 20px 20%;
+        }
+        #query {
+	  position: fixed;
+          top: 0.75em;
+        }
+    </style>
 </head>
 <body>
-<h1>查例句</h1>
-<form action="/">
+<form id="queryform" action="/">
+<div id="query">
 <input id="inputbox" type="text" name="keyword" value="$keyword_input" style="font-size:18px; width:400px;height:50px" />
 <button type="submit" style="font-size:18px;width:100px;height:50px">查例句</button> <br />
-<p style="font-size:11px">Tips：</p>
-<ul style="font-size:10px">
+</div>
+<div style="margin-top:5em;">
+<p style="font-size:12px; ">Tips：</p>
+<ul style="font-size:12px">
 <li>想只匹配 <code>world</code> 而不匹配 <code>worldcup</code>之类的词, 输入 <code>world\b</code></li>
 <li>想只匹配 <code>worldcup</code> 之类的词而不匹配纯粹的 <code>world</code>, 输入 <code>world\B</code></li>
 <li>如果你很懂正则表达式，它还能更强大</li>
 </ul>
+</div>
 </form>
-
 <script>
-document.getElementById('inputbox').focus();
-document.getElementById('inputbox').select();
+let input = document.getElementById('inputbox');
+input.onfocus = function() {this.select();}
+input.focus();
+input.onpaste = function(e) {
+    location.href = '?keyword=' + encodeURIComponent(e.clipboardData.getData('text'));
+};
 </script>
 
 <h2>匹配结果</h2>
@@ -40,11 +55,13 @@ $dict = [
 ];
 $keyword = strtr($keyword, $dict);
 
-$result = `grep -B2 -A3 -ihr -e "${keyword}" /data/ec_corpus/四大经典词典双解版TXT`;
+$result = `grep -B2 -A3 -ihr -e "${keyword}" ../data`;
+
 if (!$result) {
     $result = '抱歉，关键字<font color="red"> ' . $keyword_input . ' </font>一个例句也没找到。';
 }
-if(@$_REQUEST['html']) {
+
+if ($_REQUEST["html"]) {
 
     $result = preg_replace("/(${keyword})/iu", '<font color="red">\1</font>', $result);
     $result = str_replace("\n", "<br />", $result);

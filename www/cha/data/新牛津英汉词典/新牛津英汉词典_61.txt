@@ -1,0 +1,3566 @@
+﻿————————————
+★☆☆   development education◙ noun
+1. [mass noun] education aimed at giving an understanding of developing countries and their place in the global socio-economic situation  • （旨在了解发展中国家情况及其在全球社会经济环境中的地位的）发展教育
+
+
+
+————————————
+★☆☆   development system◙ noun
+1. [Computing] a system of software and hardware designed to assist in the development of new software or products  • [计算机] 开发系统
+
+
+
+————————————
+★☆☆   Devensian
+ / dɪˈvɛnzɪən /◙ adjective
+1. [Geology] of, relating to, or denoting the most recent Pleistocene glaciation in Britain, identified with the Weichselian of northern Europe  • [地质] （与）（英国最近一次）更新世冰期（有关）的
+  [as noun the Devensian] the Devensian glaciation or the system of deposits laid down during it  • 更新世纪冰期；更新世纪冰期沉积层
+
+【语源】1. 1960s: from Latin Devenses 'people dwelling near the River Dee' (see sense 2 of Dee ) + -ian
+
+
+
+————————————
+★☆☆   deverbal
+ / di:ˈvə:bəl /◙ adjective
+1. (of a noun or adjective) derived from a verb  • （名词，形容词）从动词派生出来的
+◙ noun
+1. a deverbal noun or adjective  • 从动词派生出来的名词（或形容词）
+
+
+
+————————————
+★☆☆   Devi
+ / ˈdeɪvi /1. əHinduism] the supreme goddess, often identified with Parvati and Sakti  • [印度教] 雪山女神（地位最高的女神，常指雪山神女和萨克蒂）
+  (devi)[Indian] (in general use) a goddess  • [印度] 女神（统称）
+  [Indian] used after the first name of a Hindu woman as a form of respect  • [印度] 用于印度妇女名字之后以示尊敬
+ »Deval Devi.  德瓦尔夫人。
+
+【语源】1. from Sanskrit
+
+
+
+————————————
+★☆☆   deviance
+ / ˈdi:vɪəns /◙ noun
+1. [mass noun] the fact or state of diverging from usual or accepted standards, especially in social or sexual behaviour  • （尤指社交或性方面行为的）偏常；偏离常规（或标准）
+
+【派生】♦ deviancy noun
+
+
+
+
+————————————
+★☆☆   deviant
+ / ˈdi:vi:ənt /◙ adjective
+1. diverging from usual or accepted standards, especially in social or sexual behaviour  • （尤指在社交行为或性方面）偏常的，偏离常规（或标准）的
+ »deviant behaviour.  偏常行为。
+ »a deviant ideology.  离经叛道的思想意识。
+  [derogatory] homosexual  • [贬] 同性恋的
+◙ noun
+1. a deviant person or thing  • 不正常的人（或物）
+
+【语源】1. late Middle English: from late Latin deviant- 'turning out of the way', from the verb deviare (see deviate )
+
+
+
+————————————
+★☆☆   deviate
+ / ˈdi:vieit /◙ verb
+1. [no obj.] diverge from an established course  • 背离，偏离（既定路线）
+ »you must not deviate from the agreed route.  你不得偏离已经协商好的路径。
+  diverge from usual or accepted standards  • 偏常；背离（正常或公认标准）
+ »those who deviate from society's values.  背离社会价值观念的人。
+◙ noun & adjective
+1. old-fashioned term for deviant  • [旧] 同 deviant 
+
+【派生】♦ deviator noun
+
+【语源】1. mid 16th cent. (as an adjective in the sense 'remote'): from late Latin deviat- 'turned out of the way', from the verb deviare, from de- 'away from' + via 'way'. The verb dates from the mid 17th cent
+
+
+
+————————————
+★☆☆   deviation
+ / ˌdi:vi:ˈeɪʃən /◙ noun, [mass noun] 
+1. the action of diverging from an established course or accepted standard  • （对既定路线或公认标准的）背离，偏离
+ » deviation from a norm.  背离标准。
+ »sexual deviation.  性行为异常。
+ »[count noun] deviations from Standard English.  对标准英语的偏离。
+2. [Statistics] the amount by which a single measurement differs from a fixed value such as the mean  • [统计] 离差
+3. the deflection of a ship's compass needle caused by iron in the ship  • （铁引起的船上的）磁罗盘偏差
+
+【派生】♦ deviationism noun
+♦ deviationist noun
+
+【语源】1. late Middle English: via French from medieval Latin deviatio(n-), from Latin deviare (see deviate )
+
+
+
+————————————
+★☆☆   device
+ / diˈvais /◙ noun
+1. a thing made or adapted for a particular purpose, especially a mechanical or electronic contrivance  • （尤指机械或电子）装置
+ »a measuring device.  测量装置。
+  an explosive contrivance; a bomb  • 爆炸装置；炸弹
+ »an incendiary device.  燃烧弹。
+  [mass noun] (archaic)the design or look of something  • [古] （某物的）样式；外表
+ »works of strange device.  样式古怪的作品。
+2. a plan, scheme, or trick with a particular aim  • （有特定目的的）计划，阴谋；诡计
+ »writing a public letter is a traditional device for signalling dissent.  写公开信是一种传统的表示异议的手段。
+  a turn of phrase intended to produce a particular effect in speech or a literary work  • （在言语或文学作品中产生特定效果的）修辞手法（或技巧）
+ »a rhetorical device.  修辞手法。
+3. a drawing or design  • 图画；设计
+ »the decorative device on the invitations.  请贴上的装帧设计。
+  an emblematic or heraldic design  • 标记性图案；纹章图案
+ »their shields bear the device of the Blazing Sun.  他们的盾形徽章上有炽阳的图案。
+
+【IDIOMS】◘ leave someone to their own devices
+1. leave someone to do as they wish without supervision  • 让…自行其是，听任…自行决定
+
+【语源】1. Middle English: from Old French devis, based on Latin divis-divided, from the verb dividere. The original sense was 'desire or intention', found now only in leave a person to his or her own devices (which has become associated with sense 2)
+
+
+
+————————————
+★☆☆   devil
+ / ˈdevl /◙ noun
+1. [一般作 the Devil] (in Christian and Jewish belief) the supreme spirit of evil; Satan  • （基督教和犹太教中的）魔王；撒旦
+  an evil spirit; a demon  • 恶魔；魔鬼
+  a very wicked or cruel person  • 恶棍；残忍的人
+ »they prefer voting for devils than for decent men.  他们宁愿投票选恶棍也不愿选正派人。
+  a mischievously clever or self-willed person  • 淘气鬼；任性的人
+ »the cunning old devil is up to something.  那个狡猾的老淘气又要捣鬼了。
+  [with adj.] [informal] a person with specified characteristics  • [非正式] 有一定特征的人；家伙
+ »the poor devil.  可怜的家伙。
+ »a lucky devil.  幸运儿。
+  (the devil)fighting spirit; wildness  • 好勇斗狠的锐气；野性
+ »he was dangerous when the devil was in him.  当他野性发作时就会变得很危险。
+  (the devil)a thing that is very difficult or awkward to do or deal with  • 极难做的事；极难处理的事
+ »it's going to be the very devil to disentangle.  要理清纠结在一起的是非曲直真是难透了。
+2. (the devil)expressing surprise or annoyance in various questions or exclamations  • 究竟，到底（用于问句或感叹句表示惊奇或恼怒）
+ »‘Where the devil is he?’.  “他到底在哪儿？”。
+3. an instrument or machine, especially one fitted with sharp teeth or spikes, used for tearing or other destructive work  • 扯碎机，切碎机
+4. (informal, dated)a junior assistant of a barrister or other professional  • [非正式，旧] （高级律师或其他专业人士的）助手。
+--› see printer's devil 
+5. [Austral.] . short for Tasmanian devil  • [澳] Tasmanian devil 的简称
+◙ (devilled, devilling; 美 deviled, deviling)
+1. [no obj.] (informal, dated)act as a junior assistant for a barrister or other professional  • [非正式，旧] 给（律师或其他专业人士）当助手
+2. [with obj.] [N. Amer.] harass or worry (someone)  • [北美] 困扰；使（某人）担忧
+ »he was deviled by a new-found fear.  他为新出现的恐惧所困扰。
+
+【IDIOMS】◘ be a devil!
+1. [informal] said when encouraging someone to do something that they are hesitating to do  • [非正式] 干吧（用于鼓励某人去做其正在迟疑不决是否要做的事情）
+ »‘Go on, be a devil and stop being so staid!’.  “来，干吧。别那么慢吞吞了！” 。
+◘ between the devil and the deep blue sea
+1. caught in a dilemma  • 进退两难
+◘ devil a —
+1. (archaic)not even one or any  • [古] 连一个也没有
+ »the devil a man of you stirred himself over it.  你们谁都没有为这事干点什么。
+◘ the devil can quote scripture for his purpose
+1. (proverb)people may conceal unworthy motives by reciting words that sound morally authoritative  • [谚] 人们可以用冠冕堂皇的话来掩饰不良动机
+◘ the devil finds work for idle hands to do
+1. (proverb)if someone doesn't have enough work to occupy them, they are liable to cause or get into trouble  • [谚] 闲着无聊的人可能会有（或惹）麻烦
+◘ the devil looks after his own
+1. (proverb)success or good fortune often seem to come to those who least deserve it  • [谚] 成功（或好运）往往会光顾最不应得到它的人
+◘ devil-may-care
+1. cheerful and reckless  • 兴高采烈而又毫无顾虑的
+ »light-hearted, devil-may-care young pilots.  无忧无虑、不顾一切的年轻飞行员们。
+◘ a devil of a —
+1. [informal] used to emphasize great size or degree  • [非正式] 极大的；程度极深的
+ »photographic equipment costs a devil of a lot.  照相器材要花好多钱。
+◘ the devil's dozen
+1. thirteen  • 十三
+◘ the devil's in the detail
+1. the details of a matter are its most problematic aspect  • 细节之处最容易出问题
+◘ the devil to pay
+1. serious trouble to be dealt with  • 要处理的大麻烦
+◘ the devil's own —
+1. [informal] used to emphasize the difficulty or seriousness of something  • [非正式] 很困难的；很严重的；非同小可的
+ »he was in the devil's own hurry.  他极其匆忙。
+◘ every man for himself and the devil take the hindmost --› see man 
+◘ give the devil his due
+1. (proverb)if someone or something generally considered bad or undeserving has any redeeming features these should be acknowledged  • [谚] 如坏人（或坏事）有其好的一面也应承认；公正持平地看待坏人（或坏事）
+◘ go to the devil!
+1. said in angry rejection or condemnation of someone  • 滚开！见鬼去吧！
+◘ like the devil
+1. with great speed or energy  • 飞快地；拼命地；全力地
+ »he drove like the devil.  他车开得飞快。
+◘ play the devil with
+1. have a damaging or disruptive effect on  • 破坏；弄糟
+ »this brandy plays the devil with one's emotions!.  这种白兰地会让人情绪变糟！。
+◘ speak (或 talk) of the devil
+1. said when a person appears just after being mentioned  • 刚提到某人，某人就出现了；说到曹操，曹操就到
+
+【语源】1. Old English dēofol (related to Dutch duivel and German Teufel), via late Latin from Greek diabolos 'accuser, slanderer' (used in the Septuagint to translate Hebrew śātān 'Satan'), from diaballein 'to slander', from dia 'across' + ballein 'to throw'
+
+
+
+————————————
+★☆☆   devil dance◙ noun
+1. a dance performed as part of Buddhist ritual in Sri Lanka and the Chinese autonomous region of Tibet, for the invocation, propitiation, or exorcism of spirits  • 祈福驱邪舞（斯里兰卡和中国西藏自治区佛教仪式的一部分，目的在祈福、求恕和驱邪）
+
+【派生】♦ devil dancer noun
+
+
+
+
+————————————
+★☆☆   devilfish
+ / ˈdevəlfiʃ /◙ [复同单，或-fishes] 
+1. any of a number of marine creatures that are perceived as having a sinister appearance, in particular a devil ray, a stonefish, or an octopus or squid  • 外表丑恶的海洋生物（尤指蝠鲼科鱼类、石鱼或章鱼、鱿鱼）
+
+
+
+————————————
+★☆☆   devilish
+ / ˈdevliʃ /◙ adjective
+1. of, like, or appropriate to a devil in evil and cruelty  • 恶魔般的，邪恶的，残忍的
+ »devilish tortures.  残酷的折磨。
+  mischievous and rakish  • 好恶作剧的；爱惹麻烦的；放荡的
+ »a wide, devilish grin.  龇牙咧嘴的奸笑。
+  very difficult to deal with or use  • 难对付的，难用的
+ »it turned out to be a devilish job.  到头来这事证明非常难办。
+◙ adverb
+1. [as submodifier] (informal, dated)very; extremely  • [非正式，旧] 非常地；极其地
+ »a devilish clever chap.  一个聪明透顶的家伙。
+
+【派生】♦ devilishness noun
+
+
+
+
+————————————
+★☆☆   devilishly◙ adverb
+1. in a devilish manner  • 恶魔般地，邪恶地，残忍地
+  [as submodifier] [informal] very; extremely  • [非正式] 非常地；极其地
+ »I'm feeling devilishly hot!.  我觉得热极了。
+
+
+
+————————————
+★☆☆   devilled
+ / ˈdevld /◙ adjective
+1. (of food) cooked with hot seasoning  • （食物）煮得很辣的
+ »devilled kidneys.  炒得很辣的腰子。
+
+
+
+————————————
+★☆☆   devilling float◙ noun
+1. a wooden or plastic block with tips of nails just protruding through its base, used to scratch the surface of plaster lightly to enable more plaster to adhere to it  • 灰泥刮锉（有钉子尖的木块或塑料块，用于在灰泥表面轻刮以便黏附更多灰泥）
+
+
+
+————————————
+★☆☆   devilment
+ / ˈdevlmənt /◙ noun
+1. [mass noun] reckless mischief; wild spirits  • （不计后果的）恶捣蛋，恶作剧；野性
+ »his eyes were blazing with devilment.  他的眼睛里闪烁着野性的光。
+
+
+
+————————————
+★☆☆   devil ray◙ noun
+1. a large long-tailed ray which has a fleshy horn-like projection on each side of the mouth. It occurs on or near the surface of warm seas and feeds on plankton  • 蝠鲼科鱼
+2. Family Mobulidae: two genera and several species, including the manta  • 蝠鲼科： 2属，数种，包括蝠鲼
+
+
+
+————————————
+★☆☆   devilry
+ / ˈdevlri /◙ noun
+1. [mass noun] wicked activity  • 邪恶的行为
+ »some devilry was afoot.  一些恶行正在进行之中。
+  reckless mischief  • （不计后果的）恶作剧
+ »a perverse sense of devilry urged her to lead him on.  恶作剧的邪念促使她去诱骗他。
+  black magic; dealings with the devil  • 巫术，魔法；与魔鬼的交易
+
+
+
+————————————
+★☆☆   devil's advocate◙ noun
+1. a person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments  • 故意提出会引起异议的见解以激起辩论的人；故意提出有争议的看法以便试探持异议者的虚实的人；故意提出相反意见以求深入讨论的人
+ »the interviewer will need to play devil's advocate, to put the other side's case forward.  采访记者（或招聘面试主持人）需要与对方唱反调以便引出对方的论点。
+  (historical)a person appointed by the Roman Catholic Church to challenge a proposed beatification or canonization, or the verification of a miracle  • [史] （由罗马天主教教会指定的）列圣审查官（对所提议的宣福、封圣或对奇迹的验证进行质疑）
+
+
+
+————————————
+★☆☆   devil's bit◙ noun
+1. any of a number of wild plants with a very short rootstock, said in folklore to have been bitten off by the devil, in particular  • 根状茎很短的野生植物中的一种（民间传说认为是被魔鬼咬掉的），尤指
+2. 亦作 devil's bit scabiousa blue-flowered plant native to Eurasia and North Africa [Succisa pratensis, family Dipsacaceae] N. Amer.the blazing star [Chamaelirium luteum, family Liliaceae]  • 草原山萝卜，川续断科北美地百合（拉丁名Chamaelirium luteum，百合科）
+
+
+
+————————————
+★☆☆   devil's claw◙ noun
+1. a plant whose seed pods bear claw-like hooks which can harm livestock  • 爪钩草
+2. Two genera in the family Pedaliaceae: genus Proboscidea of warm regions of America, used in basketry or grown for their fruit, and Harpagophytum procumbens of southern Africa and Madagascar, used in herbal medicine  • 胡麻科，2属： 美洲温带地区的角长胡麻属，被用来编筐篮或为收获其果实而种植；南部非洲和马达加斯加岛的严卧爪钩草属，可用作草药
+
+
+
+————————————
+★☆☆   devil's club◙ noun
+1. a very spiny straggling shrub of western North America  • 恐怖刺参
+2. Oplopanax horridus, family Araliaceae  • 拉丁名Oplopanax horridus，五加科
+
+
+
+————————————
+★☆☆   devil's coach-horse◙ noun
+1. [Brit.] a large black predatory rove beetle which raises its hind end and opens its jaws in a threatening manner when disturbed  • [英] 排臭隐翅虫
+2. Staphylinus olens, family Staphylinidae  • 拉丁名Staphylinus olens，隐翅虫科
+
+
+
+————————————
+★☆☆   devil's darning needle◙ noun
+1. [N. Amer.] . another term for darner (in sense 2)  • [北美] 同 darner [义项2] 
+
+
+
+————————————
+★☆☆   devil's food cake◙ noun
+1. (chiefly N. Amer.)a rich chocolate cake  • [主北美] （浓味）巧克力蛋糕
+
+
+
+————————————
+★☆☆   devil's grip◙ noun
+1. informal term for Bornholm disease  • [非正式] 同 Bornholm disease 
+
+
+
+————————————
+★☆☆   Devil's Island1. a rocky island off the coast of French Guiana, used from 1852 as a penal settlement, especially for political prisoners. The last prisoner was released in 1953  • 魔鬼岛（法属圭亚那海岸外的一个岩岛，自1852年起被用作以政治犯为主的囚犯流放地，最后一名犯人于1953年被释放）
+
+
+
+————————————
+★☆☆   devils on horseback◙ plural noun
+1. (chiefly Brit.)a savoury snack of prunes individually wrapped in slices of bacon, served on toast or croutons  • [主英] 熏肉包李脯（一种开胃小吃，和烤面包或油炸面包一起食用）
+
+
+
+————————————
+★☆☆   devil's paintbrush◙ noun
+1. [N. Amer.] the European orange hawkweed, which has become naturalized in North America  • [北美] 枯黄山柳菊
+2. Hieracium aurantiacum, family Compositae  • 拉丁名Hieracium aurantiacum，菊科
+
+
+
+————————————
+★☆☆   devil's walking stick◙ noun
+1. a prickly angelica tree native to the eastern US  • 多刺（木忽）木，多刺（木忽）木。(亦称 Hercules' club)
+2. Aralia spinosa, family Araliaceae  • 拉丁名Aralia spinosa，五加科
+
+
+
+————————————
+★☆☆   deviltry
+ / ˈdevltri /◙ noun
+1. (archaic). variant of devilry  • [古] 同 devilry 
+
+
+
+————————————
+★☆☆   devious
+ / ˈdi:vjəs /◙ adjective
+1. showing a skilful use of underhand tactics to achieve goals  • 不光明正大的；狡诈的；阴险的
+ »he's as devious as a politician needs to be.  他具有作为一个政治家必需有的狡诈阴险。
+ »they have devious ways of making money.  他们有一些歪门邪道的赚钱方法。
+2. (of a route or journey) longer and less direct than the most straightforward way  • （道路，旅程）迂回曲折的
+ »they arrived at the town by a devious route.  他们走了条弯路到达那个城镇。
+
+【派生】♦ deviously adverb
+♦ deviousness noun
+
+【语源】1. late 16th cent.: from Latin devius (from de- 'away' from + via 'way') + -ous. The original sense was 'remote'; the later sense 'departing from the direct route' gave rise to the figurative sense 'deviating from the straight way' and hence 'skilled in underhand tactics'
+
+
+
+————————————
+★☆☆   devise
+ / diˈvaiz /◙ verb, [with obj.] 
+1. plan or invent (a complex procedure, system, or mechanism) by careful thought  • 策划；发明；想出（复杂的程序、系统或机制）
+ »a training programme should be devised.  应该设计出一个培训计划。
+ »a complicated game of his own devising.  他自己想出的一个复杂的游戏。
+2. [Law] leave (real estate) to someone by the terms of a will  • [律] （通过遗嘱）遗赠（不动产）
+◙ noun
+1. [Law] a clause in a will leaving real estate to someone  • [律] （遗嘱中）遗赠不动产的条款
+
+【派生】♦ devisable adjective
+♦ devisee noun
+1. （限义项2） 
+♦ deviser noun
+♦ devisor noun
+1. （限义项2）
+
+【语源】1. Middle English: the verb from Old French deviser, from Latin divis- 'divided', from the verb dividere (this sense being reflected in the original English sense of the verb); the noun is a variant of device (in the early sense 'will, desire')
+
+
+
+————————————
+★☆☆   devitalize
+ / di:ˈvaitəlaiz /◙ (也作 -ise), verb
+1. [with obj.] [usu. as adj. devitalized] deprive of strength and vigour  • 使无力量，使失去活力
+ »an effective product to treat devitalized skin.  治疗皮肤衰老的有效产品。
+
+【派生】♦ devitalization noun
+
+
+
+
+————————————
+★☆☆   devitrify
+ / di:ˈvitrifai /◙ (-ies, -ied)
+1. [no obj.] (of glass or vitreous rock) become hard, opaque, and crystalline  • （玻璃，玻璃岩）变硬，变不透明，变成结晶态
+  [with obj.] make hard, opaque, and crystalline  • 使变硬，使变不透明，使变成结晶态
+
+【派生】♦ devitrification noun
+
+
+
+
+————————————
+★☆☆   devoice
+ / diˈvɔis /◙ verb
+1. [with obj.] [Phonetics] make (a vowel or voiced consonant) voiceless  • [语音] 使（元音，浊辅音）清音化
+
+
+
+————————————
+★☆☆   devoid
+ / dɪˈvɔɪd /◙ adjective
+1. [predic.] (devoid of)entirely lacking or free from  • 完全缺乏的；没有的
+ »Lisa kept her voice devoid of emotion.  莉萨说话时保持语调平静，不露声色。
+
+【语源】1. late Middle English: past participle of obsolete devoid 'cast out', from Old French devoidier
+
+
+
+————————————
+★☆☆   devoir
+ / dəˈvwɑ: , ˈdevwɑ: /◙ noun
+1. (archaic)a person's duty  • [古] 义务，责任，职责
+ »you have done your devoir right well.  你已经很好地尽责了。
+  (pay one's devoirs)pay one's respects formally  • 致敬，尊敬
+
+【IDIOMS】◘ pay one's devoirs
+1. pay one's respects formally
+
+【语源】1. Middle English: from Old French deveir, from Latin debere 'owe'. The spelling, and subsequently the pronunciation, was changed under the influence of modern French devoir
+
+
+
+————————————
+★☆☆   devolution
+ / ˌdevəˈlu:ʃən , ˌdi:və- /◙ noun
+1. [mass noun] the transfer or delegation of power to a lower level, especially by central government to local or regional administration  • （尤指中央政府向地方或地区行政部门的）权力下放；授权
+  [formal] descent or degeneration to a lower or worse state  • 倒退；堕落；恶化
+ »the devolution of the gentlemanly ideal into a glorification of drunkenness.  从绅士式的理想到美化酗酒的堕落。
+  [Law] the legal transfer of property from one owner to another  • [律] （财产的）合法转让
+  [Biology] evolutionary degeneration  • [生] 退行进化，退化
+
+【派生】♦ devolutionary adjective
+♦ devolutionist noun
+
+【语源】1. late 15th cent. (in the sense transference by default): from late Latin devolutio(n-), from Latin devolvere 'roll down' (see devolve )
+
+
+
+————————————
+★☆☆   devolve
+ / dɪˈvɔlv /◙ verb
+1. [with obj.] transfer or delegate (power) to a lower level, especially from central government to local or regional administration  • （尤指中央政府向地方或地区政府）移交（权力）；下放（权力）
+ »measures to devolve power to a Scottish assembly.  将权力下放到某一苏格兰地方议会的措施。
+ »[as adj. devolved] devolved and decentralized government.  权力下放并分散的政府。
+  [no obj.] (devolve on/upon/to)(of duties or responsibility) pass to (a body or person at a lower level)  • （职权或职责）移交，转移（给下级机构或下属）
+ »his duties devolved on a comrade.  他的职责移交给了一位同志。
+  [no obj.] (devolve on/upon/to)[Law] (of property) be transferred from one owner to (another), especially by inheritance  • [律] （不动产）被继承（或被转让）
+  [no obj.] (devolve into)[formal] degenerate or be split into  • [正式] 衰落；分裂
+ »the Empire devolved into separate warring states.  帝国分裂成了几个相互交战的国家。
+
+【派生】♦ devolvement noun
+
+【语源】1. late Middle English (in the sense 'roll down'): from Latin devolvere, from de- 'down' + volvere 'to roll'
+
+
+
+————————————
+★☆☆   Devon
+ / ˈdevn /Devon¹
+◙ (也作 Devonshire)
+1. a county of SW England; county town, Exeter  • 德文郡（英格兰西南部的一个郡，首府埃克塞特）
+
+【语源】1. from medieval Latin Devonia 'Devonshire'Devon²
+◙ noun
+1. an animal of a breed of red beef cattle  • 德文牛（一种红色肉用种牛）
+
+【语源】1. mid 19th cent.: named after the county of Devon (see Devon )
+
+
+
+————————————
+★☆☆   Devonian
+ / deˈvəuniən /◙ adjective
+1. of or relating to Devon  • 德文郡的
+2. [Geology] of, relating to, or denoting the fourth period of the Palaeozoic era, between the Silurian and Carboniferous periods  • [地质] 泥盆纪的；泥盆系的
+3. The Devonian period lasted from about 409 to 363 million years ago. During this period fish became abundant, the first amphibians evolved, and the first forests appeared
+◙ noun
+1. a native or inhabitant of Devon  • 德文郡人
+2. (the Devonian)[Geology] the Devonian period or the system of rocks deposited during it  • [地质] 泥盆纪；泥盆系
+
+
+
+————————————
+★☆☆   Devonshire cream◙ noun
+1. [mass noun] clotted cream  • 德文郡奶油，凝块的奶油
+
+
+
+————————————
+★☆☆   devoré
+ / dəˈvɔ:reɪ /◙ (也作 devore), noun
+1. [usu. as modifier] a velvet fabric with a pattern formed by burning the pile away with acid  • 烂花印花
+ »a devoré top.  一件烂花印花上衣。
+
+【语源】1. 1990s: from French dévoré, literally 'devoured', past participle of dévorer
+
+
+
+————————————
+★☆☆   devote
+ / diˈvəut /◙ verb, [with obj.] 
+1. (devote something to)give all or a large part of one's time or resources to (a person, activity, or cause)  • 将（时间，精力）用于（人，活动，事业）上；尽心竭力于…
+ »I wanted to devote more time to my family.  我希望把更多的时间花在家人身上。
+ »she devoted herself to fund-raising.  她全身心投入筹集资金的工作。
+2. (archaic)invoke or pronounce a curse upon  • [古] 降祸于；诅咒
+
+【派生】♦ devotement noun
+1. (archaic)
+
+【语源】1. late 16th cent. (in the sense 'dedicate formally, consecrate'): from Latin devot- 'consecrated', from the verb devovere, from de- 'formally' + vovere 'to vow'
+
+
+
+————————————
+★☆☆   devoted
+ / dɪˈvəʊtɪd /◙ adjective
+1. very loving or loyal  • 挚爱的；忠诚的
+ »he was a devoted husband.  他是一个深情而又尽心尽力的好丈夫。
+ »Leo was devoted to his job.  利奥忠于职守。
+2. [predic.] (devoted to)given over to the display, study, or discussion of  • 专用于（陈列，研究，讨论…）的
+ »there is a museum devoted to her work.  有一个博物馆专门用来陈列她的作品。
+
+【派生】♦ devotedly adverb
+1. （义项1） 
+♦ devotedness noun
+1. （义项1）
+
+
+
+————————————
+★☆☆   devotee
+ / ˌdevəˈti: , -ˈteɪ /◙ noun
+1. a person who is very interested in and enthusiastic about someone or something  • （某人或某物的）爱好者；对…极感兴趣者
+ »a devotee of Lewis Carroll.  刘易斯•卡罗尔作品的爱好者。
+  a strong believer in a particular religion or god  • 虔诚的宗教信徒
+ »devotees of Krishna.  克利须那神的信徒。
+ »devotees thronged the temple.  信徒们云集在庙里。
+
+
+
+————————————
+★☆☆   devotion
+ / diˈvəuʃən /◙ noun
+1. [mass noun] love, loyalty, or enthusiasm for a person, activity, or cause  • （对人、活动或事业的）热爱；忠诚；热情
+ »Eleanor's devotion to her husband.  埃莉诺对她丈夫的热爱。
+ »his courage and devotion to duty never wavered.  他无畏和敬业的精神从未动摇。
+  religious worship or observance  • （对宗教的）虔诚；信奉
+ »the order's aim was to live a life of devotion.  团体的宗旨是过虔诚信教的生活。
+  (devotions)prayers or religious observances  • 祈祷；宗教仪式
+
+【语源】1. Middle English: from Latin devotio(n-), from devovere 'consecrate' (see devote )
+
+
+
+————————————
+★☆☆   devotional
+ / diˈvəuʃənəl /◙ adjective
+1. of or used in religious worship  • （用于）宗教礼拜的
+ »devotional books.  礼拜用书。
+
+【派生】♦ devotionally adverb
+
+
+
+
+————————————
+★☆☆   devour
+ / diˈvauə /◙ verb
+1. [with obj.] eat (food or prey) hungrily or quickly  • 狼吞虎咽地吃（食物，猎物）
+ »he devoured half of his burger in one bite.  他一口就吞下了半只汉堡包。
+  (of fire, disease, or other forces) consume (someone or something) destructively  • （火，疾病，其他力量）吞噬，吞没，摧毁
+ »the hungry flames devoured the old house.  烈火吞噬了那座老房子。
+  read (something) quickly and eagerly  • 贪婪地快速读
+ »she spent her evenings devouring the classics.  她每天晚上都如饥似渴地阅读名著。
+  (be devoured)(of a person)be totally absorbed by a powerful feeling  • 心中充满（强烈的情感）
+ »she was devoured by need.  她心中充满渴求。
+
+【派生】♦ devourer noun
+♦ devouringly adverb
+
+【语源】1. Middle English: from Old French devorer, from Latin devorare, from de- 'down' + vorare 'to swallow'
+
+
+
+————————————
+★☆☆   devout
+ / dɪˈvaʊt /◙ adjective
+1. having or showing deep religious feeling or commitment  • 虔诚的；笃信宗教的
+ »she was a devout Catholic.  她是一个虔诚的天主教徒。
+ »a rabbi's devout prayers.  一位犹太教教士的虔诚祈祷。
+  totally committed to a cause or belief  • （对事业或信仰）坚定而忠诚的
+ »the most devout environmentalist.  最坚定的环境保护主义者。
+
+【派生】♦ devoutly adverb
+♦ devoutness noun
+
+【语源】1. Middle English: from Old French devot, from Latin devotus 'devoted', past participle of devovere (see devote )
+
+
+
+————————————
+★☆☆   de Vries
+ / də ˈvri:s /1. Hugo (1848–1ˌ3ˈ), Dutch plant physiologist and geneticist. De ʒries did much work on osmosis and water relations in plants, coining the term plasmolysis. His subsequent work on heredity and variation contributed substantially to the chromosome theory of heredity  • 德•弗里斯，雨果（1848–1935，荷兰植物生理学家和遗传学家，在研究渗透现象和植物中水的关联作用方面曾作大量研究，创造了plasmolysis［质壁分离］一词；他后来对遗传和变异进行的研究对关于遗传的染色体学说贡献甚大）
+
+
+
+————————————
+★☆☆   dew
+ / dju: /◙ noun
+1. [mass noun] tiny drops of water that form on cool surfaces at night, when atmospheric vapour condenses  • 露，露滴，露水
+ »the grass was wet with dew.  草地被露水打湿了。
+ »[in sing.] a cold, heavy dew dripped from the leaves.  一滴滴冰冷、沉重的露珠从树叶上滚落。
+  [in sing.] a beaded or glistening liquid resembling such drops  • （似露珠的）小水珠
+ »her body had broken out in a fine dew of perspiration.  她身上已经布满了细细的汗珠。
+◙ verb
+1. [with obj.] wet (a part of someone's body) with a beaded or glistening liquid  • 用水珠弄湿（身体的一部分）
+ »sweat dewed her lashes.  汗水沾湿了她的睫毛。
+
+【语源】1. Old English dēaw, of Germanic origin; related to Dutch dauw and German Tau (noun), tauen (verb)
+
+
+
+————————————
+★☆☆   DEW◙ for abbreviation
+1. distant early warning, a radar system in North America for the early detection of a missile attack  • 远程预警（北美的一个早期探测导弹攻击的雷达系统）
+
+
+
+————————————
+★☆☆   dewan
+ / diˈwɑ:n /◙ noun
+1. variant spelling of diwan  • 同 diwan 
+
+
+
+————————————
+★☆☆   Dewar1. Sir James (1842–1923), Scottish chemist and physicist. He is chiefly remembered for his work in cryogenics, in which he devised the vacuum flask, achieved temperatures close to absolute zero, and was the first to produce liquid oxygen and hydrogen in quantity  • 杜瓦，詹姆斯爵士（1842–1923，苏格兰化学家和物理学家，主要以其对低温学的研究为世人所铭记；他在该研究中发明了真空瓶并获得了接近绝对零度的低温，第一个大量制造了液态氧和液态氢）
+
+
+
+————————————
+★☆☆   dewar◙ noun
+1. a double-walled flask of metal or silvered glass with a vacuum between the walls, used to hold liquids at well below ambient temperature  • 杜瓦瓶（有双层金属或镀银玻璃内壁的容器，内壁之间为真空，用于盛放远低于环境温度的液体）
+
+【语源】1. late 19th cent.: named after Sir James Dewar
+
+
+
+————————————
+★☆☆   dewater
+ / di:ˈwɔ:tə /◙ verb
+1. [with obj.] drain (a waterlogged or flooded area)  • 排去（水涝地或淹没地区的）水
+  remove water from (sediment or waste materials)  • 将（沉积物或废料）脱水
+
+
+
+————————————
+★☆☆   dewax
+ / di:ˈwæks /◙ verb
+1. [with obj.] remove wax from  • 使脱蜡；为…脱蜡
+ »linoleum needs to be dewaxed using a strong solvent.  需要一种强效溶剂给油地毡脱蜡。
+
+
+
+————————————
+★☆☆   dewberry
+ / ˈdju:bəri /◙ (pl. -ies)
+1. a trailing European bramble with soft prickles and edible blackberry-like fruit which have a dewy white bloom on the skin  • 欧洲木莓
+2. Rubus caesius, family Rosaceae  • 拉丁名Rubus caesius，蔷薇科
+  [N. Amer.] any of a number of trailing brambles  • [北美] 蔓生的悬钩子属植物中的任一种
+  the blue-black fruit of any of these plants  • 黑莓
+
+
+
+————————————
+★☆☆   dewclaw◙ noun
+1. a rudimentary inner toe present in some dogs  • （某些狗的）残留趾
+  a false hoof on an animal such as a deer, which is formed by its rudimentary side toes  • （鹿等由未发育的边趾长成的）假蹄，悬蹄
+
+【语源】1. late 16th cent.: apparently from the nouns dew and claw
+
+
+
+————————————
+★☆☆   dewdrop
+ / ˈdju:drɔp /◙ noun
+1. a drop of dew  • 露珠
+
+
+
+————————————
+★☆☆   Dewey
+ / ˈdju(:)i /1. ʊohn (18ˈˌ–1ˌˈ2), æmerican philosopher and educationist. θorking in the pragmatic tradition of θilliam ʊames and ɔ. S. Pierce, he evolved the educational theory that children would learn best by doing  • 杜威，约翰（1859–1952，美国哲学家和教育家，承袭威廉•詹姆斯和C•S•皮尔斯的实用主义，形成了一种认为孩子最好的学习方法是实践的教育理论）
+
+
+
+————————————
+★☆☆   Dewey decimal classification◙ (也作 Dewey system), noun
+1. an internationally applied decimal system of library classification which uses a three-figure code from 000 to 999 to represent the major branches of knowledge, and allows finer classification to be made by the addition of further figures after a decimal point  • 杜威十进分类法（国际通用的十进制图书分类法，用从000到999的三位数编码来代表主要的学科分支，并用小数点后添加的数字来进行更细的分类）
+
+【语源】1. late 19th cent.: named after Melvil Dewey (1851–1931), American librarian
+
+
+
+————————————
+★☆☆   dewfall
+ / ˈdju:fɔ:l /◙ noun
+1. [mass noun] (poetic/literary)the formation of dew, or the time of the evening when dew begins to form  • [诗/文] 结露；（傍晚）开始结露的时间
+  the film of dew covering an area  • 覆盖某一表面的薄露
+
+
+
+————————————
+★☆☆   Dewi
+ / ˈdewi /1. θelsh name for St David (see David , St )  • [威尔士] 同 St David [见 David, St] 
+
+
+
+————————————
+★☆☆   dewlap
+ / ˈdju:læp /◙ noun
+1. a fold of loose skin hanging from the neck or throat of an animal or bird, especially that present in many cattle  • （动物或鸟，尤指牛）颈部（或喉部）的垂肉
+
+【语源】1. Middle English: from dew and lap, perhaps influenced by a Scandinavian word (compare with Danish doglæp)
+
+
+
+————————————
+★☆☆   deworm
+ / di:ˈwə:m /◙ verb
+1. [with obj.] treat (an animal) to free it of worms  • 除去（动物身上的）虫
+
+【派生】♦ dewormer noun
+
+
+
+
+————————————
+★☆☆   dew point◙ noun
+1. the atmospheric temperature (varying according to pressure and humidity) below which water droplets begin to condense and dew can form  • 露点（随气压和湿度的大小变化的大气温度，低于此温度时，水滴开始凝结形成露）
+
+
+
+————————————
+★☆☆   dew pond◙ noun
+1. [Brit.] a shallow pond, especially an artificial one, occurring on downs where the water supply from springs or surface drainage is inadequate  • [英] 露池（尤指人工的浅塘，多见于泉水水源不足或地表排水不畅的丘陵草地）
+
+
+
+————————————
+★☆☆   Dewsbury
+ / ˈdju:zb(ə)ri /1. a textile manufacturing town in northern əngland, formerly in Yorkshire; pop. ˈ0,000 (1ˌ80)  • 迪斯伯里（英国北部一纺织制造业城市，原属约克郡，1980年人口50,000）
+
+
+
+————————————
+★☆☆   dew worm◙ noun
+1. [N. Amer.] an earthworm, in particular one that is used as fishing bait  • [北美] （尤指用来做鱼饵的）大蚯蚓
+
+【语源】1. Old English deaw-wyrm 'ringworm'; compare with East Frisian dauworm, denoting both ringworm and the earthworm
+
+
+
+————————————
+★☆☆   dewy
+ / ˈdju:i /◙ (dewier, dewiest)
+1. wet with dew  • 露湿的
+  (of a person's skin) appearing soft and lustrous  • （人的皮肤）柔软而有光泽的
+ »your skin will begin to feel revitalized and dewy.  你会感到你的皮肤恢复活力，柔软而有光泽。
+  youthful and fresh  • 青春的；清新的
+ »the girls have yet to lose their dewy charm.  这些女孩还没有失去她们的青春风采。
+
+【派生】♦ dewily adverb
+♦ dewiness noun
+
+【语源】1. Old English dēawig (see dew , -y )
+
+
+
+————————————
+★☆☆   dewy-eyed
+ / ˈdju:iaid /◙ adjective
+1. having eyes that are moist with tears (used typically to indicate that a person is nostalgic, naive, or sentimental)  • 眼睛泪湿的（多用于指怀旧、单纯或多愁善感的人）
+ »she gets slightly dewy-eyed as she talks about her family.  当她谈到她的家庭时，眼睛有些湿润了。
+
+
+
+————————————
+★☆☆   dex◙ noun
+1. [informal] . short for Dexedrine  • [非正式] Dexedrine 的简称
+
+
+
+————————————
+★☆☆   dexamethasone
+ / ˌdeksəˈmeθəzəun /◙ noun
+1. [mass noun] [Medicine] a synthetic drug of the corticosteroid type, used especially as an anti-inflammatory agent  • [医] 地塞米松，氟美松
+
+【语源】1. 1950s: from dexa- (blend of deca- and hexa-) + meth(yl) + -a- + (cortis)one
+
+
+
+————————————
+★☆☆   Dexedrine
+ / ˈdeksidri:n , -drin /◙ noun
+1. trademark for amphetamine sulphate(see amphetamine )  • [商标] 硫酸右旋苯异丙胺，右旋安非他明（见 amphetamine）
+
+【语源】1. 1940s: probably from dextro-, on the pattern of Benzedrine
+
+
+
+————————————
+★☆☆   Dexter
+ / ˈdekstə /1. ɔolin (b.1ˌ30), ənglish writer of detective fiction. He is noted for his ɪnspector Morse stories, set in Oxford  • 德克斯特，科林（生于1930年，英国侦探小说家。因以牛津为背景的警察巡官莫尔斯系列小说著名）
+
+
+
+————————————
+★☆☆   dexter
+ / ˈdekstə /dexter¹
+◙ adjective
+1. [attrib.] (archaic & Heraldry)of, on, or towards the right-hand side (in a coat of arms, from the bearer's point of view, i. e. the left as it is depicted)  • [古纹章] （从盾徽佩带者的视点看盾徽）盾徽的右侧的；在（或向）盾徽的右侧的（在与盾徽佩者面对面的人看来则为左侧）。
+【OPP】 sinister 
+
+【语源】1. mid 16th cent.: from Latin, on the right'dexter²
+◙ noun
+1. an animal of a small, hardy breed of Irish cattle  • 德克斯特牛
+
+【语源】1. late 19th cent.: said to have been named after the breeder
+
+
+
+————————————
+★☆☆   dexterity
+ / dekˈsterɪti: /◙ noun
+1. [mass noun] skill in performing tasks, especially with the hands  • （尤指用手做事的）灵巧；熟练
+ »her dexterity with chopsticks.  她对筷子的运用自如。
+ »his record testifies to a certain dexterity in politics.  他的履历证明他有一定的政治手腕。
+
+【语源】1. early 16th cent. (in the sense 'mental adroitness'): from French dextérité, from Latin dexteritas, from dexter 'on the right'
+
+
+
+————————————
+★☆☆   dexterous
+ / ˈdekstərəs , -strəs /◙ (也作 dextrous), adjective
+1. demonstrating neat skill, especially with the hands  • （尤指用手）敏捷的，灵巧的
+ »Anne was dexterous and found the tasks easy.  安妮很手巧，做这些事挺麻利。
+
+【派生】♦ dexterously adverb
+♦ dexterousness noun
+
+【语源】1. early 17th cent. (in the sense 'mentally adroit, clever'): from Latin dexter 'on the right' + -ous
+
+
+
+————————————
+★☆☆   dextral
+ / ˈdekstrəl /◙ adjective
+1. of or on the right side or the right hand (the opposite of sinistral), in particular. (the opposite of sinistral)  • （在）右边的；（在）右手这边的(sinistral 的反义词)，尤指:
+  right-handed  • 惯用右手的
+  [Geology] relating to or denoting a strike-slip fault in which the motion of the block on the further side of the fault from an observer is towards the right  • [地质] （走滑断层）右旋的
+  [Zoology] (of a spiral mollusc shell) with whorls rising to the right and coiling in an anticlockwise direction  • [动] （软体动物螺壳上的螺线）右旋的，逆时针方向卷的
+◙ noun
+1. a right-handed person  • 惯用右手的人
+
+【派生】♦ dextrality noun
+♦ dextrally adverb
+
+【语源】1. mid 17th cent.: from medieval Latin dextralis, from Latin dextra 'the right hand', from dexter 'on the right'
+
+
+
+————————————
+★☆☆   dextran
+ / ˈdekstrən /◙ noun
+1. [mass noun] [Chemistry] a carbohydrate gum formed by the fermentation of sugars and consisting of polymers of glucose  • [化] 葡聚糖，右旋糖酐
+  [Medicine] a solution containing a hydrolysed form of this, used as a substitute for blood plasma  • [医] 水解葡聚糖溶液
+
+【语源】1. late 19th cent.: from dextro- + -an
+
+
+
+————————————
+★☆☆   dextrin
+ / ˈdekstrin /◙ noun
+1. [mass noun] a soluble gummy substance obtained by hydrolysis of starch, used as a thickening agent and in adhesives and dietary supplements  • 糊精（可用作增稠剂，也可用作粘合剂中的成分，粘合剂及膳食补充成分）
+
+【语源】1. mid 19th cent.: from dextro- + -in
+
+
+
+————————————
+★☆☆   dextro-◙ for combining
+1. on or to the right  • 表示“（向）右边的”
+ »dextrorotatory.
+
+【语源】1. from Latin dexter, dextr- 'right'
+
+
+
+————————————
+★☆☆   dextrorotatory
+ / ˈdekstrəuˈrəutətəri /◙ adjective
+1. [Chemistry] (of a compound) having the property of rotating the plane of a polarized light ray to the right, i. e. clockwise facing the oncoming radiation  • [化] 右旋的，顺时针方向旋转的。
+【OPP】 laevorotatory 
+
+【派生】♦ dextrorotation noun
+
+
+
+
+————————————
+★☆☆   dextrose
+ / ˈdekstrəus /◙ noun
+1. [mass noun] [Chemistry] the dextrorotatory form of glucose (and the predominant naturally occurring form)  • [化] 右旋糖，葡萄糖
+
+【语源】1. mid 19th cent.: from Latin dexter, dextr- 'on the right' + -ose
+
+
+
+————————————
+★☆☆   dextrous
+ / ˈdekstrəs /◙ adjective
+1. variant spelling of dexterous  • 同 dexterous 
+
+
+
+————————————
+★☆☆   dexy
+ / ˈdɛksi /◙ (pl. -ies)
+1. [mass noun] [informal] Dexedrine  • [非正式] 硫酸右旋苯异丙胺，右旋安非他明
+  [count noun] a tablet of Dexedrine  • 右旋苯异丙胺药片，右旋安非他明药片
+
+【语源】1. 1950s: abbreviation
+
+
+
+————————————
+★☆☆   dezincification
+ / di:ˌzɪŋkɪfɪˈkeɪʃ(ə)n /◙ noun
+1. [mass noun] a form of corrosion and weakening of brass objects in which zinc is dissolved out of the brass alloy  • 脱锌（现象），除锌（作用）
+
+
+
+————————————
+★☆☆   DF◙ for abbreviation
+
+【Latin】1. Defender of the Faith  • 同 Defender of the Faith 
+  direction-finder  • 测向仪，定向仪
+
+
+
+————————————
+★☆☆   DFC◙ for abbreviation
+1. (in the UK) Distinguished Flying Cross , a decoration for distinguished active service awarded to members of the RAF, instituted in 1918  • （英国）杰出飞行十字勋章（向英国皇家空军成员颁发的勋章，用以奖励其服役期间的杰出战功，设立于1918年）
+
+
+
+————————————
+★☆☆   DFE◙ for abbreviation
+1. (in the UK) Department for Education  • （英国）教育部
+
+
+
+————————————
+★☆☆   DfES◙ for abbreviation
+1. (in the UK) Department for Education and Skills  • （英国）教育与技能部
+
+
+
+————————————
+★☆☆   Dfl◙ for abbreviation
+1. Dutch florins  • 荷兰货币弗罗林
+
+
+
+————————————
+★☆☆   DFM◙ for abbreviation
+1. (in the UK) Distinguished Flying Medal , a decoration awarded to RAF personnel for acts of courage or devotion to duty when not in action against an enemy, instituted in 1918  • （英国）优异飞行勋章（向皇家空军工作人员颁发的勋章，用以奖励其在非对敌作战时的英勇行为或忠于职守的表现，设立于1918年）
+
+
+
+————————————
+★☆☆   DG◙ for abbreviation
+1. Dei gratia, by the grace of God  • 同 Dei Gratia （蒙神之恩）
+2. Deo gratias, thanks be to God  • 同 Deo gratias （蒙上帝保佑，托天之福）
+3. (in the UK) director general  • 同 director general 
+
+
+
+————————————
+★☆☆   DH[Baseball] [棒球] 
+◙ for abbreviation
+1. designated hitter  • 同 designated hitter 
+◙ [DH's, DH'd, DHing] 
+1. [no obj.] act as a designated hitter  • 当指定击球员
+  [with obj.] use (a player) as a designated hitter  • 让（某一选手）当指定击球员
+
+
+
+————————————
+★☆☆   dhaba
+ / ˈdɑ:bə /◙ noun
+1. [Indian] a roadside food stall  • [印度] 路边饮食摊
+
+【语源】1. from Hindi dhābā
+
+
+
+————————————
+★☆☆   Dhaka
+ / ˈdækə /◙ (也作 Dacca)
+1. the capital of Bangladesh, on the Ganges delta; pop. 3,637,890 (1991)  • 达卡（孟加拉国首都，位于恒河三角洲，1991年人口3,637,890）
+
+【派生】♦ Dhakai adjective
+
+
+
+
+————————————
+★☆☆   dhal
+ / dɑ:l /◙ (也作 dal), noun
+1. [mass noun] split pulses, a common foodstuff in India  • 木豆（印度常见食品）
+  a dish made with these  • 木豆做的菜
+
+【语源】1. from Hindi dāl
+
+
+
+————————————
+★☆☆   dhamma
+ / ˈdɑ:mə, ˈdʌmə /◙ noun
+1. another term for dharma , especially among Theravada Buddhists , especially among Theravada Buddhists  • 同 dharma （多在小乘佛教教徒中使用）
+
+【语源】1. Pali, from Sanskrit dharma 'decree or custom'
+
+
+
+————————————
+★☆☆   Dhanbad
+ / ˈdɑ:nbæd /1. a city in ɑihar, ŋə ɪndia; pop. 818,000 (1ˌˌ1)  • 丹巴德（印度东北部比哈尔邦一城市，1991年人口818,000）
+
+
+
+————————————
+★☆☆   dhansak
+ / ˈdʌnsɑ:k /◙ noun
+1. [mass noun] an Indian dish of meat or vegetables cooked with lentils and coriander  • 肉类（或蔬菜）和兵豆、芫荽一起煮的印度菜
+ »chicken dhansak.  鸡肉煮兵豆。
+
+【语源】1. Gujarati
+
+
+
+————————————
+★☆☆   dharma
+ / ˈdɑ:mə /◙ noun
+1. [mass noun] (in Indian religion) the eternal law of the cosmos, inherent in the very nature of things  • 达磨，天地万物之法（印度宗教中关于宇宙的永恒法则，为万物本性中所固有）
+2. In Hinduism, dharma is seen as the cosmic law both upheld by the gods and expressed in right behaviour by humans, including adherence to the social order. In Buddhism, it is interpreted as universal truth or law, especially as proclaimed by the Buddha. In Jainism, it is conceived both as virtue and as a kind of fundamental substance, the medium of motion
+
+【语源】1. Sanskrit, literally decree or custom'
+
+
+
+————————————
+★☆☆   dharmashala
+ / ˈdɑ:məˌʃɑ:lə /◙ (也作 dharmsala), noun
+1. (in the Indian subcontinent) a building devoted to religious or charitable purposes, especially a rest house for travelers  • （印度次大陆）达磨沙勒（进行宗教或慈善活动的场所，平时多用作客栈），宗教旅馆
+
+【语源】1. from Sanskrit dharmá śālā, from dharma 'virtue' + śālā 'house'
+
+
+
+————————————
+★☆☆   dharna
+ / ˈdɑ:nə /◙ noun
+1. [mass noun] [Indian] a mode of compelling payment or compliance, by sitting at the debtor's or offender's door without eating until the demand is complied with  • [印度] 长坐绝食（指为讨债而长坐债务人家门前绝食直至达到目的；或为迫使冒犯者同意某要求而在其家门前绝食直至达到目的）
+  [count noun] a peaceful demonstration  • 和平示威运动
+
+【语源】1. from Hindi dharnā 'sitting in restraint, placing'
+
+
+
+————————————
+★☆☆   Dharuk
+ / ˈdʌrʊk /◙ noun
+1. [mass noun] an Aboriginal language of the area around Sydney, Australia, now extinct  • 达鲁克语（澳大利亚悉尼附近土著居民使用的语言，现已失传）
+
+
+
+————————————
+★☆☆   Dhaulagiri
+ / ˌdæʊləˈgɪri /1. a mountain massif in the Himalayas, in ŋepal, with six peaks, rising to 8,1ˌ2 m (26,810 ft) at its highest point  • 道拉基里山脉（尼泊尔境内喜马拉雅山脉中的山丘，有六座山峰，最高点高度达8,172米，即26,810英尺）
+
+
+
+————————————
+★☆☆   Dhelfoí
+ / ðɛlˈfi /1. Greek name for Delphi  • [希腊] 同 Delphi 
+
+
+
+————————————
+★☆☆   dhikr◙ noun
+1. [mass noun] [Islam] a form of devotion, associated chiefly with Sufism, in which the worshipper is absorbed in the rhythmic repetition of the name of God or his attributes  • [伊斯兰教] 齐克尔（主要与苏非教派有关的一种朝拜形式，朝拜者全神贯注、有节奏地重复呼叫神的名字或其象征性标志的名称）
+  [count noun] a Sufi ceremony in which this is practiced  • 采用齐克尔朝拜形式的苏非教派仪式
+
+【语源】1. from Arabic dikr 'remembrance'
+
+
+
+————————————
+★☆☆   dhobi
+ / ˈdəubi /◙ (pl. dhobis)
+1. (in the Indian subcontinent) a washerman or washerwoman  • （印度次大陆的）男洗衣工；洗衣妇
+
+【语源】1. from Hindi dhobī, from dhob 'washing'
+
+
+
+————————————
+★☆☆   dhobi itch◙ noun
+1. [mass noun] [informal] itching inflammation of the skin, especially in the groin region, suffered particularly in the tropics and typically caused by certain types of ringworm infection or by allergic dermatitis  • [非正式] 朵比癣，洗衣工癣
+
+
+
+————————————
+★☆☆   Dhofar
+ / dəuˈfɑ: /1. the fertile southern province of Oman  • 佐法尔（阿曼南部一省份，土地肥沃）
+
+
+
+————————————
+★☆☆   dhol
+ / dəul /◙ noun
+1. a large, barrel-shaped or cylindrical wooden drum, typically two-headed, used in the Indian subcontinent  • 朵尔鼓（印度次大陆的一种大木鼓，桶状或圆柱状，多为双面鼓）
+
+【语源】1. from Hindi dhol
+
+
+
+————————————
+★☆☆   dholak
+ / ˈdəʊlək /◙ noun
+1. a dhol, especially a relatively small one  • （尤指较小的）朵尔鼓
+
+【语源】1. Hindi, from dhol (see dhol ) + the diminutive suffix -ak
+
+
+
+————————————
+★☆☆   dhole
+ / dəul /◙ noun
+1. an Asian wild dog with a sandy coat and a black bushy tail, living in packs  • 豺。(亦称 red dog)
+2. Cuon alpinus, family Canidae  • 拉丁名Cuon alpinus，犬科
+
+【语源】1. early 19th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   dhoney
+ / ˈdəʊni /1. a small sailing vessel formerly used in southern ɪndia  • 印度小帆船（旧时印度南部的一种小帆船）
+
+【语源】1. from Telugu doni; compare with Persian dōnī 'yacht'
+
+
+
+————————————
+★☆☆   dhoti
+ / ˈdəuti /◙ (pl. dhotis)
+1. [Indian] a garment, worn mainly by men, consisting of a piece of material tied around the waist and extending to cover most of the legs  • [印度] 缠腰布
+
+【语源】1. from Hindi dhotī
+
+
+
+————————————
+★☆☆   dhow
+ / dau /◙ noun
+1. a lateen-rigged ship with one or two masts, used chiefly in the Arabian region  • （主要用于阿拉伯地区的）独桅（或双桅）三角帆船
+
+【语源】1. late 18th cent.: from Arabic dāwa, probably related to Marathi dāw
+
+
+
+————————————
+★☆☆   DHSS(historical)[史] 
+◙ for abbreviation
+1. (in the UK) Department of Health and Social Security , now replaced by the Department of Health and the Department of Social Security  • （英国）卫生和社会保障部（现被卫生部和社会保障部取代）
+
+
+
+————————————
+★☆☆   DHT◙ for abbreviation
+1. dihydrotestosterone  • 同 dihydrotestosterone 
+
+
+
+————————————
+★☆☆   DHTML[Computing] [计算机] 
+◙ for abbreviation
+1. dynamic HTML  • 动态超文本链接标记语言
+
+
+
+————————————
+★☆☆   dhurrie
+ / ˈdʌri /◙ (也作 durrie), (pl. -ies)
+1. a heavy cotton rug of Indian origin  • 印度棉毯
+
+【语源】1. from Hindi darī
+
+
+
+————————————
+★☆☆   dhyana
+ / diˈɑ:nə /◙ noun
+1. [mass noun] (in Hindu and Buddhist practice) profound meditation which is the penultimate stage of yoga  • （印度教和佛教中的）禅（意为沉思，是瑜珈的末前级）
+
+【语源】1. from Sanskrit dhyāna
+
+
+
+————————————
+★☆☆   Dhílos
+ / ˈðilɔs /1. Greek name for Delos  • [希腊] 同 Delos 
+
+
+
+————————————
+★☆☆   DI◙ for abbreviation
+1. (in the UK) Defence Intelligence  • （英国）国防情报部
+  (in the UK) Detective Inspector  • （英国）侦探巡官
+  direct injection  • 同 direct injection 
+
+
+
+————————————
+★☆☆   di-di-¹
+◙ for combining
+1. twice; two- ; double  • 表示“二次”，“二”，“双”，“二倍”，“二重”
+ »dichromatic.
+  [Chemistry] containing two atoms, molecules, or groups of a specified kind  • [化] 表示“包含两个原子（或分子）的”，“包含两个族（或基团）的”
+ »dioxide.
+
+【语源】1. from Greek dis 'twice'di-²
+◙ prefix
+1. variant spelling of dis- shortened before l , m, n, r, s (followed by a consonant), and v; also often shortened before g, and sometimes before j  • 同 dis- （当l,m,n,r,s后面为辅音时，s在l,m,n,r,s前省略；s在v前省略；另s在g前常常省略，在j前有时省略）
+
+【语源】1. from Latindi-³
+◙ prefix
+1. variant spelling of dia- shortened before a vowel (as in dielectric)  • 同 dia- （a在元音前省略，如dialectric）
+
+
+
+————————————
+★☆☆   dia-
+ / ˈdaiə /◙ [在元音前亦作 di-] , prefix
+1. through ; across  • 表示“穿过”，“横穿”
+ »diameter.
+ »diaphanous.
+ »diuretic.
+2. apart  • 表示“分开”
+ »diakinesis.
+
+【语源】1. from Greek dia 'through'
+
+
+
+————————————
+★☆☆   dia.◙ for abbreviation
+1. diameter  • 同 diameter 
+
+
+
+————————————
+★☆☆   diabase
+ / ˈdaiəˌbeis /◙ noun
+1. [Geology] . another term for dolerite  • [地质] 同 dolerite 
+
+【语源】1. mid 19th cent. (originally denoting diorite): from French, formed irregularly as if from di- 'two' + base 'base' (thus 'rock with two bases', referring to the base minerals of diorite), but associated later perhaps with Greek diabasis 'transition'
+
+
+
+————————————
+★☆☆   diabetes
+ / ˌdaɪəˈbi:tɪs , -ti:z /◙ noun
+1. [mass noun] a disorder of the metabolism causing excessive thirst and the production of large amounts of urine  • 糖尿病，多尿症
+
+【语源】1. mid 16th cent.: via Latin from Greek, literally siphon', from diabainein 'go through'
+
+
+
+————————————
+★☆☆   diabetes insipidus
+ / ɪnˈsɪpɪdəs /◙ noun
+1. [mass noun] a rare form of diabetes caused by a deficiency of the pituitary hormone vasopressin, which regulates kidney function  • 尿崩症
+
+【语源】1. late 19th cent.: from diabetes + Latin insipidus 'insipid'
+
+
+
+————————————
+★☆☆   diabetes mellitus
+ / mɪˈlaɪtəs /◙ noun
+1. [mass noun] the commonest form of diabetes, caused by a deficiency of the pancreatic hormone insulin, which results in a failure to metabolize sugars and starch. Sugars accumulate in the blood and urine, and the by-products of alternative fat metabolism disturb the acid–base balance of the blood, causing a risk of convulsions and coma  • 糖尿病
+
+【语源】1. late 19th cent.: from diabetes + Latin mellitus 'sweet'
+
+
+
+————————————
+★☆☆   diabetic
+ / ˌdaɪəˈbetɪk /◙ adjective
+1. having diabetes  • 患糖尿病的
+  relating to or designed to relieve diabetes  • （与）糖尿病（有关）的；治糖尿病的
+ »a diabetic clinic.  糖尿病诊所。
+ »a diabetic diet.  糖尿病患者的饮食。
+◙ noun
+1. a person suffering from diabetes  • 糖尿病患者
+
+
+
+————————————
+★☆☆   diablerie
+ / diˈɑ:bləri /◙ noun
+1. [mass noun] reckless mischief; charismatic wildness  • 肆无忌惮的恶捣乱；狂放不羁而富于魅力
+ » the beauty and diablerie of the great actor.  那个杰出演员的美妙动人和狂放不羁的魅力。
+  (archaic)sorcery supposedly assisted by the devil  • [古] 魔法，妖术
+
+【语源】1. mid 18th cent.: from French, from diable, from ecclesiastical Latin diabolus 'devil'
+
+
+
+————————————
+★☆☆   diabolic
+ / daiəˈbɔlik /◙ adjective
+1. relating to or characteristic of the Devil  • 魔鬼的；如魔鬼般的
+ »the darkness of a diabolic world.  魔鬼世界的黑暗。
+
+【语源】1. late Middle English: from Old French diabolique or ecclesiastical Latin diabolicus, from diabolus 'devil'
+
+
+
+————————————
+★☆☆   diabolical
+ / ˌdaɪəˈbɔlɪkəl /◙ adjective
+1. characteristic of the Devil, or so evil as to recall the Devil  • 恶魔撒旦般的；如恶魔撒旦般邪恶的
+ »his diabolical cunning.  他那魔鬼般的狡诈。
+  [informal] disgracefully bad or unpleasant  • [非正式] 不像样的；令人讨厌的
+ »a singer with an absolutely diabolical voice.  嗓音非常糟糕的歌手。
+
+【派生】♦ diabolically adverb
+ »[as submodifier] I am going to get diabolically drunk.
+  我会醉得不像样子的
+
+
+
+————————————
+★☆☆   diabolism
+ / daiˈæbəlizəm /◙ noun
+1. [mass noun] worship of the Devil  • 对魔鬼撒旦的崇拜
+
+【派生】♦ diabolist noun
+
+【语源】1. early 17th cent.: from ecclesiastical Latin diabolus or Greek diabolos 'devil' + -ism
+
+
+
+————————————
+★☆☆   diabolize
+ / daiˈæbəlaiz /◙ (也作 -ise), verb
+1. [with obj.] (archaic)represent as diabolical  • [古] 把…描绘得像恶魔一样
+
+
+
+————————————
+★☆☆   diabolo
+ / diˈɑ:bələu /◙ (pl. -os)
+1. [mass noun] a game in which a two-headed top is thrown up and caught with a string stretched between two sticks  • 空竹，扯铃
+  [count noun] the wooden top used in this game  • 空竹，扯铃（该游戏中用的木陀螺）
+
+【语源】1. early 20th cent.: from Italian, from ecclesiastical Latin diabolus 'devil'; the game was formerly called devil on two sticks
+
+
+
+————————————
+★☆☆   diacetylmorphine
+ / ˈdaiəˌsi:tilˈmɔ:fi:n /◙ noun
+1. technical term for heroin  • [技] 同 heroin 
+
+【语源】1. late 19th cent.: from di- 'two' + acetyl + morphine
+
+
+
+————————————
+★☆☆   diachronic
+ / ˌdaiəˈkrɔnik /◙ adjective
+1. concerned with the way in which something, especially language, has developed and evolved through time  • （尤指语言）历时的。 常与 synchronic 相对
+
+【派生】♦ diachroneity noun
+♦ diachronically adverb
+♦ diachronistic adjective
+♦ diachrony noun
+
+【语源】1. mid 19th cent.: from dia- 'through' + Greek khronos 'time' + -ic
+
+
+
+————————————
+★☆☆   diachronism
+ / ˌdaiəˈkrɔnizəm /◙ noun
+1. [mass noun] [Geology] the occurrence of a feature or phenomenon in different geological periods  • [地质] 穿时性，异时性
+
+【派生】♦ diachronous adjective
+♦ diachronously adverb
+
+
+
+
+————————————
+★☆☆   diaconal
+ / daiˈækənl /◙ adjective
+1. relating to a deacon, or to the role of a deacon  • （教会）执事的，助祭的；与执事（或助祭）的工作有关的
+
+【语源】1. early 17th cent.: from ecclesiastical Latin diaconalis, from diaconus (see deacon )
+
+
+
+————————————
+★☆☆   diaconate
+ / daiˈækənit /◙ noun
+1. the office of deacon, or a person's tenure of it  • 教会执事（或助祭）的职位；执事（或助祭）的任期
+  a body of deacons collectively  • 执事会，助祭会
+
+【语源】1. early 18th cent.: from ecclesiastical Latin diaconatus, from diaconus (see deacon )
+
+
+
+————————————
+★☆☆   diacritic
+ / ˌdaiəˈkritik /◙ noun
+1. a sign, such as an accent or cedilla, which when written above or below a letter indicates a difference in pronunciation from the same letter when unmarked or differently marked  • 变音符号（如重音符号或下加符号，加于字母上方或下方，表示其发音与未加符号或加不同符号的字母有区别）
+◙ adjective
+1. (of a mark or sign) indicating a difference in pronunciation  • 变音符号的
+
+【派生】♦ diacritical adjective
+♦ diacritically adverb
+
+【语源】1. late 17th cent.: from Greek diakritikos, from diakrinein 'distinguish', from dia- 'through' + krinein 'to separate'
+
+
+
+————————————
+★☆☆   diadelphous
+ / ˌdaiəˈdelfəs /◙ adjective
+1. [Botany] (of stamens) united by their filaments so as to form two groups  • [植] （雄蕊）两体的
+
+【语源】1. early 19th cent.: from di- 'two' + Greek adelphos 'brother' + -ous
+
+
+
+————————————
+★☆☆   diadem
+ / ˈdaiədem /◙ noun
+1. a jewelled crown or headband worn as a symbol of sovereignty  • 王冠，冕；（象征王权的）头带
+  (the diadem)(archaic)the authority or dignity symbolized by a diadem  • [古] （王冠或头带代表的）王权（或王的尊严）
+ »the princely diadem.  高贵的王权。
+
+【派生】♦ diademed adjective
+
+【语源】1. Middle English: from Old French diademe, via Latin from Greek diadēma the regal headband of the Persian kings', from diadein 'bind round'
+
+
+
+————————————
+★☆☆   Diadochi
+ / daɪˈædəki /1. the six Macedonian generals of ælexander the Great əæntigonus, æntipater, ɔassander, ɚysimachus, Ptolemy, and Seleucus] , among whom his empire was eventually divided after his death in 323 bc  • 亚历山大大帝麾下的六位马其顿将军（安提柯一世、安提帕特、卡山得、利西麦克斯、托勒密和塞琉古一世，公元前323年，亚历山大大帝去世之后，他的帝国最终被这六人瓜分）
+
+【语源】1. from Greek diadokhoi 'successors'
+
+
+
+————————————
+★☆☆   diaeresis
+ / daiˈiərisis /◙ [美 dieresis] , (pl. diaeresises -siːz)
+1. a mark (¨) placed over a vowel to indicate that it is sounded separately, as in naïve, Brontë  • 分音符，隔音符（符号［¨］置于元音上方，表示该元音单独发音，如在naïve, Brontë中）
+  [mass noun] the division of a sound into two syllables, especially by sounding a diphthong as two vowels  • 二合元音分立（将一个音分成两个音节，尤指将一二合元音分别发成两个元音）
+2. [Prosody] a natural rhythmic break in a line of verse where the end of a metrical foot coincides with the end of a phrase  • [诗韵] （诗行中音步尾部和词组的最后音节相符时的）小休止
+
+【语源】1. late 16th cent. (denoting the division of one syllable into two): via Latin from Greek diairesis separation, from diairein 'take apart', from dia 'apart' + hairein 'take'
+
+
+
+————————————
+★☆☆   diagenesis
+ / ˌdaiəˈdʒenisis /◙ noun
+1. [mass noun] [Geology] the physical and chemical changes occurring during the conversion of sediment to sedimentary rock  • [地质] 成岩作用
+
+【派生】♦ diagenetic adjective
+♦ diagenetically adverb
+
+
+
+
+————————————
+★☆☆   Diaghilev
+ / dɪˈægɪlɛf /1. Sergei əPavlovich] (18ˌ2–1ˌ2ˌ), ɔussian ballet impresario. ɪn 1ˌ0ˌ he formed the ɑallets ɔusses, which he directed until his death  • 佳吉列夫，谢尔盖（•帕夫洛维奇）（1872–1929，俄罗斯芭蕾舞团经理，于1909年成立俄罗斯芭蕾舞团，直至去世前始终担任该团经理）
+
+
+
+————————————
+★☆☆   diagnose
+ / ˈdaiəɡnəuz /◙ verb
+1. [with obj.] identify the nature of (an illness or other problem) by examination of the symptoms  • 诊断（疾病等）；判断所存在问题的性质
+ »two doctors failed to diagnose a punctured lung.  两名医生都未能诊断出那是肺穿孔。
+  [一般作 be diagnosed] identify the nature of the medical condition of (someone)  • 确定（某人的）治疗状况
+ »she was finally diagnosed as having epilepsy.  她最终被确诊为患有癫痫。
+ »20,000 men are diagnosed with skin cancer every year.  每年有20,000名男子被查出患有皮肤癌。
+
+【派生】♦ diagnosable adjective
+
+【语源】1. mid 19th cent.: back-formation from diagnosis
+
+
+
+————————————
+★☆☆   diagnosis
+ / ˌdaiəɡˈnəusis /◙ (pl. diagnoses -siːz), [mass noun] 
+1. the identification of the nature of an illness or other problem by examination of the symptoms  • （对疾病的）诊断；（对所存在问题性质的）判断
+ »early diagnosis and treatment are essential.  早期诊断和治疗至关重要。
+ »[count noun] a diagnosis of Crohn's disease was made.  作出了该疾患系克罗恩氏病的诊断。
+2. the distinctive characterization in precise terms of a genus, species, or phenomenon  • （对属、种或现象的）特征简介
+
+【语源】1. late 17th cent.: modern Latin, from Greek, from diagignōskein 'distinguish, discern', from dia 'apart' + gignōskein 'recognize, know'
+
+
+
+————————————
+★☆☆   diagnostic
+ / ˌdaiəɡˈnɔstik /◙ adjective
+1. concerned with the diagnosis of illness or other problems  • 关于（疾病的）诊断的；关于（所存在问题性质的）判断的
+ »a diagnostic tool.  诊断器械。
+  (of a symptom) distinctive, and so indicating the nature of an illness  • （因症状特异而）能指示某种疾病性质的
+ »there are fifteen infections which are diagnostic of Aids.  有15个因症状特异而被诊断为感染了艾滋病的病例。
+2. characteristic of a particular species, genus, or phenomenon  • （生物学上的某一物种、属或现象所）特有的
+ »the diagnostic character of having not one but two pairs of antennae.  有两对触角而非一对触角的属性特征。
+◙ noun
+1. a distinctive symptom or characteristic  • （特有的）症状（或特征）
+  [Computing] a program or routine that helps a user to identify errors  • [计算机] 诊断程序，识错程序
+2. (diagnostics)the practice or techniques of diagnosis  • 诊断学；诊断法
+ »advanced medical diagnostics.  先进的医疗诊断技术。
+
+【派生】♦ diagnostically adverb
+♦ diagnostician noun
+
+【语源】1. early 17th cent.: from Greek diagnōstikos 'able to distinguish', from diagignōskein 'distinguish'; the noun from hē diagnōstikē teknē 'the art of distinguishing (disease')
+
+
+
+————————————
+★☆☆   diagonal
+ / daɪˈægənəl /◙ adjective
+1. (of a straight line) joining two opposite corners of a square, rectangle, or other straight-sided shape  • （正方形、长方形或其他直边形的）对角线的
+  (of a line) straight and at an angle; slanting  • 斜线的；斜的
+ »a tie with diagonal stripes.  一个有斜纹的领结。
+◙ noun
+1. a straight line joining two opposite corners of a square, rectangle, or other straight-sided shape  • （正方形、长方形或其他直边形的）对角线
+  [Mathematics] the set of elements of a matrix that lie on a line joining two opposite corners  • [数] 矩阵对角线元素
+  a slanting straight line  • 斜线
+ »the bars of light made diagonals across the entrance.  光柱从入口射入形成道道斜线。
+ »tiles can be laid on the diagonal.  地砖可成斜线铺上。
+  [Chess] a slanting row of squares whose colour is the same  • [棋] （棋盘上的）斜线
+
+【派生】♦ diagonally adverb
+
+【语源】1. mid 16th cent.: from Latin diagonalis, from Greek diagōnios 'from angle to angle', from dia 'through' + gōnia 'angle'
+
+
+
+————————————
+★☆☆   diagonal matrix◙ noun
+1. [Mathematics] a matrix having non-zero elements only in the diagonal running from the upper left to the lower right  • [数] 对角矩阵
+
+
+
+————————————
+★☆☆   diagram
+ / ˈdaiəɡræm /◙ noun
+1. a simplified drawing showing the appearance, structure, or workings of something; a schematic representation  • 图解，简图；示意图
+ »a diagram of the living room.  客厅的简图。
+  [Geometry] a figure composed of lines that is used to illustrate a definition or statement or to aid in the proof of a proposition  • [几何] 几何图形
+  [Brit.] a graphical schedule for operating railway locomotives and rolling stock in order to provide a desired service  • [英] 火车运行时间图
+◙ (diagrammed, diagramming; 美 diagramed, diagraming)
+1. [with obj.] represent (something) in graphic form  • 图示
+ »the experiment is diagrammed on page fourteen.  在第14页对该试验进行了图示。
+  [Brit.] schedule the operations of (a locomotive or train) according to a diagram  • [英] 根据火车运行时间图来安排（火车的）运行时间
+
+【派生】♦ diagrammatic adjective
+♦ diagrammatically adverb
+
+【语源】1. early 17th cent.: from Latin diagramma, from Greek, from diagraphein 'mark out by lines', from dia 'through' + graphein 'write'
+
+
+
+————————————
+★☆☆   diagrid
+ / ˈdaiəɡrid /◙ noun
+1. [Brit.] a supporting framework in a building formed with diagonally intersecting ribs of metal or concrete  • [英] （建筑物内起支撑作用的金属和混凝土）斜肋构架
+
+【语源】1. 1940s: from diagonal + grid
+
+
+
+————————————
+★☆☆   diakinesis
+ / ˌdaiəkaiˈni:sis /◙ (pl. diakineses -siːz)
+1. [mass noun] [Biology] the fifth and last stage of the prophase of meiosis, following diplotene, when the separation of homologous chromosomes is complete and crossing over has occurred  • [生] （细胞减数分裂）终变期
+
+【语源】1. early 20th cent.: from dia- 'through, across' + Greek kinēsis 'motion'
+
+
+
+————————————
+★☆☆   dial
+ / ˈdaiəl /◙ noun
+1. a face of a clock or watch that is marked to show units of time  • 钟面，钟盘；表面，表盘
+  a similar face or flat plate with a scale and pointer for showing measurements of weight, volume, or pressure  • （显示重量、容量或压力的）刻度盘，标度盘
+  a disc with numbered holes on a telephone, enabling someone to make a call by inserting a finger in each of the holes corresponding to the number to be called and turning the disc  • （电话机的）转动拨号盘
+  a plate or disc on a radio, cooker, washing machine, or other piece of equipment that is turned to select a wavelength or setting  • （收音机）的调台器；（炊具、洗衣机或其他设备的）调节控制器
+  [Brit. informal] a person's face  • [英，非正式] （人的）脸
+ »he must be one of the new batch—I haven't seen his dial before.  他肯定是新来的，我以前没见过这张脸。
+◙ (dialled, dialling; 美 dialed, dialing)
+1. [with obj.] call (a telephone number) by turning a disc with numbered holes or pressing a set of buttons  • 拨（电话号码）
+ »she dialled 999.  她拨了999。
+ »[no obj.] company employees dial out from their office.  公司员工从办公室向外打电话。
+  (dial something up)gain access to a service using a telephone line  • 通过电话线获取（某种服务）
+ »plans to enable customers to dial up videos from their living room.  使客户能在起居室里通过电话线看录像的计划。
+  indicate or regulate by means of a dial  • （使用调节器来）指示（或调节）
+ »you're expected to dial in volume and tone settings.  你应该用调节器来控制音量和音调。
+
+【语源】1. Middle English (denoting a mariner's compass): from medieval Latin diale 'clock dial', based on Latin dies 'day'
+
+
+
+————————————
+★☆☆   dial-a-◙ for combining
+1. denoting a service available for booking by telephone  • 表示“可电话预约的服务”
+ »dial-a-ride.
+
+
+
+————————————
+★☆☆   dialect
+ / ˈdaiəlekt /◙ noun
+1. a particular form of a language which is peculiar to a specific region or social group  • （特定地区或社会群体的）方言，土话，特有用语
+ »this novel is written in the dialect of Trinidad.  这部小说是用特立尼达岛方言写成的。
+  [Computing] a particular version of a programming language  • [计算机] 方言
+
+【派生】♦ dialectal adjective
+
+【语源】1. mid 16th cent. (denoting the art of investigating the truth of opinions): from French dialecte, or via Latin from Greek dialektos 'discourse, way of speaking', from dialegesthai 'converse with' (see dialogue )
+
+
+
+————————————
+★☆☆   dialectic
+ / ˌdaiəˈlektik /əPhilosophy] ə哲] 
+◙ noun, [mass noun] (也作 dialectics)[usu. treated as sing.] 
+1. the art of investigating or discussing the truth of opinions  • 辩证法
+2. enquiry into metaphysical contradictions and their solutions  • 逻辑论证
+  the existence or action of opposing social forces, concepts, etc  • （社会力量、观念等的）对立
+3. The ancient Greeks used the term dialectic to refer to various methods of reasoning and discussion in order to discover the truth. More recently, Kant applied the term to the criticism of the contradictions which arise from supposing knowledge of objects beyond the limits of experience, e.g. the soul. Hegel applied the term to the process of thought by which apparent contradictions (which he termed thesis and antithesis) are seen to be part of a higher truth (synthesis)
+◙ adjective
+1. of or relating to dialectic or dialectics; dialectical  • （与）辩证（有关）的；（与）辩证法（有关）的；逻辑论证的
+
+【语源】1. late Middle English: from Old French dialectique or Latin dialectica, from Greek dialektikē (tekhnē) ('art) of debate', from dialegesthai 'converse with' (see dialogue )
+
+
+
+————————————
+★☆☆   dialectical
+ / ˌdaiəˈlektikəl /◙ adjective
+1. relating to the logical discussion of ideas and opinions  • 逻辑论证的
+ »dialectical ingenuity.  逻辑辩证的独创性。
+2. concerned with or acting through opposing forces  • 对立的
+ »a dialectical opposition between social convention and individual libertarianism.  社会习俗和个人自由意志论者之间在观念上的对立。
+
+【派生】♦ dialectically adverb
+
+
+
+
+————————————
+★☆☆   dialectical materialism◙ noun
+1. [mass noun] the Marxist theory (adopted as the official philosophy of the Soviet communists) that political and historical events result from the conflict of social forces and are interpretable as a series of contradictions and their solutions. The conflict is seen as caused by material needs  • 辩证唯物主义
+
+【派生】♦ dialectical materialist noun & adjective
+
+
+
+
+————————————
+★☆☆   dialectician
+ / ˌdaiəlekˈtiʃən /◙ noun
+1. a person skilled in philosophical debate  • （擅长哲学辩论的）辩论家，辩论能手
+
+【语源】1. mid 16th cent.: from French dialecticien, from Latin dialecticus, based on Greek dialegesthai 'converse with'
+
+
+
+————————————
+★☆☆   dialectology
+ / ˌdaiəlekˈtɔlədʒi /◙ noun
+1. [mass noun] the branch of linguistics concerned with the study of dialects  • 方言学，方言研究
+
+【派生】♦ dialectological adjective
+♦ dialectologist noun
+
+
+
+
+————————————
+★☆☆   dial-in◙ adjective
+1. another term for dial-up  • 同 dial-up 
+
+
+
+————————————
+★☆☆   dialler◙ (也作 dialer), noun
+1. a device or piece of software for calling telephone numbers automatically  • 电话自动拨号器（或软件）
+ »a hand-held computer phone dialler.  手持式计算机电话自动拨号器。
+
+
+
+————————————
+★☆☆   dialling code◙ noun
+1. [Brit.] a sequence of numbers dialled to connect a telephone to an exchange in another area or country  • [英] 电话的地区（或国家）代号
+
+
+
+————————————
+★☆☆   dialling tone◙ [北美 dial tone] , noun
+1. a sound produced by a telephone that indicates that a caller may start to dial  • 拨号音
+
+
+
+————————————
+★☆☆   dialog box◙ [英亦作 dialogue box] , noun
+1. [Computing] a small area on screen in which the user is prompted to provide information or select commands  • [计算机] （屏幕上提示用户提供信息或选择指令的）对话框
+
+
+
+————————————
+★☆☆   dialogic
+ / ˌdaiəˈlɔɡik /◙ adjective
+1. relating to or in the form of dialogue  • 对话的；对话体的
+
+【派生】♦ dialogical adjective
+
+【语源】1. mid 19th cent.: via late Latin from Greek dialogikos, from dialogos (see dialogue )
+
+
+
+————————————
+★☆☆   dialogism
+ / daɪˈælədʒɪz(ə)m /◙ noun
+1. [mass noun] the use in a text of different tones or viewpoints, whose interaction or contradiction are important to the text's interpretation  • 矛盾对话体（写作者使用不同语气或陈述不同观点，其相互作用或矛盾冲突之处对于文本的解释具有重要作用）
+
+【语源】1. mid 16th cent.: from late Latin dialogismos, from Greek dialogizesthai 'to converse', from dialogos 'discourse' (see dialogue )
+
+
+
+————————————
+★☆☆   dialogue
+ / ˈdaiəlɔɡ /◙ [美亦作 dialog] , noun
+1. conversation between two or more people as a feature of a book, play, or film  • （书本、戏剧或电影中两人或多人间的）对话
+ »the book consisted of a series of dialogues.  这本书中有一系列的对话。
+ »[mass noun] passages of dialogue.  几段对话。
+  a discussion between two or more people or groups, especially one directed towards exploration of a particular subject or resolution of a problem  • （为探讨某个特定主题或解决问题而进行的）对话
+ »the USA would enter into a direct dialogue with Vietnam.  美国愿意和越南直接对话。
+ »[mass noun] interfaith dialogue.  不同宗教信仰团体间的对话。
+◙ verb
+1. [no obj.] (chiefly N. Amer.)take part in a conversation or discussion to resolve a problem  • [主北美] （为解决问题而）参加对话，与…对话
+ »he stated that he wasn't going to dialogue with the guerrillas.  他声明不和游击队对话。
+  [with obj.] provide (a film or play) with a dialogue  • 为（电影，戏剧）配上对白
+
+【IDIOMS】◘ dialogue of the deaf
+1. a discussion in which each party is unresponsive to what the others say  • 聋子的对话（指对话各方对其他方所说的话充耳不闻的对话）
+
+【语源】1. Middle English: from Old French dialoge, via Latin from Greek dialogos, from dialegesthai 'converse with', from dia 'through' + legein 'speak'
+
+
+
+————————————
+★☆☆   dial tone◙ noun
+1. North American term for dialling tone  • [北美] 同 dialling tone 
+
+
+
+————————————
+★☆☆   dial-up◙ adjective
+1. (of a computer system or service) used remotely via a telephone line  • （计算机系统或服务）通过电话线远距离使用的
+
+
+
+————————————
+★☆☆   dialysate
+ / daiˈæliˌseit /◙ [美亦作 dialyzate] , noun
+1. [mass noun] the part of a mixture which passes through the membrane in dialysis  • 透析物
+  the solution this forms with the fluid on the other side of the membrane  • 透析液
+  the fluid used on the other side of the membrane during dialysis to remove impurities  • 渗析液
+
+【语源】1. late 19th cent.: from dialysis + -ate; the term originally denoted the part of the mixture which does not pass through the membrane
+
+
+
+————————————
+★☆☆   dialyse
+ / ˈdaiəˌlaiz /◙ [美 dialyze] , verb
+1. [with obj.] purify (a mixture) by means of dialysis  • 使（混合物）渗析，透析
+  treat (a patient) by means of dialysis  • 给（病人）透析
+
+【语源】1. mid 19th cent.: from dialysis, on the pattern of analyse
+
+
+
+————————————
+★☆☆   dialysis
+ / daiˈælisis /◙ (pl. dialyses -siːz)
+1. [mass noun] [Chemistry] the separation of particles in a liquid on the basis of differences in their ability to pass through a membrane  • [化] 渗析，透析
+  [Medicine] the clinical purification of blood by this technique, as a substitute for the normal function of the kidney  • [医] （血液）透析
+
+【派生】♦ dialytic adjective
+
+【语源】1. mid 19th cent.: via Latin from Greek dialusis, from dialuein 'split, separate', from dia 'apart' + luein 'set free'
+
+
+
+————————————
+★☆☆   diamagnetic
+ / ˈdaiəmæɡˈnetik /◙ adjective
+1. [Physics] (of a substance or body) tending to become magnetized in a direction at 180° to the applied magnetic field  • [物理] （物质，物体）抗磁（性）的
+
+【派生】♦ diamagnet noun
+♦ diamagnetically adverb
+♦ diamagnetism noun
+
+【语源】1. 1846: coined by Faraday, from Greek dia 'through, across' + magnetic
+
+
+
+————————————
+★☆☆   diamantiferous
+ / ˌdaiəmænˈtifərəs /◙ adjective
+1. (of a rock formation, region, etc.) producing or yielding diamonds  • （岩层、地区等）产钻石的
+
+【语源】1. late 19th cent.: from French diamantifere, from diamant 'diamond' + -fere 'producing'
+
+
+
+————————————
+★☆☆   diamantine
+ / ˈdaiəmænti:n /◙ adjective
+1. made from or reminiscent of diamonds  • 钻石的；仿钻石的
+
+【语源】1. mid 16th cent. (in the sense hard as diamond): from French diamantin, from diamant 'diamond'
+
+
+
+————————————
+★☆☆   diamanté
+ / dju:mɔŋˈteɪ /◙ adjective
+1. decorated with artificial jewels  • 镶人造宝石的
+ »a diamanté brooch.  镶人造宝石的胸针。
+◙ noun
+1. [mass noun] artificial jewels  • 人造宝石
+  fabric or costume jewellery decorated with artificial jewels  • 镶人造宝石的服饰珠宝
+
+【语源】1. early 20th cent.: French, literally set with diamonds', past participle of diamanter, from diamant 'diamond'
+
+
+
+————————————
+★☆☆   diameter
+ / daiˈæmitə /◙ noun
+1. a straight line passing from side to side through the centre of a body or figure, especially a circle or sphere  • （尤指圆或球体的）直径
+  the length of this line  • 直径长
+  a transverse measurement of something; width or thickness  • 横度；宽度；厚度
+2. a unit of linear measurement of magnifying power  • 放大倍数
+
+【派生】♦ diametral adjective
+
+【语源】1. late Middle English: from Old French diametre, via Latin from Greek diametros (grammē) ('line) measuring across', from dia 'across' + metron 'measure'
+
+
+
+————————————
+★☆☆   diametrical
+ / ˌdaiəˈmetrikəl /◙ adjective
+1. used to emphasize how completely different two or more things are  • 截然不同的
+ »he's the diametrical opposite of Gabriel.  他和加布里埃尔是截然相反的人。
+2. of or along a diameter  • （沿）直径的
+
+【派生】♦ diametric adjective
+♦ diametrically adverb
+
+【语源】1. mid 16th cent. (in sense 2): from Greek diametrikos (from diametros 'measuring across': see diameter) + -al
+
+
+
+————————————
+★☆☆   diamine
+ / daiˈæmi:n , ˈdaiəˌmi:n /◙ noun
+1. [Chemistry] a compound whose molecule contains two amino groups, especially when not part of amide groups  • [化] 二（元）胺
+
+
+
+————————————
+★☆☆   diamond
+ / ˈdaiəmənd /◙ noun
+1. a precious stone consisting of a clear and colourless crystalline form of pure carbon, the hardest naturally occurring substance  • 钻石
+  a tool with a small stone of such a kind for cutting glass  • （带有钻石刀头、用于切割玻璃的）割刀，金刚钻
+  in extended and metaphorical use with reference to the brilliance, form, or hardness of diamonds  • 用来指钻石的光芒（或形状、硬度）
+ »the air glitters like diamonds.  空中闪烁着钻石般的光芒。
+  (a diamond)[Brit. informal] an excellent or very special person or thing  • [英，非正式] 出色（或特别）的人（或物），出众的人（或物）
+ »Fred's a diamond.  弗雷德是个很优秀的人。
+2. Diamonds occur in some igneous rock formations (kimberlite) and alluvial deposits. They are typically octahedral in shape but can be cut in many ways to enhance the internal reflection and refraction of light, producing jewels of sparkling brilliance. Diamonds are also used in cutting tools and abrasives
+3. [often as modifier] a figure with four straight sides of equal length forming two opposite acute angles and two opposite obtuse angles; a rhombus  • 斜方形；菱形
+ »decorative diamond shapes.  装饰用的菱形。
+  (diamonds)one of the four suits in a conventional pack of playing cards, denoted by a red figure of such a shape  • 方块（扑克牌的四种花色之一）
+  a card of this suit  • 方块牌
+ »she led a losing diamond.  她率先出了一张导致输局的方块牌。
+  the area delimited by the four bases of a baseball field, forming a square shape  • （棒球场的）内场
+  a baseball field  • 棒球场
+  [usu. as modifier] a railway crossing in which two tracks cross over each other at an acute angle  • 两条铁路成锐角交叉的交汇处，菱形铁路道口
+ »diamond crossings.  菱形交叉。
+
+【IDIOMS】◘ diamond cut diamond
+1. used to describe a situation in which a sharp-witted person meets their match  • 棋逢敌手，势均力敌
+◘ diamond in the rough
+1. North American term for rough diamond  • [北美] 同 rough diamond 
+
+【派生】♦ diamondiferous adjective
+
+【语源】1. Middle English: from Old French diamant, from medieval Latin diamas, diamant-, variant of Latin adamans (see adamant )
+
+
+
+————————————
+★☆☆   diamondback
+ / ˈdaiəməndbæk /◙ noun, [N. Amer.] [北美] 
+1. (也作 diamondback rattlesnake)a common large North American rattlesnake with diamond-shaped markings  • 菱斑响尾蛇。(亦称 diamond rattlesnake)
+2. Genus Crotalus, family Viperidae: two species  • 响尾蛇属，蝰科：2种
+3. another term for terrapin (in sense 2)  • 同 terrapin （义项 2）
+
+
+
+————————————
+★☆☆   diamondback moth◙ noun
+1. a small greyish moth which displays a pattern of diamonds along its back when the wings are folded. The caterpillar can be a pest of brassicas and other cultivated vegetables  • 菜蛾
+2. Plutella xylostella, family Yponomeutidae  • 拉丁名Plutella xylostella，巢蛾科
+
+
+
+————————————
+★☆☆   diamond-bird◙ noun
+1. [Austral.] a pardalote, which typically has rows of small white spots on the dark parts of its plumage  • [澳] 钻石鸟
+
+
+
+————————————
+★☆☆   diamond-cut◙ adjective
+1. cut with facets like a diamond  • 刻出菱形刻面的
+2. cut into the shape of a diamond  • 刻成菱形的
+
+
+
+————————————
+★☆☆   diamond frame◙ noun
+1. a bicycle frame having a diamond shape  • 菱形自行车架
+
+
+
+————————————
+★☆☆   Diamond Head1. a volcanic crater overlooking the port of Honolulu on the Hawaiian island of Oahu  • 钻石海岬（位于夏威夷瓦胡岛的火山口，俯瞰火奴鲁鲁）
+
+
+
+————————————
+★☆☆   diamond jubilee◙ noun
+1. the sixtieth anniversary of a notable event, especially a sovereign's accession or the foundation of an organization  • 钻石庆典（重大事件的60周年大庆，尤指君主即位或机构的成立）
+
+
+
+————————————
+★☆☆   diamond python◙ noun
+1. a carpet python of a race occurring in the coastal areas of New South Wales  • 地毯蟒
+2. Morelia spilota spilota, family Pythonidae  • 拉丁名Morelia spilota spilota，蟒科
+
+
+
+————————————
+★☆☆   diamond rattlesnake◙ noun
+1. another term for diamondback (in sense 1)  • 同 diamondback （义项1）
+
+
+
+————————————
+★☆☆   Diamond State1. informal name for the state of Delaware  • 钻石州（特拉华州的别称）
+
+
+
+————————————
+★☆☆   diamond wedding◙ (也作 diamond wedding anniversary), noun
+1. the sixtieth anniversary of a wedding  • 钻石婚（结婚60周年纪念）
+
+
+
+————————————
+★☆☆   diamond willow◙ noun
+1. [N. Amer.] a willow with diamond-shaped depressions on the trunk as a result of fungal attack, resulting in timber with a diamond-shaped pattern of pale sapwood and darker heartwood  • [北美] 菱形柳
+2. Several species in the genus Salix are affected, in particular S. bebbiana  • 柳属的数种被感染真菌致干材呈菱形，尤其是皱叶柳
+
+
+
+————————————
+★☆☆   diamorphine
+ / ˈdaiəmɔ:fi:n /◙ noun
+1. short for diacetylmorphine (heroin)  • diacetylmorphine（海洛因）的简称
+
+
+
+————————————
+★☆☆   Diana1. [Roman Mythology] an early Italian goddess associated with hunting, virginity, and, in later literature, with the moon. Greek equivalent Artemis  • [罗马神话] 狄安娜（早先和狩猎、童贞有关的女神，在后来的文献中，与月亮有关；。 相当于希腊神话中的 Artemis
+
+
+
+————————————
+★☆☆   diana
+ / daɪˈænə /◙ noun
+1. a North American fritillary (butterfly), the male of which is orange and black and the female blue and black  • 月形蝴蝶
+2. Speyeria diana, subfamily Argynninae, family Nymphalidae  • 拉丁名Speyeria diana，纹蛱蝶亚科，蛱蝶科
+
+【语源】1. modern Latin; associated with the goddess of the moon, because of the silvery crescents on the wings
+
+
+
+————————————
+★☆☆   Diana monkey◙ noun
+1. a West African monkey that has a black face with a white crescent on the forehead  • 狄安娜长尾猴
+2. Cercopithecus diana, family Cercopithecidae  • 拉丁名Cercopithecus diana，猴科
+
+【语源】1. early 19th cent.: named after the Roman moon goddess Diana
+
+
+
+————————————
+★☆☆   Diana, Princess of Wales1. (1961–97), former wife of Prince Charles; title before marriage Lady Diana Frances Spencer. The daughter of the 8th Earl Spencer, she married Prince Charles in 1981; the couple were divorced in 1996. She became a popular figure through her charity work and glamorous media appearances, and her death in a car crash in Paris gave rise to intense national mourning  • 黛安娜，威尔士王妃（1961–1997，查尔斯亲王的前妻，婚前封号黛安娜•弗朗西丝•斯宾塞女勋爵；1981年以斯宾塞伯爵八世女儿的身份与查尔斯亲王成婚，1996年离婚；因从事慈善工作及其在媒体上的迷人形象而成为大受公众欢迎的人物；她在巴黎死于车祸，举国为之哀悼）
+
+
+
+————————————
+★☆☆   Dianetics
+ / ˌdaɪəˈnɛtɪks /◙ plural noun
+1. [treated as sing.] a system developed by the founder of the Church of Scientology, L. Ron Hubbard, which aims to relieve psychosomatic disorder by cleansing the mind of harmful mental images  • 排除有害印象精神治疗法（科学论派教会发起人L•罗恩•哈伯德研究出的一种疗法，旨在减缓身心失调）
+
+【语源】1. 1950s: from Greek dianoētikos 'relating to thought' + -ics
+
+
+
+————————————
+★☆☆   dianthus
+ / daiˈænθəs /◙ (pl. dianthuses)
+1. a flowering plant of a genus that includes the pinks and carnations  • 石竹
+2. Genus Dianthus, family Caryophyllaceae  • 石竹属，石竹科
+
+【语源】1. from Greek Dios 'of Zeus' + anthos 'a flower'
+
+
+
+————————————
+★☆☆   diapason
+ / ˌdaiəˈpeisn /◙ noun
+1. (也作 open diapason 或 stopped diapason)an organ stop sounding a main register of flue pipes, typically of eight-foot pitch  • 八度音程；主音栓
+  (poetic/literary)the entire compass, range, or scope of something  • [诗/文] 全范围，全域
+  (figurative)a grand swelling burst of harmony  • [喻] （和声由弱而强时）气势宏伟的突然迸发
+
+【语源】1. late Middle English (denoting the interval of an octave): via Latin from Greek dia pasōn (khordōn) 'through all (notes')
+
+
+
+————————————
+★☆☆   diapause
+ / ˈdaiəˈpɔ:z /əɛoology] ə动] 
+◙ noun
+1. [mass noun] a period of suspended development in an insect, other invertebrate, or mammal embryo, especially during unfavourable environmental conditions  • 休止，滞育（尤指在环境恶劣时昆虫、其他无脊椎动物或哺乳动物胚胎暂停发育的阶段）
+◙ verb
+1. [no obj.] [usu. as adj. diapausing] (of an insect or other animal) undergo such a period of suspended development  • （昆虫或其他动物）经历休止（或滞育）阶段
+
+【语源】1. late 19th cent.: from dia- 'through' + the noun pause
+
+
+
+————————————
+★☆☆   diapedesis
+ / ˌdaiəpiˈdi:sis /◙ noun
+1. [mass noun] [Medicine] the passage of blood cells through the intact walls of the capillaries, typically accompanying inflammation  • [医] 血细胞渗出（多伴随有炎症）
+
+【语源】1. early 17th cent.: modern Latin, based on Greek dia 'through' + pēdan 'throb or leap'
+
+
+
+————————————
+★☆☆   diaper
+ / ˈdaɪəpə , ˈdaɪpə /◙ noun
+1. [N. Amer.] a baby's nappy  • [北美] 尿布
+2. [mass noun] a linen or cotton fabric woven in a repeating pattern of small diamonds  • 重复菱形花纹的棉麻织物
+  a repeating geometrical or floral pattern used to decorate a surface  • （装饰面上）重复的几何（或花卉）图案
+◙ verb, [with obj.] 
+1. [N. Amer.] put a nappy on (a baby)  • [北美] 给（婴儿）包尿布
+2. decorate (a surface) with a repeating geometrical or floral pattern  • 用重复的几何（或花卉）图案装饰（表面）
+
+【语源】1. Middle English: from Old French diapre, from medieval Latin diasprum, from medieval Greek diaspros (adjective), from dia 'across' + aspros 'white'. The term seems originally to have denoted a costly fabric, but after the 15th cent. it was used as in noun sense 2; babies' nappies were originally made from pieces of this fabric, hence sense 1 (late 16th cent.)
+
+
+
+————————————
+★☆☆   diaphanous
+ / daɪˈæfənəs /◙ adjective
+1. (especially of fabric) light, delicate, and translucent  • （尤指织物）轻的；精致的；半透明的
+ »a diaphanous dress of pale gold.  淡金色的精致连衣裙。
+
+【语源】1. early 17th cent.: from medieval Latin diaphanus, from Greek diaphanēs, from dia 'through' + phainein 'to show'
+
+
+
+————————————
+★☆☆   diaphone
+ / ˈdaiəfəun /◙ noun
+1. a low-pitched fog signal operated by compressed air, characterized by the ‘grunt’ which ends each note  • 雾笛（低音调防雾信号，用压缩空气操作，其特点是每个音符结束时都有“咕隆”一声）
+
+【语源】1. early 20th cent.: from Greek dia 'through' + phōnē 'sound'
+
+
+
+————————————
+★☆☆   diaphorase
+ / daiˈæfəˌreis /◙ noun
+1. [mass noun] [Biochemistry] an enzyme of the flavoprotein type, able to oxidize a reduced form of the coenzyme NAD  • [生化] 心肌黄酶，黄递酶，硫辛酰胺脱氢酶
+
+【语源】1. 1930s: from Greek diaphoros 'different' + -ase
+
+
+
+————————————
+★☆☆   diaphoresis
+ / ˈdaiəfəˈri:sis /◙ noun
+1. [mass noun] (technical)sweating, especially to an unusual degree as a symptom of disease or a side effect of a drug  • [技] 发汗，出汗（尤指一种疾病症状或药物副作用所造成的非正常量的出汗）
+
+【语源】1. late 17th cent.: via late Latin from Greek, from diaphorein 'carry off, sweat out', from dia 'through' + phorein 'carry'
+
+
+
+————————————
+★☆☆   diaphoretic
+ / ˈdaiəfəˈretik /◙ adjective
+1. [Medicine] (chiefly of a drug) inducing perspiration  • [医] （主要指药物）发汗的
+  (of a person) sweating heavily  • （人）大量出汗的
+
+【语源】1. late Middle English: via late Latin from Greek diaphorētikos, from diaphorein 'sweat out'
+
+
+
+————————————
+★☆☆   diaphragm
+ / ˈdaɪəˌfræm /◙ noun
+1. a dome-shaped muscular partition separating the thorax from the abdomen in mammals. It plays a major role in breathing, as its contraction increases the volume of the thorax and so inflates the lungs  • （哺乳动物体内分隔胸腔和腹腔的）隔膜
+2. a thin sheet of material forming a partition  • 分隔薄膜
+  a taut flexible membrane in mechanical or acoustic systems  • （机械或音响系统中的）膜片
+  a thin contraceptive cap fitting over the cervix  • （避孕用的）子宫帽
+3. a device for varying the effective aperture of the lens in a camera or other optical system  • （摄影机或其他光学系统的）光圈调节器
+
+【派生】♦ diaphragmatic adjective
+
+【语源】1. late Middle English: from late Latin diaphragma, from Greek, from dia 'through, apart' + phragma 'a fence'
+
+
+
+————————————
+★☆☆   diaphragm pump◙ noun
+1. a pump using a flexible diaphragm in place of a piston  • 隔膜式泵
+
+
+
+————————————
+★☆☆   diaphysis
+ / daiˈæfisis /◙ (pl. diaphyses -siːz)
+1. [Anatomy] the shaft or central part of a long bone  • [剖] 骨干（长骨的中段）。
+--› compare epiphysis 
+
+【语源】1. mid 19th cent.: from Greek diaphusis 'growing through', from dia 'through' + phusis 'growth'
+
+
+
+————————————
+★☆☆   diapir
+ / ˈdaɪəˌpɪə /◙ noun
+1. [Geology] a domed rock formation in which a core of rock has moved upward to pierce the overlying strata  • [地质] 底辟，挤入构造
+
+【派生】♦ diapiric adjective
+♦ diapirism noun
+
+【语源】1. early 20th cent.: from Greek diapeirainein 'pierce through', from dia 'through' + peirainein (from peran 'pierce')
+
+
+
+————————————
+★☆☆   diapositive
+ / ˌdaiəˈpɔzitiv /◙ noun
+1. a positive photographic slide or transparency  • 透明正片
+
+
+
+————————————
+★☆☆   diapsid
+ / daiˈæpsid /◙ noun
+1. [Zoology] a reptile of a large group characterized by the presence of two temporal openings in the skull, including the lizards, snakes, crocodiles, dinosaurs, and pterosaurs  • [动] 无孔类爬行动物
+2. Subclass Anapsida  • 无孔亚纲
+
+【语源】1. early 20th cent.: from modern Latin Diapsida, from di- 'two' + Greek apsis, apsid- 'arch'
+
+
+
+————————————
+★☆☆   diarchy
+ / ˈdaiɑ:ki /◙ (也作 dyarchy), (pl. -ies)
+1. [mass noun] government by two independent authorities (especially in India 1919–35)  • 双头政治（尤指1919–1935年在印度实行的由两个权力机构实施统治的政治制度）
+
+【派生】♦ diarchal adjective
+♦ diarchic adjective
+
+【语源】1. late 19th cent.: from di- 'two' + Greek arkhia 'rule', on the pattern of monarchy
+
+
+
+————————————
+★☆☆   diarist
+ / ˈdaiərist /◙ noun
+1. a person who writes a diary  • 记日记者，日记作者
+
+【派生】♦ diaristic adjective
+
+
+
+
+————————————
+★☆☆   diarize
+ / ˈdaiəraiz /◙ (也作 -ise), verb
+1. [no obj.] (archaic)keep a record of events in a diary  • [古] 记日记，记日志
+
+
+
+————————————
+★☆☆   diarrhoea
+ / ˌdaɪəˈrɪə /◙ [美 diarrhea] , noun
+1. [mass noun] a condition in which faeces are discharged from the bowels frequently and in a liquid form  • 腹泻
+
+【派生】♦ diarrhoeal adjective
+♦ diarrhoeic adjective
+
+【语源】1. late Middle English: via late Latin from Greek diarrhoia, from diarrhein 'flow through', from dia 'through' + rhein 'to flow'
+
+
+
+————————————
+★☆☆   diary
+ / ˈdaiəri /◙ (pl. -ies)
+1. a book in which one keeps a daily record of events and experiences  • 日记；日志
+ »a useful way of assisting your learning is to keep a diary.  记日记是帮助学习的一种有效方法。
+  a book with spaces for each day of the year in which one notes details of appointments or important information for each day  • 效率手册（在空白处可记下全年中每天的工作约会或重要信息）
+  a column in a newspaper or magazine giving up-to-date news or gossip on a particular topic  • （报纸或杂志就特定主题提供最新消息或闲话的）专栏
+ »the City Diary.  本市新闻专栏。
+
+【语源】1. late 16th cent.: from Latin diarium, from dies 'day'
+
+
+
+————————————
+★☆☆   Dias
+ / ˈdi:əs , -əʃ /◙ (也作 Diaz)
+1. Bartolomeu (c.1450–1500), Portuguese navigator and explorer. He was the first European to round the Cape of Good Hope (1488), thereby establishing a sea route from the Atlantic to Asia  • 迪亚士，巴托洛缪（约1450–1500，葡萄牙航海家和探险家；于1488年成为第一位绕过好望角的欧洲人，从而建立了一条从大西洋到亚洲的海上航线）
+
+
+
+————————————
+★☆☆   diaspora
+ / daɪˈæsp(ə)rə /◙ noun
+1. (the diaspora)Jews living outside Israel  • 住在以色列之外的犹太人
+  the dispersion of the Jews beyond Israel  • （将犹太人赶出以色列的）大流散
+  the dispersion of any people from their original homeland  • （任何民族离开故土的）大移居
+ »the diaspora of boat people from Asia.  船民从亚洲的离散。
+  the people so dispersed  • 流散人口
+ »the Ukrainian diaspora flocked back to Kiev.  乌克兰的流散人口蜂拥回到基辅。
+2. The main diaspora began in the 8th–6th centuries bc, and even before the sack of Jerusalem in ad 70 the number of Jews dispersed by the diaspora was greater than that living in Israel. Thereafter, Jews were dispersed even more widely throughout the Roman world and beyond
+
+【语源】1. Greek, from diaspeirein 'disperse', from dia 'across'+ speirein 'scatter'. The term originated in the Septuagint [Deuteronomy 28:25] in the phrase esēdiaspora en pasais basileias tēs gēs 'thou shalt be a dispersion in all kingdoms of the earth'
+
+
+
+————————————
+★☆☆   diaspore
+ / ˈdaiəˈspɔ: /◙ noun
+1. [Botany] a spore, seed, or other structure that functions in plant dispersal; a propagule  • [植] 散布孢子，传播体；繁殖单元
+
+
+
+————————————
+★☆☆   diastase
+ / ˈdaiəsteis /◙ noun
+1. [Biochemistry] . another term for amylase  • [生化] 同 amylase 
+
+【语源】1. mid 19th cent.: from Greek diastasis 'separation', from dia 'apart' + stasis 'placing'
+
+
+
+————————————
+★☆☆   diastema
+ / ˈdaiəˈsti:mə /◙ (pl. diastemata)
+1. a gap between the teeth, in particular  • 齿隙，尤指
+  [Zoology] a space separating teeth of different functions, especially that between the biting teeth (incisors and canines) and grinding teeth (premolars and molars) in rodents and ungulates  • [动] 齿隙，牙间隙
+  a gap between a person's two upper front teeth  • （人的）上门齿间的间隙
+
+【语源】1. mid 19th cent.: via late Latin from Greek diastema space between'
+
+
+
+————————————
+★☆☆   diastereoisomer
+ / ˌdaiəˌstiəriəuˈaisəmə /◙ noun
+1. [Chemistry] each of a pair of stereoisomeric compounds that are not mirror images of one another  • [化] 非对映异购体
+
+【派生】♦ diastereoisomeric adjective
+
+
+
+
+————————————
+★☆☆   diastole
+ / daiˈæstəli /◙ noun
+1. [mass noun] [Physiology] the phase of the heartbeat when the heart muscle relaxes and allows the chambers to fill with blood  • [生理] （心脏的）舒张；舒张期。 常与 systole 相对
+
+【派生】♦ diastolic adjective
+
+【语源】1. late 16th cent.: via late Latin from Greek, separation, expansion', from diastellein, from dia 'apart' + stellein 'to place'
+
+
+
+————————————
+★☆☆   diathermy
+ / ˈdaiəθə:mi /◙ noun
+1. [mass noun] a medical and surgical technique involving the production of heat in a part of the body by high-frequency electric currents, to stimulate the circulation, relieve pain, destroy unhealthy tissue, or cause bleeding vessels to clot  • 透热疗法
+
+【语源】1. early 20th cent.: from dia- 'through' + thermon 'heat'
+
+
+
+————————————
+★☆☆   diathesis
+ / daiˈæθisis /◙ noun
+1. [usu. with modifier] [Medicine] a tendency to suffer from a particular medical condition  • [医] 素质
+ »a bleeding diathesis.  出血素质。
+2. [Linguistics] the set of syntactic patterns with which a verb or other word is most typically associated  • [语言学] 态
+
+【语源】1. mid 17th cent.: modern Latin, from Greek, disposition', from diatithenai 'arrange'. Sense 2 dates from the mid 20th cent
+
+
+
+————————————
+★☆☆   diatom
+ / ˈdaiətəm /◙ noun
+1. [Biology] a single-celled alga which has a cell wall of silica. Many kinds are planktonic, and extensive fossil deposits have been found  • [生] 硅藻
+2. Class Bacillariophyceae, division Chromophycota or Heterokontophyta (or phylum Bacillariophyta, kingdom Protista)  • 硅藻纲，杂色藻门或不等长鞭毛门（或硅藻门，原生生物界）
+
+【派生】♦ diatomaceous adjective
+
+【语源】1. mid 19th cent.: from modern Latin Diatoma (genus name), from Greek diatomos 'cut in two', from diatemnein 'to cut through'
+
+
+
+————————————
+★☆☆   diatomaceous earth
+ / ˌdaɪətəˈmeɪʃəs /◙ noun
+1. [mass noun] a soft, crumbly, porous sedimentary deposit formed from the fossil remains of diatoms  • 硅藻土
+
+【语源】1. mid 19th cent.: diatomaceous from diatom + -aceous
+
+
+
+————————————
+★☆☆   diatomic
+ / ˌdaiəˈtɔmik /◙ adjective
+1. [Chemistry] consisting of two atoms  • [化] 含双原子的
+
+
+
+————————————
+★☆☆   diatomite
+ / daiˈætəmait /◙ noun
+1. [mass noun] [Geology] a fine-grained sedimentary rock formed from consolidated diatomaceous earth  • [地质] 硅藻岩
+
+【语源】1. late 19th cent.: from diatom + -ite
+
+
+
+————————————
+★☆☆   diatonic
+ / ˌdaiəˈtɔnik /◙ adjective
+1. [Music] (of a scale, interval, etc.) involving only notes proper to the prevailing key without chromatic alteration  • [乐] （音阶、音程等）自然音阶的
+  (of a melody or harmony) constructed from such a scale  • （音调，和声）自然音阶的
+
+【语源】1. early 17th cent. (denoting a tetrachord divided into two tones and a lower semitone, or ancient Greek music based on this): from French diatonique, or via late Latin from Greek diatonikos 'at intervals of a tone', from dia 'through' + tonos 'tone'
+
+
+
+————————————
+★☆☆   diatreme
+ / ˈdaɪətri:m /◙ noun
+1. [Geology] a long vertical pipe or plug formed when gas-filled magma forced its way up through overlying strata  • [地质] 火山道
+
+【语源】1. early 20th cent.: from dia- 'through' + Greek trēma 'perforation'
+
+
+
+————————————
+★☆☆   diatribe
+ / ˈdaɪəˌtraɪb /◙ noun
+1. a forceful and bitter verbal attack against someone or something  • （用语言）抨击，谴责；讽刺
+ »a diatribe against the Roman Catholic Church.  对罗马天主教会的抨击。
+
+【语源】1. late 16th cent. (denoting a disquisition): from French, via Latin from Greek diatribē 'spending of time, discourse', from dia 'through' + tribein 'rub'
+
+
+
+————————————
+★☆☆   Diaz1. variant spelling of Dias  • 同 Dias 
+
+
+
+————————————
+★☆☆   diazepam
+ / daiəˈzepəm /◙ noun
+1. [mass noun] a tranquillizing muscle-relaxant drug used chiefly to relieve anxiety. Also called Valium (trademark)  • 安定，地西泮，苯甲二氮（艹卓）。 亦称 Valium (trademark 商标)
+2. A member of the benzodiazepine group; chem. formula: C16H13N2OCl. Also called Valium (trademark)  • 苯（并）二氮（艹卓）的一种，化学分子式：C16H13N2OCl. 亦称 Valium （商标）
+
+【语源】1. 1960s: blend of benzodiazepine and amide
+
+
+
+————————————
+★☆☆   diazinon
+ / daiˈæzinɔn /◙ noun
+1. [mass noun] an organophosphorus insecticide derived from pyrimidine  • 二嗪农
+
+【语源】1. mid 20th cent.: from diazine (see di- , azine ) + -on (suffix of unknown origin)
+
+
+
+————————————
+★☆☆   diazo
+ / daiˈæzəu /◙ (也作 diazotype), noun
+1. [mass noun] a copying or colouring process using a diazo compound decomposed by ultraviolet light  • 重氮复印；重氮染色
+ »[as modifier] diazo printers.  重氮印相机。
+
+
+
+————————————
+★☆☆   diazo compound◙ noun
+1. [Chemistry] an organic compound containing two nitrogen atoms bonded together, especially a diazonium compound  • [化] 重氮化合物
+
+【语源】1. late 19th cent.: diazo from diazonium
+
+
+
+————————————
+★☆☆   diazomethane
+ / daiˌæzəuˈmeθein /◙ noun
+1. [mass noun] [Chemistry] a poisonous, reactive yellow gas used as a methylating agent in chemical synthesis  • [化] 重氮甲烷
+2. Chem. formula: CH2N2  • 化学分子式：CH2N2
+
+【语源】1. late 19th cent.: from diazo- (indicating the presence of two nitrogen atoms) + methane
+
+
+
+————————————
+★☆☆   diazonium
+ / ˌdaiəˈzəuniəm /◙ noun
+1. [as modifier] [Chemistry] an organic cation containing the group1N2+ bonded to an organic group. Aromatic diazonium compounds are typically intensely coloured and include many synthetic dyes  • [化] 重氮基
+
+【语源】1. late 19th cent.: coined in German from diazo- (indicating the presence of two nitrogen atoms) + the suffix -onium (from ammonium)
+
+
+
+————————————
+★☆☆   dib
+ / dib /◙ (dibbed, dibbing)
+1. another term for dap  • 同 dap 
+
+【语源】1. late 17th cent.: related to dab
+
+
+
+————————————
+★☆☆   dibasic
+ / daiˈbeisik /◙ adjective
+1. [Chemistry] (of an acid) having two replaceable hydrogen atoms  • [化] （酸）二元的，二（碱价）的
+
+【语源】1. mid 19th cent.: from di- 'two' + basic
+
+
+
+————————————
+★☆☆   dibatag
+ / ˈdibəˌtæɡ /◙ noun
+1. a gazelle that stands on its hind legs to browse, found in semi-desert regions of Somalia and Ethiopia  • 沙羚
+2. Ammodorcas clarkei, family Bovidae  • 拉丁名Ammodorcas clarkei，牛科
+
+【语源】1. late 19th cent.: from Somali
+
+
+
+————————————
+★☆☆   dibber
+ / ˈdibə /◙ noun
+1. British term for dibble  • [英] 同 dibble 
+
+
+
+————————————
+★☆☆   dibble
+ / ˈdibl /◙ noun
+1. a pointed hand tool for making holes in the ground for seeds or young plants  • （在地上挖洞以播种或栽苗用的）挖洞器，挖洞小手铲
+◙ verb
+1. [with obj.] make (a hole) in soil with a dibble  • 用挖洞器在土里挖（洞）
+  sow (a seed or plant) with a dibble  • （用挖洞器）挖洞播种，穴播
+
+【语源】1. late Middle English: apparently related to dib (also used in this sense in dialect)
+
+
+
+————————————
+★☆☆   dibbler◙ noun
+1. a marsupial mouse found in SW Australia. It is very rare and possibly extinct  • 白眼球袋鼬
+2. Parantechinus apicalis, family Dasyuridae  • 拉丁名Parantechinus apicalis，袋鼬科
+
+【语源】1. early 19th cent.: from dibble
+
+
+
+————————————
+★☆☆   diborane
+ / daiˈbɔrein /◙ noun
+1. [mass noun] [Chemistry] a poisonous, reactive gas made by the action of acids on some borides. It is the simplest of the boranes and is an example of electron-deficient bonding  • [化] 乙硼烷
+2. Chem. formula: B2H6  • 化学分子式：B2H6
+
+
+
+————————————
+★☆☆   dibs
+ / dibz /◙ plural noun
+1. [informal] money  • [非正式] 钱
+
+【IDIOMS】◘ have first dibs on
+1. [N. Amer.] have the first right to or choice of  • [北美] 有…的优先权；有优先选择…的权利
+ »they never got first dibs on great prospects.  好机会从来轮不到他们先得。
+
+【语源】1. mid 18th cent. (denoting pebbles used in a children's game): from earlier dib-stones, perhaps from dib
+
+
+
+————————————
+★☆☆   dice
+ / dais /◙ [复同单] 
+1. a small cube with each side having a different number of spots on it, ranging from one to six, thrown and used in gambling and other games involving chance  • （赌博及其他碰运气游戏用的）骰子。
+--› see die 
+  [mass noun] a game played with dice  • 掷骰子；掷骰子游戏
+  small cubes of food  • 小块食物
+ »cut the meat into dice.  将肉切成丁。
+◙ verb
+1. [no obj.] play or gamble with dice  • 掷骰子；掷骰子赌博
+ »[as noun dicing] prohibitions on all dancing and dicing.  禁止一切舞蹈和掷骰子赌博活动。
+2. [with obj.] cut (food or other matter) into small cubes  • 将（食物或其他物质）切成丁
+ »dice the peppers.  将辣椒切成丁。
+ »[as adj. diced] add the diced onions.  加上切成丁的洋葱。
+3. [with obj.] [Austral. informal] reject or abandon  • [澳，非正式] 拒绝；抛弃
+ »he'd better behave, or I'll dice him.  他最好规矩点，否则我就甩了他。
+
+【IDIOMS】◘ dice with death
+1. take serious risks  • 玩命，冒大风险
+◘ no dice
+1. (informal, chiefly N. Amer.)used to refuse a request or indicate no chance of success  • [非正式，主北美] 不行；没门（用于拒绝请求或表示不可能做到）
+
+【派生】♦ dicer noun
+
+【语源】1. Middle English: from Old French des, plural of de (see die )
+
+【用法】1. Historically, dice is the plural of die, but in modern standard English dice is both the singular and the pluralthrow the dice could mean a reference to either one or more than one dice
+
+
+
+————————————
+★☆☆   dicentra
+ / daiˈsentrə /◙ noun
+1. a plant of the genus Dicentra (family Fumariaceae), especially (in gardening) a bleeding heart  • 荷包牡丹（属紫堇科植物，在园艺中尤指一种荷色牡丹）
+
+【语源】1. modern Latin, from Greek dikentros, from di- 'two' + kentron 'spur, sharp point'
+
+
+
+————————————
+★☆☆   dicentric
+ / daiˈsentrik /əGenetics] ə遗传] 
+◙ adjective
+1. (of a chromosome) having two centromeres  • （染色体）具双着丝（粒）的
+◙ noun
+1. a chromosome of this type  • 双着丝点染色体
+
+
+
+————————————
+★☆☆   dicey
+ / ˈdaisi /◙ (dicier, diciest)
+1. [informal] unpredictable and potentially dangerous  • [非正式] 莫测的，有潜在危险的
+ »democracy is a dicey business.  民主是一种具有无法预测的风险事业。
+
+
+
+————————————
+★☆☆   dichasium
+ / daiˈkeiziəm /◙ (pl. dichasia)
+1. [Botany] a cyme in which each flowering branch gives rise to two or more branches symmetrically placed  • [植] 二歧聚伞花序
+
+【语源】1. late 19th cent.: modern Latin, from di- 'two' + Greek khasis 'separation'
+
+
+
+————————————
+★☆☆   dichlorvos
+ / daiˈklɔ:vɔs /◙ noun
+1. [Chemistry] a pale yellow liquid used as an insecticide and veterinary anthelmintic  • [化] 敌敌畏
+2. An organophosphorus compound; alternative name: 2,2-dichlorovinyl dimethyl phosphate; chem. formula: (CH3O)2PO2CHCCl2  • 一种有机磷化合物；又名2,2-二氯乙烯基二甲基磷酸酯；化学分子式：(CH3O)2PO2CHCCl2
+
+【语源】1. mid 20th cent.: from elements of the systematic name (see above )
+
+
+
+————————————
+★☆☆   dichogamy
+ / daiˈkɔɡəmi /◙ noun
+1. [mass noun] [Botany] the ripening of the stamens and pistils of a flower at different times, so that self-fertilization is prevented  • [植] 雌雄（蕊）异熟。
+--› compare homogamy （义项 3）
+
+【派生】♦ dichogamous adjective
+
+【语源】1. mid 19th cent.: from Greek dikho- 'apart, in two' + gamos 'marriage'
+
+
+
+————————————
+★☆☆   dichotic
+ / daiˈkəutik /◙ adjective
+1. involving or relating to the simultaneous stimulation of the right and left ear by different sounds  • 二重听觉的，二重耳的
+
+【语源】1. mid 20th cent.: from Greek dikho- 'apart' + ous, ōt- 'ear' + -ic
+
+
+
+————————————
+★☆☆   dichotomize
+ / diˈkɔtəmaiz /◙ (也作 -ise), verb
+1. [with obj.] regard or represent as divided or opposed  • 认为…是分开的；认为…是互相对立的
+ »gender is dichotomized to give two and only two categories.  性别被认为分成两种，而且只有两种。
+
+
+
+————————————
+★☆☆   dichotomous
+ / diˈkɔtəməs /◙ adjective
+1. exhibiting or characterized by dichotomy  • 区分的；有区别的；对立的
+ »a dichotomous view of the world.  对世界一分为二的观点。
+  [Botany] (of branching) in which the axis is divided into two branches  • [植] （分枝）二歧的；二叉的
+
+【派生】♦ dichotomously adverb
+
+【语源】1. late 17th cent.: via late Latin from Greek dikhotomos (from dikho- 'in two' + temnein 'to cut') + -ous
+
+
+
+————————————
+★☆☆   dichotomy
+ / daɪˈkɔtəmi: /◙ (pl. -ies), [usu. in sing.] 
+1. a division or contrast between two things that are or are represented as being opposed or entirely different  • （对立或完全不同事物间的）区分；区别；对立
+ »a rigid dichotomy between science and mysticism.  科学和神秘主义之间的严格区分。
+  [mass noun] [Botany] repeated branching into two equal parts  • [植] 二歧式；二叉分枝式；二歧分枝，二歧
+
+【派生】♦ dichotomic adjective
+
+【语源】1. late 16th cent.: via modern Latin from Greek dikhotomia, from dikho- 'in two, apart' + -tomia (see -tomy )
+
+
+
+————————————
+★☆☆   dichroic
+ / daiˈkrəuik /◙ adjective
+1. (of a crystal) showing different colours when viewed from different directions, or (more generally) having different absorption coefficients for light polarized in different directions  • （晶体）呈不同色的，分色的；分光的
+
+【派生】♦ dichroism noun
+
+【语源】1. mid 19th cent.: from Greek dikhroos (from di- 'twice' + khrōs 'colour') + -ic
+
+
+
+————————————
+★☆☆   dichromate
+ / daiˈkrəumeit /◙ noun
+1. [Chemistry] a salt, typically red or orange, containing the anion Cr2O72-  • [化] 重铬酸盐
+
+【语源】1. mid 19th cent.: from di- 'two' + chromate
+
+
+
+————————————
+★☆☆   dichromatism
+ / ˌdaiˈkrəumətizəm /◙ noun, [mass noun] 
+1. (typically in an animal species) the occurrence of two different kinds of colouring  • （多指动物种的）二色变异
+2. colour blindness in which only two of the three primary colours can be discerned  • 二色性色盲，二色视
+
+【派生】♦ dichromatic adjective
+
+
+
+
+————————————
+★☆☆   dickdick¹
+◙ noun
+1. (vulgar slang)a man's penis  • [粗俚] 阴茎
+  [Brit. vulgar slang] a stupid or contemptible person  • [英，粗俚] 蠢货；可鄙的人
+2. [mass noun] [with negative] [US informal] anything at all  • [美，非正式] 一点儿，一点点
+ »you don't know dick about this—you haven't a clue!.  关于这个你一点儿都不懂——你连一点儿头绪都没有！。
+◙ verb
+1. [no obj.] [informal] handle something inexpertly; meddle  • [非正式] 一知半解地摆弄；瞎弄，乱弄
+ »he started dicking around with the controls.  他开始乱动那些控制器。
+2. [with obj.] (vulgar slang)(of a man) have sexual intercourse with (someone)  • [粗俚] （男子）与（某人）性交
+
+【语源】1. mid 16th cent. (in the general sense 'fellow'): pet form of the given name Richard. Sense 1 of the noun dates from the late 18th centdick²
+◙ noun
+1. (dated, informal, chiefly US)a detective  • [旧，非正式，主美] 侦探
+
+【语源】1. early 20th cent.: perhaps an arbitrary shortening of detective, or from obsolete slang dick 'look', from Romany
+
+
+
+————————————
+★☆☆   dickcissel
+ / dikˈsisəl /◙ noun
+1. a sparrow-like North American songbird related to the cardinals, with a black-and-white throat and bright yellow breast  • 美洲雀
+2. Spiza americana, family Emberizidae (subfamily Cardinalinae)  • 拉丁名Spiza americana，鹀科（主红雀亚科）
+
+【语源】1. late 19th cent.: imitative of its call
+
+
+
+————————————
+★☆☆   dicken
+ / ˈdɪk(ə)n /◙ exclamation
+1. [Austral./NZ informal] an expression of disgust or disbelief  • [澳/新西兰，非正式] 表示厌恶（或怀疑）
+
+【语源】1. late 19th cent.: abbreviation of dickens
+
+
+
+————————————
+★☆☆   Dickens
+ / ˈdikinz /1. ɔharles əʊohn Huffam] (1812–ˌ0), ənglish novelist  • 狄更斯，查尔斯（•约翰•赫法姆）（1812–1870，英国小说家）
+
+【用法】1. His novels are notable for their satirical humour and treatment of contemporary social problems, including the plight of the urban poor and the corruption and inefficiency of the legal system. Memorable characters such as Scrooge and Mr Micawber contributed to his work's popular appeal. Some of his most famous novels are Oliver Twist (1837–8), Nicholas Nickleby (1838–9), A Christmas Carol (1843), David Copperfield (1850), Bleak House (1852–3), and Great Expectations (1860–1)
+
+
+
+————————————
+★☆☆   dickens
+ / ˈdikinz /◙ noun
+1. [in sing.] (informal, dated)used for emphasis, euphemistically invoking the Devil  • [非正式，旧，婉] ［用于加重语气］着魔
+ »they work like the dickens.  他们着了魔似的工作。
+ »she was in a dickens of a rush.  她要命似的急急忙忙。
+  (the dickens)used when asking questions to express annoyance or surprise  • ［用于问句中表示恼怒或吃惊］究竟，到底
+ » what the dickens is going on?  到底发生了什么事？
+
+【语源】1. late 16th cent.: probably a use of the surname Dickens
+
+
+
+————————————
+★☆☆   Dickensian
+ / diˈkenziən /◙ adjective
+1. of or reminiscent of the novels of Charles Dickens, especially in suggesting the poor social conditions or comically repulsive characters that they portray  • 狄更斯小说的；使人想起狄更斯小说的（尤指暗示贫困的社会环境或这种环境中可鄙又可笑的人物）
+ »the backstreets of Dickensian London.  如狄更斯笔下伦敦的后街小巷。
+
+
+
+————————————
+★☆☆   dicker
+ / ˈdikə /◙ verb, [no obj.] 
+1. engage in petty argument or bargaining  • 小吵小闹；讨价还价
+ »they have been dickering with the airline to buy a share.  他们为了参股的事和航空公司一直在讨价还价。
+2. treat something casually or irresponsibly; toy with something  • 敷衍；玩弄
+ »[as noun dickering] there was no dickering with the lyrics.  对诗歌是不能敷衍了事的。
+
+【派生】♦ dickerer noun
+
+【语源】1. early 19th cent. (originally US): perhaps from obsolete dicker 'set of ten (hides'), used as a unit of trade, based on Latin decem 'ten'
+
+
+
+————————————
+★☆☆   dickhead
+ / ˈdɪkˌhed /◙ noun
+1. (vulgar slang)a stupid, irritating, or ridiculous man  • [粗俚] 白痴；气人的人；荒唐的人
+
+【语源】1. 1960s: from dick + head
+
+
+
+————————————
+★☆☆   Dickinson1. Emily [Elizabeth] (1830–86), American poet. Her poems use an elliptical language, emphasizing assonance and alliteration rather than rhyme, reflecting the struggles of her reclusive life  • 迪更生，埃米莉（•伊丽莎白）（1830–1886，美国诗人，她的诗歌言语多用省略形式，注重谐音和头韵而非尾韵，反映了她在隐居生活中奋力拼搏的心情）
+
+
+
+————————————
+★☆☆   dickwad
+ / ˈdɪkwɔd /◙ noun
+1. (vulgar slang)a contemptible person  • [粗，俚] 可鄙的家伙；鸟人
+
+【语源】1. 1980s: from dick + wad
+
+
+
+————————————
+★☆☆   dicky
+ / ˈdiki /dicky¹
+◙ (也作 dickey), (pl. -ies 或 -eys), [informal] [非正式] 
+1. a false shirt front  • （只有前胸的）假衬衫
+2. (dated, chiefly Brit.)a folding outside seat at the back of a vehicle  • [旧，主英] （汽车后面靠窗的）折叠座位
+  (historical, chiefly Brit.)a driver's seat in a carriage  • [史，主英] （马车的）车夫座位
+
+【语源】1. mid 18th cent. (denoting a petticoat): each sense probably having different origins; perhaps partly from Dicky, pet form of the given name Richarddicky²
+◙ (dickier, dickiest)
+1. [Brit. informal] (of a part of the body, a structure, or a device) not strong, healthy, or functioning reliably  • [英，非正式] （身体某部分）不结实的，不健康的；（结构，设备）功能不可靠的
+ »a pianist with a dicky heart.  一位心脏有病的钢琴家。
+
+【语源】1. late 18th cent. (in the sense 'almost over'): perhaps from the given name Dick, in the old saying as queer as Dick's hatband
+
+
+
+————————————
+★☆☆   dicky bird◙ noun
+1. [informal] used by children to refer to a little bird  • [非正式] 小鸟（儿童用语）
+
+【IDIOMS】◘ not a dicky bird
+1. not a word; nothing at all  • 无只言片语；毫无
+ »‘Did you hear from her?’ ‘Not a dicky bird.’.  “她给你写信了吗？”“根本没有。”。
+
+
+
+————————————
+★☆☆   dicky bow◙ noun
+1. [informal] a bow tie  • [非正式] 蝶形领结
+
+
+
+————————————
+★☆☆   dicot
+ / ˈdaikɔt /◙ noun
+1. short for dicotyledon  • dicotyledon 的简称
+
+
+
+————————————
+★☆☆   dicotyledon
+ / ˌdaiˌkɔtiˈli:dən /◙ noun
+1. [Botany] a flowering plant with an embryo that bears two cotyledons (seed leaves). Dicotyledons constitute the larger of the two great divisions of flowering plants, and typically have broad stalked leaves with net-like veins (e.g. daisies, hawthorns, oaks)  • [植] 双子叶植物。
+--› compare monocotyledon 
+2. Class Dicotyledoneae (or -donae, -dones; sometimes Magnoliopsida), subdivision Angiospermae  • 双子叶植物纲，被子植物亚门
+
+【派生】♦ dicotyledonous adjective
+
+【语源】1. early 18th cent.: from modern Latin dicotyledones (plural), from di- 'two' + cotyledon (see cotyledon )
+
+
+
+————————————
+★☆☆   dicrotic
+ / daiˈkrɔtik /◙ adjective
+1. [Medicine] denoting a pulse in which a double beat is detectable for each beat of the heart  • [医] 二波（脉）的，重搏（脉）的
+
+【语源】1. early 19th cent.: from Greek dikrotos 'beating twice' + -ic
+
+
+
+————————————
+★☆☆   dicta
+ / ˈdiktə /1. plural form of dictum  • dictum 的复数
+
+
+
+————————————
+★☆☆   dictamnus
+ / dɪkˈtæmnəs /◙ noun
+1. another term for dittany of Crete (see dittany )  • 同 dittany of Crete （见 dittany）
+2. another term for gas plant  • 同 gas plant 
+
+【语源】1. mid 16th cent.: from Latin
+
+
+
+————————————
+★☆☆   Dictaphone
+ / ˈdɪktəfəʊn /◙ noun
+1. (trademark)a small cassette recorder used to record speech for transcription at a later time  • [商标] 口述录音机
+
+【语源】1. early 20th cent.: from dictate or dictation + -phone
+
+
+
+————————————
+★☆☆   dictate
+ / dikˈteit / vt. & vi., vt. / ˈdikteit / n.◙ verb
+1. [with obj.] lay down authoritatively; prescribe  • 命令；规定
+ »the tsar's attempts to dictate policy.  沙皇想控制决策的企图。
+ »[no obj.] that doesn't give you the right to dictate to me.  这并不意味着你有权对我发号施令。
+  [with obj.] control or decisively affect; determine  • 控制；支配；决定
+ »choice is often dictated by availability.  选择往往决定于是否有可能。
+ »[no obj.] a review process can be changed as circumstances dictate.  审查过程可能会视具体情况的需要而有所改变。
+2. say or read aloud (words to be typed, written down, or recorded on tape)  • 口授
+ »I have four letters to dictate.  我有四封信要口授。
+◙ noun
+1. [一般作 dictates] an order or principle that must be obeyed  • 命令；（必须遵循的）原则；（必须达到的）标准
+ »the dictates of fashion.  时尚的规则。
+
+【语源】1. late 16th cent. (in sense 2): from Latin dictat- 'dictated', from the verb dictare
+
+
+
+————————————
+★☆☆   dictation
+ / dikˈteiʃən /◙ noun, [mass noun] 
+1. the action of saying words aloud to be typed, written down, or recorded on tape  • 口授
+ »the dictation of letters.  信件的口述。
+  the activity of taking down a passage that is read aloud by a teacher as a test of spelling, writing, or language skills  • 听写
+ »passages for dictation.  听写的段落。
+  [count noun] an utterance that is typed, written down, or recorded  • 被记录的（话语）内容
+ »the person who writes the dictation down is his agent.  作笔录的人是他的代理。
+2. the action of giving orders authoritatively or categorically  • 强令；专断
+
+【语源】1. mid 17th cent. (in sense 2): from late Latin dictatio(n-), from the verb dictare (see dictate )
+
+
+
+————————————
+★☆☆   dictation speed◙ noun
+1. [mass noun] a rate of speech slow enough for someone to be able to write down what is said  • 听写速度（指能使人作记录的讲话速度）
+
+
+
+————————————
+★☆☆   dictator
+ / ˈdɪkˌteɪtə , dɪkˈteɪ- /◙ noun
+1. a ruler with total power over a country, typically one who has obtained power by force  • （尤指以武力夺取权力的人）独裁者，专政者
+  a person who tells people what to do in an autocratic way or who determines behaviour in a particular sphere  • 发号施令的人；（在特定领域内）支配的人
+ »I'd ban coincidences, if I were a dictator of fiction.  如果我来决定小说怎么写，我就不会让巧合出现。
+  (in ancient Rome) a chief magistrate with absolute power, appointed in an emergency  • （古罗马）（在紧急情况下任命的有绝对权力的）独裁官
+2. a machine that records words spoken into it, used for personal or administrative purposes  • （用于私人或行政的）口录机，录音机
+
+【语源】1. late Middle English: from Latin, from dictat- 'dictated', from the verb dictare (see dictate )
+
+
+
+————————————
+★☆☆   dictatorial
+ / ˌdɪktəˈtɔ:ri:əl , -ˈtəʊr- /◙ adjective
+1. of or typical of a ruler with total power  • 专制的，独裁的
+ »a dictatorial regime.  独裁政权。
+  having or showing a tendency to tell people what to do in an autocratic way  • 专横的，喜欢发号施令的
+ »his dictatorial manner.  他专横的态度。
+
+【派生】♦ dictatorially adverb
+
+【语源】1. early 18th cent.: from Latin dictatorius (from dictator: see dictator) + -al
+
+
+
+————————————
+★☆☆   dictatorship
+ / dɪkˈteɪtəˌʃɪp , ˈdɪkˌteɪ- /◙ noun
+1. [mass noun] government by a dictator  • 专制，独裁
+ »the effects of forty years of dictatorship.  40年独裁统治所产生的影响。
+  [count noun] a country governed by a dictator  • 独裁国家
+  [mass noun] absolute authority in any sphere  • （任何领域的）绝对权威
+
+
+
+————————————
+★☆☆   diction
+ / ˈdɪkʃən /◙ noun, [mass noun] 
+1. the choice and use of words and phrases in speech or writing  • 措辞，用语
+ »Wordsworth campaigned against exaggerated poetic diction.  华兹华斯发起一场运动，反对诗歌中的夸张用词。
+2. the style of enunciation in speaking or singing  • （说话或唱歌的）咬字，发音
+ »she began imitating his careful diction.  她开始模仿他咬字很细的风格。
+
+【语源】1. mid 16th cent. (denoting a word or phrase): from Latin dictio(n-), from dicere 'to say'
+
+
+
+————————————
+★☆☆   dictionary
+ / ˈdikʃənəri /◙ (pl. -ies)
+1. a book that lists the words of a language in alphabetical order and gives their meaning, or that gives the equivalent words in a different language  • 字典，词典，辞书
+  a reference book on any subject, the items of which are arranged in alphabetical order  • （按字母顺序编排的有关一定主题的）参考书
+ »a dictionary of quotations.  引语大全。
+
+【IDIOMS】◘ have swallowed a dictionary
+1. [informal] (of a person) use long and obscure words when speaking  • [非正式] （说话时）使用又长又晦涩的词语
+
+【语源】1. early 16th cent.: from medieval Latin dictionarium (manuale) or dictionarius (liber) 'manual or book of words', from Latin dictio (see diction )
+
+
+
+————————————
+★☆☆   dictum
+ / ˈdɪktəm /◙ (pl. dicta -tə 或 dictums)
+1. a formal pronouncement from an authoritative source  • （权威人士的）正式声明；权威意见
+ »the Politburo's dictum that the party will become a ‘left-wing parliamentary party’.  政治局关于该党将成为一个“左翼议会政党”的正式声明。
+  a short statement that expresses a general truth or principle  • 格言，箴言
+ »the old dictum ‘might is right’.  那句古老的格言“强权即公理”。
+  [Law] . short for obiter dictum  • [律] obiter dictum 的简称
+
+【语源】1. late 16th cent.: from Latin, literally something said', neuter past participle of dicere
+
+
+
+————————————
+★☆☆   dicty
+ / ˈdikti /◙ adjective
+1. [US black slang] ostentatiously stylish; pretentious  • [美，黑人俚语] 时髦的，虚华的；炫耀的
+ »up there in their dicty Detroit suburb living the so-called good life.  在他们那表面豪华的底特律郊区过着所谓的好日子。
+
+【语源】1. early 20th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   Dictyoptera
+ / ˌdɪktɪˈɔptərə /1. əəntomology] an order of insects that comprises the cockroaches and mantises. ðhey have a somewhat flattened form, two pairs of wings, and long spiky legs  • [昆] 网翅目
+
+【派生】♦ dictyopteran noun & adjective
+
+【语源】1. modern Latin (plural), from Greek diktuon 'net' + pteron 'wing'
+
+
+
+————————————
+★☆☆   dicynodont
+ / daiˈsinədɔnt /◙ noun
+1. a fossil herbivorous mammal-like reptile of the late Permian and Triassic periods, with beaked jaws and no teeth apart from two tusks in the upper jaw of the male  • 二齿兽
+2. Dicynodon and other genera, infra-order Dicynodontia, order Therapsida  • 二齿兽属及其他属，二齿兽下目，兽孔目
+
+【语源】1. mid 19th cent.: from modern Latin Dicynodontia (plural), from Greek di- 'two' + kuōn 'dog' + odous, odont- 'tooth'
+
+
+
+————————————
+★☆☆   did
+ / did /1. past of do  • do 的过去式
+
+
+
+————————————
+★☆☆   didactic
+ / daɪˈdæktɪk /◙ adjective
+1. intended to teach, particularly in having moral instruction as an ulterior motive  • 教学的；道德教育的
+ »a didactic novel that set out to expose social injustice.  试图暴露社会不公的一部道德教育小说。
+  in the manner of a teacher, particularly so as to treat someone in a patronizing way  • 好为人师的，教训人的
+ »she was speaking with a didactic severity.  她说话时板着一副教训人的脸。
+
+【派生】♦ didactically adverb
+♦ didacticism noun
+
+【语源】1. mid 17th cent.: from Greek didaktikos, from didaskein 'teach'
+
+
+
+————————————
+★☆☆   didanosine
+ / dɪˈdænəʊsi:n /◙ noun
+1. [Medicine] . another term for dideoxyinosine  • [医] 同 dideoxyinosine 
+
+
+
+————————————
+★☆☆   diddicoy◙ noun
+1. variant spelling of didicoi  • 同 didicoi 
+
+
+
+————————————
+★☆☆   diddle
+ / ˈdidl /◙ verb, [informal] [非正式] 
+1. [with obj.] [一般作 be diddled] cheat or swindle (someone) so as to deprive them of something  • 骗取；诈骗
+ »he thought he'd been diddled out of his change.  他认为连他的零钱都被骗光了。
+  deliberately falsify (something)  • （故意）伪造
+ »he diddled his income tax returns.  他伪造了他的所得税申报表。
+2. [no obj.] (chiefly US)pass time aimlessly or unproductively  • [主美] 闲混，浪费时间
+ »why diddle around with slow costly tests?  干吗把时间浪费在进度缓慢价格昂贵的试验上？
+
+【Scots】1. [with obj.] (vulgar slang, chiefly US)(of a man) have sexual intercourse with (a woman)  • [粗俚，主美] 与（女人）性交
+
+【派生】♦ diddler noun
+
+【语源】1. early 19th cent.: probably from the name of Jeremy Diddler, a character in the farce Raising the Wind (1803) by the Irish dramatist James Kenney (1780–1849). Diddler constantly borrowed and failed to repay small sums of money: the name may have been based on an earlier verb diddle 'walk unsteadily, swerve'
+
+
+
+————————————
+★☆☆   diddly-squat
+ / ˈdɪdli: /◙ (也作 doodly-squat 或 doodly), pronoun
+1. [usu. with negative] [N. Amer. informal] anything  • [北美，非正式] 任何东西；任何事
+ »Hiram didn't care diddly-squat about what Darrel thought.  海勒姆一点不在乎达雷尔心里想的是什么。
+
+【语源】1. late 20th cent.: probably from US slang doodle 'excrement' + squat in the sense 'defecate'
+
+
+
+————————————
+★☆☆   diddums
+ / ˈdɪdəmz /əɑrit.] ə英] 
+◙ exclamation
+1. used to express commiseration to a child  • 乖乖（用于表示对孩子的同情）
+◙ noun
+1. used as a term of endearment  • 乖乖（用来表示亲切）
+ »how is my Diddums this morning?  我的乖乖今天上午好吗？
+
+【语源】1. late 19th cent.: from did 'em, i.e. 'did they?' (tease you, do that to you, etc.)
+
+
+
+————————————
+★☆☆   diddydiddy¹
+◙ (pl. -ies)
+1. [Brit. informal] a fool  • [英，非正式] 傻瓜
+
+【语源】1. late 18th cent.: alteration of tittydiddy²
+◙ adjective
+1. [Brit. informal] little  • [英，非正式] 小的
+ »a diddy word processor.  小型文字处理软件。
+
+【语源】1. probably a child's corruption of little
+
+
+
+————————————
+★☆☆   dideoxycytidine
+ / ˌdaidiɔksiˈsaitidi:n /◙ [缩略词：DDC 或 ddC] , noun
+1. [mass noun] [Medicine] a drug which inhibits the replication of HIV and is used in the treatment of Aids, especially in combination with zidovudine. It is a synthetic analogue of a pyrimidine nucleoside  • [医] （用于治疗艾滋病的）双脱氧胞（嘧啶核）苷
+
+【语源】1. 1960s: from di- 'two' + de- (expressing removal) + oxy- + cytidine
+
+
+
+————————————
+★☆☆   dideoxyinosine
+ / ˌdaidiɔksiˈinəusi:n /◙ [缩略词：DDI 或 ddI] , noun
+1. [mass noun] [Medicine] a drug which inhibits the replication of HIV and is used in the treatment of Aids, especially in combination with zidovudine. It is a synthetic analogue of a purine nucleoside  • [医] （用于治疗艾滋病的）地达诺新双脱氧次黄（嘌呤核）苷
+
+【语源】1. 1970s: from di- 'two' + deoxy- (in the sense 'that has lost oxygen') + inosine
+
+
+
+————————————
+★☆☆   Diderot
+ / ˈdi:dərəu /1. Denis (1ˌ13–84), ʃrench philosopher, writer, and critic. æ leading figure of the ənlightenment in ʃrance, he was principal editor of the əncyclopédie (1ˌˈ1–ˌ6), through which he disseminated and popularized philosophy and scientific knowledge. Other notable works: ɚe ɔêve de D'ælembert (1ˌ82) and ɚe ŋeveu de ɔameau (180ˈ)  • 狄德罗，德尼（1713–1784），法国哲学家、作家和评论家；法国启蒙运动的主要人物，《百科全书》［1751–1776］的主编，他通过这本书传播和推广哲学和科学知识；其他代表作品： 《达朗伯之梦》［1782］和《拉摩的侄儿》［1805］
+
+
+
+————————————
+★☆☆   didgeridoo
+ / didˈdʒeridu: /◙ (也作 didjeridu), noun
+1. an Australian Aboriginal wind instrument in the form of a long wooden tube, traditionally made from a hollow branch, which is blown to produce a deep resonant sound, varied by rhythmic accents of timbre and volume  • 迪吉里杜管（澳大利亚土著居民使用的管乐器，为一长木管，常用空树枝制成）
+
+【语源】1. 1920s: imitative; from an Aboriginal language of Arnhem Land
+
+
+
+————————————
+★☆☆   didi
+ / ˈdi:di: /◙ noun
+1. [Indian] an older sister or older female cousin (often as a proper name or form of address)  • [印度] 姐姐；堂姐，表姐（常用作专有名词或称呼）
+ »‘Just have a look at this luggage, didi.’.  “看看这行李吧，姐姐。”。
+  a respectful form of address to any older woman familiar to the speaker  • 对所熟悉的年长妇女的尊称
+
+【语源】1. from Hindi dīdī
+
+
+
+————————————
+★☆☆   didicoi
+ / ˈdɪdɪkɔɪ /◙ (也作 diddicoy), (pl. didicois)
+1. (dialect)a gypsy; an itinerant tinker  • [方] 吉普赛人；（走街串巷的）补锅匠；白铁匠
+
+【语源】1. mid 19th cent.: perhaps an alteration of Romany dik akei 'look here'
+
+
+
+————————————
+★☆☆   didn't◙ of contraction
+1. did not  • 同 did not 
+
+
+
+————————————
+★☆☆   dido◙ (pl. -oes 或 -os)
+1. [N. Amer. informal] [用于短语 cut/cut up didoes] perform mischievous tricks or deeds  • [北美，非正式] 恶作剧；胡闹
+
+【语源】1. early 19th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   Dido1. (in the Aeneid) the queen and founder of Carthage, who fell in love with the shipwrecked Aeneas and killed herself when he deserted her  • （古罗马史诗《埃涅伊特》中的）狄多（迦太基的王后和缔造者，爱上了遭遇海难的埃涅阿斯，并在遭他遗弃后自杀）
+
+
+
+————————————
+★☆☆   didst
+ / didst /1. archaic second person singular past of do  • [古] do 的第二人称单数过去式
+
+
+
+————————————
+★☆☆   Didyma
+ / ˈdɪdɪmə /1. an ancient sanctuary of æpollo, site of one of the most famous oracles of the æegean region, close to the west coast of æsia Minor  • 狄杜玛（古代一阿波罗圣殿，为爱琴海地区最负盛名的神示所之一，靠近小亚细亚西海岸）
+
+
+
+————————————
+★☆☆   didymium
+ / diˈdimjəm /◙ noun
+1. [mass noun] [Chemistry] a mixture containing the rare earth elements praseodymium and neodymium, used to colour glass for optical filters. It was originally regarded as a single element  • [化] 钕镨混合物
+
+【语源】1. mid 19th cent.: from Greek didumos 'twin' (because it was closely associated with lanthanum) + -ium (used as a suffix for new metals)
+
+
+
+————————————
+★☆☆   die
+ / dai /die¹
+◙ (dying), [no obj.] 
+1. (of a person, animal, or plant) stop living  • （人，动植物）死，死亡
+ »he died of Aids.  他死于艾滋病。
+ »trees are dying from acid rain.  树木因为酸雨而奄奄一息。
+ »[with obj.] the king died a violent death.  国王死于非命。
+  (die for)be killed for (a cause)  • 为…捐躯（或献身）
+ »they were prepared to die for their country.  他们准备为国捐躯。
+  [with complement] have a specified status at the time of one's death  • 死时处于某种状况
+ »the inventor died a pauper.  那个发明家死时一贫如洗。
+  (die out)become extinct  • 灭绝
+ »many species died out.  很多品种都灭绝了。
+  be forgotten  • 被遗忘
+ »her genius has assured her name will never die.  她的天才将使她流芳百世。
+  [with adverbial] become less loud or strong  • 变低；变弱
+ »after a while, the noise died down.  过了一会，噪音渐渐变低。
+  (of a fire or light) stop burning or gleaming  • （火，光）熄灭；灭
+  [informal] (of a machine) stop functioning  • [非正式] （机器）不运转
+ »three toasters have died on me.  已有三个烤箱在我手里坏掉了。
+  (poetic/literary)have an orgasm  • [诗/文] 极度兴奋，达到高潮
+2. [informal] used to emphasize that one wants to do or have something very much  • [非正式] 渴望，非常想要（或想做）（用来表示强调）
+ »they must be dying for a drink.  他们一定非常想喝点儿什么。
+ »[with infinitive] he's dying to meet you.  他渴望见到你。
+  [informal] used to emphasize how keenly one feels something  • [非正式] 极其，非常（用来强调强烈感受）
+ »I'm simply dying of thirst.  我简直要渴死了。
+3. [informal] used to emphasize feelings of shock, embarrassment, amusement, or misery  • [非正式] 震惊（或尴尬、快乐、痛苦）得要死（用来表示强调）
+ »I nearly died when I saw them.  我看到他们时高兴得要命。
+ »we nearly died laughing when he told us.  他告诉我们时，我们差点要笑死。
+
+【IDIOMS】◘ die a (或 the death)
+1. [informal]  • [非正式] 见 death
+◘ die hard
+1. disappear or change very slowly  • 消失（或改变）得很慢
+ »old habits die hard.  积习难改。
+◘ die in the bed
+1. undergo death from natural causes  • 自然死亡
+◘ die in harness
+1. die before retirement  • 退休前死去
+ »don't concern yourself with the pension fund—musicians mostly die in harness.  别担心你的养老基金了——音乐家大多活不到退休的。
+◘ die like flies --› see fly 
+◘ die on one's feet
+1. [informal] come to a sudden or premature end  • [非正式] 突然死亡；早逝，夭折
+ »the critics said the show would die on its feet.  评论家说那个展览将会半途而废。
+◘ die on the vine
+1. be unsuccessful at an early stage  • 早期就失败，夭折
+◘ die with one's boots on --› see boot 
+◘ never say die
+1. used to encourage someone not to give up hope in a difficult situation  • 别灰心，别放弃（用于鼓励身处困境的人）
+◘ to die for
+1. [informal] extremely good or desirable  • [非正式] 好极了的；非常满意的
+ »the ice creams are to die for.  那些冰激凌好吃极了。
+
+【语源】1. Middle English: from Old Norse deyja, of Germanic origin; related to deaddie²
+◙ (pl. dies)
+1. singular form of dice  • dice 的单数
+  [Architecture] the cubical part of a pedestal between the base and the cornice; a dado or plinth  • [建筑] （底部和屋檐之间的）方形墩身，方形勒脚
+2. (pl. dies)a device for cutting or moulding metal into a particular shape  • 模具
+  an engraved device for stamping a design on coins or medals  • （在硬币或奖章上压花纹的）冲模，压模
+
+【IDIOMS】◘ the die is cast
+1. an event has happened or a decision has been taken that cannot be changed  • 木已成舟；事情已经发生（或决定已经作出），无法改变
+◘ (as) straight as a die
+1. absolutely straight  • 笔直的
+  entirely open and honest  • 非常坦率的；非常诚实的
+ »she was as straight as a die.  她绝对诚实。
+
+【语源】1. Middle English: from Old French de, from Latin datum 'something given or played', neuter past participle of dare
+
+【用法】1. In modern standard English, the singular die (rather than dice) is uncommon. Dice is used for both the singular and the plural
+
+
+
+————————————
+★☆☆   dieback◙ noun
+1. [mass noun] a condition in which a tree or shrub begins to die from the tip of its leaves or roots backwards, owing to disease or an unfavourable environment  • 顶枯病
+
+
+
+————————————
+★☆☆   die-cast
+ / ˈdaikɑ:st /◙ adjective
+1. (of a metal object) formed by pouring molten metal into a reusable mould  • （金属物体）压铸的
+ »a die-cast aluminium loudspeaker chassis.  一个压铸的铝质扩音器底盘。
+◙ verb
+1. [with obj.] [usu. as noun die-casting] make (a metal object) in this way  • 压铸（金属制品）
+
+
+
+————————————
+★☆☆   dieffenbachia
+ / ˌdi:f(ə)nˈbækɪə /◙ noun
+1. a plant of a genus that includes dumb cane and its relatives  • 花叶万年青属植物
+2. Genus Dieffenbachia, family Araceae  • 花叶万年青属，天南星科
+
+【语源】1. modern Latin, named after Ernst Dieffenbach (1811–55), German horticulturalist
+
+
+
+————————————
+★☆☆   diegesis
+ / ˌdaɪəˈdʒi:sɪs /◙ (pl. diegeses -siːz)
+1. a narrative or plot, typically in a film  • （多指电影中的）叙述；情节
+
+【派生】♦ diegetic adjective
+
+【语源】1. early 19th cent.: from Greek diēgēsis 'narrative'
+
+
+
+————————————
+★☆☆   Diego Garcia
+ / dɪˌeɪgəʊ gɑ:ˈsi:ə /1. the largest island of the ɔhagos ærchipelago in the middle of the ɪndian Ocean, site of a strategic ænglo-æmerican naval base established in 1ˌˌ3  • 迪戈加西亚岛（印度洋中部查戈斯群岛最大的岛屿，具有战略意义的英美海军基地1973年在此建立）
+
+
+
+————————————
+★☆☆   diehard
+ / ˈdaihɑ:d /◙ noun
+1. [often as modifier] a person who strongly opposes change or who continues to support something in spite of opposition  • 顽固分子，死硬派
+ »she was a diehard Yankees fan.  她是扬基队的铁杆球迷。
+
+【语源】1. mid 19th cent.: from die hard (see die )
+
+
+
+————————————
+★☆☆   die-in
+ / ˈdaiin /◙ noun
+1. [informal] a demonstration in which people lie down as if dead  • [非正式] 拟死示威（一种抗议形式，示威者集体躺倒拟死）
+
+
+
+————————————
+★☆☆   diel
+ / ˈdaiəl /◙ adjective
+1. [Biology] denoting or involving a period of 24 hours  • [生] 二十四小时的，一昼夜的
+ »tidal and diel cycles.  潮汐和昼夜的循环周期。
+
+【语源】1. 1930s: from Latin dies 'day' + -(a)l (see -al )
+
+
+
+————————————
+★☆☆   dieldrin
+ / ˈdi:ldrin /◙ noun
+1. [mass noun] a toxic insecticide produced by the oxidation of aldrin, now largely banned because of its persistence in the environment  • 狄氏剂，氧桥氯甲桥萘
+2. A chlorinated epoxide; chem. formula: C12H8Cl6O  • 一种氯化环氧化物；化学分子式：C12H8Cl6O
+
+【语源】1. 1940s: blend of the name Diels (see Diels–alder reaction ) + aldrin
+
+
+
+————————————
+★☆☆   dielectric
+ / ˌdaiiˈlektrik /əPhysics] ə物理] 
+◙ adjective
+1. having the property of transmitting electric force without conduction; insulating  • 电介质的；绝缘的
+◙ noun
+1. a medium or substance with such a property; an insulator  • 电介质；绝缘体
+
+【派生】♦ dielectrically adverb
+
+【语源】1. mid 19th cent.: from di- + electric, literally across which electricity is transmitted (without conduction')
+
+
+
+————————————
+★☆☆   dielectric constant◙ noun
+1. [Physics] a quantity measuring the ability of a substance to store electrical energy in an electric field  • [物理] 介电常数，介电系数
+
+
+
+————————————
+★☆☆   dielectrophoresis
+ / ˈdaiiˌlektrəufəˈri:sis /◙ noun
+1. [mass noun] [Physics] the migration of uncharged particles towards the position of maximum field strength in a non-uniform electric field  • [物理] 介电泳，双向电泳
+
+【语源】1. mid 20th cent.: blend of dielectric and electrophoresis
+
+
+
+————————————
+★☆☆   die link◙ noun
+1. an established connection between coins struck from the same die  • 同模关系（同一个模子压出的硬币间的关系）
+◙ verb
+1. [with obj.] (die-link)establish a connection between (coins)  • （在硬币间）建立同模关系
+
+
+
+————————————
+★☆☆   Diels–alder reaction
+ / di:lzˈɔ:ldə /◙ noun
+1. [Chemistry] an addition reaction in which a conjugated diene reacts with a compound with a double or triple bond so as to form a six-membered ring  • [化] 狄尔斯–阿尔德尔反应
+
+【语源】1. 1940s: named after Otto Diels (1876–1954), and Kurt Alder (1902–58), German chemists
+
+
+
+————————————
+★☆☆   Dien Bien Phu
+ / ˌdjɛn bjɛn ˈfu: /1. a village in ŋθ ʒietnam, in 1ˌˈ4 the site of a ʃrench military post which was captured by the ʒietminh after a ˈˈ-day siege  • 奠边府（越南西北部一村庄，1954年曾是法国军队的驻地，越盟经过55天的围攻占领该地）
+
+
+
+————————————
+★☆☆   diencephalon
+ / ˌdaienˈsefəlɔn /◙ noun
+1. [Anatomy] the caudal (posterior) part of the forebrain, containing the epithalamus, thalamus, hypothalamus, and ventral thalamus and the third ventricle  • [剖] 间脑。
+--› compare telencephalon 
+
+【派生】♦ diencephalic adjective
+
+【语源】1. late 19th cent.: from di- 'across' + Greek enkephalos 'brain'
+
+
+
+————————————
+★☆☆   diene
+ / ˈdaii:n /◙ noun
+1. [Chemistry] an unsaturated hydrocarbon containing two double bonds between carbon atoms  • [化] 二烯（烃）
+
+【语源】1. early 20th cent.: from di- 'two' + -ene
+
+
+
+————————————
+★☆☆   Dieppe
+ / dɪˈɛp,  /1. a channel port in northern ʃrance, from which ferries run to ŋewhaven and elsewhere; pop. 36,600 (1ˌˌ0). ɪn æugust 1ˌ42 it was the scene of an unsuccessful amphibious raid by a joint force of ɑritish and ɔanadian troops to destroy the German-held port and airfield  • 迪耶普（位于法国北部的一个海峡港口，有渡船通往纽黑文和其他地方，1990年人口36,600；1942年8月，英国和加拿大联军对该地发动两栖攻击，试图摧毁德军控制的港口和机场，但遭失败）
+
+
+
+————————————
+★☆☆   dieresis
+ / daiˈiərəsis /◙ noun
+1. US spelling of diaeresis  • [美] 同 diaeresis 
+
+
+
+————————————
+★☆☆   Diesel1. Rudolf [Christian Karl] (1858–1913), French-born German engineer, inventor of the diesel engine. In 1892 he patented a design for a new, more efficient internal-combustion engine and developed it, exhibiting the prototype in 1897  • 狄塞尔，鲁道夫（•克里斯琴•卡尔）（1858–1913，法国出生的德国工程师，发明了柴油机；1892年他为一项新的效率更高的内燃机的设计申请了专利，并进行了研制，于1897年展出其原型）
+
+
+
+————————————
+★☆☆   diesel
+ / ˈdi:zəl /◙ noun
+1. (也作 diesel engine)an internal-combustion engine in which heat produced by the compression of air in the cylinder is used to ignite the fuel  • 内燃机，柴油机
+ »[as modifier] a diesel locomotive.  柴油机车。
+  [mass noun] a heavy petroleum fraction used as fuel in diesel engines  • 柴油
+ »eleven litres of diesel.  11升柴油。
+
+【派生】♦ dieselize verb
+1. (也作 -ise)
+
+【语源】1. late 19th cent.: named after R. Diesel
+
+
+
+————————————
+★☆☆   diesel-electric◙ adjective
+1. denoting or relating to a locomotive driven by the electric current produced by a diesel-engined generator  • 内燃电力传动的
+◙ noun
+1. a locomotive of this type  • 内燃电力机车
+
+
+

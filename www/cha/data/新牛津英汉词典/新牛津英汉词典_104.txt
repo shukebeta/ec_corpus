@@ -1,0 +1,3607 @@
+﻿————————————
+★☆☆   hissy fit◙ noun
+1. [N. Amer. informal] an angry outburst; a temper tantrum  • [北美，非正式] （愤怒的）爆发；勃然大怒
+ »I screamed and kicked the furniture and threw a hissy fit.  我尖叫着，乱踢家具，大发了一通脾气。
+
+【语源】1. 1930s (as hissy): perhaps from hysterics (see hysteric )
+
+
+
+————————————
+★☆☆   hist-◙ for combining
+1. variant spelling of histo- shortened before a vowel (as in histidine)  • 同 histo- （用于元音前，如 histidine）
+
+
+
+————————————
+★☆☆   hist
+ / hist /◙ exclamation
+1. (archaic)used to attract attention or call for silence  • [古] （用于吸引注意或要求安静）嘘
+
+【语源】1. natural exclamation: first recorded in English in the late 16th cent
+
+
+
+————————————
+★☆☆   histamine
+ / ˈhistəmi:n /◙ noun
+1. [mass noun] [Biochemistry] a compound which is released by cells in response to injury and in allergic and inflammatory reactions, causing contraction of smooth muscle and dilation of capillaries  • [生化] 组胺
+2. A heterocyclic amine; chem. formula: C5H9N3  • 杂环胺；化学分子式：C5H9N3
+
+【派生】♦ histaminic adjective
+
+【语源】1. early 20th cent.: blend of histidine and amine
+
+
+
+————————————
+★☆☆   histidine
+ / ˈhistidi:n /◙ noun
+1. [mass noun] [Biochemistry] a basic amino acid which is a constituent of most proteins. It is an essential nutrient in the diet of vertebrates, and is the source from which histamine is derived in the body  • [生化] 组氨酸
+2. Chem. formula: C6H9N3O2  • 化学分子式：C6H9N3O2
+
+【语源】1. late 19th cent.: from Greek histos 'web, tissue' + -ide + -ine
+
+
+
+————————————
+★☆☆   histiocyte
+ / ˈhistiəsait /◙ noun
+1. [Physiology] a stationary phagocytic cell present in connective tissue  • [生理] 组织细胞巨噬细胞
+
+【语源】1. early 20th cent.: from Greek histion (diminutive of histos 'tissue, web') + -cyte
+
+
+
+————————————
+★☆☆   histo-
+ / ˈhɪstəʊ /◙ (（元音前亦作 hist-), for combining
+1. [Biology] relating to organic tissue  • [生] 表示“与组织有关的”
+ »histochemistry.
+ »histocompatibility.
+
+【语源】1. from Greek histos 'web, tissue'
+
+
+
+————————————
+★☆☆   histochemistry
+ / ˌhistəuˈkemistri /◙ noun
+1. [mass noun] the branch of science concerned with the identification and distribution of the chemical constituents of tissues by means of stains, indicators, and microscopy  • 组织化学
+
+【派生】♦ histochemical adjective
+
+
+
+
+————————————
+★☆☆   histocompatibility
+ / ˌhistəukəmˌpætiˈbiliti /◙ noun
+1. [mass noun] [Medicine] compatibility between the tissues of different individuals, so that one accepts a graft from the other without giving an immune reaction  • [医] 组织相容性
+
+
+
+————————————
+★☆☆   histogenesis
+ / ˌhistəuˈdʒenisis /◙ noun
+1. [mass noun] [Biology] the differentiation of cells into specialized tissues and organs during growth  • [生] 组织发生
+
+【派生】♦ histogenetic adjective
+
+
+
+
+————————————
+★☆☆   histogeny
+ / hisˈtɔdʒəni /◙ noun
+1. another term for histogenesis  • 同 histogenesis 
+
+【派生】♦ histogenic adjective
+
+
+
+
+————————————
+★☆☆   histogram
+ / ˈhistəuɡræm /◙ noun
+1. [Statistics] a diagram consisting of rectangles whose area is proportional to the frequency of a variable and whose width is equal to the class interval  • [统计] 矩形图，直方图
+
+【语源】1. late 19th cent.: from Greek histos 'mast, web' + -gram
+
+
+
+————————————
+★☆☆   histology
+ / hɪˈstɔlədʒi: /◙ noun
+1. [mass noun] [Biology] the study of the microscopic structure of tissues  • [生] 组织学
+
+【派生】♦ histological adjective
+♦ histologist noun
+
+
+
+
+————————————
+★☆☆   histolysis
+ / hisˈtɔlisis /◙ noun
+1. [mass noun] [Biology] the breaking down of tissues (e.g. during animal metamorphosis)  • [生] 组织溶解（如在动物变态期）
+
+【派生】♦ histolytic adjective
+
+
+
+
+————————————
+★☆☆   histone
+ / ˈhistəun /◙ noun
+1. [Biochemistry] any of a group of basic proteins found in chromatin  • [生化] 组蛋白
+
+【语源】1. late 19th cent.: coined in German, perhaps from Greek histanai 'arrest' or from histos 'web, tissue'
+
+
+
+————————————
+★☆☆   histopathology
+ / ˌhistəupəˈθɔ:lədʒi /◙ noun
+1. [mass noun] the study of changes in tissues caused by disease  • 病理组织学
+
+【派生】♦ histopathological adjective
+♦ histopathologist noun
+
+
+
+
+————————————
+★☆☆   histoplasmosis
+ / ˌhistəuplæzˈməusis /◙ noun
+1. [mass noun] [Medicine] infection by a fungus found in the droppings of birds and bats in humid areas. It is not serious if confined to the lungs but can be fatal if spread throughout the body  • [医] 组织胞浆菌病
+2. The fungus is Histoplasma capsulatum  • 菌类是荚膜组织胞浆菌
+
+
+
+————————————
+★☆☆   historian
+ / hisˈtɔ:riən /◙ noun
+1. an expert in or student of history, especially that of a particular period, geographical region, or social phenomenon  • （尤指对特殊时期、地理区域或社会现象研究的）历史学家（或学生）
+ »a military historian.  军事历史学家。
+
+【语源】1. late Middle English: from Old French historien, from Latin historia (see history )
+
+
+
+————————————
+★☆☆   historiated
+ / hisˈtɔ:rieitid /◙ adjective
+1. (of an initial letter in an illuminated manuscript) decorated with designs representing scenes from the text  • （带插图的书稿中开头字母）以表现原文场景的图案装饰的
+
+【语源】1. late 19th cent.: from French historié, past participle of historier in an obsolete sense 'illustrate', from medieval Latin historiare, from historia (see history )
+
+
+
+————————————
+★☆☆   historic
+ / hisˈtɔrik /◙ adjective
+1. famous or important in history, or potentially so  • 历史上著名的，历史上重大的，历史性的
+ »we are standing on a historic site.  我们站在历史遗址上。
+ »a time of historic change.  历史转折点。
+  (archaic)of or concerning history; of the past  • [古] 历史的；过去的
+ »eruptions in historic times.  有史时期的火山喷发。
+2. [Grammar] (of a tense) used in the narration of past events, especially Latin and Greek imperfect and pluperfect  • [语法] 历史的（尤指拉丁语和希腊语未完成时和过去完成时，用于叙述过去的事件）
+
+【语源】1. early 17th cent. (in the sense 'relating to or in accordance with history'): via Latin from Greek historikos, from historia 'narrative, knowing by enquiry' (see history )
+
+【用法】1. On the use of an historic moment, or a historic momentsee usage at an
+
+
+
+————————————
+★☆☆   historical
+ / hisˈtɔrikəl /◙ adjective
+1. of or concerning history; concerning past events  • 历史的，有关历史的；有关过去事件的
+ »historical evidence.  历史证据。
+  belonging to the past, not the present  • 属于过去的
+ »famous historical figures.  著名的历史人物。
+  (especially of a novel or film) set in the past  • （尤指小说或电影）历史题材的
+  (of the study of a subject) based on an analysis of its development over a period  • （学科研究）历时的
+ »for the Darwinians, biogeography became a historical science.  对于进化论者来说，生物地理是一门历时的科学。
+
+【语源】1. late Middle English: via Latin from Greek historikos (see historic )
+
+【用法】1. On the use of an historical event or a historical eventsee usage at an
+
+
+
+————————————
+★☆☆   historical linguistics◙ plural noun
+1. [treated as sing.] the study of the history and development of languages  • 历史语言学
+
+
+
+————————————
+★☆☆   historically
+ / hɪsˈtɔrɪkəlɪ /◙ adverb
+1. with reference to past events  • 关于历史事件
+ »a historically accurate picture of the time.  对当时所进行的完全与历史相吻合的描写。
+  [sentence adverb] in the past  • 在过去，在历史上
+ »historically, government policy has favoured urban dwellers.  在过去，政府的政策有利于城市居民。
+
+
+
+————————————
+★☆☆   historical materialism◙ noun
+1. another term for dialectical materialism  • 同 dialectical materialism 
+
+
+
+————————————
+★☆☆   historicism
+ / hisˈtɔ:risizəm /◙ noun, [mass noun] 
+1. the theory that social and cultural phenomena are determined by history  • 历史主义，历史决定论（社会和文化现象由历史决定）
+  the belief that historical events are governed by laws  • 历史事件规律论
+2. the tendency to regard historical development as the most basic aspect of human existence  • 历史第一主义
+3. (chiefly derogatory)(in artistic and architectural contexts) excessive regard for past styles  • [主贬] （艺术，建筑）传统崇拜，复古主义
+
+【派生】♦ historicist noun
+
+【语源】1. late 19th cent.: from historic, translating German Historismus
+
+
+
+————————————
+★☆☆   historicity
+ / ˌhistəˈrisiti /◙ noun
+1. [mass noun] historical authenticity  • 史实性，历史性
+ »the historicity of bible narrative.  《圣经》叙述的历史真实性。
+
+
+
+————————————
+★☆☆   historicize
+ / hisˈtɔ:risaiz /◙ (也作 -ise), verb
+1. [with obj.] treat or represent as historical  • 作为史实对待（或表述）
+
+【派生】♦ historicization noun
+
+
+
+
+————————————
+★☆☆   historic present◙ noun
+1. [mass noun] [Grammar] the present tense used instead of the past in vivid narrative, especially in titles, such as ‘The Empire Strikes Back’, and informally in speech, e.g. ‘so I say to him’  • [语法] 历史现在时 ［在生动的叙述中用来代替过去时的现在时，尤指在标题中，例如‘The Empire Strikes Back’，以及非正式口语体中，例如‘so I say to him’］
+
+
+
+————————————
+★☆☆   historiography
+ / ˌhistɔ:riˈɔɡrəfi /◙ noun
+1. [mass noun] the study of the writing of history and of written histories  • 历史编纂学，史学
+  the writing of history  • 撰史，编史
+
+【派生】♦ historiographer noun
+♦ historiographic adjective
+♦ historiographical adjective
+
+【语源】1. mid 16th cent.: via medieval Latin from Greek historiographia, from historia 'narrative, history' + -graphia 'writing'
+
+
+
+————————————
+★☆☆   history
+ / ˈhistəri /◙ (pl. -ies)
+1. [mass noun] the study of past events, particularly in human affairs  • 历史（尤指对与人类有关的过去事件的研究）
+ »medieval European history.  中世纪欧洲史。
+  the past considered as a whole  • 过去，历史
+ »letters that have changed the course of history.  改变历史进程的文学。
+2. the whole series of past events connected with someone or something  • （人，物的）历史
+ »the history of the Empire.  该帝国的历史。
+  an eventful past  • （重要的）历史
+ »the group has quite a history.  该集团公司颇有一段历史。
+  a past characterized by a particular thing  • （有特殊事情的）过去
+ »his family had a history of insanity.  他的家族有精神病史。
+3. a continuous, typically chronological, record of important or public events or of a particular trend or institution  • 历史（对重要或公众事件、特殊趋势或制度按时间顺序的连续记录）
+ »a history of the labour movement.  工人运动史。
+  a historical play  • 历史剧
+ »Shakespeare's comedies, histories, and tragedies.  莎士比亚的喜剧、历史剧和悲剧。
+
+【IDIOMS】◘ be history
+1. be perceived as no longer relevant to the present  • 成为历史（或过去）
+ »the mainframe will soon be history.  这种主机很快就会成为历史。
+ »I was making a laughing stock of myself, but that's history now.  我以前总使自己成为笑柄，不过现在这已成为历史了。
+  [informal] used to indicate imminent departure, dismissal, or death  • [非正式] 成为历史（用于指逼近的分离，解雇，死亡）
+ »an inch either way and you'd be history.  再动一动，就要你的命。
+◘ go down in history
+1. be remembered or recorded in history  • 载入史册
+◘ make history
+1. do something that is remembered in or influences the course of history  • 创造历史，做名垂青史的事
+◘ the rest is history
+1. used to indicate that the events succeeding those already related are so well known that they need not be recounted again  • 余下的不饶费舌，其他的都众所周知了
+ »they teamed up, discovered that they could make music, and the rest is history.  他们协力合作，发现他们可以制作音乐，余下的就不饶费舌了。
+
+【语源】1. late Middle English (also as a verb): via Latin from Greek historia 'finding out, narrative, history', from histōr 'learned, wise man', from an Indo-European root shared by wit
+
+
+
+————————————
+★☆☆   history-sheeter◙ noun
+1. [Indian] a person with a criminal record  • [印度] 有犯罪记录的人，有前科的人
+
+
+
+————————————
+★☆☆   histosol
+ / ˈhɪstəsɔl /◙ noun
+1. [Soil Science] a soil of an order comprising peaty soils, with a deep surface layer of purely organic material  • [土壤学] 有机土
+
+
+
+————————————
+★☆☆   histrionic
+ / ˌhɪstri:ˈɔnɪk /◙ adjective
+1. overly theatrical or melodramatic in character or style  • （性格，风格）过分戏剧化的，演戏状的，矫揉造作的，夸张的
+ »a histrionic outburst.  夸张的感情迸发。
+  [formal] of or concerning actors or acting  • [正式] （与）演员（或表演）（有关）的
+ »histrionic talents.  表演才能。
+  [Psychiatry] denoting a personality disorder marked by shallow volatile emotions and attention-seeking behaviour  • [精神病学] 表演症的
+◙ noun
+1. (histrionics)exaggerated dramatic behaviour designed to attract attention  • （为吸引注意力）夸张而戏剧化的行为
+  dramatic performance; theatre  • 戏剧表演；剧院
+2. (archaic)an actor  • [古] 演员
+
+【派生】♦ histrionically adverb
+
+【语源】1. mid 17th cent. (in the sense 'dramatically exaggerated, hypocritical'): from late Latin histrionicus, from Latin histrio(n-) 'actor'
+
+
+
+————————————
+★☆☆   hit
+ / hit /◙ (hitting; 过去式和过去分词 hit), [with obj.] 
+1. bring one's hand or a tool or weapon into contact with (someone or something) quickly and forcefully  • （用手、工具或武器）猛打，猛击（人或物）
+ »the woman hit her child for stealing sweets.  这女人打她偷糖果的孩子。
+ »[no obj.] the police hit out with truncheons.  警察用警棍猛打。
+  accidentally strike (part of one's body) against something, often causing injury  • （身体意外地）撞击，碰撞（常致伤）
+ »she fainted and hit her head on the metal bedstead.  她晕倒了，头撞在金属床架上。
+  (of a moving object or body) come into contact with (someone or something stationary) quickly and forcefully  • （运动中的物体或身体）猛撞（静止状态中的人或物）
+ »a car hit the barrier.  一辆汽车撞上了障碍物。
+  [informal] touch or press (part of a machine or other device) in order to work it  • [非正式] 按，摁（机器或装置）
+ »he picked up the phone and hit several buttons.  他拿起电话按了几个键。
+2. cause harm or distress to  • 使受损失，使痛苦
+ »the area has been badly hit by pit closures.  由于煤矿的关闭，该地区受到严重的打击。
+  [no obj.] (hit out)make a strongly worded criticism or attack  • （言辞）攻击，鞭笞，斥责
+ »he hit out at suppliers for hyping their products.  他抨击供应商对他们产品大肆炒作。
+  (of a disaster) occur in and cause damage to (an area) suddenly  • （灾难）突袭使遭受
+ »the country was hit by a major earthquake.  该国遭受到一次大地震。
+  (informal, chiefly US)attack and rob or kill  • [非正式，主美] 攻击，抢夺，杀死
+ »if they're cops, maybe it's not a good idea to have them hit.  如果他们是警察，袭击他们恐怕不是良策。
+  [informal] be affected by (an unfortunate and unexpected circumstance or event)  • [非正式] 受（不幸的或意外的情况或事件）影响
+ »the opening of the town centre hit a snag.  市中心的开放遇到意外的麻烦。
+3. (of a missile or a person aiming one) strike (a target)  • （发射物或发射的人）击中（靶子）
+ »the sniper fired and hit a third man.  狙击手开火，击中了第三个人。
+  [informal] reach (a particular level, point, or figure)  • [非正式] 达到（一个特定的水平，阶段，数字）
+ »his career hit rock bottom.  他的事业到了谷底。
+  arrive at (a place)  • 到达（地方）
+ »it was still night when we hit the outskirts of London.  我们到达伦敦市郊时天还未亮。
+  [informal] go to (a place)  • [非正式] 去（某地）
+ »we hit a diner for coffee and doughnuts.  我们去一家小餐馆要了咖啡和油炸圈饼。
+  be suddenly and vividly realized by  • 突然清楚地意识到，突然明白
+ »[with obj. and clause] it hit her that I wanted to settle down here.  她突然意识到我想在这儿定居。
+  [no obj.] [informal] [非正式] (of a piece of music, film, or play) be successful  • （音乐，电影，戏剧）成功
+ »actors are promised a pay increase if a show hits.  演员得到承诺如果演出成功就加工资。
+  [no obj.] take effect  • 有效，生效，起作用
+ »we sat waiting for the caffeine to hit.  我们坐着等待咖啡因起作用。
+  [informal] give (someone) a dose of a drug or an alcoholic drink  • [非正式] 给（人）一剂毒品（或烈酒）
+  [informal] (of a product) become available and make an impact on  • [非正式] （产品）面市，对…有影响
+ »the latest board game to hit the market.  将要面市的最新棋盘游戏。
+  [informal] used to express the idea that someone is taking up a pursuit or taking it seriously  • [非正式] 喜欢，钟爱；认真对待
+ »more and more teenagers are hitting the books.  越来越多的青少年喜爱书籍了。
+  (hit someone for/up for)(informal chiefly US)ask someone for  • [非正式，主美] 向某人要
+ »she was waiting for the right moment to hit her mother for some cash.  她在等待合适的时机向她母亲要些现钱。
+4. propel (a ball) with a bat, racket, stick, etc. to score runs or points in a game  • （在比赛中用球棒、球拍、曲棍等）击（球）（以得分）
+  score (runs or points) in this way  • （在比赛中用球棒、球拍、曲棍等击球而）得分
+ »he had hit 25 home runs.  他本垒打得了25分。
+◙ noun
+1. an instance of striking or being struck  • （被）撞击
+ »few structures can withstand a hit from a speeding car.  建筑物很少能承受高速行驶车辆的撞击。
+  a verbal attack  • 口头攻击
+ »he could not resist a hit at his friend's religiosity.  他忍不住要对他朋友的宗教狂热进行抨击。
+  (informal, chiefly US)a murder, typically one planned and carried out by a criminal organization  • [非正式，主美] （多指犯罪集团有计划进行的）谋杀
+  [Baseball] . short for base hit  • [棒球] base hit 的简称
+2. an instance of striking the target aimed at  • 击中目标
+ »one of the bombers had scored a direct hit.  其中一架轰炸机直接命中目标。
+  a successful venture, especially in entertainment  • 成功的投机（或冒险）（尤指在娱乐方面）
+ »he was the director of many big hits.  他是很多成功演出的导演。
+ »[as modifier] a hit comedy.  一出成功的喜剧。
+  a successful pop record or song  • 成功的流行音乐唱片（或歌曲）
+  [informal] a successful and popular person or thing  • [非正式] 广受欢迎的成功人士（或物）
+ »handsome, smiling, and smart, he was an immediate hit.  他外表英俊，面带笑容，思维敏捷，立即走红。
+  [Computing] an instance of identifying an item of data which matches the requirements of a search  • [计算机] 命中，找到（搜索要求的匹配项）
+  [Computing] an instance of a particular website being accessed by a user  • [计算机] （对互联网站点的）一次访问；点击
+ »the site gets an average 350,000 hits a day.  这个网站的日均访问量达35万次。
+3. [informal] a dose of a narcotic drug  • [非正式] 一剂麻醉致幻药
+
+【IDIOMS】◘ hit-and-miss
+1. done or occurring at random  • 随意的，任意的，偶然的
+ »picking a remedy can be a bit hit-and-miss.  挑选治疗法可能会有点随意性。
+◘ hit-and-run
+1. denoting a person who causes accidental or wilful damage and escapes before being discovered, or damage caused in this way  • 肇事（或故意损害）后逃跑的；肇事后逃跑造成的损失
+ »he was struck by a hit-and-run driver.  他被肇事后逃跑的司机撞的。
+◘ hit someone below the belt
+1. [Boxing] [拳击] give one's opponent an illegal low blow  • （非法）击中对手腰以下部位
+  behave unfairly, especially so as to gain an unfair advantage  • 行为不公正（尤指为了获得不正当的利益）
+◘ hit the bottle --› see bottle 
+◘ hit someone for six
+1. [Brit.] affect someone very severely  • [英] 严重影响（人）
+◘ hit the ground running
+1. [informal] start something and proceed at a fast pace with enthusiasm  • [非正式] 积极着手进行
+◘ hit the hay --› see hay 
+◘ hit home --› see home 
+◘ hit it off
+1. [informal] be naturally friendly or well suited  • [非正式] 性情相投，合得来
+◘ hit the jackpot --› see jackpot 
+◘ hit the mark
+1. be successful in an attempt or accurate in a guess  • 尝试成功；猜中
+◘ hit the nail on the head
+1. find exactly the right answer  • 击中要害；完全正确
+◘ hit-or-miss
+1. as likely to be unsuccessful as successful  • 可能成功也可能不成功，随意的
+ »her work can be hit-or-miss.  她的工作可能行也可能不行。
+◘ hit the right note --› see note 
+◘ hit the road (或美
+1. [informal] set out on a journey  • [非正式] 开始旅行，出发
+◘ hit the roof --› see roof 
+◘ hit the sack --› see sack 
+◘ hit the spot --› see spot 
+◘ hit wicket
+1. [Cricket] the action of a batsman stepping on or knocking over their own wicket, resulting in their dismissal  • [板球] 摆乌龙
+◘ make a hit
+1. be successful or popular  • 成功，受欢迎
+ »you made a big hit with her.  你深受她的青睐。
+
+【派生】♦ hitter noun
+
+【语源】1. late Old English hittan (in the sense 'come upon, find'), from Old Norse hitta 'come upon, meet with', of unknown origin
+
+【PHR V】◘ hit on (或 upon)
+1. discover or think of, especially by chance  • （尤指偶然）发现，想到
+ »she hit on a novel idea for fund-raising.  她突然想到了一个募捐的新主意。
+2. [N. Amer. informal] make sexual advances towards  • [北美，非正式] 调情，挑逗
+  attempt to get something, typically money, from someone  • 企图得到（多指钱）
+ »he hit on family members.  他企图从家人那儿得到钱。
+◘ hit something up
+1. [Cricket] score runs energetically  • [板球] 精神饱满地得分
+
+
+
+————————————
+★☆☆   hitch
+ / hitʃ /◙ verb
+1. [with obj., and adverbial of direction] move (something) into a different position with a jerk  • 急拉，猛推
+ »she hitched the blanket around him.  她猛拉裹在他身上的羊毛毯。
+ »he hitched his pants up.  他把裤子向上拉起。
+2. [no obj.] [informal] travel by hitch-hiking  • [非正式] 搭便车旅行
+  [with obj.] obtain (a lift) by hitch-hiking  • 搭便车
+3. [with obj.] fasten or tether with a rope  • （用绳索）拴，系
+ »he returned to where he had hitched his horse.  他回到他拴马的地方。
+  harness (a draught animal or team)  • 给（一只或一组役畜）上轭具
+ »Thomas hitched the pony to his cart.  托马斯把马驹套在车上。
+◙ noun
+1. a temporary interruption or problem  • 故障
+ »everything went without a hitch.  一切顺利，毫无故障。
+2. a knot of a particular kind, typically one used for fastening a rope to something else  • （尤指用于系牢绳子的）索结
+  [N. Amer.] a device for attaching one thing to another, especially the tow bar of a motor vehicle  • [北美] （尤指机动车的拖杆）牵引装置
+3. [informal] an act of hitch-hiking  • [非正式] 免费搭便车
+4. [N. Amer. informal] a period of service  • [北美，非正式] 服役期
+ »his 12-year hitch in the navy.  他在海军的12年服役期。
+
+【IDIOMS】◘ get hitched
+1. [informal] marry  • [非正式] 结婚
+◘ hitch one's wagon to a star
+1. try to succeed by forming a relationship with someone who is already successful  • 攀龙附凤；试图靠沾别人的光而成功
+
+【语源】1. Middle English (in the sense 'lift up with a jerk'): of unknown origin
+
+
+
+————————————
+★☆☆   Hitchcock
+ / ˈhitʃkɔk /1. Sir ælfred əʊoseph] (18ˌˌ–1ˌ80), ənglish film director. æcclaimed in ɑritain for films such as ðhe ðhirty-ŋine Steps (1ˌ3ˈ), he moved to Hollywood in 1ˌ3ˌ. æmong his later works, notable for their suspense and their technical ingenuity, are the thrillers Strangers on a ðrain (1ˌˈ1), Psycho (1ˌ60), and ðhe ɑirds (1ˌ63)  • 希区考克，艾尔弗雷德（•约瑟夫）爵士(1899–1980，英国电影导演，在英国因《三十九级台阶》(1935)等电影而享有赞誉，1939年他移居好莱坞；他的后期作品中，以悬念和技巧独创性著称的是惊险片《火车怪客》(1951)、《精神病患者》 [1960] 和《群鸟》 [1963] ）
+
+【派生】♦ Hitchcockian adjective
+
+
+
+
+————————————
+★☆☆   Hitchens
+ / ˈhɪtʃɪnz /1. ɪvon (18ˌ3–1ˌˌˌ), ənglish painter. He is known chiefly for landscapes represented in an almost abstract style using areas of vibrant colour  • 希钦斯，伊冯(1893–1979，英国画家，主要以几乎抽象的风格和鲜明的色彩描绘的风景画著名）
+
+
+
+————————————
+★☆☆   hitcher◙ noun
+1. a hitch-hiker  • 免费搭便车者
+
+
+
+————————————
+★☆☆   hitch-hike◙ verb
+1. [no obj.] travel by getting free lifts in passing vehicles  • 免费搭便车旅行
+ »we hitch-hiked up to Scotland.  我们搭便车来到苏格兰。
+◙ noun
+1. a journey made by hitch-hiking  • 免费搭便车的旅行
+
+【派生】♦ hitch-hiker noun
+
+
+
+
+————————————
+★☆☆   Hite1. Shere (b.1942), American feminist. She published her research into sex, gender definition, and private life in the ground-breaking work The Hite Report on Female Sexuality (1976), based on the responses of thousands of people to anonymous questionnaires  • 海特（生于1942年，美国女权主义者，她以几千份匿名问卷调查反馈为基础，在开拓性的著作《海特关于女性性欲的报道》 [1976] 中，发表了对性、性别定义和私生活的深入研究）
+
+
+
+————————————
+★☆☆   hi-tech
+ / ˈhaɪˈtek /◙ adjective
+1. variant spelling of high-tech  • 同 high-tech 
+
+
+
+————————————
+★☆☆   hither
+ / ˈhiðə /◙ adverb
+1. (archaic or poetic/literary)to or towards this place  • [古，诗/文] 到这儿，向这儿
+ »I little knew then that such calamity would summon me hither!.  当时我不知道这样的灾难会召唤我来到这儿！。
+◙ adjective
+1. (archaic)situated on this side  • [古] 位于这边
+ »the hither side of Severn.  塞汶河的这边。
+
+【IDIOMS】◘ hither and thither (also hither and yon)
+1. in various directions, especially in a disorganized way
+
+【语源】1. Old English hider, of Germanic origin; related to he and here
+
+
+
+————————————
+★☆☆   hither and thither◙ (也作 hither and yon), adverb
+1. in various directions, especially in a disorganized way  • （尤指无序地）四处，这儿和那儿
+ »the entire household ran hither and thither.  全家人四处奔跑。
+
+
+
+————————————
+★☆☆   hitherto
+ / ˌhiðəˈtu: /◙ adverb
+1. until now or until the point in time under discussion  • 迄今为止，到某时为止
+ »hitherto part of French West Africa, Benin achieved independence in 1960.  贝宁于1960年赢得独立，此前一直是法属西非的一部分。
+
+
+
+————————————
+★☆☆   hitherward
+ / ˈhiðəwəd /◙ adverb
+1. (archaic)to or towards this place  • [古] 到这儿，向这儿
+
+
+
+————————————
+★☆☆   Hitler
+ / ˈhɪtlə /1. ædolf (188ˌ–1ˌ4ˈ), æustrian-born ŋazi leader, ɔhancellor of Germany 1ˌ33–4ˈ  • 希特勒，阿道夫(1889–1945，生于奥地利的纳粹党魁，1933–1945任德国总理）
+  [as noun a Hitler] a person with authoritarian or tyrannical characteristics  • 独裁者，专制者
+ »little Hitlers of the Trade Union movement.  工会运动的小希特勒们。
+2. He co-founded the National Socialist German Workers' [Nazi] Party in 1919, and came to prominence through his powers of oratory. While imprisoned for an unsuccessful putsch (coup) in Munich (1923–4) he wrote Mein Kampf (1925), an exposition of his political ideas. Becoming Chancellor in 1933, he established the totalitarian Third Reich. His expansionist foreign policy precipitated the Second World War, while his fanatical anti-Semitism led to the Holocaust
+
+【派生】♦ Hitlerian adjective
+♦ Hitlerism noun
+◘ Hitlerite noun & adjective
+
+
+
+
+————————————
+★☆☆   Hitler moustache◙ noun
+1. a small square moustache like that worn by Adolf Hitler  • 希特勒式胡子
+
+
+
+————————————
+★☆☆   Hitler salute◙ noun
+1. another term for Nazi salute  • 同 Nazi salute 
+
+
+
+————————————
+★☆☆   hit list◙ noun
+1. a list of people to be killed for criminal or political reasons  • 暗杀名单
+ »a terrorist hit list.  恐怖分子的暗杀名单。
+
+
+
+————————————
+★☆☆   hit man◙ noun
+1. [informal] a person who is paid to kill someone, especially for a criminal or political organization  • [非正式] 职业杀手
+
+
+
+————————————
+★☆☆   hit-out◙ noun, [Austral.] [澳] 
+1. [Australian Rules] an instance of hitting the ball towards a teammate after it has been bounced by the umpire or at a boundary throw-in  • [澳橄] 发球
+2. [informal] a brisk run  • [非正式] 快跑
+
+
+
+————————————
+★☆☆   hit parade◙ noun
+1. [dated] a weekly listing of the current best-selling pop records  • [旧] 一周流行唱片榜
+
+
+
+————————————
+★☆☆   hit squad◙ noun
+1. a team of assassins  • 刺客队
+
+
+
+————————————
+★☆☆   Hittite
+ / ˈhitait /◙ noun
+1. a member of an ancient people who established an empire in Asia Minor and Syria that flourished from c.1700 to c.1200 bc  • 赫梯人（在小亚细亚和叙利亚建立过帝国，约公元前1700—约前1200年处于繁荣时期）
+  a subject of this empire or one of their descendants, including a Canaanite or Syrian people mentioned in the Bible (11th to 8th century bc)  • 赫梯臣服者（或后人）（包括在《圣经》中提到的公元前11—前8世纪迦南人或叙利亚人）
+2. [mass noun] the language of the Hittites, the oldest attested Indo-European language. Written in both hieroglyphic and cuneiform scripts, it was deciphered in the early 20th century  • 赫梯语（经证明是最古老的印欧语系语言，用象形文字和楔形文字书写，在20世纪初获解密）
+◙ adjective
+1. of or relating to the Hittites, their empire, or their language  • （与）赫梯人（或帝国、语言）（有关）的
+2. The Hittites arrived in Anatolia towards the end of the 2nd millennium bc, absorbing the Hatti and Hurri peoples and incorporating many of their words into the Hittite vocabulary. They reached the zenith of their power under the rule of Suppiluliuma I (c.1340 bc), whose empire extended from the capital, Hattusa (in what is now central Turkey), west to the Aegean and south-east into northern Syria. Their language was deciphered from parallel inscriptions in Hittite, Sumerian, and Akkadian
+
+【语源】1. from Hebrew Hittīm, ultimately from Hittite Hatti
+
+
+
+————————————
+★☆☆   HIV
+ / ˌeɪtʃaɪˈvi: /◙ for abbreviation
+1. human immunodeficiency virus, a retrovirus which causes Aids  • 艾滋病病毒，人类免疫缺陷病毒
+
+
+
+————————————
+★☆☆   hive
+ / haɪv /◙ noun
+1. a beehive  • 蜂窝，蜂箱
+  the bees in a hive  • 蜂群
+  a thing that has the domed shape of a beehive  • 蜂窝状物体
+  (figurative)[喻] a place in which people are busily occupied  • 繁忙之地
+ »the kitchen became a hive of activity.  厨房成了繁忙之地。
+◙ verb
+1. [with obj.] place (bees) in a hive  • 使（蜜蜂）入蜂箱
+  [no obj.] (of bees) enter a hive  • （蜜蜂）入蜂箱
+
+【语源】1. Old English hȳf, of Germanic origin
+
+【PHR V】◘ hive something off
+1. (chiefly Brit.)(especially in business) separate something from a larger group or organization, especially from public to private ownership  • [主英] （尤指生意）划分出来，分离出来（尤指从公有变为私有）
+ »the weekly magazine hived off by the BBC.  从英国广播公司分立出来的周刊。
+
+
+
+————————————
+★☆☆   hive bee◙ noun
+ --› see bee（义项 1) 
+
+
+
+————————————
+★☆☆   hives
+ / haivz /◙ plural noun
+1. [treated as sing. or pl.] . another term for urticaria  • 同 urticaria 
+
+【语源】1. early 16th cent. (originally Scots, denoting various conditions causing a rash, especially in children): of unknown origin
+
+
+
+————————————
+★☆☆   HIV-positive◙ adjective
+1. having had a positive result in a blood test for the Aids virus HIV  • 艾滋病病毒检验呈阳性的
+
+
+
+————————————
+★☆☆   hiya
+ / ˈhaijə /◙ exclamation
+1. an informal greeting  • [非正式] 你好
+
+【语源】1. 1940s: alteration of how are you?
+
+
+
+————————————
+★☆☆   Hizbullah
+ / ˌhɪzbʊˈlɑ:, ˈhɪzbʊlə /1. variant spelling of Hezbollah  • 同 Hezbollah 
+
+
+
+————————————
+★☆☆   HK◙ for abbreviation
+1. Hong Kong  • 同 Hong Kong">Hong Kong 
+
+
+
+————————————
+★☆☆   HKJ◙ for abbreviation
+1. Jordan (international vehicle registration)  • 同 Jordan （国际车辆注册用语）
+
+【语源】1. from Hashemite Kingdom of Jordan
+
+
+
+————————————
+★☆☆   HL◙ for abbreviation
+1. (in the UK) House of Lords  • （英国）同 House of Lords
+
+
+
+————————————
+★☆☆   hl◙ for abbreviation
+1. hectolitre(s)  • 同 hectolitre(s)">hectolitre(s) 
+
+
+
+————————————
+★☆☆   HM◙ for abbreviation
+  headmaster or headmistress  • 同 headmaster">headmaster 或 headmistress">headmistress 
+  [Brit.] heavy metal (music)  • [英] 重金属（音乐）
+  (in the UK) Her (or His) Majesty('s)  • （英国）陛下
+ »HM Forces.  陛下的军队。
+
+
+
+————————————
+★☆☆   h'm◙ (也作 hmm), exclamation & noun
+1. variant spelling of hem , hum  • 同 hem , hum 
+
+
+
+————————————
+★☆☆   hm◙ for abbreviation
+1. hectometre(s)  • 同 hectometre 或 hectometres 
+
+
+
+————————————
+★☆☆   HMG◙ for abbreviation
+1. (in the UK) Her or His Majesty's Government  • （英国）女王（或英王）陛下政府
+
+
+
+————————————
+★☆☆   HMI(historical)[史] 
+◙ for abbreviation
+1. (in the UK) Her or His Majesty's Inspector (of Schools)  • （英国）皇家督学
+
+
+
+————————————
+★☆☆   HMO
+ / ˌeɪtʃemˈəʊ /◙ for abbreviation
+1. health maintenance organization  • 同 health maintenance organization 
+
+
+
+————————————
+★☆☆   Hmong
+ / hmɔŋ /◙ [复同单] 
+1. a member of a people living in isolated mountain villages throughout SE Asia  • 苗人（居住在东南亚偏僻山村）
+2. [mass noun] the language of this people, occurring in a large number of highly distinct dialects  • （与）苗人（有关）的，（与）苗语（有关）的
+◙ adjective
+1. relating to or denoting this people or their language  • （与）苗人（有关）的，（与）苗语（有关）的
+
+【用法】1. The term Hmong is now usually preferred, as being the name the people use with reference to themselves, though the Chinese name Miao (or, in SE Asia, Meo) was until recently more common in English contexts
+
+
+
+————————————
+★☆☆   HMS◙ for abbreviation
+1. Her or His Majesty's Ship, used in the names of ships in the British navy  • 英国军舰（用于英国海军的军舰名称中）
+ »HMS Ark Royal.  英国军舰“皇家方舟”号。
+
+
+
+————————————
+★☆☆   HMSO◙ for abbreviation
+1. (in the UK) Her or His Majesty's Stationery Office , which publishes official government documents and legislation  • （英国）皇家文书局（出版官方政府文件和法规）
+
+
+
+————————————
+★☆☆   HNC◙ for abbreviation
+1. (in the UK) Higher National Certificate  • （英国）国家高级合格证书
+
+
+
+————————————
+★☆☆   HND◙ for abbreviation
+1. (in the UK) Higher National Diploma  • （英国）国家高等技术学校毕业文凭
+
+
+
+————————————
+★☆☆   ho.◙ for abbreviation
+1. house  • 同 house 
+
+
+
+————————————
+★☆☆   Ho◙ for symbol
+1. the chemical element holmium  • （化学元素）钬
+
+
+
+————————————
+★☆☆   hoho¹
+◙ (也作 hoe), (pl. -os 或 -oes)
+1. (black slang)a prostitute  • [黑人俚语] 妓女
+  [derogatory] a woman  • [贬] 女人
+
+【语源】1. 1960s: representing a dialect pronunciation of whoreho²
+◙ exclamation
+1. an expression of surprise, admiration, triumph, or derision  • （表示惊奇、赞赏、胜利或嘲笑）嗬
+ »Ho! I'll show you.  嗬！我给你看。
+  [in combination] used as the second element of various exclamations  • ［用在感叹词后］嗨，嗬，嘞
+ »what ho!.  嗨，什么！。
+ »heave ho.  嗨嗬。
+2. used to call for attention  • （用于引起注意）嗨，嗬
+ »ho there!.  嗨，那儿！。
+  [in combination] (chiefly Nautical)used to draw attention to something seen  • [主航] （用于让人注意看到的东西）嗨，嗬
+ »land ho!.  嗬，陆地！。
+
+【语源】1. natural exclamation: first recorded in Middle English
+
+
+
+————————————
+★☆☆   hoagie
+ / ˈhəuɡi /◙ (pl. -ies)
+1. (chiefly N. Amer.)[主北美] a sandwich made of a long roll filled with meat, cheese, and salad  • （中间夹肉、干酪和色拉的）长条三明治
+  (也作 hoagie roll)a bread roll used for such a sandwich  • （用于做三明治的）长条面包
+
+【语源】1. of unknown origin
+
+
+
+————————————
+★☆☆   hoar
+ / hɔ: , hɔə /(archaic or poetic/literary)ə古或诗/文] 
+◙ adjective
+1. greyish white; grey or grey-haired with age  • 灰白的；花白的，花白头发的
+◙ noun
+1. [mass noun] hoar frost  • 白霜
+
+【语源】1. Old English hār, of Germanic origin; related to German hehr 'majestic, noble'
+
+
+
+————————————
+★☆☆   hoard
+ / hɔ:d /◙ noun
+1. a stock or store of money or valued objects, typically one that is secret or carefully guarded  • 储藏（或秘藏）的钱财（或贵重物品）
+ »he came back to rescue his little hoard of gold.  他回来抢救他储藏的一小批金子。
+  an ancient store of coins or other valuable artifacts  • （古代储存的硬币或贵重古器物的）宝窟
+ »a hoard of Romano-British bronzes.  一间储存罗马和英国青铜器的宝窟。
+  an amassed store of useful information or facts, retained for future use  • 情报（库）
+ »a hoard of secret information about his work.  一批关于他工作的秘密情报。
+◙ verb
+1. [with obj.] amass (money or valued objects) and hide or store away  • 隐藏，收藏，聚藏（钱财或贵重物品）
+ »thousands of antiques hoarded by a compulsive collector.  一位怪癖的收藏家搜集的几千件古董。
+  accumulate a supply of (something) in a time of scarcity  • 在某物匮乏时）积敛，积聚
+ »many of the boat people had hoarded rations.  许多船民已积聚起了配给的口粮。
+  reserve in the mind for future use  • 储存，积累（以备后用）
+ »[as adj. hoarded] a year's worth of hoarded resentments and grudges.  积累一年的不满和怨恨。
+
+【派生】♦ hoarder noun
+
+【语源】1. Old English hord (noun), hordian (verb), of Germanic origin; related to German Hort (noun), horten (verb)
+
+【用法】1. The words hoard and horde have some similarities in meaning and are pronounced the same, so they are therefore sometimes confused. A hoard is ‘a secret stock or store of something’, as in a hoard of treasurewhile a horde is a disparaging word for ‘a large group of people’, as in hordes of fans descended on the stageInstances of hoard being used instead of horde are not uncommon: around 10 per cent of citations for hoard in the British National Corpus are for the incorrect use
+
+
+
+————————————
+★☆☆   hoarding
+ / ˈhɔ:diŋ /◙ noun
+1. [Brit.] a large board in a public place, used to display advertisements  • [英] 广告牌
+  a temporary board fence erected round a building site  • （围绕建筑场地的）临时围篱
+
+【语源】1. early 19th cent.: from obsolete hoard in the same sense (probably based on Old French hourd; related to hurdle) + -ing
+
+
+
+————————————
+★☆☆   hoar frost◙ noun
+1. [mass noun] a greyish-white crystalline deposit of frozen water vapour formed in clear still weather on vegetation, fences, etc.  • 白霜（晴朗无风的天气水蒸气在植被、围墙等上面凝结的灰白色水晶沉积）
+
+
+
+————————————
+★☆☆   hoarhound
+ / ˈhɔ:haund /◙ noun
+1. variant spelling of horehound  • 同 horehound 
+
+
+
+————————————
+★☆☆   hoarse
+ / hɔ:s /◙ adjective
+1. (of a person's voice) sounding rough and harsh, typically as the result of a sore throat or of shouting  • （嗓音）嘶哑的，刺耳的
+ »a hoarse whisper.  嘶哑的耳语。
+
+【派生】♦ hoarsely adverb
+♦ hoarsen verb
+♦ hoarseness noun
+
+【语源】1. Old English hās, of Germanic origin; related to Dutch hees. The spelling with r was influenced in Middle English by an Old Norse cognate
+
+
+
+————————————
+★☆☆   hoarstone
+ / ˈhɔ:stəun /◙ noun
+1. [Brit.] (now only in place names) an ancient boundary stone  • [英] ［现只用于地名］（古代）界碑
+
+
+
+————————————
+★☆☆   hoary
+ / ˈhɔ:ri: , ˈhəʊri: /◙ (hoarier, hoariest)
+1. greyish-white  • 灰白的
+ »hoary cobwebs.  灰白色蜘蛛网。
+  (of a person) having grey or white hair; aged  • 头发花白的；上了年纪的
+ »young lasses imprisoned by hoary old husbands.  被上了年纪头发花白的丈夫禁锢的年轻妇女。
+  [attrib.] used in names of animals and plants covered with whitish fur or short hairs, e.g. hoary bat, hoary cress  • 灰白的［用于带白色皮毛或绒毛的动植物名称］
+2. old and trite  • 陈腐的
+ »the hoary old adage often used by Fleet Street editors.  经常被英国报纸编辑使用的陈腐老套的格言。
+
+【派生】♦ hoarily adverb
+♦ hoariness noun
+
+
+
+
+————————————
+★☆☆   hoary marmot◙ noun
+1. a large stocky greyish-brown marmot with a whistling call, found in the mountains of north-western North America  • 花白旱獭
+2. Marmota caligata, family Sciuridae  • 拉丁名Marmota caligata，松鼠科
+
+
+
+————————————
+★☆☆   hoatzin
+ / həuˈætsin /◙ noun
+1. a large tree-dwelling tropical American bird with weak flight. Young hoatzins have hooked claws on their wings, enabling them to climb about among the branches  • 麝雉，爪羽鸡
+2. Opisthocomus hoazin, the only member of the family Opisthocomidae (order Galliformes or Cuculiformes)  • 拉丁名Opisthocomus hoazin，麝雉科的唯一成员（鸡形目或鹃形目）
+
+【语源】1. mid 17th cent.: from American Spanish, from Nahuatl uatzin, probably imitative of its call
+
+
+
+————————————
+★☆☆   hoax
+ / həʊks /◙ noun
+1. a humorous or malicious deception  • 戏弄，恶作剧
+ »they recognized the plan as a hoax.  他们意识到该计划是一出恶作剧。
+ »[as modifier] he was accused of making hoax calls.  他被指控打恶作剧电话。
+◙ verb
+1. [with obj.] deceive with a hoax  • 戏弄，愚弄
+
+【派生】♦ hoaxer noun
+
+【语源】1. late 18th cent. (as a verb): probably a contraction of hocus
+
+
+
+————————————
+★☆☆   hob
+ / hɔb /hob¹
+◙ noun
+1. [Brit.] a cooking appliance, or the flat top part of a cooker, with hotplates or burners  • [英] 火巴（带扁平烤盘或火炉的烹饪器具，或炊具的平顶部分）
+  a flat metal shelf at the side of a fireplace, having its surface level with the top of the grate and used especially for heating pans  • 壁炉旁的金属搁架（尤用于供平底锅加热）
+2. a machine tool used for cutting gears or screw threads  • 滚刀，齿轮滚铣刀
+3. a peg or pin used as a mark in throwing games  • （投掷游戏中作为记号的）钉子，大头针
+
+【语源】1. late 16th cent. (in sense 3): alteration of hub. Sense 1, 'metal shelf by a fireplace', dates from the late 17th centhob²
+◙ noun
+1. a male ferret  • 雄雪貂。
+--› compare gill（义项2） 
+2. (archaic or dialect)a sprite or hobgoblin  • [古，方] 小精灵，妖怪
+
+【IDIOMS】◘ play (或 raise) hob
+1. [N. Amer.] cause mischief  • [北美] 淘气，捣蛋；破坏
+
+【语源】1. late Middle English (in the sense 'country fellow'): pet form of Rob, short for Robin or Robert, often referring specifically to Robin Goodfellow
+
+
+
+————————————
+★☆☆   Hobart
+ / ˈhəubɑ:t /1. the capital and chief port of ðasmania; pop. 12ˌ,130 (1ˌˌ1)  • 霍巴特（塔斯马尼亚州首府和主要港口；1991年人口127,130)
+
+【语源】1. named after Lord Hobart (1760–1816), Secretary of State for the Colonies
+
+
+
+————————————
+★☆☆   Hobbema
+ / ˈhɔbəmə /1. Meindert (1638–1ˌ0ˌ), Dutch landscape painter. æ pupil of ʊacob van ɔuisdael, he was one of the last 1ˌth-century Dutch landscape painters  • 霍贝玛，迈因德特(1638—1709，荷兰风景画画家，是雅各布•范•雷斯达尔的学生，17世纪荷兰最后的风景画画家之一）
+
+
+
+————————————
+★☆☆   Hobbes
+ / hɔbz /1. ðhomas (1ˈ88–16ˌˌ), ənglish philosopher. Hobbes was a materialist, claiming that there was no more to the mind than the physical motions discovered by science, and he believed that human action was motivated entirely by selfish concerns, notably fear of death. ɪn ɚeviathan (16ˈ1) he argued that absolute monarchy was the most rational, hence desirable, form of government  • 霍布斯，托马斯(1588—1679，英国哲学家；霍布斯是唯物主义者，声称对精神来说，只存在科学发现的物质运动，他相信人的行为完全为自私所驱使，特别是为对死亡的恐惧所驱使；在《利维坦》[1651] 中，他认为君主专制政体是最为理性因而最为可取的政府形式）
+
+【派生】♦ Hobbesian adjective
+
+
+
+
+————————————
+★☆☆   hobbit◙ noun
+1. a member of an imaginary race similar to humans, of small size and with hairy feet, in stories by J. R. R. Tolkien  • 穴居矮人(J•R•R•托尔金的故事中一种想象的种族，身材矮小，脚上多毛，类似人类）
+
+【派生】♦ hobbitry noun
+
+【语源】1. 1937: invented by Tolkien in his book The Hobbit, and said by him to mean 'hole-dweller'
+
+
+
+————————————
+★☆☆   hobble
+ / ˈhɔbəl /◙ verb
+1. [no obj., with adverbial of direction] walk in an awkward way, typically because of pain from an injury  • 蹒跚，跛行（尤指因为伤痛）
+ »he was hobbling around on crutches.  他拄着拐杖跛行。
+  (figurative)proceed haltingly in action or speech  • [喻] （行动）踌躇，迟疑；（言语）结结巴巴
+ »inertia and habit will keep it hobbling along.  惰性和习惯会让它很费力地前行。
+2. [with obj.] [常作 be hobbled] tie or strap together (the legs of a horse or other animal) to prevent it from straying. hopple  • 把（马等的腿）拴住（以免走失）
+  [with obj.] cause (a person or animal) to limp  • 使（人，动物）跛行
+ »Johnson was still hobbled slightly by an ankle injury.  约翰逊由于脚踝受伤，现在走路还有点瘸。
+  (figurative)be or cause a problem for  • [喻] （使）成为…的问题
+ »cotton farmers were hobbled by low prices.  低价给棉皮带来了麻烦。
+◙ noun
+1. [in sing.] an awkward way of walking, typically due to pain from an injury  • 蹒跚，跛行（尤指由于伤痛）
+ »he finished the match almost reduced to a hobble.  他比完赛后，几乎一瘸一拐了。
+2. a rope or strap used for hobbling a horse or other animal  • 缚马（或其他牲口的）绳索（或皮带）
+
+【派生】♦ hobbler noun
+
+【语源】1. Middle English: probably of Dutch or Low German origin and related to Dutch hobbelen 'rock from side to side'
+
+
+
+————————————
+★☆☆   hobblebush
+ / ˈhɔblbuʃ /◙ noun
+1. a North American viburnum which bears clusters of white or pink flowers and purple-black berries  • 桤叶荚蒾
+2. Viburnum alnifolium, family Caprifoliaceae  • 拉丁名Viburnum alnifolium，忍冬科
+
+
+
+————————————
+★☆☆   hobbledehoy
+ / ˈhɔbldiˈhɔi /(informal, dated)ə非正式，旧] 
+◙ noun
+1. a clumsy or awkward youth  • 笨拙的年轻人
+◙ adjective
+1. awkward or clumsy  • 笨拙的
+ »his hobbledehoy hands.  他笨拙的双手。
+
+【语源】1. mid 16th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   hobble skirt◙ noun
+1. a style of skirt so narrow at the hem as to impede walking, popular in the 1910s  • 窄底裙（流行于20世纪10年代，裙摆很窄，影响走路）
+
+
+
+————————————
+★☆☆   Hobbs1. Sir Jack (1882–1963), English cricketer; full name John Berry Hobbs. During his career (1905–1934) he scored 61,237 runs and 197 centuries, and made 61 test appearances for England  • 霍布斯，杰克爵士(1882—1963，英国板球队员，全名约翰•贝里•霍布斯；在他的职业生涯中[1905—1934] ，他得了61,237分，197个100分，代表英国参加61次决赛阶段的比赛）
+
+
+
+————————————
+★☆☆   hobby
+ / ˈhɔbi /hobby¹
+◙ (pl. -ies)
+1. an activity done regularly in one's leisure time for pleasure  • 业余爱好
+ »her hobbies are reading and gardening.  她的业余爱好是阅读和园艺。
+2. (archaic)a small horse or pony  • [古] 小马，马驹
+  (historical)an early type of velocipede  • [史] 早期脚踏车
+
+【语源】1. late Middle English hobyn, hoby, from pet forms of the given name Robin. Originally in sense 2 (compare with dobbin), it later came to denote a toy horse or hobby horse, hence 'a pastime, something done for pleasure'hobby²
+◙ (pl. -ies)
+1. a migratory Old World falcon with long narrow wings, catching dragonflies and birds on the wing  • 燕隼
+2. Genus Falco, family Falconidae: four species, e.g. the northern hobby [F. subbuteo] of Eurasia  • 隼属，隼科：4种，例如欧亚大陆的燕隼（拉丁名F. subbuteo）
+
+【语源】1. late Middle English: from Old French hobet, diminutive of hobe 'falcon'
+
+
+
+————————————
+★☆☆   hobby horse◙ noun
+1. a child's toy consisting of a stick with a model of a horse's head at one end  • （供儿童骑着玩的）马头杆
+  a rocking horse  • 摇马
+  a model of a horse or a horse's head, typically of wicker, used in morris dancing or pantomime  • 马形（或马头形）物（尤指枝条，用于莫利斯舞蹈或哑剧表演）
+2. a preoccupation; a favourite topic  • 使人全神贯注的事；喜欢的话题
+ »scientific visualization is another of his hobby horses.  科学想象是他的又一入神之事。
+
+
+
+————————————
+★☆☆   hobbyist
+ / ˈhɔbiist /◙ noun
+1. a person who pursues a particular hobby  • 有某种嗜好的人，爱好者
+ »a computer hobbyist.  电脑爱好者。
+
+
+
+————————————
+★☆☆   hobday◙ verb
+1. [with obj.] [Brit.] operate on (a horse) to improve its breathing by pinning back the vocal fold in the larynx  • [英] （给马）固定声带（使马更好地呼吸）
+
+【语源】1. 1930s: named after Sir Frederick T. G. Hobday (1869–1939), the British veterinary surgeon who introduced the technique
+
+
+
+————————————
+★☆☆   hobgoblin
+ / ˈhɔbˌgɔblɪn /◙ noun
+1. (in mythology and fairy stories) a mischievous imp or sprite  • （神话，童话中）淘气精灵
+  a fearsome mythical creature  • 妖怪，魔鬼
+
+【语源】1. mid 16th cent.: from hob + goblin
+
+
+
+————————————
+★☆☆   hobnail
+ / ˈhɔbneil /◙ noun
+1. a short heavy-headed nail used to reinforce the soles of boots  • 平头鞋钉
+  a blunt projection, especially in cut or moulded glassware  • （尤指雕刻或压模的玻璃器皿的）无峰凸状装饰物
+  [mass noun] glass decorated with such projections  • 浮雕玻璃
+
+【派生】♦ hobnailed adjective
+
+【语源】1. late 16th cent.: from hob + nail
+
+
+
+————————————
+★☆☆   hobnail liver◙ (也作 hobnailed liver), noun
+1. a liver having many small knobbly projections due to cirrhosis  • 结节性肝硬变，鞋钉状肝
+
+
+
+————————————
+★☆☆   hobnob
+ / ˈhɔbnɔb /◙ (hobnobbed, hobnobbing)
+1. [no obj.] [informal] mix socially, especially with those of perceived higher social status  • [非正式] （尤指与较高社会地位的人）社交，交往
+ »he was hobnobbing with the great and good.  他与要人与好人交往。
+
+【语源】1. early 19th cent. (in the sense drink together): from archaic hob or nob, hob and nob, probably meaning 'give and take', used by two people drinking to each other's health, from dialect hab nab 'have or not have'
+
+
+
+————————————
+★☆☆   hobo
+ / ˈhəubəu /◙ (pl. -oes 或 -os)
+1. [N. Amer.] a homeless person or migrant worker; a tramp  • [北美] 无家可归者；民工，季节工人；流浪汉
+
+【语源】1. late 19th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   Hobson's choice◙ noun
+1. a choice of taking what is available or nothing at all  • 无选择余地的选择
+
+【语源】1. mid 17th cent.: named after Thomas Hobson (1554–1631), a Cambridge carrier who hired out horses, giving the customer the ‘choice’ of the one nearest the door or none at all
+
+
+
+————————————
+★☆☆   Ho Chi Minh
+ / ˌhəʊ tʃi: ˈmɪn /1. ʒietnamese communist statesman (18ˌ0–1ˌ6ˌ), President of ŋorth ʒietnam 1ˌˈ4–6ˌ; born ŋguyen ðhat ðhanh. He led the ʒietminh against the ʊapanese during the Second θorld θar, fought the ʃrench until they were defeated in 1ˌˈ4 and ʒietnam was divided into ŋorth and South ʒietnam, and deployed his forces in the guerrilla struggle that became the ʒietnam θar  • 胡志明(1890—1969，越南共产主义政治家，1954—1969年间任北越主席；出生名阮必成；二战期间领导越盟抵抗日本人，与法国人打仗，直到1954年将他们击败，然后越南分成北越和南越，他指挥其军队开展了演变成越南战争的游击战）
+
+
+
+————————————
+★☆☆   Ho Chi Minh City1. official name (since 1975) for Saigon  • 胡志明市（1975年以后西贡的正式名称）
+
+
+
+————————————
+★☆☆   hock
+ / hɔk /hock¹
+◙ noun
+1. the joint in a quadruped's hind leg between the knee and the fetlock, the angle of which points backwards  • （四足动物的）跗关节，后踝
+2. a knuckle of meat, especially of pork or ham  • （尤指猪肉，火腿的）肘子
+
+【语源】1. late Middle English: variant of houghhock²
+◙ noun
+1. [mass noun] [Brit.] a dry white wine from the German Rhineland  • [英] 霍克酒（德国莱茵区产的一种干白葡萄酒）
+
+【语源】1. abbreviation of obsolete hockamore, alteration of German Hochheimer [Wein] ('wine) from Hochheim'hock³
+◙ verb
+1. [with obj.] [informal] deposit (an object) with a pawnbroker as security for money lent  • [非正式] 典当，抵押
+
+【IDIOMS】◘ in hock
+1. having been pawned  • 在典当中
+  in debt  • 负债
+ »East European states in hock to Western bankers.  欠西方银行家债的东欧国家。
+
+【语源】1. mid 19th cent. (in the phrase in hock): from Dutch hok 'hutch, prison, debt'
+
+
+
+————————————
+★☆☆   hocket◙ noun
+1. [Music] a spasmodic or interrupted effect in medieval and contemporary music, produced by dividing a melody between two parts, notes in one part coinciding with rests in the other  • [乐] 交替进行
+
+【派生】♦ hocketing noun
+
+【语源】1. late 18th cent.: from French hoquet 'hiccup'; in Old French the sense was 'hitch, sudden interruption' which also existed in Middle English
+
+
+
+————————————
+★☆☆   hockey
+ / ˈhɔki /hockey¹
+◙ noun
+1. [mass noun] a team game played between two teams of eleven players each, using hooked sticks with which the players try to drive a small hard ball towards goals at opposite ends of a field. It is also called field hockey to distinguish it from ice hockey  • 曲棍球（亦称field hockey，以与ice hockey相区别）
+2. The modern game of hockey was codified in 19th-century England, and is played particularly in Europe and the Commonwealth countries. Play begins with a bully or bully off, and the ball is propelled with the flat side of the stick. The field resembles a football pitch, but scoring shots must be played from inside a semicircular line painted around the small goal
+
+【派生】♦ hockeyist noun
+1. [N. Amer.] 
+
+【语源】1. early 16th cent.: of unknown originhockey²
+◙ noun
+1. variant spelling of oche  • 同 oche 
+
+
+
+————————————
+★☆☆   Hockney1. David (b.1937), English painter and draughtsman. He is best known for his association with pop art and for his Californian work of the mid 1960s, which depicts flat, almost shadowless architecture, lawns, and swimming pools  • 霍克内，大卫（生于1937年，英国画家和绘图师；他最出名的是从事通俗艺术的创作及其20世纪60年代创作的那幅加利福尼亚州的作品，它描绘了倒塌的、几乎无阴影的建筑物、草坪和游泳池）
+
+
+
+————————————
+★☆☆   Hocktide
+ / ˈhɔktaid /◙ noun
+1. (in England) a religious festival formerly kept on the second Monday and Tuesday after Easter, during which, in pre-Reformation times, money was raised for Church and parish purposes  • （英格兰）霍克节（宗教节日，以前在复活节后第二个星期一和星期二，在宗教改革前，其间为教堂和教区募捐）
+
+【语源】1. of unknown origin
+
+
+
+————————————
+★☆☆   hocus
+ / ˈhəukəs /◙ (hocussed, hocussing 或 hocused, hocusing), [with obj.] (archaic)[古] 
+1. deceive (someone)  • 欺骗（人）
+2. stupefy (someone) with drugs, typically for a criminal purpose  • （尤指为犯罪目的）使（人）麻醉
+  drug (liquor)  • （在酒里）下药
+ »you shall hocus his drink.  你必须在他的酒里下药。
+
+【语源】1. late 17th cent.: from an obsolete noun hocus 'trickery', from hocus-pocus
+
+
+
+————————————
+★☆☆   hocus-pocus
+ / ˈhəukəsˈpəukəs /◙ noun
+1. [mass noun] meaningless talk or activity, often designed to draw attention away from and disguise what is actually happening  • 胡诌，胡言乱语；花招（常为了分散注意力或掩饰真相）
+ »some people still view psychology as a lot of hocus-pocus.  一些人仍旧视心理学为一派胡言乱语。
+  a form of words often used by a person performing conjuring tricks  • 霍克斯波克思（施魔法时常用的话）
+
+【语源】1. early 17th cent.: from hax pax max Deus adimax, a pseudo-Latin phrase used as a magic formula by conjurors
+
+
+
+————————————
+★☆☆   hod
+ / hɔd /◙ noun
+1. a builder's V-shaped open trough on a pole, used for carrying bricks and other building materials  • （搬运砖块和其他建筑材料的V型）砖斗，灰砂斗，灰浆桶
+  a coal scuttle  • 煤桶，煤斗
+
+【语源】1. late 16th cent.: variant of northern English dialect hot 'a basket for carrying earth', from Old French hotte 'pannier', probably of Germanic origin
+
+
+
+————————————
+★☆☆   hodden
+ / ˈhɔdən /◙ noun
+1. [mass noun] (chiefly Scottish & N. English)a coarse woollen cloth  • [主苏格兰，主北英格兰] 粗织羊毛布，粗呢
+
+【语源】1. late 16th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   Hodeida
+ / həuˈdeidə /1. the chief port of Yemen, on the ɔed Sea; pop. 246,000 (est. 1ˌˌ3). ærabic name æl Hudayda  • 荷台达（也门共和国的主要港口，在红海畔；1993年估计人口246,000；。 阿拉伯语名 Al Hudayda）
+
+
+
+————————————
+★☆☆   Hodge◙ noun
+1. [Brit. archaic] used as a name for a typical English agricultural labourer  • [英古] 典型的英国农业工人，庄稼汉
+
+【语源】1. late Middle English: pet form of the given name Roger
+
+
+
+————————————
+★☆☆   hodgepodge
+ / ˈhɔdʒpɔdʒ /◙ noun
+1. [US] . variant of hotchpotch  • [美] 同 hotchpotch 
+
+【语源】1. late Middle English: changed by association with Hodge
+
+
+
+————————————
+★☆☆   Hodgkin
+ / ˈhɔdʒkin /Hodgkin¹
+1. Sir ælan ɚloyd (b.1ˌ14), ənglish physiologist. θith ændrew Huxley he demonstrated the role of sodium and potassium ions in the transmission of nerve impulses between cells. ŋobel Prize (1ˌ63)  • 霍奇金，艾伦•劳埃德爵士（生于1914年，英国生理学家，与安得鲁•赫胥黎一起证明了钠离子和钾离子在细胞间神经冲动的传递中的作用；1963年获诺贝尔奖）Hodgkin²
+1. Dorothy [Crowfoot] (1910–94), British chemist. She developed Sir Lawrence Bragg's X-ray diffraction technique for investigating the structure of crystals and applied it to complex organic compounds. Using this method she determined the structures of penicillin, vitamin B12, and insulin. Nobel Prize for Chemistry (1964)  • 霍奇金，多萝西（•克劳福特）(1910–1994，英国化学家，她发展了劳伦斯•布拉格爵士的X射线衍射技术来研究水晶的结构，并把它应用于复杂的有机化合物，用该方法她确定了青霉素、维生素B12和胰岛素的结构；1964年获诺贝尔化学奖）
+
+
+
+————————————
+★☆☆   Hodgkin's disease◙ noun
+1. [mass noun] a malignant though often curable disease of lymphatic tissues typically causing painless enlargement of the lymph nodes, liver, and spleen  • 何杰金氏病，淋巴肉芽肿病
+
+【语源】1. mid 19th cent.: named after Thomas Hodgkin (1798–1866), the English physician who first described it
+
+
+
+————————————
+★☆☆   hodiernal
+ / hɔdiˈə:nl /◙ adjective
+1. (rare)of or relating to the present day  • [罕] 如今的，现在的
+
+【语源】1. mid 17th cent.: from Latin hodiernus (from hodie 'today') + -al
+
+
+
+————————————
+★☆☆   hodman
+ / ˈhɔdmən /◙ (pl. -men)
+1. [Brit.] a labourer who carries a hod  • [英] 搬运灰泥砖瓦工
+
+
+
+————————————
+★☆☆   hodograph
+ / ˈhɔdəɡrɑ:f /◙ noun
+1. [Mathematics] a curve the radius vector of which represents in magnitude and direction the velocity of a moving object  • [数] 矢端曲线
+
+【语源】1. mid 19th cent.: from Greek hodos 'way' + -graph
+
+
+
+————————————
+★☆☆   hodoscope
+ / ˈhɔdəskəup /◙ noun
+1. [Physics] an instrument for observing the paths of subatomic particles, especially those arising from cosmic rays  • [物] 描迹仪，宇宙射线描迹仪
+
+【语源】1. early 20th cent. (denoting a microscope for examination of light paths in crystals): from Greek hodos 'way' + -scope. The current sense dates from the 1950s
+
+
+
+————————————
+★☆☆   Hoe1. Richard March (1812–86), American inventor and industrialist. In 1846 he became the first printer to develop a successful rotary press, which greatly increased the speed of printing  • 霍伊，理查德•马希(1812—1886，美国发明家和工业家，1846年成为第一位成功研制轮转印刷机的印刷商，这种印刷机极大地提高了印刷速度）
+
+
+
+————————————
+★☆☆   hoehoe¹
+◙ noun
+1. a long-handled gardening tool with a thin metal blade, used mainly for weeding  • （长柄）锄
+◙ (-oes, -oed, -oeing)
+1. [with obj.] use a hoe to dig (earth) or thin out or dig up (plants)  • 用锄挖（土）；用锄间苗；用锄掘起（庄稼）
+
+【派生】♦ hoer noun
+
+【语源】1. Middle English: from Old French houe, of Germanic origin; related to German Haue, also to hew
+
+【PHR V】◘ hoe in
+1. [Austral./NZ informal] eat eagerly  • [澳/新西兰，非正式] 狼吞虎咽
+◘ hoe into
+1. [Austral./NZ informal] attack or criticize  • [澳/新西兰，非正式] 攻击，批评hoe²
+◙ noun
+1. variant spelling of ho  • 同 ho 
+
+
+
+————————————
+★☆☆   hoecake
+ / ˈhəukeik /◙ noun
+1. [US] a coarse cake of maize flour, originally baked on the blade of a hoe  • [美] 锄头玉米饼（因原先置于锄板上烘烤而得名）
+
+
+
+————————————
+★☆☆   hoedown
+ / ˈhəudaun /◙ noun
+1. [N. Amer.] a social gathering at which lively folk dancing takes place  • [北美] 欢闹的民间舞会
+  a lively folk dance  • 欢闹的民间舞
+
+
+
+————————————
+★☆☆   Hoek van Holland
+ / ˌhuk vɑn ˈhɔlɑnt /1. Dutch name for Hook of Holland  • [荷兰] 同 Hook of Holland 
+
+
+
+————————————
+★☆☆   Hofei
+ / ˈhəˈfei /1. variant of Hefei  • 同 Hefei 
+
+
+
+————————————
+★☆☆   Hoffa
+ / ˈhɔfə /1. ʊimmy (1ˌ13–c.ˌˈ), æmerican trade union leader; full name ʊames ɔiddle Hoffa. President of the ðeamsters union from 1ˌˈˌ, he was imprisoned in 1ˌ6ˌ–ˌ1 for attempted bribery of a federal court judge, fraud, and looting pension funds. He disappeared in 1ˌˌˈ, and is thought to have been murdered  • 霍法，吉米(1913—约1975，美国工会领袖；全名詹姆斯•里德尔•霍法，1957年起任卡车司机、汽车司机、仓库工人和佣工国际工人兄弟会主席，1967—1971年间因企图贿赂联邦法官、诈骗和掠夺养老金基金而被监禁；1975年失踪，据猜测已被杀害）
+
+
+
+————————————
+★☆☆   Hoffman
+ / ˈhɔfmən /1. Dustin əɚee] (b.1ˌ3ˌ), æmerican actor. æ versatile method actor, he won Oscars for Kramer vs Kramer (1ˌˌˌ) and ɔain Man (1ˌ8ˌ). Other notable films: ðhe Graduate (1ˌ6ˌ) and ðootsie (1ˌ83)  • 霍夫曼，达斯汀（•李）（生于1937年，美国演员，是一位性格演员，因主演《克莱默夫妇》[1979] 和《雨人》[1989] 而获奥斯卡奖；其他著名影片有：《毕业生》[1967] 和《宝贝儿》[1983] ）
+
+
+
+————————————
+★☆☆   Hoffmann
+ / ˈhɔfmən /1. ə. ð. æ. (1ˌˌ6–1822), German novelist, short-story writer, and music critic; full name ərnst ðheodor æmadeus Hoffmann. His extravagantly fantastic stories provided the inspiration for Offenbach's opera ðales of Hoffmann (1881)  • 霍夫曼，E•T•A(1776—1822，德国长、短篇小说家和音乐评论家；全名恩斯特•特奥多尔•阿马多伊斯•霍夫曼，他那极富想象力的故事给奥芬巴赫的歌剧《霍夫曼的故事》[1981] 提供了灵感）
+
+
+
+————————————
+★☆☆   Hofmannsthal
+ / ˈhɔfmənzˌtɑ:l /1. Hugo von (18ˌ4–1ˌ2ˌ), æustrian poet and dramatist. He wrote the libretti for many of the operas of ɔichard Strauss, including əlektra (1ˌ03). θith Strauss and Max ɔeinhardt he helped found the Salzburg ʃestival  • 霍夫曼斯塔尔，胡戈•范(1874—1929，奥地利诗人和剧作家，他为理查德•施特劳斯的歌剧写了许多剧本，包括1903年的《埃勒克特拉》；与斯特劳斯和马克斯•赖因哈特一起，他促成了萨尔茨堡音乐戏剧会演节的设立）
+
+
+
+————————————
+★☆☆   hog
+ / hɔ:g , hɔg /◙ noun
+1. a domesticated pig, especially a castrated male reared for slaughter  • 家养猪（尤指阉割过供屠宰的公猪）
+  a feral pig  • 野猪
+  a wild animal of the pig family, for example a warthog  • 猪科野生动物，例如疣猪
+  [informal] [非正式] a greedy person  • 贪婪的人
+2. (也作 hogg)(dialect)a young sheep before the first shearing  • [方] （第一次剪毛前的）小绵羊
+3. [informal] a large motorcycle  • [非正式] 大号摩托车
+◙ (hogged, hogging), [with obj.] 
+1. [informal] keep or use all of (something) for oneself in an unfair or selfish way  • [非正式] （不公平或自私地）全部占有（或使用）
+ »he never hogged the limelight.  他从不抢风头。
+2. [一般作 be hogged] distort (a ship) by supporting it in the centre and allowing the bow and stern to droop  • 使船中拱
+
+【IDIOMS】◘ go the whole hog
+1. [informal] do something completely or thoroughly  • [非正式] 彻底地干，干到底
+◘ live high on (或 off) the hog
+1. [N. Amer. informal] [北美，非正式] have a luxurious lifestyle  • 生活奢华
+
+【派生】♦ hogger noun
+♦ hoggery noun
+♦ hoggish adjective
+♦ hoggishly adverb
+♦ hog-like adjective
+
+【语源】1. late Old English hogg, hocg, perhaps of Celtic origin and related to Welsh hwch and Cornish hoch 'pig, sow'
+
+
+
+————————————
+★☆☆   hogan
+ / ˈhəuɡən /◙ noun
+1. a traditional Navajo Indian hut of logs and earth  • 泥盖木屋（传统的纳瓦霍印第安人用原木和泥土构筑）
+
+【语源】1. Navajo
+
+
+
+————————————
+★☆☆   Hogan1. Ben (1912–97), American golfer; full name William Benjamin Hogan. His many victories include winning the US Open, the US Masters, and the British Open in 1953, together with three other victories in the US Open, and one in the US Masters  • 霍根，本（1912-1997，美国高尔夫球运动员；全名威廉•本杰明•霍根，1953年在美国公开赛、美国锦标赛和英国公开赛中获胜；并另外三次在美国公开赛中获胜，一次在美国锦标赛中获胜）
+
+
+
+————————————
+★☆☆   Hogarth
+ / ˈhəuɡɑ:θ /1. θilliam (16ˌˌ–1ˌ64), ənglish painter and engraver. ŋotable works include his series of engravings on ‘modern moral subjects’, such as æ ɔake's Progress (1ˌ3ˈ), which satirized the vices of both high and low life in 18th-century əngland  • 贺加斯，威廉(1697—1764，英国画家和雕刻家，著名的作品包括关于“现代道德主题”的系列雕刻，例如1735年的《浪子生涯》，讽刺地描绘了18世纪英格兰上层和下层社会的罪恶）
+
+【派生】♦ Hogarthian adjective
+
+
+
+
+————————————
+★☆☆   hogback
+ / ˈhɔɡbæk /◙ (也作 hog's back), noun
+1. a long hill or mountain ridge with steep sides  • 豚脊丘，猪背岭，陡峭的山脊
+
+
+
+————————————
+★☆☆   hog badger◙ noun
+1. a badger with a long mobile snout and dark facial stripes, found in the forests of east Asia  • 猪獾
+2. Arctonyx collaris, family Mustelidae  • 拉丁名Arctonyx collaris，鼬科
+
+
+
+————————————
+★☆☆   hog deer◙ noun
+1. a short-legged heavily built deer having a yellow-brown coat with darker underparts, found in grasslands and paddy fields in SE Asia  • 猪鹿
+2. Cervus porcinus, family Cervidae  • 拉丁名Cervus porcinus，鹿科
+
+
+
+————————————
+★☆☆   hogfish
+ / ˈhɔɡfiʃ /◙ [复同单，或 -fishes] 
+1. a colourful wrasse that occurs chiefly in the warm waters of the western Atlantic, often acting as a cleaner fish for other species  • 豚鱼，猪鱼
+2. Several genera and species in the family Labridae, in particular the large edible Lachnolaimus maximus  • 隆头鱼科有数属，数种，尤指可食的猪鱼
+
+
+
+————————————
+★☆☆   Hogg1. James (1770–1835), Scottish poet. A shepherd in the Ettrick Forest whose poetic talent was discovered by Sir Walter Scott, he is best known today for his prose work The Confessions of a Justified Sinner (1824)  • 霍格，詹姆斯(1770—1835，苏格兰诗人，曾是埃特里克森林的牧羊人，他的诗歌才华被沃尔特•司各特爵士发现，如今因其1824年的散文体作品《一个被开释的罪人的忏悔》而闻名）
+
+
+
+————————————
+★☆☆   hogg
+ / hɔɡ /◙ noun
+1. variant spelling of hog (in sense 3)  • 同 hog （义项3）
+
+
+
+————————————
+★☆☆   Hoggar Mountains
+ / ˈhɔgə /1. a mountain range in the Saharan desert of southern ælgeria, rising to a height of 2,ˌ18 m (ˌ,ˈˌ3 ft) at ðahat  • 霍加尔山脉（阿尔及利亚南部撒哈拉沙漠的山脉，在塔哈特山高达2,918米，即9,573英尺）。(亦称 Ahaggar Mountains)
+
+
+
+————————————
+★☆☆   hogget
+ / ˈhɔɡit /◙ noun
+1. [Brit.] a yearling sheep  • [英] 一岁的绵羊
+  [NZ] a lamb between weaning and first shearing  • [新西兰] （断奶后未剪过毛的）羊羔
+
+【语源】1. late Middle English (applied also to a young boar): from hog + -et
+
+
+
+————————————
+★☆☆   hoggin
+ / ˈhɔɡiŋ /◙ noun
+1. [mass noun] a mixture of sand and gravel, used especially as hard core in road-building  • 夹沙砾石（尤指用于筑路的坚硬核心）
+
+【语源】1. mid 19th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   hog heaven◙ noun
+1. [mass noun] [N. Amer. informal] a place or condition of foolish or idle bliss  • [北美，非正式] 傻帽儿似的幸福感；自我陶醉；自得其乐的心情；享受清福之地
+ »Cutty was in hog heaven when he strutted around with the cadet corps.  卡提和男生军训队一起昂首阔步的时候得意极了。
+
+
+
+————————————
+★☆☆   hog line◙ noun
+1. [Curling] a line marked across either end of a curling rink at one sixth of the rink's length from the tee. No sweeping is allowed until a stone has crossed the first line  • [冰上溜石] 猪线，七码线
+
+
+
+————————————
+★☆☆   Hogmanay
+ / ˌhɔgməˈneɪ , ˈhɔgməˌneɪ /◙ noun
+1. (in Scotland) New Year's Eve, and the celebrations that take place at this time  • （苏格兰）除夕，除夕的庆祝活动
+
+【语源】1. early 17th cent.: perhaps from hoguinané, Norman French form of Old French aguillanneuf 'last day of the year, new year's gift'
+
+
+
+————————————
+★☆☆   hog-nosed bat◙ noun
+1. a tiny insectivorous bat with a piglike nose and no tail, native to Thailand. It is the smallest known bat  • 凹脸蝠
+2. Craseonycteris thonglongyai, the only member of the family Craseonycteridae  • 拉丁名Craseonycteris thonglongyai，凹脸蝠科的惟一成员
+
+
+
+————————————
+★☆☆   hog-nosed skunk◙ noun
+1. an American skunk with a bare elongated snout and a black face, found in rugged terrain  • 獾臭鼬
+2. Genus Conepatus, family Mustelidae: several species  • 獾臭鼬属，鼬科：数种
+
+
+
+————————————
+★☆☆   hognose snake◙ (也作 hog-nosed snake), noun
+1. a harmless burrowing American snake with an upturned snout. When threatened it inflates itself with air and hisses, and may feign death. Also called puff adder in North America  • 猪鼻蛇。 北美亦称 puff adder
+2. Genus Heterodon, family Colubridae: several species  • 猪鼻蛇属，遊蛇科：数种
+
+
+
+————————————
+★☆☆   hognut
+ / ˈhɔɡnʌt /◙ noun
+1. another term for earthnut (in sense 1)  • 同 earthnut （义项1）
+
+
+
+————————————
+★☆☆   hog plum◙ noun
+1. a tropical tree which bears edible plum-like fruit, in particular  • 槟榔青，尤指
+2. a Caribbean tree with yellow fruit [Spondias mombin, family Anacardiaceae] [American hog plum] an American tree with bitter fruit and timber that is used as a sandalwood substitute [Ximenia americana, family Olacaceae]  • 槟榔青（一种加勒比海树木，结黄色果实。拉丁名Spondias mombin，漆树科） 西门木（一种美洲树木，果实苦，木材用作檀香木的替代物。拉丁名Ximenia americana，铁青树科）
+
+【语源】1. late 17th cent.: so named because the fruit is common food for hogs in the West Indies and Brazil
+
+
+
+————————————
+★☆☆   hog's back◙ noun
+1. variant spelling of hogback  • 同 hogback 
+
+
+
+————————————
+★☆☆   hogshead
+ / ˈhɔɡzhed /◙ [缩略语：hhd] , noun
+1. a large cask  • 大桶
+  a measure of capacity for wine, equal to 52.5 imperial gallons or 63 US gallons (238.7 litres)  • 豪格海（葡萄酒的液量单位，相当于52.5英制加仑或63美国加仑，即 238.7升）
+  a measure of capacity for beer, equal to 54 imperial gallons or 64 US gallons (245.5 litres)  • 豪格海（啤酒的液量单位，相当于54英制加仑或64美国加仑，即245.5升）
+
+【语源】1. Middle English: from hog + head; the reason for the term is unknown
+
+
+
+————————————
+★☆☆   hog-tie◙ verb
+1. [N. Amer.] [with obj.] secure by fastening the hands and feet or all four feet together  • [北美] 捆住手脚，把…四肢捆在一起
+  (figurative)impede or hinder greatly  • [喻] （极大地）束缚，阻碍
+
+
+
+————————————
+★☆☆   hogwash
+ / ˈhɔɡwɔʃ /◙ noun
+1. [mass noun] [informal] nonsense  • [非正式] 胡说，废话
+
+【语源】1. mid 15th cent.: from hog + wash; the original sense was 'kitchen swill for pigs'
+
+
+
+————————————
+★☆☆   hogweed
+ / ˈhɔɡwi:d /◙ noun
+1. [mass noun] a large, coarse, white-flowered weed of the parsley family, native to north temperate regions and formerly used as forage for pigs  • 猪草
+2. Genus Heracleum, family Umbelliferae: several species, in particular the common European H. sphondylium and the introduced giant hogweed [H. mantegazzianum]  • 独活属，伞形科，数种，尤指欧洲常见的独活和引进的大猪草（拉丁名H. mantegazzianum）
+
+
+
+————————————
+★☆☆   hog-wild◙ adjective
+1. [N. Amer. informal] out of control  • [北美，非正式] 失控的
+
+
+
+————————————
+★☆☆   Hohenstaufen
+ / ˈhəʊənˌʃtæʊf(ə)n /1. a German dynastic family, some of whom ruled as Holy ɔoman emperors between 1138 and 12ˈ4, among them ʃrederick ɪ əɑarbarossa]  • 霍亨斯陶芬王室（一德意志王室家族，其中有一些成员在1138—1254年间任神圣罗马帝国皇帝，包括腓特烈一世［巴尔巴罗萨］）
+
+
+
+————————————
+★☆☆   Hohenzollern
+ / ˈhəuəntsələn /1. a German dynastic family from which came the kings of Prussia from 1ˌ01 to 1ˌ18 and German emperors from 18ˌ1 to 1ˌ18  • 霍亨索伦王室（一德意志王室家族，其中有1701—1918年的普鲁士国王，1871—1918年的德意志皇帝）
+
+
+
+————————————
+★☆☆   Hohhot
+ / ˈhəuˈhɔt /◙ (也作 Huhehot)
+1. the capital of Inner Mongolia autonomous region, NE China; pop. 1,206,000 (1990). Former name (until 1954) Kwesui  • 呼和浩特（中国东北部内蒙古自治区首府；1990年人口1,206,000；。 在1954年前旧称 Kwesui
+
+
+
+————————————
+★☆☆   ho ho◙ exclamation
+1. representing deep, exuberant laughter  • 嗬嗬（表示低沉而充满喜悦的笑声）
+  used to express triumph, especially at a discovery  • 嗬嗬（表示高兴，尤指发现什么的时候）
+ »Ho ho! A stranger in our midst!.  嗬嗬！我们中间的一个陌生人！。
+
+【语源】1. mid 16th cent.: reduplication of ho
+
+
+
+————————————
+★☆☆   ho-hum
+ / ˈhəuˈhʌm /◙ exclamation
+1. used to express boredom or resignation  • 嗬-哼姆（表示厌倦或屈从）
+◙ adjective
+1. boring  • 乏味的，无聊的
+ »a ho-hum script.  一部令人乏味的剧本。
+
+【语源】1. 1920s: imitative of a yawn
+
+
+
+————————————
+★☆☆   hoick
+ / hɔik /əɑrit. informal] ə英，非正式] 
+◙ verb
+1. [with obj. and adverbial of direction] lift or pull abruptly or with effort  • 猛拉（或提)，使劲拉（或提）
+ »she hoicked her bag on to the desk.  她使劲把包拉到书桌上。
+◙ noun
+1. an abrupt pull  • 猛拉
+
+【语源】1. late 19th cent.: perhaps a variant of hike
+
+
+
+————————————
+★☆☆   hoicks
+ / hɔɪks /◙ exclamation
+1. variant of yoicks  • 同 yoicks 
+
+
+
+————————————
+★☆☆   hoi polloi
+ / ˌhɔɪ pɔˈlɔɪ /◙ plural noun
+1. [一般作 the hoi polloi] [derogatory] the masses; the common people  • [贬] 民众，草民；乌合之众
+ »avoid mixing with the hoi polloi.  不要与乌合之众混在一起。
+
+【语源】1. mid 17th cent.: Greek, literally the many'
+
+【用法】1. 1 To those in the know, hoi is the Greek word for the definite article the (nominative masculine plural); the phrase hoi polloi thus translates as ‘the many’. This knowledge has led some traditionalists to insist that hoi polloi should not be used in English with the, since that would be to state the word the twice. Such arguments miss the point: once established in English, expressions such as hoi polloi are treated as a fixed unit and are subject to the rules and conventions of English. Evidence shows that use with the has now become an accepted part of standard English usage.2 Hoi polloi is sometimes used incorrectly to mean ‘upper class’, i.e. the exact opposite of its normal meaning. It seems likely that the confusion arose by association with the similar-sounding but otherwise unrelated word hoity-toity
+
+
+
+————————————
+★☆☆   hoisin
+ / ˈhɔɪzɪn /◙ (也作 hoisin sauce), noun
+1. [mass noun] a sweet, spicy dark red sauce made from soya beans, vinegar, sugar, garlic, and various spices, widely used in southern Chinese cooking  • 海鲜酱（由酱油、醋、糖、蒜及各种香料制成的甜辣深红色酱，在华南广泛用于烹饪）
+
+
+
+————————————
+★☆☆   hoist
+ / hɔist /◙ verb
+1. [with obj.] raise (something) by means of ropes and pulleys  • （用绳索和滑轮装置）升起
+ »a white flag was hoisted.  一面白旗升起来了。
+  [with obj. and adverbial] raise or haul up  • 抬高，提起，举起
+ »she hoisted her backpack on to her shoulder.  她把背包举到自己的肩上。
+◙ noun
+1. an act of raising or lifting something  • 升起，提起，举起
+  (figurative)an act of increasing something  • [喻] 增加，抬高
+ »the government's interest rate hoist.  政府的利率提高。
+  an apparatus for lifting or raising something  • 升吊器械，起重机
+2. the part of a flag nearest the staff  • 旗宽（贴近旗杆的部分）
+3. a group of flags raised as a signal  • （一串）信号旗
+
+【IDIOMS】◘ hoist one's flag
+1. (of an admiral) take up command  • 升起（舰队司令）旗帜，（舰队司令）开始行使指挥权
+◘ hoist the flag
+1. stake one's claim to discovered territory by displaying a flag  • 升旗（表示拥有所发现的领土）
+◘ hoist with one's own petard --› see petard 
+
+【派生】♦ hoister noun
+
+【语源】1. late 15th cent.: alteration of dialect hoise, probably from Dutch hijsen or Low German hiesen, but recorded earlier
+
+
+
+————————————
+★☆☆   hoity-toity
+ / ˈhɔitiˈtɔiti /◙ adjective
+1. haughty ; snobbish  • 傲慢的；势利的
+ »a hoity-toity little madam.  一位傲慢的小女子。
+2. (archaic)frolicsome  • [古] 嬉闹的，顽皮的
+
+【语源】1. mid 17th cent. (in the sense 'boisterous or silly behaviour': from obsolete hoit 'indulge in riotous mirth', of unknown origin
+
+
+
+————————————
+★☆☆   hok
+ / hɔk, hɔ:k /◙ (也作 hokkie), noun
+1. [S. African] an enclosure for domestic animals  • [南非] （关家禽的）围栏
+  a small hut  • 小屋
+
+【语源】1. Afrikaans
+
+
+
+————————————
+★☆☆   Hokan
+ / ˈhəʊkæn /◙ adjective
+1. relating to or denoting a group of American Indian languages of California and western Mexico, considered as a possible language family. They include Yuman, Mojave, and several other languages now extinct or almost so  • 霍卡语族（加利福尼亚州和墨西哥州西部的美洲印第安语群，被认为是可能存在的语族，包括尤马语、莫哈维语和其他几种已消亡或几乎消亡的语言）的
+◙ noun
+1. [mass noun] this hypothetical language family  • 霍卡语族
+
+【语源】1. from Hokan hok 'about two' + -an
+
+
+
+————————————
+★☆☆   hoke
+ / həuk /◙ verb
+1. [with obj.] (informal, chiefly N. Amer.)(of an actor) act (a part) in an insincere, sentimental, or melodramatic manner  • [非正式，主北美] （演员）虚假（或多愁善感、夸张）地表演
+ »just try it straight—don't hoke it up.  试着自然些——不要矫饰。
+
+【语源】1. early 20th cent.: back-formation from hokum
+
+
+
+————————————
+★☆☆   hokey
+ / ˈhəuki /◙ (hokier, hokiest)
+1. [N. Amer. informal] mawkishly sentimental  • [北美，非正式] 虚情假意的，矫揉造作的
+ »a hokey tear jerker.  矫揉造作的眼泪制造者。
+  noticeably contrived  • 明显不自然的，显然人为的
+ »a hokey country-western accent.  明显不自然的西部乡村口音。
+
+【派生】♦ hokeyness noun
+1. (也作 hokiness)
+
+【语源】1. 1940s: from hokum + -y
+
+
+
+————————————
+★☆☆   hokey-cokey◙ noun
+1. a communal dance performed in a circle with synchronized shaking of the limbs in turn, accompanied by a simple song  • 霍基-科基舞
+
+【语源】1. 1940s: perhaps from hocus-pocus
+
+
+
+————————————
+★☆☆   hokey-pokey◙ noun, [informal] [非正式] 
+1. [mass noun] [dated] ice cream sold on the street, especially by Italian street vendors  • [旧] （尤指意大利街头小贩叫卖的）冰淇淋
+  [NZ] a kind of brittle toffee or a type of toffee-flavoured ice cream  • [新西兰] 太妃冰淇淋
+2. (the hokey-pokey). US term for hokey-cokey  • [美] 同 hokey-cokey 
+
+【语源】1. late 19th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   hoki
+ / ˈhəʊki /◙ noun
+1. an edible marine fish related to the hakes, found off the southern coasts of New Zealand  • 新西兰长尾鳕
+2. Macruronus novaezeelandiae, family Macruronidae  • 拉丁名Macruronus novaezeelandiae，鼠鳕科
+
+【语源】1. late 19th cent.: from Maori
+
+
+
+————————————
+★☆☆   Hokkaido
+ / hɔˈkaidəu /1. the most northerly of the four main islands of ʊapan, constituting an administrative region; pop. ˈ,644,000 (1ˌˌ0); capital, Sapporo  • 北海道（日本四大岛中最北的一个，是一个行政区；1990年人口5,644,000；首府札幌）
+
+
+
+————————————
+★☆☆   hokku
+ / ˈhɔku: /◙ [复同单] 
+1. another term for haiku  • 同 haiku 
+
+【语源】1. Japanese, literally opening verse' (of a linked sequence of comic verses)
+
+
+
+————————————
+★☆☆   hokonui
+ / ˈhɔkənui /◙ noun
+1. [mass noun] [NZ] illicitly distilled spirits, especially whisky  • [新西兰] 违法酿造的烈酒（尤指威士忌）
+
+【语源】1. from a Maori place name
+
+
+
+————————————
+★☆☆   hokum
+ / ˈhəukəm /◙ noun
+1. [mass noun] [informal] nonsense  • [非正式] 胡言乱语，废话
+ »they dismissed such corporate homilies as boardroom hokum.  他们把这类公司说教看作是会议室内的胡说八道而不予理会。
+  trite, sentimental, or unrealistic situations and dialogue in a film, play, or piece of writing  • （电影、戏剧或文章中）陈腐（或伤感、不切实际）的情节和对话
+ »classic B-movie hokum.  典型的二流电影的俗套情节。
+
+【语源】1. early 20th cent.: of unknown origin
+
+
+
+————————————
+★☆☆   Hokusai
+ / ˈhəʊkʊsaɪ, ˌhəʊkʊˈsaɪ /1. Katsushika (1ˌ60–184ˌ), ʊapanese painter and wood engraver. æ leading artist of the ukiyo-e school, he represented aspects of ʊapanese everyday life in his woodcuts and strongly influenced əuropean ɪmpressionist artists  • 北斋，葛饰(1760—1849，日本画家和木刻家，是浮世绘派的领先人物，他在木刻中表现了日本人日常生活的方方面面，极大地影响了欧洲印象派艺术家）
+
+
+
+————————————
+★☆☆   Holarctic
+ / hɔˈlɑ:ktik /◙ adjective
+1. [Zoology] of, relating to, or denoting a zoogeographical region comprising the Nearctic and Palaearctic regions combined. The two continents have been linked intermittently by the Bering land bridge, and the faunas are closely related  • [动] 泛北极的
+  [as noun the Holarctic] the Holarctic region  • 全北区
+
+【语源】1. late 19th cent.: from holo- 'whole' + Arctic
+
+
+
+————————————
+★☆☆   Holbein
+ / ˈhɔlbaɪn /1. Hans (14ˌˌ–1ˈ43), German painter and engraver; known as Holbein the Younger. He became a well-known court portraitist in əngland and was commissioned by Henry ʒɪɪɪ to supply portraits of the king's prospective brides. ŋotable works: Dance of Death (series of woodcuts, c.1ˈ23–6); ænne of ɔleves (miniature, 1ˈ3ˌ)  • 霍尔拜因，汉斯（1497—1543，德国画家和雕刻师；通称“小霍尔拜因”，他在英格兰成为一位著名的宫廷肖像画家，并受亨利八世委托提供国王未来新娘的肖像；著名作品：木刻系列《死亡舞蹈》［约1523—1526]；小画像《克利夫斯的安妮》[1539] ）
+
+
+
+————————————
+★☆☆   hold
+ / həuld /hold¹
+◙ (past and past participle held )
+1. [with obj.] grasp, carry, or support with one's arms or hands  • 抓住，拿着，托住，夹住
+ »she was holding a brown leather suitcase.  她拎着一只棕色的皮箱。
+ »[no obj.] he held on to the back of a chair.  他抓住椅背。
+  [with obj. and adverbial] keep or sustain in a specified position  • 使保持（特定的状态）
+ »I held the door open for him.  我为他开着门。
+ »the people are held down by a repressive military regime.  人们受到残酷的军事政权的压制。
+  embrace (someone)  • 拥抱
+ »Mark pulled her into his arms and held her close.  马克把她拉入怀中，紧紧地拥抱着她。
+  (hold something up)support and prevent from falling  • 支撑
+ »concrete pillars hold up the elevated section of the railway.  混凝土柱子支撑着高架铁路部分。
+  be able to bear (the weight of a person or thing)  • 能承受（重量)，能支撑
+ »I reached up to the nearest branch which seemed likely to hold my weight.  我伸手去够离我最近的看上去能支撑我体重的树枝。
+  (of a vehicle) maintain close contact with (the road), especially when driven at speed  • （尤指车辆高速行驶中）紧贴（路面）
+ »the car holds the corners very well.  车在转弯时紧贴着路面。
+  (of a ship or an aircraft) continue to follow (a particular course)  • （船，飞机）沿（一特定航线）继续前行
+ »the ship is holding a south-easterly course.  这艘船正沿东南方向的航线航行。
+  [no obj., with adverbial of direction] (archaic)keep going in a particular direction  • [古] （沿某一特定方向）继续前行
+ »he held on his way, close behind his friend.  他继续向前走，紧跟在他朋友后面。
+2. [with obj.] keep or detain (someone)  • 拘留
+ »the police were holding him on a murder charge.  警察因谋杀罪而将他拘留。
+ »[with obj. and complement] she was held prisoner for two days.  她被拘留了两天。
+  keep possession of (something), typically in the face of a challenge or attack  • （尤指面对挑战或攻击时）占有，控制
+ »the rebels held the town for many weeks.  叛军占领该镇许多个星期。
+ »[no obj.] White managed to hold on to his lead.  怀特设法成功地保住了他的领先地位。
+  keep (someone's interest or attention)  • 保持（某人的兴趣，注意力）
+  (of a singer or musician) sustain (a note)  • （歌唱家，音乐家）持续（一种音符）
+  stay or cause to stay at a certain value or level  • （使）保持（价值、水平）
+ »[no obj.] MCI shares held at 77p.  微波通信公司的股票保持在77美分。
+ »[with obj.] he is determined to hold down inflation.  他决定抑制通货膨胀。
+  (in sport) manage to achieve a draw against (opponents thought likely to win)  • （运动）（认为对手可能赢的情况下）设法战成平局
+ »AC Milan were held to a 1–1 draw by Udinese.  AC米兰队被乌迪那队战成1比1平。
+3. [no obj.] remain secure, intact, or in position without breaking or giving way  • 稳定
+ »the boat's anchor would not hold.  船锚不稳。
+  (of a favourable condition or situation) continue without changing  • （有利的条件，情形）持续不变
+ »let's hope her luck holds.  让我们祝愿她一直有好运。
+  be or remain valid or available  • （持续）有效，（继续）存在
+ »I'll have that coffee now, if the offer still holds.  如果还提供的话，我现在就喝那咖啡。
+  (of an argument or theory) be logical, consistent, or convincing  • （论点，理论）合乎逻辑，前后一致，令人信服
+ »their views still seem to hold up extremely well.  他们的观点看来仍然十分令人信服。
+  (hold to)refuse to abandon or change (a principle or opinion)  • 坚持（原则，见解）
+  [with obj.] (hold someone to)cause someone to adhere to (a commitment)  • 使人遵守（承诺）
+4. [with obj.] contain or be capable of containing (a specified amount)  • 容纳，能装（规定的量）
+ »the tank held twenty-four gallons.  该罐能装24加仑。
+  be able to drink (a reasonable amount of alcohol) without becoming drunk or suffering any ill effects  • 能喝（适量的烈酒)，有酒量
+ »I can hold my drink as well as anyone.  我的酒量不比任何人差。
+  have or be characterized by  • 有，有…的特征
+ »I don't know what the future holds.  我不知道未来是什么样子。
+5. [with obj.] have in one's possession  • 拥有
+ »the managing director still holds fifty shares in the company.  总裁仍拥有公司50%的股份。
+  [no obj.] [N. Amer. informal] be in possession of illegal drugs  • [北美，非正式] 携有违禁毒品
+ »he was holding, and the police hauled him off to jail.  他携有违禁毒品，警察把他押进了监狱。
+  have or occupy (a job or position)  • 拥有（或占有）（工作，职位）
+  [with obj.] have or adhere to (a belief or opinion)  • 持有（或坚持）（信仰，见解）
+ »I feel nothing but pity for someone who holds such chauvinistic views.  我只是为持有这种沙文主义观点的人感到可怜。
+ »[with clause] they hold that all literature is empty of meaning.  他们认为所有的文学作品都没有意义。
+  [with obj. and complement] consider (someone) to be responsible or liable for a particular situation  • 认为（某人对某一特定情形）有责任
+ »you can't hold yourself responsible for what happened.  你不可能认为自己应对发生的事负责。
+  (hold someone/thing in)regard someone or something with (a specified feeling)  • 以（某种感情）认为（人，物）
+ »the speed limit is held in contempt by many drivers.  许多驾驶员对车辆限速不屑一顾。
+  [with clause] (of a judge or court) rule; decide  • （法官，法庭）裁决，判决
+ »the Court of Appeal held that there was no evidence to support the judge's assessment.  上诉法院裁决没有证据支持法官的评估。
+6. [with obj.] keep or reserve for someone  • 为（人）保留
+ »a booking can be held for twenty-four hours.  预约可以保留24小时。
+  prevent from going ahead or occurring  • 控制；防止
+ »hold your fire!.  暂时不要表态！。
+  maintain (a telephone connection) until the person one has telephoned is free to speak  • 不挂断电话
+ »please hold the line, and I'll see if he's available.  请等一下，我看看他在不在。
+ »[no obj.] will you hold?  你等一下好吗？
+  [N. Amer. informal] refrain from adding or using (something, typically an item of food or drink)  • [北美，非正式] 克制不加（或不用）（尤指食物，饮料）
+ »a strawberry margarita, but hold the tequila.  一杯草莓味的玛格丽塔鸡尾酒，但不要加龙舌兰酒。
+  (hold it)[informal] used as a way of exhorting someone to wait or to stop doing something  • [非正式] 等等，停（用作劝诫）
+ »hold it right there, mate!.  停在那儿，老兄！。
+  [no obj.] (archaic)restrain oneself  • [古] 抑制，控制（自己）
+7. [with obj.] arrange and take part in (a meeting or conversation)  • 举行（会议，会谈）
+ »a meeting was held at the church.  会议在教堂举行。
+◙ noun
+1. an act or manner of grasping something; a grip  • 握，抓
+ »he caught hold of her arm.  他抓住她的胳膊。
+ »he lost his hold and fell.  他没有抓住，摔倒了。
+  a particular way of grasping or restraining someone, especially an opponent in wrestling or judo  • （尤指摔跤、柔道中的）擒拿法
+  a place where one can grip with one's hands or feet while climbing  • （供手攀、脚踏的）支撑点，支撑物
+ »he felt carefully with his feet for a hold and swung himself up.  他小心翼翼地用脚摸索着支撑点，然后纵身一跃。
+  a way of influencing someone  • 影响力
+ »he discovered that Tom had some kind of hold over his father.  他发现汤姆对他父亲有某种影响力。
+  a degree of power or control  • 权力，控制（力）
+ »military forces tightened their hold on the capital.  军队加强了他们对首都的控制。
+2. (archaic)a fortress  • [古] 要塞，堡垒
+
+【IDIOMS】◘ be left holding the baby (或美
+1. [informal] be left with an unwelcome responsibility, typically without warning  • [非正式] （尤指没有警告）被加一项责任
+◘ don't hold your breath --› see breath 
+◘ get hold of
+1. grasp (someone or something) physically  • 抓住（人，物）
+  grasp (something) intellectually; understand  • 理解
+  [informal] obtain  • [非正式] 获得，得到
+ »if you can't get hold of ripe tomatoes, add some tomato purée.  如果弄不到熟番茄，就加点番茄酱。
+  [informal] find or manage to contact (someone)  • [非正式] 找到（人），设法联系上
+ »I'll try and get hold of Mark.  我会设法找到马克。
+◘ hold someone/thing at bay --› see bay 
+◘ hold one's breath --› see breath 
+◘ hold someone/thing cheap
+1. (archaic)have a low opinion of someone or something  • [古] 轻视，瞧不起
+◘ hold court
+1. be the centre of attention amidst a crowd of one's admirers  • （在一群崇拜者中）成为注意焦点
+◘ hold someone/thing dear
+1. care for or value someone or something greatly  • 重视，珍视（人，物）
+ »fidelity is something most of us hold dear.  忠诚是我们大多数人都珍视的东西。
+◘ hold fast
+1. remain tightly secured  • 紧闭
+ »the door held fast, obviously locked.  门关得紧紧的，显然锁上了。
+  continue to believe in or adhere to an idea or principle  • 坚持相信，坚持（观点、原则）
+ »it is important that we hold fast to the policies.  坚持方针政策是很重要的。
+◘ hold the field --› see field 
+◘ hold the fort
+1. take responsibility for a situation while another person is temporarily absent  • （另一人暂时不在时）临时负责
+◘ hold good (或 true)
+1. remain true or valid  • 保持正确，有效
+ »his views still hold true today.  他的观点今天仍然正确。
+◘ hold one's ground --› see ground 
+◘ hold someone's hand
+1. give a person comfort, guidance, or moral support in a difficult situation  • 牵某人的手（困难时给人安慰、指引、精神上的支持）
+◘ hold hands
+1. (of two or more people) clasp each other by the hand, typically as a sign of affection  • 手牵手（多表示友爱）
+◘ hold hard
+1. [Brit.] used as a way of exhorting someone to stop or wait  • [英] 等一下，停住
+ »here, hold hard a minute.  这儿，等一会儿。
+◘ hold someone/thing harmless
+1. [Law] indemnify  • [律] 赔偿
+◘ hold one's horses
+1. [usu. as imperative] [informal] wait a moment  • [非正式] 等一下
+◘ hold the line
+1. not yield to the pressure of a difficult situation  • 坚持下去，不屈服压力
+ »France's central bank would hold the line.  法国中央银行不会退让。
+◘ hold one's nose
+1. squeeze one's nostrils with one's fingers in order to avoid inhaling an unpleasant smell  • 捏紧鼻子（以免闻难闻的气味）
+◘ hold one's own --› see own 
+◘ hold one's peace --› see peace 
+◘ hold (one's) serve (或 service)
+1. (in tennis and other racket sports) win a game in which one is serving  • （网球、羽毛球等）赢了发球局
+◘ hold the stage --› see stage 
+◘ hold sway --› see sway 
+◘ hold thumbs
+1. [S. African] fold one's fingers over one's thumb to bring good luck  • [南非] 握紧大拇指（以带来好运）
+◘ hold someone to bail
+1. [Law] bind by bail  • [律] 拘留某人直至交保
+◘ hold one's tongue
+1. [often in imperative] [informal] remain silent  • [非正式] 保持沉默
+◘ hold someone/thing to ransom --› see ransom 
+◘ hold up one's head (或 hold one's head high) --› see head 
+◘ hold water
+1. [often with negative] (of a statement, theory, or line of reasoning) appear to be valid, sound, or reasonable  • （声明，理论，推理方法）似乎有效的，有根据的，站得住脚的
+ »this argument just does not hold water.  这种论点完全站不住脚。
+◘ no holds barred
+1. (in wrestling) with no restrictions on the kinds of holds that are used  • （摔跤）不受任何擒拿法限制
+  (figurative)used to convey that no rules or restrictions apply in a conflict or dispute  • [喻] （在冲突、争吵中）无清规戒律，不受任何限制约束
+ »no-holds-barred military action.  没有任何约束的军事行动。
+◘ on hold
+1. waiting to be connected while making a telephone call  • （打电话时）等候（接通）
+  temporarily not being dealt with or pursued  • 暂时停止
+ »he has had to put his career on hold.  他不得不暂停他的事业。
+◘ take hold
+1. start to have an effect  • 开始起作用
+ »the reforms of the late nineteenth century had taken hold.  19世纪后期的改革已开始起作用了。
+◘ there is no holding someone
+1. used to convey that someone is particularly determined or cannot be prevented from doing something  • （用于表达某人已下定决心做某事）没有人能阻止（人）
+ »there's no holding you these days.  现如今没人能拦住你。
+
+【派生】♦ holdable adjective
+
+【语源】1. Old English haldan, healdan, of Germanic origin; related to Dutch houden and German halten; the noun is partly from Old Norse hald 'hold, support, custody'
+
+【PHR V】◘ hold something against
+1. allow past actions or circumstances to have a negative influence on one's present attitude towards (someone)  • 因（过去的行为或情况的影响）而对（人）产生消极的看法
+ »he knew that if he failed her, she would hold it against him forever.  他知道如果他辜负她的话，她会因此永远记恨他。
+◘ hold back
+1. hesitate to act or speak  • 踌躇，犹豫
+ »he held back, remembering the mistake he had made before.  他犹豫了，记起了自己以前犯的错。
+◘ hold someone/thing back
+1. prevent or restrict the advance, progress, or development of someone or something  • 阻碍，阻止，抑制
+ »Jane struggled to hold back the tears.  简竭力忍住眼泪。
+  (hold something back)refuse or be unwilling to make something known  • 隐瞒
+ »you're not holding anything back from me, are you?  你没有向我隐瞒什么，是吗？
+◘ hold something down
+1. [informal] succeed in keeping a job or position for a period of time  • [非正式] 保住（工作，职位）
+◘ hold forth
+1. talk lengthily, assertively, or tediously about a subject  • 滔滔不绝地说
+ »he was holding forth on the merits of the band's debut LP.  他滔滔不绝地谈论该乐队第一张密纹唱片的优点。
+◘ hold off
+1. (of bad weather) fail to occur  • （坏天气）不出现
+  delay or postpone an action or decision  • 拖延，推迟（行动，决定）
+◘ hold someone/thing off
+1. resist an attacker or challenge  • 抵抗（攻击者，挑战）
+ »he held off a late challenge by Vose to win by thirteen seconds.  他抵住了沃斯不久前的一次挑战，赢了他13秒。
+◘ hold on
+1. [often in imperative] wait ; stop  • 等等；停
+ »hold on a minute, I'll be right back!.  等一会儿，我马上回来。
+2. endure or keep going in difficult circumstances  • （在困难情况下）继续，坚持
+ »if only they could hold on a little longer.  他们要是能再坚持一会儿就好了。
+◘ hold on to
+1. keep  • 留住；保存
+ »the industry is trying to hold on to experienced staff.  该行业正设法留住有经验的工作人员。
+◘ hold out
+1. resist or survive in dangerous or difficult circumstances  • 抵抗，抵挡；继续生存
+ »British troops held out against constant attacks.  英国军队抵挡住了不断的攻击。
+  continue to be sufficient  • 持续充足
+ »we can stay here for as long as our supplies hold out.  只要补给一直充足的话，我们就能待在这儿。
+◘ hold out for
+1. continue to demand (a particular thing), refusing to accept what has been offered  • 坚持要求（拒绝接受所给予的）
+ »he is holding out for a guaranteed 7 per cent raise.  他一直在要求保证过的7%的加薪。
+◘ hold out on
+1. [informal] refuse to give something, typically information, to (someone)  • [非正式] 拒绝给（尤指信息）
+◘ hold something out
+1. offer a chance or hope  • 给予机会（或希望）
+ »a new drug may hold out hope for patients with lung cancer.  新药也许会给肺癌患者以希望。
+◘ hold something over
+1. postpone something  • 推迟，拖延
+2. use a fact or piece of information to threaten or intimidate (someone)  • （用事实或一则信息）要挟（人）
+◘ hold together (或 hold something together)
+1. remain or cause to remain united  • （使）保持团结
+ »if your party holds together, you will probably win.  如果你们党保持团结，你们很可能会赢。
+◘ hold up
+1. remain strong or vigorous  • 保持强劲
+ »the Labour vote held up well.  工党的得票数保持领先。
+◘ hold someone/thing up
+1. delay or block the movement or progress of someone or something  • 耽搁，拖延；妨碍，阻碍
+ »our return flight was held up for seven hours.  我们的回程航班被延误了7个小时。
+2. rob someone or something using the threat of force or violence  • 以暴力（或暴力威胁）抢劫
+ »a masked raider held up the post office.  一个蒙面强盗抢了邮局。
+3. present or expose someone or something as an example or for particular treatment  • 使（人，物）成为例子（或受到特殊对待）
+ »they were held up to public ridicule.  他们受到公众嘲笑。
+4. [Bridge] refrain from playing a winning card for tactical reasons  • [桥牌] （因战术原因）扣住，忍让
+◘ hold with
+1. [with negative] [informal] approve of  • [非正式] 赞成
+ »I don't hold with fighting or violence.  我不赞成打仗或暴力。hold²
+◙ noun
+1. a large compartment or space in the lower part of a ship or aircraft in which cargo is stowed  • （船，飞机）货舱
+
+【语源】1. late 16th cent.: from obsolete holl, from Old English hol (see hole ). The addition of -d was due to association with hold
+
+
+
+————————————
+★☆☆   holdall
+ / ˈhəuldɔ:l /◙ noun
+1. [Brit.] a large rectangular bag with handles and a shoulder strap, used for carrying clothes and other personal belongings  • [英] （有肩带的方形）大手提包
+
+
+
+————————————
+★☆☆   holdback
+ / ˈhəʊldˌbæk /◙ noun
+1. a thing serving to hold something else in place  • 固定物
+ »a curtain holdback.  窗帘夹子。
+  a sum of money withheld under certain conditions  • （因某种情况）扣留款
+
+
+
+————————————
+★☆☆   holder
+ / ˈhəuldə /◙ noun
+1. a device or implement for holding something  • 支托物，容器
+ »[in combination] a cigarette-holder.  一个香烟烟嘴。
+2. a person that holds something  • 持有者；占有者
+ »a British passport holder.  英国护照持有者。
+ »holders of two American hostages.  持有两名美国人质的人。
+  the possessor of a trophy, championship, or record  • 获奖者，冠军称号保持者，记录保持者
+ »the FA Cup holders.
+3. a smallholder  • 小农，小佃农
+
+
+
+————————————
+★☆☆   holdfast
+ / ˈhəuldfɑ:st /◙ noun
+1. a firm grip  • 紧握
+  a staple or clamp securing an object to a wall or other surface  • 钉子，夹子
+  [Biology] a stalked organ by which an alga or other simple aquatic plant or animal is attached to a substrate  • [生] （海藻等的）附着器，固着器
+
+
+
+————————————
+★☆☆   holding
+ / ˈhəʊldɪŋ /◙ noun
+1. an area of land held by lease  • 租用的土地
+  the tenure of such land  • 土地租用期限
+2. (holdings)stocks, property, and other financial assets in someone's possession  • 拥有的财产（指股票、不动产等）
+ »commercial property holdings.  拥有的商业财产。
+
+
+
+————————————
+★☆☆   holding company◙ noun
+1. a company created to buy and possess the shares of other companies, which it then controls  • 控股公司
+
+
+
+————————————
+★☆☆   holding ground◙ noun
+1. [Nautical] an area of seabed where an anchor will hold  • [航] 抛锚地
+
+
+
+————————————
+★☆☆   holding operation◙ noun
+1. a course of action designed to maintain the status quo under difficult circumstances  • 维持现状的方式
+
+
+
+————————————
+★☆☆   holding pattern◙ noun
+1. the flight path maintained by an aircraft awaiting permission to land  • 等待航线
+
+
+
+————————————
+★☆☆   holding tank◙ noun
+1. a large container in which liquids are temporarily held  • 液体临时储存罐
+
+
+
+————————————
+★☆☆   holdout
+ / ˈhəuldaut /◙ noun
+1. (chiefly N. Amer.)an act of resisting something or refusing to accept what is offered  • [主北美] 抵制，拒绝接受
+ »a defiant holdout against a commercial culture.  公然抵制商业文化。
+  a person or organization acting in such a way  • 抵制者（或组织)，不合作者（或组织）
+
+
+
+————————————
+★☆☆   holdover
+ / ˈhəuldˌəuvə /◙ noun
+1. (chiefly N. Amer.)a person or thing surviving from an earlier time, especially someone surviving in office  • [主北美] 自前一时代过来的人（或物）（尤指留任的官员）
+ »Young is the only holdover from the 1988 team.  杨是1988年队员中唯一留到现在的队员。
+
+
+
+————————————
+★☆☆   hold-up◙ noun
+1. a situation that causes delay, especially to a car journey  • （尤指交通）阻塞
+2. a robbery conducted with the use of threats or violence  • （以威胁或暴力）抢劫
+ »the shocked victims of an armed hold-up.  一次武装抢劫中受惊的受害者。
+3. [一般作 hold-ups] a stocking held up by an elasticated top rather than by suspenders  • 松紧长统袜
+
+
+
+————————————
+★☆☆   hole
+ / həul /◙ noun
+1. a hollow place in a solid body or surface  • 洞，窟窿
+ »he managed to dig out a small snow hole.  他设法挖了一个小雪洞。
+  an animal's burrow  • 洞穴
+  an aperture passing through something  • 孔，缝隙，洞
+ »he had a hole in his sock.  他的袜子有一个洞。
+  a cavity or receptacle on a golf course, typically one of eighteen or nine, into which the ball must be hit  • （高尔夫球场的）球洞（尤指18个或9个中的一个）
+  a cavity of this type as representing a division of a golf course or of play in golf  • （高尔夫）球洞
+ »Stephen lost the first three holes to Eric.  斯蒂芬前三洞输给了埃里克。
+  [Physics] a position from which an electron is absent, especially one regarded as a mobile carrier of positive charge in a semiconductor  • [物] 空穴
+  [in place names] a valley  • 山谷
+ »Seaton Hole.  锡顿山谷。
+2. [informal] a small or unpleasant place  • [非正式] 弹丸之地，小地方；讨厌的地方
+ »she had wasted a whole lifetime in this hole of a town.  她把一生都浪费在这个小镇上。
+  [informal] an awkward situation  • [非正式] 困境，尴尬的处境
+ »get yourself out of a hole.  摆脱尴尬处境吧。
+3. a shortcoming, weakness, or flaw in a plan or argument  • （计划或论证中的）漏洞
+ »intriguing as it sounds, the theory is full of holes.  尽管这理论听起来引人入胜，实际上却是漏洞百出。
+◙ verb, [with obj.] 
+1. make a hole or holes in  • 打洞于
+ »a fuel tank was holed by the attack and a fire started.  油轮被这次袭击打了个洞，起火了。
+2. [Golf] hit (the ball) so that it falls into a hole  • [高尔夫] （把球）击入洞
+ »alternate shots from each partner until the ball is holed.  每个伙伴交替击球，直到把球击入球洞。
+ »[no obj.] he holed in one at the third.  第三个球洞，他是一击入洞的。
+
+【IDIOMS】◘ blow a hole in
+1. ruin the effectiveness of (something)  • 破坏有效性
+ »the amendment could blow a hole in the legislation.  修正草案会破坏立法的有效性。
+◘ in the hole
+1. [N. Amer. informal] in debt  • [北美，非正式] 负债
+ »we're still three thousand dollars in the hole.  我们仍然负债3,000美元。
+◘ in holes
+1. worn so much that holes have formed  • 有破洞
+ »my clothes are in holes.  我的衣服破了。
+◘ make a hole in
+1. use a large amount of  • 大量耗费
+ »holidays can make a big hole in your savings.  假期会让你花掉好多存款。
+◘ need something like a hole in the head
+1. [informal] used to emphasize that someone has absolutely no need or desire for something  • [非正式] 绝对不需要
+
+【派生】♦ holey adjective
+
+【语源】1. Old English hol (noun), holian (verb), of Germanic origin; related to Dutch hol (noun) 'cave', (adjective) 'hollow', and German hohl 'hollow', from an Indo-European root meaning 'cover, conceal'
+
+【PHR V】◘ hole out
+1. [Golf] send the ball into a hole  • [高尔夫] 击球入洞
+2. [Cricket] (of a batsman) hit the ball to a fielder and be caught  • [板球] （击球手）击球（给外野手而）出局
+◘ hole up
+1. [informal] hide oneself  • [非正式] 躲藏，隐蔽
+ »I holed up for two days in a tiny cottage in Snowdonia.  我在斯诺登尼亚的一个小村庄躲了两天。
+
+
+
+————————————
+★☆☆   hole-and-corner
+ / ˌhəuləndˈkɔ:nə /◙ adjective
+1. attempting to avoid public notice; secret  • 秘密的
+ »a hole-and-corner wedding.  一个秘密婚礼。
+
+
+
+————————————
+★☆☆   hole card◙ noun
+1. (in stud poker) a card which has been dealt face down  • （种马扑克）面朝下发的牌
+  (figurative, chiefly US)a thing that is kept secret until it can be used to one's own advantage  • [喻，主美] 潜藏不露的优势
+
+
+
+————————————
+★☆☆   hole-in-one◙ (pl. holes-in-one)
+1. [Golf] a shot that enters the hole from the tee with no intervening shots  • [高尔夫] （从发球区）一击入穴
+
+
+
+————————————
+★☆☆   hole in the heart◙ noun
+1. [Medicine] a congenital defect in the heart septum, resulting in inadequate circulation of oxygenated blood (a cause of blue baby syndrome)  • [医] 先天性心隔膜缺损
+
+
+
+————————————
+★☆☆   hole in the wall◙ noun, [informal] [非正式] 
+1. [Brit.] [英] an automatic cash dispenser installed in the outside wall of a bank  • （嵌在银行外墙上的）自动取款机
+2. a small dingy bar, shop, or restaurant  • 昏暗的小酒吧（或商店、饭店）
+
+
+
+————————————
+★☆☆   hole saw◙ noun
+1. a tool for making circular holes, consisting of a metal cylinder with a toothed edge  • 孔锯
+
+
+
+————————————
+★☆☆   Holi
+ / ˈhəuli /◙ noun
+1. a Hindu spring festival celebrated in February or March in honour of Krishna  • 好利节（印度教的春节，为纪念黑天，时间在二月或三月）
+
+【语源】1. via Hindi from Sanskrit holī
+
+
+
+————————————
+★☆☆   holiday
+ / ˈhɔlədi /(chiefly ɑrit.)ə主英] 
+◙ noun
+1. [常作 holidays] an extended period of recreation, especially one spent away from home or in traveling  • 假期
+ »I spent my summer holidays on a farm.  我在一个农场度我的暑假。
+ »Fred was on holiday in Spain.  弗雷德在西班牙度假。
+  a day of festivity or recreation when no work is done  • 节假日
+ »25 December is an official public holiday.  12月25日是法定公共假日。
+  [as modifier] characteristic of a holiday; festive  • 节日的；喜庆的
+ »a holiday atmosphere.  节日气氛。
+2. [with modifier] a short period during which the payment of instalments, tax, etc. may be suspended  • （分期付款、税费等的）暂缓缴付期
+ »a pension holiday.  养老金停发期。
+◙ verb
+1. [no obj., with adverbial of place] spend a holiday in a specified place  • 在…度假
+ »he is holidaying in Italy.  他在意大利度假。
+
+【语源】1. Old English hāligdæg 'holy day'
+
+
+
+————————————
+★☆☆   Holiday
+ / ˈhɔlɪdeɪ /1. ɑillie (1ˌ1ˈ–ˈˌ), æmerican jazz singer; born əleanora ʃagan. She began her recording career with ɑenny Goodman's band in 1ˌ33, going on to perform with many small jazz groups  • 霍利戴，比利(1915—1959，美国爵士乐歌手；出生名埃莉诺拉•费根，于1933年开始与本尼•古德曼乐队合作灌制唱片，后又在多个小型爵士乐队演出）
+
+
+
+————————————
+★☆☆   holiday camp◙ noun
+1. [Brit.] a site for holidaymakers with accommodation, entertainment, and leisure facilities  • [英] 假日野营地
+
+
+
+————————————
+★☆☆   holidaymaker
+ / ˈhɔlɪdeɪˌmeɪkə /◙ noun
+1. [Brit.] a person on holiday away from home  • [英] 度假者
+
+
+
+————————————
+★☆☆   holiday season◙ noun
+1. (in the US) the period of time from Thanksgiving until New Year, including such religious festivals as Christmas, Hannukah, and Kwanzaa  • （美国）休假旺季（从感恩节到新年的这段期间，包括圣诞节、光明节和宽扎文化节等宗教节日）
+
+
+
+————————————
+★☆☆   holiday village◙ noun
+1. [Brit.] a large, modern holiday camp  • [英] 度假村
+
+
+
+————————————
+★☆☆   holier-than-thou
+ / ˈhəuliəðənˈðau /◙ adjective
+1. characterized by an attitude of moral superiority  • 比你优越的
+ »they had quite a critical, holier-than-thou approach.  他们吹毛求疵，一副比你优越的态度。
+
+
+
+————————————
+★☆☆   holiness
+ / ˈhəʊli:nɪs /◙ noun
+1. [mass noun] the state of being holy  • 神圣
+ »a life of holiness and total devotion to God.  神圣而对上帝虔诚的生活。
+  [His/Your Holiness] a title given to the Pope, Orthodox patriarchs, and the Dalai Lama, or used in addressing them  • 陛下（教皇、东正教大教主和达赖喇嘛的头衔或尊称）
+  [as modifier] denoting a Christian renewal movement originating in the mid 19th century among Methodists in the US, emphasizing the Wesleyan doctrine of the sanctification of believers  • 圣洁运动
+
+【语源】1. Old English hālignes (see holy , -ness )
+
+
+
+————————————
+★☆☆   Holinshed
+ / ˈhɔlɪnʃɛd /1. ɔaphael (died c.1ˈ80), ənglish chronicler. ælthough the named compiler of ðhe ɔhronicles of əngland, Scotland, and ɪreland (1ˈˌˌ), Holinshed wrote only the Historie of əngland and had help with the remainder. ðhe revised (1ˈ8ˌ) edition was used by Shakespeare  • 霍林希德，拉斐尔（死于约1580年，英国编年史家；虽然是《英格兰、苏格兰、爱尔兰编年史》[1577] 中署名的编者，霍林希德只写了《英格兰编年史》，给其余部分只提供帮助；1587年的修订本被莎士比亚所使用）
+
+
+
+————————————
+★☆☆   holism
+ / ˈhəulizm /◙ noun
+1. [mass noun] (chiefly Philosophy)the theory that parts of a whole are in intimate interconnection, such that they cannot exist independently of the whole, or cannot be understood without reference to the whole, which is thus regarded as greater than the sum of its parts. Holism is often applied to mental states, language, and ecology. The opposite of aomism  • [主哲] 整体论。
+【OPP】 aomism   [Medicine] the treating of the whole person, taking into account mental and social factors, rather than just the symptoms of a disease  • [医] 机能整体性（治疗）
+
+【派生】♦ holist adjective & noun
+
+【语源】1. 1920s: from holo- 'whole' + -ism; coined by J. C. Smuts to designate the tendency in nature to produce organized ‘wholes’ (bodies or organisms) from the ordered grouping of units
+
+
+
+————————————
+★☆☆   holistic
+ / həʊˈlɪstɪk /◙ adjective
+1. (chiefly Philosophy)characterized by understanding the parts of something to be intimately interconnected and explicable only by reference to the whole  • [主哲] 整体论的
+  [Medicine] characterized by the treatment of the whole person, taking into account mental and social factors, rather than just the symptoms of a disease  • [医] 机能整体性（治疗）的
+
+【派生】♦ holistically adverb
+
+
+
+
+————————————
+★☆☆   holla
+ / ˈhɔlə , hɔˈlɑ: /◙ exclamation
+1. (archaic)used to call attention to something  • [古] 嚯，呵（用于吸引注意）
+ »‘Holla! what storm is this?’.  “呵！是什么风暴？”。
+
+【语源】1. early 16th cent. (as an order to stop or cease): from French holà, from ho 'ho!' + là 'there'
+
+
+
+————————————
+★☆☆   Holland
+ / ˈhɔlənd /1. another name for the ŋetherlands  • 同 Netherlands 
+  a former province of the Netherlands, comprising the coastal parts of the country. It is now divided into North Holland and South Holland  • 荷兰（原来是荷兰的一个省，包括荷兰的沿岸地区，现分为北荷兰省和南荷兰省）
+
+
+
+————————————
+★☆☆   holland◙ noun
+1. [mass noun] a kind of smooth, hard-wearing linen fabric, used chiefly for window blinds and furniture covering  • 荷兰亚麻布（主要用于做窗帘布和家具套）
+
+【语源】1. Middle English: from Holland, the name of a former province of the Netherlands where the cloth was made, from Dutch, earlier Holtlant (from holt 'wood' + -lant 'land')
+
+
+
+————————————
+★☆☆   hollandaise sauce
+ / ˌhɔlənˈdeɪz, ˈhɔlənˌdeɪz /◙ noun
+1. [mass noun] a creamy sauce of melted butter, egg yolks, and vinegar, served especially with fish  • 荷兰酸辣酱油（由黄油、蛋黄及醋制成，食鱼等时用）
+
+【语源】1. French hollandaise, feminine of hollandais 'Dutch', from Hollande 'Holland'
+
+
+
+————————————
+★☆☆   Hollander
+ / ˈhɔləndə /◙ noun
+1. [dated] a native of the Netherlands  • [旧] 荷兰人
+
+
+
+————————————
+★☆☆   Hollands
+ / ˈhɔləndz /◙ noun
+1. [mass noun] (archaic)Dutch gin  • [古] 荷兰杜松子酒
+
+【语源】1. from archaic Dutch hollandsch genever (earlier form of hollands jenever) 'Dutch gin'
+
+
+
+————————————
+★☆☆   holler
+ / ˈhɔlə /əinformal] ə非正式] 
+◙ verb
+1. [no obj.] (of a person) give a loud shout or cry  • （人）叫喊
+ »he hollers when he wants feeding.  他想吃时就叫喊。
+ »[with direct speech] ‘I can't get down,’ she hollered.  “我下不来了。”她叫喊道。
+◙ noun
+1. a loud cry or shout  • 叫喊
+  (也作 field holler)(chiefly US)a melodic cry with abrupt or swooping changes of pitch, used originally by black slaves at work in the fields and later contributing to the development of the blues  • [主美] 劳动号子（最初是黑奴在田间干活时哼的号子，音高突升突降，旋律优美，后来促成了布鲁斯歌曲的发展）
+
+【语源】1. late 17th cent. (as a verb): variant of the rare verb hollo; related to halloo
+
+
+
+————————————
+★☆☆   Hollerith
+ / ˈhəuləriθ /1. Herman (1860–1ˌ2ˌ), æmerican engineer. He invented a tabulating machine using punched cards for computation, an important precursor of the electronic computer, and founded a company that later expanded to become the ɪɑM ɔorporation  • 霍勒里思，赫尔曼(1860—1929，美国工程师，他发明了用打孔卡来计算的电动制表机，该制表机是电子计算机的重要先驱物；成立了一家公司，该公司后来发展成为IBM公司）
+
+
+
+————————————
+★☆☆   hollow
+ / ˈhɔləu /◙ adjective
+1. having a hole or empty space inside  • 空的
+ »each fibre has a hollow core.  每一根纤维都是中空的。
+  having a depression in its surface; concave  • 凹陷的；凹的
+ »hollow cheeks.  凹陷的双颊。
+  (of a sound) echoing, as though made in or on an empty container  • （声音）空洞的
+ »a hollow cough.  空洞的咳嗽声。
+2. without significance  • 无意义的，空洞的
+ »the result was a hollow victory.  结果是一场没有意义的胜利。
+  insincere  • 不真诚的，虚伪的
+ »a hollow promise.  空洞的诺言。
+◙ noun
+1. a hole or depression in something  • 凹陷处，洞
+ »a hollow at the base of a large tree.  大树底部的一个洞。
+  a hole or enclosed space within something  • 窟窿，洞
+ »he held them in the hollow of his hand.  他把它们握在手心里。
+  a small valley  • 小山谷
+ »a village nestled in a hollow in the Cotswolds.  坐落在科茨沃尔德小山谷的一座村庄。
+◙ verb
+1. [with obj.] form by making a hole  • 使成中空
+ »a tunnel was hollowed out in a mountain range.  在山脉中挖通了一条隧道。
+  make a depression in  • 使凹陷
+ »Flora's laugh hollowed her cheeks.  弗洛拉一笑，双颊就凹陷下去。
+
+【IDIOMS】◘ beat someone hollow
+1. defeat or surpass someone completely or thoroughly  • 完全（或彻底）击败（或超过）某人
+
+【派生】♦ hollowly adverb
+♦ hollowness noun
+
+【语源】1. Old English holh 'cave'; obscurely related to hole
+
+
+
+————————————
+★☆☆   hollow-eyed
+ / ˈhɔləuaid /◙ adjective
+1. (of a person) having deeply sunk eyes, typically as a result of illness or tiredness  • （尤指由于疾病或劳累）眼窝凹陷的
+
+
+
+————————————
+★☆☆   hollow-hearted
+ / ˈhɔləuˌhɑ:tid /◙ adjective
+1. (archaic)insincere ; false  • [古] 不诚恳的；虚伪的
+
+
+
+————————————
+★☆☆   hollow square◙ noun
+1. (historical)a body of infantry drawn up in a square with a space in the middle  • [史] （步兵团）空方阵
+
+
+
+————————————
+★☆☆   hollowware
+ / ˈhɔləuweə /◙ noun
+1. [mass noun] hollow articles of cookware or crockery, such as pots, kettles, and jugs  • 凹形器皿（如罐、锅和壶等）
+
+
+
+————————————
+★☆☆   Holly1. Buddy (1936–59), American rock-and-roll singer, guitarist, and songwriter; born Charles Hardin Holley. He recorded such hits as ‘That'll be the Day’ with his band, The Crickets, before going solo in 1958. He was killed in an aircraft crash  • 霍利，巴迪（1936—1959，美国摇滚乐歌手，吉他手，流行歌曲作者；出生名查尔斯•哈丁•霍利，1958年独唱前与他的“蟋蟀”乐队灌录了诸如《那是值得等待的日子》之类的风行一时的唱片，他因飞机失事而遇难）
+
+
+
+————————————
+★☆☆   holly◙ noun
+1. a widely distributed evergreen shrub, typically having prickly dark green leaves, small white flowers, and red berries  • 冬青
+2. Genus Ilex, family Aquifoliaceae: many species, in particular I. aquifolium  • 冬青属，冬青科：众多种，尤指枸骨叶冬青
+  [mass noun] the branches, foliage, and berries of this plant used as decorations at Christmas  • （圣诞节装饰用的）冬青树枝（或树叶、浆果）
+
+【语源】1. Middle English holi, shortened form of Old English holegn, holen, of Germanic origin; related to German Hulst
+
+
+
+————————————
+★☆☆   holly fern◙ noun
+1. a small shield fern which has narrow glossy fronds with a double row of stiff bristle-edged lobes, found chiefly in mountainous areas of both Eurasia and North America  • 冬青蕨
+2. Several species in the genus Polystichum, family Dryopteridaceae, in particular the widespread P. lonchitis  • 耳蕨属有数种，鳞毛蕨科，尤指分布广泛的柔状耳蕨
+
+
+
+————————————
+★☆☆   hollyhock
+ / ˈhɔlihɔk /◙ noun
+1. a tall Eurasian plant of the mallow family, with large showy flowers  • 蜀葵
+2. Alcea rosea, family Malvaceae  • 拉丁名Alcea rosea，锦葵科
+
+【语源】1. Middle English: from holy + obsolete hock 'mallow', of unknown origin. It originally denoted the marsh mallow which has medicinal uses (hence, perhaps, the use of 'holy'); the current sense dates from the mid 16th cent
+
+
+
+————————————
+★☆☆   holly oak◙ noun
+1. the holm oak or the kermes oak, both of which have tough evergreen leaves that are reminiscent of those of holly  • 圣栎，冬青栎
+
+
+
+————————————
+★☆☆   Hollywood
+ / ˈhɔli:ˌwʊd /1. a district of ɚos ængeles, the principal centre of the æmerican film industry  • 好莱坞（洛杉矶一区，美国电影业中心）
+  the American film industry and the lifestyles of the people associated with it  • 美国电影业，美国电影界生活方式
+ »he was never seduced by the glitz and money of Hollywood.  他从未受到电影业浮华和金钱的诱惑。
+
+
+
+————————————
+★☆☆   holm
+ / həum /◙ (也作 holme), noun
+1. [Brit.] an islet, especially in a river or near a mainland  • [英] 小岛（尤指在河中央或陆地附近）
+  a piece of flat ground by a river, which is submerged in time of flood  • 河边低地
+
+【语源】1. Old English, from Old Norse holmr; more frequently used in Scotland and northern England, but found in place names throughout Britain
+
+
+
+————————————
+★☆☆   Holmes
+ / həʊmz , həʊlmz /Holmes¹
+1. ærthur (18ˌ0–1ˌ6ˈ), ənglish geologist and geophysicist. He pioneered the isotopic dating of rocks and was one of the first supporters of the theory of continental drift. His Principles of Physical Geology (1ˌ44) became a standard text  • 霍姆斯，阿瑟（1890—1965，英国地质学家和地球物理学家，是同位素岩石年龄测定法的先驱，大陆漂移学说最先支持者之一，他的《普通地质学原理》[1944] 成为一部标准教材）Holmes²
+1. Oliver Wendell (1809–94), American physician, poet, and essayist. His best-known literary works are the humorous essays known as ‘table talks’, which began with The Autocrat of the Breakfast Table (1857–8)  • 霍姆斯，奥利弗•温德尔（1809—1894，美国内科医生、诗人、随笔作家，他最有名的文学作品是被称为“餐桌上谈话”的幽默小品系列，开篇作品为《早餐桌上的霸主》［1857—1858］）Holmes³
+1. Sherlock, an extremely perceptive private detective in stories by Sir Arthur Conan Doyle  • 福尔摩斯，夏洛克（阿瑟•柯南道尔爵士的故事中感觉极其敏锐的私家侦探）
+
+【派生】♦ Holmesian adjective
+
+
+
+
+————————————
+★☆☆   holmium
+ / ˈhɔlmiəm /◙ noun
+1. [mass noun] the chemical element of atomic number 67, a soft silvery-white metal of the lanthanide series[Symbol: Ho]  • （化学元素）钬[符号：Ho] 
+
+【语源】1. late 19th cent.: modern latin, from Holmia, Latinized form of Stockholm, the capital of Sweden (because many minerals of the yttrium group, to which holmium belongs, are found in that area); discovered by P.T. Cleve, Swedish chemist
+
+
+
+————————————
+★☆☆   holm oak◙ noun
+1. an evergreen southern European oak, which has dark green glossy leaves  • 圣栎。(亦称 evergreen oak 或 ilex)
+2. Quercus ilex, family Fagaceae  • 拉丁名Quercus ilex，壳斗科
+
+【语源】1. late Middle English: holm, alteration of dialect hollin, from Old English holen 'holly'
+
+
+
+————————————
+★☆☆   holo
+ / ˈhɔləʊ /◙ (pl. -os)
+1. [informal] a hologram  • [非正式] 全息图
+
+
+
+————————————
+★☆☆   holo-◙ for combining
+1. whole ; complete  • 整个；全部
+ »holocaust.
+ »holophytic.
+
+【语源】1. from Greek holos 'whole'
+
+
+
+————————————
+★☆☆   holocaust
+ / ˈhɔləˌkɔ:st , ˈhəʊlə- /◙ noun
+1. destruction or slaughter on a mass scale, especially caused by fire or nuclear war  • （尤指火灾、核战争造成的）大毁灭，大屠杀
+ »a nuclear holocaust.  大规模的核毁灭。
+ »[mass noun] the threat of imminent holocaust.  迫近的屠杀的威胁。
+  (the Holocaust)the mass murder of Jews under the German Nazi regime during the period 1941–45. More than 6 million European Jews, as well as members of other persecuted groups, were murdered at concentration camps such as Auschwitz  • 纳粹大屠杀(1941—1945年德国纳粹当政期间对犹太人的大屠杀，超过600万的欧洲犹太人以及其他受迫害团体成员在集中营被杀害，如在奥斯威辛集中营）
+2. (historical)a Jewish sacrificial offering which is burnt completely on an altar  • [史] 燔祭（犹太人祭物，在祭坛完全焚烧）
+
+【语源】1. Middle English: from Old French holocauste, via late Latin from Greek holokauston, from holos 'whole' + kaustos 'burnt' (from kaiein 'burn')
+
+
+
+————————————
+★☆☆   Holocaust denial◙ noun
+1. [mass noun] the belief or assertion that the Holocaust did not happen or was greatly exaggerated  • 否认大屠杀（拒绝承认二战期间纳粹屠杀犹太人的事实或认为大屠杀被夸大的说法）
+
+
+
+————————————
+★☆☆   Holocene
+ / ˈhɔləusi:n /◙ adjective
+1. [Geology] of, relating to, or denoting the present epoch, which is the second epoch in the Quaternary period and followed the Pleistocene  • [地质] 全新世的，全新统的（第四纪的第二个纪元，在更新世之后）。(亦称 Recent)
+  [as noun the Holocene] the Holocene epoch or the system of deposits laid down during this time  • 全新世，全新统；全新世沉积物体系
+2. The Holocene epoch has lasted from about 10,000 years ago to the present day. It covers the period since the ice retreated after the last glaciation and it is sometimes regarded as just another interglacial period
+
+【语源】1. late 19th cent.: coined in French from holo- 'whole' + Greek kainos 'new'
+
+
+
+————————————
+★☆☆   holoenzyme
+ / ˌhɔləuˈenzaim /◙ noun
+1. [Biochemistry] a biochemically active compound formed by the combination of an enzyme with a coenzyme  • [生化] 全酶
+
+
+
+————————————
+★☆☆   Holofernes
+ / ˌhɔləuˈfə:ni:z /1. (in the æpocrypha) the æssyrian general of ŋebuchadnezzar's forces, who was killed by ʊudith əʊudith 4:1 ff.]  • （在基督教《圣经•旧约》中的次经中）霍罗芬尼斯（尼布甲尼撒军队的亚述将军，被犹滴杀死［《犹滴传》第四章第一节等］）
+
+
+
+————————————
+★☆☆   hologram
+ / ˈhɔləˌgræm , ˈhəʊlə- /◙ noun
+1. a three-dimensional image formed by the interference of light beams from a laser or other coherent light source  • 全息图
+  a photograph of an interference pattern which, when suitably illuminated, produces a three-dimensional image  • 全息摄影
+
+
+
+————————————
+★☆☆   holograph
+ / ˈhɔləˌgræf , ˈhəʊlə- /◙ noun
+1. a manuscript handwritten by the person named as its author  • 亲笔手稿
+
+【语源】1. early 17th cent.: from French holographe, or via late Latin from Greek holographos, from holos 'whole' + -graphos 'written, writing'
+
+
+
+————————————
+★☆☆   holography
+ / həˈlɔɡrəfi /◙ noun
+1. [mass noun] the study or production of holograms  • 全息学，全息摄影，全息图
+
+【派生】♦ holographic adjective
+♦ holographically adverb
+
+
+
+
+————————————
+★☆☆   holophrasis
+ / hɔˈlɔfrəsis /◙ noun
+1. [mass noun] the expression of a whole phrase in a single word, for example howdy for how do you do  • 单词句表达法（以一个单词来表达整个短语，例如用howdy表示how do you do)
+  the learning of linguistic elements as whole chunks by very young children acquiring their first language, for example it's all gone learned as allgone  • 单词句学习法（幼儿在习得第一语言时，把语言诸因素当作一个整体来学，例如把it's all gone学成allgone）
+
+【派生】♦ holophrase noun
+♦ holophrastic adjective
+
+
+
+
+————————————
+★☆☆   holophytic
+ / ˌhɔləuˈfitik /◙ adjective
+1. [Biology] (of a plant or protozoan) able to synthesize complex organic compounds by photosynthesis  • [生] （植物，原生动物）自养的，植物式营养的
+
+
+
+————————————
+★☆☆   holothurian
+ / ˌhɔləuˈθjuəriən /◙ noun
+1. [Zoology] a sea cucumber  • [动] 海参
+
+【语源】1. mid 19th cent.: from the modern Latin genus name Holothuria (from Greek holothourion, denoting a kind of zoophyte) + -an
+
+
+
+————————————
+★☆☆   Holothuroidea
+ / ˌhɔlə(ʊ)θjʊəˈrɔɪdɪə /◙ plural noun
+1. [Zoology] a class of echinoderms that comprises the sea cucumbers  • [动] 海参纲（包括海参等棘皮动物）
+
+【派生】♦ holothuroid noun & adjective
+
+【语源】1. modern Latin (plural), based on Greek holothourion (see holothurian )
+
+
+
+————————————
+★☆☆   holotype
+ / ˈhɔləuˌtaip /◙ noun
+1. [Botany & Zoology] a single type specimen upon which the description and name of a new species is based  • [植，动] 全型，正模标本；主模标本；全模标本。
+--› compare syntype 
+
+
+
+————————————
+★☆☆   hols
+ / hɔlz /◙ plural noun
+1. [Brit. informal] holidays  • [英，非正式] 节假日
+
+【语源】1. early 20th cent.: abbreviation
+
+
+
+————————————
+★☆☆   Holst
+ / həʊlst /1. Gustav əðheodore] (18ˌ4–1ˌ34), ənglish composer, of Swedish and ɔussian descent. He made his reputation with the orchestral suite ðhe Planets (1ˌ14–16). Other notable works: ɔhoral Hymns from the ɔig ʒeda (1ˌ08–12)  • 霍尔斯特，古斯塔夫（•西奥多）（1874—1934，英国作曲家，有瑞典人和俄罗斯人血统，因创作管弦乐套曲《行星》[1914—1916] 而闻名；其他著名作品有：《梨俱吠陀的合唱赞美诗》[1908—1912] ）
+
+
+
+————————————
+★☆☆   Holstein
+ / ˈhɔlstain /Holstein¹
+1. a former duchy of the German kingdom of Saxony, situated in the southern part of the ʊutland peninsula. æ duchy of Denmark from 14ˌ4, it was taken by Prussia in 1866 and incorporated with the neighbouring duchy of Schleswig as the province of Schleswig-Holstein  • 荷尔斯泰因（位于日德兰半岛南部，曾是德意志萨克森王国的公国，自1474年起是丹麦公爵领地，1866年被普鲁士占领，与相邻的公爵领地石勒苏益格合并为石勒苏益格-荷尔斯泰因省）Holstein²
+◙ noun
+1. an animal of a typically black-and-white breed of large dairy cattle  • 霍斯坦牛，黑白花牛（一种体大乳牛）
+
+【语源】1. mid 19th cent.: from Holstein
+
+
+
+————————————
+★☆☆   Holsteinian
+ / hɔlˈstaɪnɪən /◙ adjective
+1. [Geology] of, relating to, or denoting an interglacial period of the Pleistocene in northern Europe, following the Elster glaciation and corresponding to the Hoxnian in Britain  • [地质] 荷尔斯泰因间冰期的（北欧更新世的一个间冰期，在埃尔斯特冰期之后，与英国的霍克斯尼间冰期相应）
+  [as noun the Holsteinian] the Holsteinian interglacial or the system of deposits laid down during it  • 荷尔斯泰因间冰期；荷尔斯泰因间冰期沉积地层
+
+【语源】1. 1960s: from Holstein + -ian
+
+
+
+————————————
+★☆☆   holster
+ / ˈhəʊlstə /◙ noun
+1. a holder for carrying a handgun or other firearm, typically made of leather and worn on a belt or under the arm  • （系在腰带上或手臂下的）手枪皮套，火器套
+ »a shoulder holster.  肩膀枪支套。
+◙ verb
+1. [with obj.] put (a gun) into its holster  • 放（枪）入套
+
+【语源】1. mid 17th cent.: corresponding to and contemporary with Dutch holster, of unknown origin
+
+
+
+————————————
+★☆☆   holt
+ / həult /holt¹
+◙ noun
+1. the den of an otter  • 水獭的巢穴
+2. (dialect, chiefly US)a grip or hold  • [方，主美] 把手，柄
+
+【语源】1. late Middle English (in sense 2): variant of holdholt²
+◙ noun
+1. (archaic or dialect)a wood or wooded hill  • [古，方] 林地，林丘
+
+【语源】1. Old English, of Germanic origin; related to Middle Dutch hout and German Holz, from an Indo-European root shared by Greek klados 'twig'
+
+
+
+————————————
+★☆☆   holus-bolus
+ / ˌhəʊləsˈbəʊləs /◙ adverb
+1. [Canadian or archaic] all at once  • [加，古] 一起，一下子
+ »swallowing every proposal that is made holus-bolus.  取消一下子提出的每一项提议。
+
+【语源】1. mid 19th cent. (originally dialect): perhaps pseudo-Latin for 'whole bolus, whole lump'
+
+
+
+————————————
+★☆☆   holy
+ / ˈhəuli /◙ (holier, holiest)
+1. dedicated or consecrated to God or a religious purpose; sacred  • 献身于上帝（或宗教）的，尊崇上帝（或宗教）的；神圣的
+ »the Holy Bible.  《圣经》。
+ »the holy month of Ramadan.  斋月的圣月。
+  (of a person) devoted to the service of God  • （人）（对上帝）虔诚的
+ »saints and holy men.  圣徒和虔诚的人。
+  morally and spiritually excellent  • 道德和精神卓越的，圣洁的
+ »I do not lead a holy life.  我不是过着圣洁的生活。
+2. (dated or humorous)used in exclamations of surprise or dismay  • [旧，幽默] （表示惊讶、懊丧的感叹语）哎呀，糟糕
+ »holy smoke!.  天哪！哎呀！糟糕！。
+
+【语源】1. Old English hālig, of Germanic origin; related to Dutch and German heilig, also to whole
+
+
+
+————————————
+★☆☆   Holy Alliance1. a loose alliance of European powers pledged to uphold the principles of the Christian religion. It was proclaimed at the Congress of Vienna (1814–15) by the emperors of Austria and Russia and the king of Prussia and was joined by most other European monarchs  • 神圣同盟（欧洲大国形成的松散同盟，誓言支持基督教教义；在维也纳大会[1814—1815] 上由沙皇、奥皇和普鲁士国王宣布成立，大多数欧洲君主参加）
+
+
+
+————————————
+★☆☆   Holy Ark◙ noun
+ --› see ark （义项2）
+
+
+
+————————————
+★☆☆   holy city◙ noun
+1. a city held sacred by the adherents of a religion  • （宗教信徒推崇的）圣城
+  (the Holy City)Jerusalem  • 耶路撒冷
+  (the Holy City)(in Christian tradition) Heaven  • （基督教）天堂
+
+
+
+————————————
+★☆☆   Holy Communion◙ noun
+ --› see communion （义项2）
+
+
+
+————————————
+★☆☆   Holy Cross Day◙ noun
+1. the day on which the feast of the Exaltation of the Cross is held, 14 September  • 举荣圣架节（圣十字架荣归节，9月14日）
+
+
+
+————————————
+★☆☆   holy day◙ noun
+1. a day on which a religious observance is held  • 圣日，宗教节日，祭日
+
+
+
+————————————
+★☆☆   Holy Family1. Christ as a child with Mary and Joseph (and often also others such as John the Baptist or St Anne), especially as a subject for a painting  • 圣家庭（圣婴耶稣和圣母玛利亚、圣约瑟，也常有施洗者约翰或圣安娜等人，尤用于绘画题材）
+
+
+
+————————————
+★☆☆   Holy Father◙ noun
+1. the Pope  • 教皇
+
+
+
+————————————
+★☆☆   Holy Ghost◙ noun
+1. another term for Holy Spirit  • 同 Holy Spirit 
+
+
+
+————————————
+★☆☆   Holy Grail◙ noun
+ --› see Grail 
+
+
+
+————————————
+★☆☆   Holyhead
+ / ˈhɔlɪhɛd /1. a port on Holy ɪsland in θales, off ænglesey; pop. 12,6ˈ2 (1ˌ81). ɪt is the chief port for ferries between the ɑritish mainland and ɪreland  • 霍利黑德（威尔士霍利岛上一港口，在安格尔西岛外；1981年人口12,652，是往返于不列颠大陆与爱尔兰岛之间的渡船的主要港口）
+
+
+
+————————————
+★☆☆   Holy Innocents' Day◙ noun
+ --› see Innocents' Day 
+
+
+
+————————————
+★☆☆   Holy Island1. another name for Lindisfarne  • 同 Lindisfarne 
+2. a small island off the western coast of Anglesey in North Wales. It contains the ferry port of Holyhead. Welsh name Caergybi  • 霍利岛（威尔士北部安格尔西岛西岸附近的一小岛，包括渡船港霍利黑德，。 威尔士语名 Caergybi）
+
+
+
+————————————
+★☆☆   Holy Joe◙ noun
+1. [informal] a sanctimonious or pious man  • [非正式] 假圣人；虔诚的人
+  a clergyman  • 牧师；教士
+
+【语源】1. late 19th cent.: originally nautical slang
+
+
+
+————————————
+★☆☆   Holy Land1. a region on the eastern shore of the Mediterranean, in what is now Israel and Palestine, revered by Christians as the place in which Christ lived and taught, by Jews as the land given to the people of Israel, and by Muslims  • 圣地（地中海东岸一地区，在今以色列和巴勒斯坦境内，作为耶稣基督生活和传教过的地方受到基督教信徒的尊崇；犹太人视之为上帝赐予以色列人的土地而敬仰它；穆斯林教徒亦尊其为圣地）
+  a region similarly revered, for example, Arabia in Islam  • 圣地（例如伊斯兰世界中的阿拉伯半岛）
+
+
+
+————————————
+★☆☆   Holy League1. any of various European alliances sponsored by the papacy during the 15th, 16th, and 17th centuries. They include the League of 1511–13, formed by Pope Julius II to expel Louis XII of France from Italy, and the French Holy League (also called the Catholic League) of 1576 and 1584, a Catholic extremist league formed during the French Wars of Religion  • 神圣联盟(15、16、17世纪由罗马教皇建立的各种欧洲同盟，包括1511—1513年间教皇尤利乌斯二世为把法国的路易十二驱逐出意大利而组成的联盟以及1576年和1584年的法国神圣联盟 ［亦称天主教联盟］，后者是在法国宗教战争中天主教极端分子组成的联盟）
+
+
+
+————————————
+★☆☆   Holy Name◙ noun
+1. (especially in the Catholic Church) the name of Jesus as an object of formal devotion  • （尤见于天主教）圣名（作为正式祈祷对象的耶稣的名字）
+
+
+
+————————————
+★☆☆   Holyoake
+ / ˈhəʊlɪəʊk /1. Sir Keith əʊacka] (1ˌ04–83), ŋew ɛealand statesman, Prime Minister 1ˌˈˌ and 1ˌ60–ˌ2, Governor General 1ˌˌˌ–80  • 霍利约克，基思（•亚奇卡）爵士(1904—1983，新西兰政治家，1957年和1960—1972年任总理，1977—1980年任总督）
+
+
+
+————————————
+★☆☆   Holy Office1. the ecclesiastical court of the Roman Catholic Church established as the final court of appeal in trials of heresy. Formed in 1542 as part of the Inquisition, it was renamed the Sacred Congregation for the Doctrine of the Faith in 1965  • 宗教法庭，异端裁判所（罗马天主教审判异端的最高法庭，1542年建立时是宗教裁判所的一部分，1965年更名为圣职部）
+
+
+
+————————————
+★☆☆   holy of holies◙ noun
+1. the inner chamber of the sanctuary in the Jewish Temple in Jerusalem, separated by a veil from the outer chamber. It was reserved for the presence of God and could be entered only by the High Priest on the Day of Atonement  • 至圣所（耶路撒冷圣殿的内室，与外室用纱帐分开，留作上帝驾临之用，只有祭司长才能在赎罪日进入）
+  a place regarded as most sacred or special  • 最神圣（特别）之地
+ »she had done the wrong thing, venturing into this holy of holies.  她做错了事，闯入了这个最神圣的地方。
+
+
+
+————————————
+★☆☆   holy orders◙ plural noun
+1. the sacrament or rite of ordination as a member of the clergy, especially in the grades of bishop, priest, or deacon  • 神品，圣职（神职人员的品级，尤指主教、牧师或执事这种等级划分）
+
+【IDIOMS】◘ in holy orders
+1. having the status of an ordained member of the clergy  • 有神品的
+◘ take holy orders
+1. become an ordained member of the clergy  • 就任圣职
+
+
+
+————————————
+★☆☆   holy place◙ noun
+1. a place revered as holy, typically one to which religious pilgrimage is made  • 圣所，圣殿（多指宗教朝拜地）
+  (historical)the outer chamber of the sanctuary in the Jewish Temple in Jerusalem  • [史] （耶路撒冷圣殿中的）圣所
+
+
+
+————————————
+★☆☆   holy roller◙ noun
+1. (informal, derogatory)a member of an evangelical Christian group which expresses religious fervour by frenzied excitement or trances  • [非正式，贬] “摇喊”教派成员（基督教福音派新教会成员，以狂热和迷乱来表达宗教热情）
+
+
+
+————————————
+★☆☆   Holy Roman Empire1. the empire set up in western Europe following the coronation of Charlemagne as emperor in the year 800. It was created by the medieval papacy in an attempt to unite Christendom under one rule. At times the territory of the empire was extensive and included Germany, Austria, Switzerland, and parts of Italy and the Netherlands  • 神圣罗马帝国（公元800年查理曼加冕为皇帝后由中世纪罗马教廷在西欧建立的帝国旨在统一对基督教世界的统治；神圣罗马帝国一度疆域辽阔，包括德国、奥地利、瑞士以及意大利和荷兰两国的部分地区）
+
+
+
+————————————
+★☆☆   Holy Rood Day◙ noun
+1. the day on which the feast of the Invention of the Cross is held, 3 May  • 圣十字架发现节（5月3日）
+2. another term for Holy Cross Day  • 同 Holy Cross Day 
+
+
+
+————————————
+★☆☆   Holy Sacrament◙ noun
+ --› see sacrament 
+
+
+
+————————————
+★☆☆   Holy Saturday◙ noun
+1. the Saturday preceding Easter Sunday.  • （复活节前的）圣星期六，圣周六。(亦称 Easter Eve 或 Easter Saturday)
+
+
+
+————————————
+★☆☆   Holy Scripture◙ noun
+1. [mass noun] the sacred writings of Christianity contained in the Bible  • 圣经
+
+
+
+————————————
+★☆☆   Holy See1. the papacy or the papal court; those associated with the Pope in the government of the Roman Catholic Church at the Vatican  • 教皇职位（或教廷）；梵蒂冈罗马天主教廷管理事务中与教皇相关的人与事圣座，宗座；宗座事务。(亦称 See of Rome)
+
+
+
+————————————
+★☆☆   Holy Sepulchre1. the place in which the body of Jesus was laid after being taken down from the Cross  • （埋葬从十字架上取下的耶稣遗体的）圣墓
+  the church in Jerusalem erected over the traditional site of this tomb  • （在耶路撒冷圣墓遗址上建立起来的）圣墓大教堂
+
+
+
+————————————
+★☆☆   Holy Spirit◙ noun
+1. (in Christianity) the third person of the Trinity; God as spiritually active in the world  • （基督教）圣灵
+
+
+
+————————————
+★☆☆   Holy Spirit Association for the Unification of World Christianity1. another name for Unification Church  • 同 Unification Church 
+
+
+
+————————————
+★☆☆   holystone
+ / ˈhəulistəun /(chiefly historical)ə主史] 
+◙ noun
+1. a piece of soft sandstone used for scouring the decks of ships  • （擦洗甲板的）甲板磨石
+◙ verb
+1. [with obj.] scour (a deck) with a holystone  • 用甲板磨石擦洗（甲板）
+
+【语源】1. early 19th cent.: probably from holy + stone. Sailors called the stones ‘bibles’ or ‘prayer books’, perhaps because they scrubbed the decks on their knees
+
+
+
+————————————
+★☆☆   holy terror◙ noun
+ --› see terror （义项2）
+
+
+
+————————————
+★☆☆   Holy Thursday◙ noun
+1. (chiefly in the Roman Catholic Church) Maundy Thursday  • （主罗马天主教）圣星期四，圣周四
+2. [dated] (in the Anglican Church) Ascension Day  • [旧] （英国国教）耶稣升天节
+
+
+
+————————————
+★☆☆   Holy Trinity◙ noun
+ --› see trinity 
+
+
+
+————————————
+★☆☆   holy war◙ noun
+1. a war declared or waged in support of a religious cause  • 圣战
+
+
+
+————————————
+★☆☆   holy water◙ noun
+1. [mass noun] water blessed by a priest and used in religious ceremonies  • 圣水
+
+
+
+————————————
+★☆☆   Holy Week◙ noun
+1. the week before Easter, starting on Palm Sunday  • 圣周（复活节前一周，始自棕榈主日）
+
+
+
+————————————
+★☆☆   Holy Writ◙ noun
+1. [mass noun] Holy Bible  • 圣经
+  writings or sayings of unchallenged authority  • 绝对权威的作品（言论）
+
+
+
+————————————
+★☆☆   Holy Year◙ noun
+1. (in the Roman Catholic Church) a period of remission from the penal consequences of sin, granted under certain conditions for a year usually at intervals of twenty-five years  • （罗马天主教的）大赦年（罪行免罚期，通常每25年才有一年，在一定的条件下执行）
+
+
+
+————————————
+★☆☆   hom
+ / həʊm /◙ (也作 homa), noun
+1. the soma plant  • 肉珊瑚
+  [mass noun] the juice of this plant as a sacred drink of the Parsees  • 圣露（帕西人当作圣水饮用的肉珊瑚汁）
+
+【语源】1. mid 19th cent.: from Persian hūm or Avestan haoma
+
+
+
+————————————
+★☆☆   homage
+ / ˈhɔmidʒ /◙ noun
+1. [mass noun] special honour or respect shown publicly  • 特殊的敬意，特别的尊重
+ »they paid homage to the local boy who became President.  他们特别尊重那位成为总统的当地男孩。
+ »[count noun] Daniel's films were a homage to her.  丹尼尔的电影都表达了对她的特殊敬意。
+  [formal] public acknowledgement of feudal allegiance  • [正式] 宣誓效忠
+ »a man doing homage to his personal lord.  一个向他的主人宣誓效忠的人。
+
+【语源】1. Middle English: Old French, from medieval Latin hominaticum, from Latin homo, homin- 'man' (the original use of the word denoted the ceremony by which a vassal declared himself to be his lord's ‘man’)
+
+
+
+————————————
+★☆☆   hombre
+ / ˈɔmbre /◙ noun
+1. (informal, chiefly US)a man, especially one of a particular type  • [非正式，主美] （尤指某类型的）男子
+ »the Raiders quarterback is one tough hombre.  雷德士队的四分卫是一个壮汉。
+
+【语源】1. mid 19th cent. (originally denoting a man of Spanish descent): Spanish, man', from Latin homo, homin-
+
+
+
+————————————
+★☆☆   homburg
+ / ˈhɔmbə:ɡ /◙ noun
+1. a man's felt hat having a narrow curled brim and a tapered crown with a lengthwise indentation  • 霍姆堡毡帽
+
+【语源】1. late 19th cent.: named after Homburg, a town in western Germany, where such hats were first worn
+
+
+
+————————————
+★☆☆   home
+ / həum /◙ noun
+1. the place where one lives permanently, especially as a member of a family or household  • 家
+ »I was nineteen when I left home and went to college.  我19岁离家上大学。
+ »they have made Provence their home.  他们在普罗旺斯安了家。
+  the family or social unit occupying such a place  • 家庭
+ »he came from a good home and was well educated.  他来自一个很好的家庭，受过良好的教育。
+  a house or flat considered as a commercial property  • 商品房
+ »low-cost homes for first-time buyers.  为第一时间购房者提供的低价商品房。
+  a place where something flourishes, is most typically found, or from which it originates  • 发祥地；产地；发源地
+ »Piedmont is the home of Italy's finest red wines.  皮埃蒙特是意大利顶级红酒的产地。
+  [informal] a place where an object is kept  • [非正式] 存物处
+2. an institution for people needing professional care or supervision  • （为需要专业护理、监护的人设立的）…之家，…院，…所
+ »an old people's home.  养老院。
+3. the finishing point in a race  • （赛马的）终点
+ »he was four fences from home.  他离终点还有四个栅栏。
+  (in games) the place where a player is free from attack  • （游戏，比赛中的）大本营
+  (in lacrosse) each of the three players stationed nearest their opponents' goal  • （长曲棍球）进攻手
+  [Baseball] . short for home plate  • [棒球] home plate 的简称
+  a match played or won by a team on their own ground  • 主场比赛；主队获胜的比赛
+◙ adjective, [attrib.] 
+1. of or relating to the place where one lives  • 家的
+ »I don't have your home address.  我没有你家的地址。
+  made, done, or intended for use in the place where one lives  • 家制的；家用的
+ »traditional home cooking.  传统家常菜。
+  relating to one's own country and its domestic affairs  • 本国的；本国事务的
+ »we need to stimulate demand within the UK home market.  我们需要刺激英国国内市场的需求。
+2. (of a sports team or player) belonging to the country or locality in which a sporting event takes place  • （运动队，运动员）主队的
+ »the home side.  主队。
+  played on or connected with a team's own ground  • 主场的
+ »their first home match of the season.  本赛季他们的首场主场比赛。
+3. [N. Amer.] denoting the administrative centre of an organization  • [北美] 总部的
+ »the company has moved its home office.  公司迁移了其总部。
+◙ adverb
+1. to the place where one lives  • 回家
+ »what time did he get home last night?  昨晚他几点回家的？
+  in or at the place where one lives  • 在家
+ »I stayed home with the kids.  我和孩子们一起呆在家里。
+  to the end or conclusion of a race or something difficult  • （赛跑）抵达终点；（难事）告终
+ »the favourite romped home six lengths clear.  赛前被人们看好的那匹马以领先整整六个马身的距离抵达终点轻松获胜了。
+  to the intended or correct position  • 到目的地；到正确的地方
+ »he slid the bolt home noisily.  他很大声地把螺栓滑到正确的位置。
+◙ verb, [no obj.] 
+1. (of an animal) return by instinct to its territory after leaving it  • （动物凭本能）返回
+ »a dozen geese homing to their summer nesting grounds.  12只回到夏天筑巢地的鹅。
+  (of a pigeon bred for long-distance racing) fly back to or arrive at its loft after being released at a distant point  • （赛鸽在很远的地方放飞后）飞回鸽舍，归巢
+2. (home in on)move or be aimed towards (a target or destination) with great accuracy  • 朝（目的地）移动；对准（目标）
+ »more than 100 missiles were launched, homing in on radar emissions.  朝雷达信号发射了100多枚导弹。
+  focus attention on  • 注意，聚焦于，以…为中心
+ »a teaching style which homes in on what is of central importance for each pupil.  以对每位学生都重要的东西为中心的教学风格。
+3. [with obj.] provide (an animal) with a home as a pet  • 把（动物）养作宠物
+
+【IDIOMS】◘ at home
+1. in one's own house  • 在家
+  in one's own neighbourhood, town, or country  • 在国内；在自己居住的小区（城市）内
+ »he has been consistently successful both at home and abroad.  在国内外他一直都很成功。
+  comfortable and at ease in a place or situation  • 舒适，自在
+ »sit down and make yourself at home.  坐下来，不要拘束。
+  confident or relaxed about doing or using something  • 自信地；放松地；驾轻就熟地
+ »he was quite at home talking about Eisenstein or Brecht.  谈到爱因斯坦或布莱希特他简直如数家珍。
+  ready to receive and welcome visitors  • 乐意接待（来访者）
+ »she took to her room and was not at home to friends.  她回到自己的房间，不愿意接待朋友。
+  (with reference to sports fixtures) at a team's own ground  • （体育比赛）在主场
+ »Spurs drew 1–1 at home to Leeds.  马刺队在主场与利兹联队战成1比1平。
+◘ bring something home to
+1. make (someone) realize the full significance of something  • 使完全意识到
+ »her first-hand account brought home to me the pain of the experience.  她的第一手叙述使我真切地感受到那种经历的痛苦。
+◘ close (或 near) to home
+1. (of a remark or topic of discussion) relevant or accurate to the point that one feels uncomfortable or embarrassed  • （言词，论题）令人不快；令人尴尬
+◘ come home
+1. [Golf] play the second nine holes in a round of eighteen holes  • [高尔夫] 打后九穴。
+--› compare go out（见 go ）
+◘ come home to someone
+1. (of the significance of something) become fully realized by someone  • （事情的重要性）已完全被人意识到
+ »the full enormity of what was happening came home to Sara.  萨拉完全意识到了正在发生的一切暴行。
+◘ drive (或 hammer 或 press 或 ram) something home
+1. make something clearly and fully understood by the use of repeated or forcefully direct arguments  • （通过反复、直白的论述来）清楚有力地表达
+◘ hit (或 strike) home
+1. (of a blow or a missile) reach an intended target  • （拳头，导弹）击中目标，命中目标
+  (of words) have the intended, especially unsettling or painful, effect on their audience  • （言辞）击中要害（尤指使人不安或痛苦）
+ »she could see that her remark had hit home.  她能看出她的话已击中了要害。
+  (of the significance or true nature of a situation) become fully realized by someone  • （意义，本质）得到充分的认识
+ »the full impact of life as a celebrity began to hit home.  名人生活带来的全面影响开始得到充分的认识。
+◘ home and dry
+1. [美 home free, 新西兰 home and hosed] (chiefly Brit.)having successfully achieved or being within sight of achieving one's objective  • [主英] 大功告成；成功在望
+ »at 3–0 up they should have been home and dry.  以3比0领先的情况下他们本来应该取胜的。
+◘ a home from (或北美
+1. a place where one is as happy, relaxed, or comfortable as in one's own home  • 家外之家
+◘ home is where the heart is
+1. (proverb)your home will always be the place for which you feel the deepest affection, no matter where you are  • [谚] 心之所在即为家；金窝银窝，不如自家的狗窝
+◘ home, James (and don't spare the horses)!
+1. [dated] used as a humorous way of exhorting the driver of a vehicle to drive home quickly  • [旧] ［催促驾驶员的幽默用语］快点儿，老兄（别心疼马呀）！
+◘ home sweet home
+1. used as an expression of one's pleasure or relief at being in or returning to one's own home  • （用于表达在家里或回家后的喜悦和放松的心情）在家真好；幸亏在家；终于到家了
+◘ set up home
+1. [Brit.] start living somewhere on a permanent basis  • [英] 定居；安家
+ »the couple set up home in Chelsea eight years ago.  这对夫妇八年前在切尔西定居。
+◘ when ——'s at home
+1. [Brit.] used to add humorous emphasis to a question about someone's identity  • [英] （用于询问某人身份时加强幽默语气）…是何许人也
+ »who's Peter when he's at home?  那位彼得是何许人也？
+
+【派生】♦ homelike adjective
+
+【语源】1. Old English hām, of Germanic origin; related to Dutch heem and German Heim
+
+
+
+————————————
+★☆☆   home banking◙ noun
+1. [mass noun] a system of banking whereby transactions are performed directly by telephone or via a computer and modem  • 家庭银行，电话银行，网上银行
+
+
+
+————————————
+★☆☆   home bird◙ noun
+1. [Brit. informal] . another term for homebody  • [英，非正式] 同 homebody 
+
+
+
+————————————
+★☆☆   homebody
+ / ˈhəumˌbɔdi /◙ (pl. -ies)
+1. (informal, chiefly N. Amer.)a person who likes to stay at home, especially one who is perceived as unadventurous  • [非正式，主北美] （尤指没有冒险精神的）恋家的人，喜欢呆在家里的人
+
+
+
+————————————
+★☆☆   homeboy
+ / ˈhəʊmˌbɔɪ /◙ noun
+1. (informal, chiefly US & S. African)[非正式，主美，南非] a young acquaintance from one's own town or neighbourhood, or from the same social background  • （来自同一城镇、居民区或社会背景的）年青同乡；年青邻居
+  (especially among urban black people) a member of a peer group or gang  • （尤指在都市黑人中）同龄人；同一群人
+  a performer of rap music  • 说唱乐表演者
+
+
+
+————————————
+★☆☆   home brew◙ noun
+1. [mass noun] beer or other alcoholic drink brewed at home  • 家酿啤酒，家酿酒
+  [as modifier] (informal, chiefly US)made at home, rather than in a shop or factory  • [非正式，主美] 家制的，自制的
+ »home-brew software.  自制的软件。
+
+【派生】♦ home-brewed adjective
+
+
+
+
+————————————
+★☆☆   homebuyer◙ noun
+1. a person who buys a house or flat  • 买房（或公寓）者
+
+
+
+————————————
+★☆☆   home cinema◙ noun
+1. [mass noun] (chiefly Brit.)television and video equipment designed to reproduce at home the experience of being in a cinema, typically including stereo speakers and a widescreen set  • [主英] 家庭影院
+
+
+
+————————————
+★☆☆   homecoming
+ / ˈhəumˌkʌmiŋ /◙ noun
+1. an instance of returning home  • 回家
+  [N. Amer.] a reunion of former students of a university, college, or high school  • [北美] （大学或中学）校友重聚
+
+
+
+————————————
+★☆☆   Home Counties1. the English counties surrounding London, into which London has extended. They comprise chiefly Essex, Kent, Surrey, and Hertfordshire  • 伦敦周围各郡（包括埃塞克斯郡、肯特郡、萨里郡和赫特福德郡）
+
+
+
+————————————
+★☆☆   home economics◙ plural noun
+1. [often treated as sing.] cookery and other aspects of household management, especially as taught at school  • （尤指在学校教的）家政学
+
+
+
+————————————
+★☆☆   home farm◙ noun
+1. (chiefly Brit. & S. African)a farm on an estate that is set aside to provide produce for the owner of the estate  • [主英，南非] （为自己提供农产品的）家用农场
+
+
+
+————————————
+★☆☆   home fries◙ (也作 home-fried potatoes), plural noun
+1. [N. Amer.] fried sliced potatoes  • [北美] 炸土豆片
+
+
+
+————————————
+★☆☆   homegirl◙ noun
+1. a female equivalent of a homeboy  • （来自同一城镇、居民区或社会背景的）女年青同乡，女年青邻居；（尤指在都市黑人中）女同龄人；同一群体的女人；女说唱乐表演者
+
+
+
+————————————
+★☆☆   home-grown◙ adjective
+1. grown or produced in one's own garden or country rather than abroad  • 自产的；本国产的
+  belonging to one's own particular locality or country  • 土生土长的，本地的，本国的
+ »home-grown talent.  土生土长的人才。
+
+
+
+————————————
+★☆☆   Home Guard1. the British citizen army organized in 1940 to defend the UK against invasion, finally disbanded in 1957  • 英国地方军，地方志愿军(1940年英国公民为保卫英国组成的军队，最后在1957年解散）
+
+
+
+————————————
+★☆☆   home help◙ noun
+1. [Brit.] a person employed, especially by a local authority, to help in another's home  • [英] （尤指地方当局雇佣来帮助别人家的）家务帮手
+  [mass noun] a service by which such people are provided  • （家庭帮手提供的）家务帮助
+
+
+
+————————————
+★☆☆   home key◙ noun
+1. [Music] the basic key in which a work is written  • [乐] （作曲的）主音
+2. a key on a computer or typewriter keyboard which acts as the base position for one's fingers in touch-typing  • （计算机或打字机的）基本键
+
+
+
+————————————
+★☆☆   Homel
+ / ˈhɔmɪl /1. an industrial city in Sə ɑelarus; pop. ˈ06,100 (1ˌˌ0). ɔussian name Gomel  • 霍米尔（白俄罗斯东南部一工业城市；1990年人口506,100；。 俄语名 Gomel）
+
+
+
+————————————
+★☆☆   homeland
+ / ˈhəʊmˌlænd /◙ noun
+1. a person's or a people's native land  • 家乡，祖国
+ »he left his homeland to settle in London.  他离开了祖国，定居在伦敦。
+  an autonomous or semi-autonomous state occupied by a particular people  • 自治（或半自治）国家
+ »their political aim is a separate Tamil homeland.  他们的政治目标是建立一个独立的泰米尔自治国。
+  (historical)any of ten partially self-governing areas in South Africa designated for particular indigenous African peoples under the former policy of separate development  • [史] （在前隔离发展政策下指定的）南非本土非洲人十个半自治区之一
+
+
+
+————————————
+★☆☆   homeless
+ / ˈhəʊmlɪs /◙ adjective
+1. (of a person) without a home, and therefore typically living on the streets  • （人）无家可归的，流浪街头的
+ »the plight of young homeless people.  无家可归的年轻人的困境。
+ »[as noun the homeless] charities for the homeless.  为无家可归者设置的慈善机构。
+
+【派生】♦ homelessness noun
+
+
+
+
+————————————
+★☆☆   home loan◙ noun
+1. a loan advanced to a person to assist in buying a house or flat  • 买房贷款
+
+
+
+————————————
+★☆☆   homely
+ / ˈhəʊmli: /◙ (homelier, homeliest)
+1. [Brit.] (of a place or surroundings) simple but cosy and comfortable, as in one's own home  • [英] （地方或环境）简单而舒适的，似家的
+ »a modern hotel with a homely atmosphere.  一个充满家庭氛围的现代宾馆。
+  unsophisticated and unpretentious  • 单纯的，不做作的
+ »homely pleasures.  单纯的快乐。
+2. [N. Amer.] (of a person) unattractive in appearance  • [北美] （人）外表平庸的
+
+【派生】♦ homeliness noun
+
+
+
+
+————————————
+★☆☆   home-made◙ adjective
+1. made at home, rather than in a shop or factory  • 家制的，自制的
+ »home-made bread.  自制的面包。
+
+
+
+————————————
+★☆☆   homemaker
+ / ˈhəumˌmeikə /◙ noun
+1. a person, especially a housewife, who manages a home  • 管家的人（尤指主妇）
+
+【派生】♦ homemaking noun
+
+
+
+
+————————————
+★☆☆   home-making◙ noun
+1. [mass noun] the creation and management of a home, especially as a pleasant place in which to live  • 持家，管家（尤指作为一个舒适的住处）
+
+
+
+————————————
+★☆☆   home movie◙ noun
+1. a film made at home or without professional equipment or expertise  • 自制的电影；没有专业设备（或专门技术）制成的电影
+
+
+
+————————————
+★☆☆   homeobox
+ / ˌhɔmɪə(ʊ)ˈbɔks, ˌhəʊm- /◙ (也作 homoeobox), noun
+1. [Genetics] any of a class of closely similar sequences which occur in various genes and are involved in regulating embryonic development in a wide range of species  • [遗传] 同源异形框（一种DNA结合区）
+
+【语源】1. 1980s: from homeotic (see homeosis ) + the noun box; first discovered in homeotic genes of Drosophila fruit flies
+
+
+
+————————————
+★☆☆   Home Office1. the British government department dealing with domestic affairs, including law and order, immigration, and broadcasting, in England and Wales  • 内政部（英国政府部门，在英格兰和威尔士处理国内事务，包括法制、移民和广播）
+
+
+
+————————————
+★☆☆   Home of the Hirsel of Coldstream
+ / ˈhə:s(ə)l /1. ɑaron,  • 见 Douglas-Home 
+
+
+
+————————————
+★☆☆   homeomorphism
+ / ˌhəumiəuˈmɔ:fizm /◙ noun
+1. [Mathematics] an instance of topological equivalence  • [数] 同胚，同拓扑
+
+【派生】♦ homeomorphic adjective
+
+【语源】1. from Greek homoios 'like' + morphē 'form' + -ism
+
+
+
+————————————
+★☆☆   homeopath
+ / ˈhəumiəpɑ:θ /◙ (也作 homoeopath), noun
+1. a person who offers treatment by homeopathy  • 顺势医疗者
+
+【语源】1. mid 19th cent.: from German Homöopath (see homeopathy )
+
+
+
+————————————
+★☆☆   homeopathy
+ / ˌhəʊmi:ˈɔpəθi: /◙ (也作 homoeopathy), noun
+1. a system of complementary medicine in which disease is treated by minute doses of natural substances that in a healthy person would produce symptoms of disease  • 顺势疗法。 常与 allopathy 相对
+
+【派生】♦ homeopathic adjective
+♦ homeopathically adverb
+♦ homeopathist noun
+
+【语源】1. early 19th cent.: coined in German from Greek homoios 'like' + patheia (see -pathy )
+
+
+

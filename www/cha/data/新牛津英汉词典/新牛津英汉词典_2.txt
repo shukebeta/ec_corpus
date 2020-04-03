@@ -1,0 +1,3765 @@
+﻿————————————
+★☆☆   acceptant
+ / əkˈseptənt /◙ adjective
+1. [predic.] (acceptant of)(rare)willingly accepting (something)  • [罕] 愿意接受（某事）的
+
+【语源】1. late 16th cent.: from French accepting, present participle of accepter
+
+
+
+————————————
+★☆☆   acceptation
+ / ˌæksepˈteiʃən /◙ noun
+1. a particular sense or the generally recognized meaning (common acceptation) of a word or phrase  • （词或短语的）特殊含义；通用意义
+
+【语源】1. late Middle English (originally in the sense 'favourable reception, approval'): from late Latin acceptatio(n-), from the verb acceptare (see accept )The current sense dates from the early 17th cent
+
+
+
+————————————
+★☆☆   acceptor
+ / əkˈseptə /◙ noun
+1. a person or thing that accepts something, in particular  • 接受者，尤指
+  a person or bank that accepts a draft or bill of exchange  • 承兑票据的人（或银行）
+  [Chemistry] an atom or molecule which is able to bind to or accept an electron or other species  • [化] 受体
+  [Physics] such an atom forming a positive hole in a semiconductor  • [物理] （构成半导体正极的）受体原子
+
+【语源】1. late Middle English : from Anglo-Norman French acceptour, from Latin acceptor; replaced by later accepter (see accept )in general use, but retained in specialist use
+
+
+
+————————————
+★☆☆   access
+ / ˈækses /◙ noun
+1. [mass noun] the means or opportunity to approach or enter a place  • 接近；进入；通路
+ »the staircase gives access to the top floor.  楼梯一直通向顶楼。
+ »wheelchair access.  轮椅通道。
+ »[count noun] the building has a side access.  这座建筑有个侧门。
+  the right or opportunity to use or benefit from something  • 使用机会；使用权
+ »do you have access to a computer?  你有机会用计算机吗？
+ »awards to help people gain access to training.  帮助人们获得培训机会的补贴。
+  the right or opportunity to approach or see someone  • 探望权；探望机会
+ »we were denied access to our grandson.  我们被剥夺了看望孙儿的权利。
+  the action or process of obtaining or retrieving information stored in a computer's memory  • （对计算机存储器的）访问，存取
+ »this prevents unauthorized access or inadvertent deletion of the file.  这可防止未经许可访问或无意间删除文件。
+  [as modifier] denoting broadcasting produced by minority and specialist interest groups, rather than by professionals  • 节目由少数人及专家兴趣小组而非专职人员制作的
+ »access television.  节目由公众制作的电视。
+2. [in sing.] an attack or outburst of an emotion  • （情感）爆发，发作
+ »I was suddenly overcome with an access of rage.  我突然怒火中烧。
+◙ verb, [with obj.] [一般作 be accessed] 
+1. [Computing] obtain, examine, or retrieve (data or a file)  • [计算机] 访问，存取（数据，文件）
+2. approach or enter (a place)  • 接近，进入（某地）
+ »single rooms have private facilities accessed via the balcony.  单人间配有可经阳台到达的独用卫生设施。
+
+【语源】1. Middle English (in the sense 'sudden attack of illness'): from Latin accessus, from the verb accedere 'to approach' (see accede ) Sense 1is first recorded in the early 17th cent
+
+
+
+————————————
+★☆☆   accessary
+ / əkˈsesərɪ /◙ noun
+1. variant spelling of accessory  • 同 accessory 
+
+
+
+————————————
+★☆☆   access charge◙ (也作 access fee), noun
+1. a charge made for the use of computer or local telephone-network facilities  • （使用计算机或本地电话网络设施的）接入费，访问费
+
+
+
+————————————
+★☆☆   access course◙ noun
+1. an educational course enabling those without traditional qualifications to become eligible for higher education  • （为进入高等院校作准备的）进修课程
+
+
+
+————————————
+★☆☆   accessible
+ / ækˈsesəbəl /◙ adjective
+1. (of a place) able to be reached or entered  • （地方）可到达的；可进入的
+ »the building has been made accessible to disabled people.  这建筑使得残疾人也可进入。
+  able to be easily obtained or used  • 易得到的；易使用的
+ »making learning opportunities more accessible to adults.  使成人有更多的学习机会。
+  easily understood or appreciated  • 易懂的，可以理解的
+ »his Latin grammar is lucid and accessible.  他的拉丁语语法明白易懂。
+2. (of a person, especially one in a position of authority or importance) friendly and easy to talk to; approachable  • （人，尤指权威人士或要员）平易近人的
+ »he is more accessible than most tycoons.  他比大多数大亨都要平易近人。
+
+【派生】♦ accessibility noun
+♦ accessibly adverb
+
+【语源】1. late Middle English : from late Latin accessibilis, from Latin access- 'approached', from the verb accedere (see accede )
+
+
+
+————————————
+★☆☆   accession
+ / ækˈseʃən /◙ noun
+1. [mass noun] the attainment or acquisition of a position of rank or power, typically that of monarch or president  • 即位；就职，就任
+ »the Queen's accession to the throne.  女皇即位。
+  the action or process of formally joining or being accepted by an association, institution, or group  • 正式加入，（协会、机构或团体等的）正式接纳
+ »the accession of Spain and Portugal to the EC.  西班牙和葡萄牙正式加入欧盟。
+  the formal acceptance of a treaty or agreement  • （对条约或协议的）正式接受
+ »accession to the Treaty of Rome was effected in 1971.  对罗马条约的接受于1971年生效。
+2. a new item added to an existing collection of books, paintings, or artefacts[as modifier]  • 新藏品（如书籍、绘画或工艺品）
+  an amount added to an existing quantity of something  • 增加量
+ »substantial accessions of gold.  黄金库存大增。
+◙ verb
+1. [with obj.] [一般作 be accessioned] record the addition of (a new item) to a library, museum, or other collection  • （图书馆、博物馆等）把（新藏品）登记入册
+
+【语源】1. late 16th cent. (in the general sense 'something added'): from Latin accessio(n-), from the verb accedere 'approach, come to' (see accede )
+
+
+
+————————————
+★☆☆   accessorize
+ / ækˈsesəˌraiz /◙ (也作 -ise), verb
+1. [with obj.] provide or complement (a garment) with or as a fashion accessory  • 用饰件装饰（或补充）（衣服）
+ »sequined catsuits were accessorized with cork-heeled shoes.  带光小圆片的紧身衣配软木跟的鞋子。
+
+
+
+————————————
+★☆☆   accessory
+ / ækˈsesəri /◙ (也作 accessory), (pl. -ies)
+1. a thing which can be added to something else in order to make it more useful, versatile, or attractive  • 附件，配件；装饰件
+ »a range of bathroom accessories.  一系列盥洗室用品。
+  a small article or item of clothing carried or worn to complement a garment or outfit  • 服装搭配物，小饰品
+ »she wore the suit with perfectly matching accessories—hat, bag, shoes.  她的套装与帽子、提包、鞋子的搭配堪称完美。
+2. [Law] someone who give assistance to the perpetrator of a crime without taking part in it  • [律] 同谋；从犯
+ »she was charged as an accessory to murder.  她被指控为谋杀案的同谋。
+◙ adjective
+1. (chiefly technical)contributing to or aiding an activity or process in a minor way; subsidiary or supplementary  • [主技] 辅助的；附属的；补充的
+ »functionally the maxillae are a pair of accessory jaws.  从功能上看，上颌骨是一对辅助颌。
+
+【IDIOMS】◘ accessory before (或 after) the fact
+1. [Law, dated] a person who incites or assists someone to commit an arrestable offence (or knowingly aids someone who has committed such an offence)  • [律旧] （怂恿或协助犯罪或故意帮助犯罪人的）事前（或事后）从犯
+
+【派生】♦ accessorial adjective
+1. (chiefly Law)  • [主律] 
+
+【语源】1. late Middle English : from medieval Latin accessorius 'additional thing', from Latin access- 'increased', from the verb accedere (see accede )
+
+
+
+————————————
+★☆☆   accessory cell◙ noun
+1. [Physiology] any of various cells of the immune system that interact with T lymphocytes in the initiation of the immune response  • [生理] 副助细胞
+
+
+
+————————————
+★☆☆   accessory mineral◙ noun
+1. [Geology] a constituent mineral present in small quantity and not taken into account in identifying a rock  • [地质] 副矿物
+
+
+
+————————————
+★☆☆   accessory nerve◙ noun
+1. [Anatomy] each of the eleventh pair of cranial nerves, supplying certain muscles in the neck and shoulder  • [剖] 副神经
+
+
+
+————————————
+★☆☆   access time◙ noun
+1. [Computing] the time taken to retrieve data from storage  • [计算机] 存取时间
+
+
+
+————————————
+★☆☆   acciaccatura
+ / ɑ:ˌtʃɑ:kɑ:ˈtuərə /◙ (pl. acciaccaturas 或 acciaccature)
+1. [Music] a grace note performed as quickly as possible before an essential note of a melody  • [乐] 短倚音
+
+【语源】1. Italian, from acciaccare 'to crush'
+
+
+
+————————————
+★☆☆   accidence
+ / ˈæksidəns /◙ noun
+1. [mass noun] [dated] the part of grammar that deals with the inflections of words  • [旧] 词形屈折变化
+
+【语源】1. early 16th cent.: from late Latin accidentia (translation of Greek parepomena 'things happening alongside'), neuter plural of the present participle of accidere 'happen' (see accident )
+
+
+
+————————————
+★☆☆   accident
+ / ˈæksidənt /◙ noun
+1. an unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury  • 意外事故；不测事件
+ »he had an accident at the factory.  他在工厂出了意外事故。
+ »[mass noun] if you are unable to work owing to accident or sickness.  如果你由于意外或疾病而无法工作。
+  a crash involving road or other vehicles, typically one that causes serious damage or injury  • 交通事故，车祸
+ »four people were killed in a road accident.  四个人在一次道路交通事故中死亡。
+  [informal] used euphemistically to refer to an incidence of incontinence, typically by a child or an animal  • [非正式，婉] （尤指儿童或动物的）大便（或小便）失禁
+2. an event that happens by chance or that is without apparent or deliberate cause  • 意外的事，偶然的事
+ »the pregnancy was an accident.  这次怀孕是个意外。
+ »it is no accident that Manchester has produced more than its fair share of professional comics.  曼彻斯特出了特别多的职业喜剧明星并非偶然。
+  [mass noun] the working of fortune; chance  • 运气；机遇
+ »I opened it by accident.  我是碰巧把它打开的。
+ »members belong to the House of Lords through hereditary right or accident of birth.  成员因世袭或出生的造化而成为上议院议员。
+3. [Philosophy] (in Aristotelian thought) a property of a thing which is not essential to its nature  • [哲] （亚里士多德思想中的）非本质属性
+
+【IDIOMS】◘ accident and emergency
+1. [Brit.] denoting a hospital department concerned with the provision of immediate treatment to people who are seriously injured in an accident or who are suddenly taken seriously ill  • [英] 急诊室
+◘ an accident waiting to happen
+1. [informal] a potentially disastrous situation, typically caused by negligent or faulty procedures  • [非正式] （尤指由于疏忽大意或程序错误而造成的）隐患
+  a person certain to cause trouble  • 迟早会惹麻烦的人
+◘ accidents will happen in the best regulated families
+1. (proverb)however careful you try to be, it is inevitable that some unfortunate or unforeseen events will occur  • [谚] 家规再严，事端难免
+ »problems like these should not occur, but accidents will happen.  这类问题不应出现，但保不定会有意外的。
+◘ without accident
+1. safely  • 安全地
+ »he was able to stop the train without accident.  他能安全地停住火车。
+
+【语源】1. late Middle English (in the general sense 'an event'): via Old French from Latin accident- 'happening', from the verb accidere, from ad- 'towards, to' + cadere 'to fall'
+
+
+
+————————————
+★☆☆   accidental
+ / ˌæksiˈdentl /◙ adjective
+1. happening by chance, unintentionally, or unexpectedly  • 意外的；非故意的
+ »a verdict of accidental death.  意外死亡裁决。
+ »the damage might have been accidental.  损害可能是意外造成的。
+2. incidental ; subsidiary  • 非主要的；附带的
+ »the location is accidental and contributes nothing to the poem.  地点是非主要的，对诗没有什么影响。
+3. [Philosophy] (in Aristotelian thought) relating to or denoting properties which are not essential to a thing's nature  • [哲] （亚里士多德思想中的）非本质属性的
+◙ noun
+1. [Music] a sign indicating a momentary departure from the key signature by raising or lowering a note  • [乐] 临时记号
+2. [Ornithology] . another term for vagrant  • [鸟] 同 vagrant 
+
+【派生】♦ accidentally adverb
+
+【语源】1. late Middle English (in senses 2 and 3 of the adjective): from late Latin accidentalis, from Latin accident- 'happening' (see accident )
+
+
+
+————————————
+★☆☆   accident-prone
+ / ˈæksidəntprəun /◙ adjective
+1. tending to be involved in a greater than average number of accidents  • 易遭遇意外的
+
+
+
+————————————
+★☆☆   accidie
+ / ˈæksidi: /◙ noun
+1. [mass noun] spiritual or mental sloth; apathy  • 倦怠；漠然
+
+【语源】1. Middle English : via Old French from medieval Latin accidia, alteration of acedia.Obsolete after the 16th cent., the term was revived in the late 19th cent
+
+
+
+————————————
+★☆☆   accipiter
+ / ækˈsipitə /◙ noun
+1. [Ornithology] a hawk of a group distinguished by short, broad wings and relatively long legs, adapted for fast flight in wooded country  • [鸟] 鹰
+2. Accipiter and related genera, family Accipitridae: numerous species, including the goshawk  • 鹰属及相关属，鹰科： 众多种，包括苍鹰
+
+【语源】1. from Latin, hawk, bird of prey'
+
+
+
+————————————
+★☆☆   accipitrine
+ / ækˈsɪpɪtrvɪn /◙ adjective
+1. [Ornithology] of or relating to birds of a family that includes most diurnal birds of prey other than falcons, New World vultures, and the osprey  • [鸟] （与）鹰科禽鸟（有关）的
+2. Family Accipitridae; treated as a subfamily [Accipitrinae] in this sense when the osprey is included in this family  • 鹰科；当鱼鹰包含在内时被作为亚科（鹰亚科）
+
+【语源】1. mid 19th cent.: from French, from Latin accipiter 'bird of prey'
+
+
+
+————————————
+★☆☆   acclaim
+ / əˈkleim /◙ verb
+1. [with obj.] [一般作 be acclaimed] praise enthusiastically and publicly  • 称道；赞誉
+ »the conference was acclaimed as a considerable success.  会议相当成功，为人称道。
+ »[with obj. and complement] he was acclaimed a great painter.  他被誉为伟大的画家。
+◙ noun
+1. [mass noun] enthusiastic and public praise  • 称道，赞誉
+ »she has won acclaim for her commitment to democracy.  她因致力于民主而为人赞誉。
+
+【语源】1. early 17th cent. (in the sense 'express approval': from Latin acclamare, from ad- 'to' + clamare 'to shout'. The change in the ending was due to association with claim.Current senses date from the 17th cent
+
+
+
+————————————
+★☆☆   acclamation
+ / ˌækləˈmeɪʃən /◙ noun
+1. [mass noun] loud and enthusiastic approval, typically to welcome or honour someone or something  • 欢呼，喝彩
+ »the tackle brought the supporters to their feet in acclamation.  球迷们为阻截成功而起立欢呼。
+
+【IDIOMS】◘ by acclamation
+1. (of election, agreement, etc.) by overwhelming vocal approval and without ballot  • （选举、协议等不经投票而以口头方式）通过，赞成
+2. [Canadian] (of election) by virtue of being the sole candidate  • [加] （选举）作为惟一候选人当选
+
+【语源】1. mid 16th cent.: from Latin acclamatio(n-), from acclamare 'shout at', later 'shout in approval' (see acclaim )
+
+
+
+————————————
+★☆☆   acclimate
+ / əˈklaimit /◙ verb
+1. [no obj.] (chiefly N. Amer.)acclimatize  • [主北美] 适应（或习惯于）新气候（或环境）
+ »we had to give the soldiers time to acclimate.  我们不得不给士兵们适应环境的时间。
+  [Biology] respond physiologically or behaviourally to a change in a single environmental factor  • [生] 顺应，驯化。
+--› compare acclimatize 
+ »trees may acclimate to high CO2 levels by reducing the number of stomata.  树木可通过减少气孔来顺应二氧化碳浓度高的环境。
+  [with obj.] [Botany & Horticulture] harden off (a plant)  • [植, 园艺] 使（植物）逐步变得耐寒
+
+【派生】♦ acclimation noun
+
+【语源】1. late 18th cent.: from French acclimater, from a- (from Latin ad 'to, at') + climat 'climate'
+
+
+
+————————————
+★☆☆   acclimatize
+ / əˈklaɪməˌtaɪz /◙ (也作 -ise), verb
+1. [no obj.] become accustomed to a new climate or to new conditions  • 适应（或习惯于）新气候（或环境）
+ »it's unknown whether people will acclimatize to increasingly warm weather.  人们是否会适应逐渐变暖的气候还是个未知数。
+ »they like to acclimatize themselves properly before doing anything.  他们喜欢在做任何事之前先熟悉环境。
+  [Biology] respond physiologically or behaviourally to changes in a complex of environmental factors  • [生] （生理或行为上）适应（综合环境因素的变化）。
+--› compare acclimate 
+  [with obj.] [Botany & Horticulture] harden off (a plant)  • [植, 园艺] 使（植物）逐步变得耐寒
+
+【派生】♦ acclimatization noun
+
+【语源】1. mid 19th cent.: from French acclimater 'acclimatize' + -ize
+
+
+
+————————————
+★☆☆   acclivity
+ / əˈklɪvɪti: /◙ (pl. -ies)
+1. an upward slope  • 上行坡
+
+【派生】♦ acclivitous adjective
+
+【语源】1. early 17th cent.: from Latin acclivitas, from acclivis, from ad- 'towards' + clivus 'a slope'
+
+
+
+————————————
+★☆☆   accolade
+ / ˈækəˌleɪd , -ˌlɑ:d /◙ noun
+1. an award or privilege granted as a special honour or as an acknowledgement of merit  • 荣誉；奖励
+ »the ultimate official accolade of a visit by the Queen.  女皇亲莅的最高官方礼遇。
+  an expression of praise or admiration  • 表彰；赞赏
+2. a touch on a person's shoulders with a sword at the bestowing of a knighthood  • 骑士称号授予礼上以剑触肩
+
+【语源】1. early 17th cent.: from French, from Provençal acolada, literally 'embrace around the neck (when bestowing knighthood)', from Latin ad- 'at, to' + collum 'neck'
+
+
+
+————————————
+★☆☆   accommodate
+ / əˈkɔmədeit /◙ verb, [with obj.] 
+1. (of physical space, especially a bulilding) provide lodging or sufficient space for  • （空间，尤指建筑物）容纳；为…提供膳宿（或足够空间）
+ »the cottages accommodate up to six people.  小屋可容多达六人居住。
+2. fit in with the wishes or needs of  • 顺应；迎合
+ »any language must accommodate new concepts.  任何语言都必须能表达新的概念。
+  [no obj.] (accommodate to)adapt to  • 适应
+ »making users accommodate to the realities of today's marketplace.  使用户适应今天的市场现状。
+
+【派生】♦ accommodative adjective
+
+【语源】1. mid 16th cent.:from Latin accommodat- 'made fitting', from the verb accommodare, from ad- 'to' + commodus 'fitting'
+
+
+
+————————————
+★☆☆   accommodating
+ / əˈkɔməˌdeɪtɪŋ /◙ adjective
+1. fitting in with someone's wishes or demands in a helpful way  • 与人方便的，乐于助人的
+
+【派生】♦ accommodatingly adverb
+
+
+
+
+————————————
+★☆☆   accommodation
+ / əˌkɔməˈdeiʃən /◙ noun
+1. [mass noun] a room, group of rooms, or building in which someone may live or stay  • 住处
+ »they were living in temporary accommodation.  他们住在临时住所。
+  (accommodations)(chiefly N. Amer.)lodgings, sometimes also including board  • [主北美] 住宿（有时包括膳食）
+ »the company offers a number of guest house accommodations in Oberammergau.  公司在奥伯拉默高有几家招待所可供住宿。
+  the available space for occupants in a building, vehicle, or vessel  • （建筑、汽车或船舶容人的）空间
+ »there was lifeboat accommodation for 1,178 people.  有可容纳1，178人的救生艇。
+  the providing of a room or lodgings  • 提供住宿
+ »the building is used exclusively for the accommodation of guests.  此楼是专为客人提供住宿的。
+2. a convenient arrangement; a settlement or compromise  • 调解；通融
+ »the prime minister was seeking an accommodation with Labour.  首相在寻求与工党取得和解。
+  [mass noun] the process of adapting or adjusting to someone or something  • 调节，适应
+ »accommodation to a separate political entity was not possible.  为一单独的政治团体作调整是不可能的。
+  [mass noun] the automatic adjustment of the focus of the eye by flattening or thickening of the lens  • （通过改变眼球晶状体形状）自动调焦，眼调节
+
+【语源】1. early 17th cent.: from Latin accommodatio(n-), from accommodare 'fit one thing to another' (see accommodate )
+
+
+
+————————————
+★☆☆   accommodation address◙ noun
+1. [Brit] an address for correspondence used by a person who wishes to conceal or does not have a permanent address  • [英] （为隐匿或因无固定住址）临时通信地址
+
+
+
+————————————
+★☆☆   accommodationist
+ / əˌkɔməˈdeiʃənist /◙ noun
+1. [US] a person who seeks compromise with an opposing point of view, typically a political one  • [美] （尤指政治观点上）妥协迁就者
+
+
+
+————————————
+★☆☆   accommodation ladder◙ noun
+1. a ladder or flight of steps up the side of a ship allowing access from a small boat or a quayside  • 舷梯
+
+
+
+————————————
+★☆☆   accommodation platform◙ noun
+1. an offshore platform serving as accommodation for workers in offshore oil or gas production  • 海上油气工人住宿平台
+
+
+
+————————————
+★☆☆   accompaniment
+ / əˈkʌmpəni:mənt , əˈkʌmpni:- /◙ noun
+1. a musical part which supports or partners a solo instrument, voice, or group  • 伴唱，伴奏
+ »she sang to a guitar accompaniment.  她在吉他伴奏下歌唱。
+ »[mass noun] sonatas for piano with violin accompaniment.  小提琴伴奏的钢琴奏鸣曲。
+  a piece of music played as a complement or background to an activity  • 背景音乐
+ »lush string accompaniments to romantic scenes in films.  伴随影片中浪漫场景的华美弦乐。
+2. something that supplements or complements something else, especially food  • 配套物（尤指食物的伴随物）
+ »these biscuits are a lovely accompaniment to tea.  这些饼干是就着茶吃的好东西。
+
+【IDIOMS】◘ to the accompaniment of
+1. with accompanying or background music or sound from  • 在…伴奏下
+ »we filed out to the accompaniment of the organ.  我们在管风琴伴奏下鱼贯而出。
+  with another event happening at the same time as  • 伴随发生的事件
+
+【语源】1. early 18th cent.: from French accompagnement, from accompagner 'accompany'
+
+
+
+————————————
+★☆☆   accompanist
+ / əˈkʌmpənist /◙ noun
+1. a person who provides a musical accompaniment to another musician or to a singer  • 伴奏者
+
+
+
+————————————
+★☆☆   accompany
+ / əˈkʌmpəni /◙ (-ies, -ied), [with obj.] 
+1. go somewhere with (someone) as a companion or escort  • 陪伴，护送
+ »the two sisters were to accompany us to London.  两姐妹准备陪我们去伦敦。
+2. [一般作 be accompanied] be present or occur at the same time as (something else)  • 伴随，与…一起发生
+ »the illness is often accompanied by nausea.  此病常伴有恶心。
+  provide (something) as a complement or addition to something else  • 兼带；附加
+ »home-cooked ham accompanied by brown bread.  自制火腿加黑面包。
+3. play a musical accompaniment for  • 为…伴奏
+
+【语源】1. late Middle English : from Old French accompagner, from a- (from Latin ad 'to, at') + compagne, from Old French compaignon 'companion'. The spelling change was due to association with company
+
+
+
+————————————
+★☆☆   accomplice
+ / əˈkɔmplis /◙ noun
+1. a person who helps another commit a crime  • 同谋，帮凶
+
+【语源】1. mid 16th cent.: alteration (probably by association with accompany)of Middle English complice 'an associate', via Old French from late Latin complex, complic- 'allied', from com- 'together' + the root of plicare 'to fold'
+
+
+
+————————————
+★☆☆   accomplish
+ / əˈkɔmpliʃ /◙ verb
+1. [with obj.] achieve or complete successfully  • 达到；完成；实现
+ »the planes accomplished their mission.  飞机完成了任务。
+
+【语源】1. late Middle English : from Old French acompliss-, lengthened stem of acomplir, based on Latin ad- 'to' + complere 'to complete'
+
+
+
+————————————
+★☆☆   accomplished
+ / əˈkɔmplɪʃt /◙ adjective
+1. highly trained or skilled in a particular activity  • 技术娴熟的；受过良好训练的
+ »an accomplished pianist.  技艺高超的钢琴家。
+  well educated and having good social skills  • 娴于社交的
+
+
+
+————————————
+★☆☆   accomplishment
+ / əˈkɔmplɪʃmənt /◙ noun
+1. something that has been achieved successfully  • 成就；成绩
+ »the reduction of inflation was a remarkable accomplishment.  通货膨胀的减缓是非凡的成就。
+  [mass noun] the successful achievement of a task  • 完成；实现
+ »the accomplishment of planned objectives.  完成预定目标。
+  an activity that a person can do well, typically as a result of study or practice  • （尤指通过学习或练习获得的）技能
+ »typing was another of her accomplishments.  打字是她的另一种技能。
+  [mass noun] skill or ability in an activity  • 造诣；才能
+ »a poet of considerable accomplishment.  有相当造诣的诗人。
+
+
+
+————————————
+★☆☆   accord
+ / əˈkɔ:d /◙ verb
+1. [with obj.] give or grant someone (power, status, or recognition)  • 给予；授予（某人权力、地位等）
+ »the powers accorded to the head of state.  授予国家元首的权力。
+ »[with two objs] the national assembly accorded the General more power.  国民大会授予将军更大的权力。
+2. [no obj.] (accord with)(of a concept or fact) be harmonious or consistent with  • （概念，事实）与…相符合（或一致）
+◙ noun
+1. an official agreement or treaty  • 正式协议；条约
+  [mass noun] agreement or harmony  • 一致；和谐
+ »the government and the rebels are in accord on one point.  政府和反叛者有一点是一致的。
+
+【IDIOMS】◘ in accord with
+1. according to  • 与…一致；根据
+◘ of one's own accord
+1. voluntarily or without outside intervention  • 自愿地；自动地
+ »he would not seek treatment of his own accord.  他不会主动去求医的。
+◘ with one accord
+1. in a united way  • 一致地
+
+【语源】1. Old English , from Old French acorder 'reconcile, be of one mind', from Latin ad- 'to' + cor, cord- 'heart'; influenced by concord
+
+
+
+————————————
+★☆☆   accordance
+ / əˈkɔ:dəns /◙ noun
+1. [用于短语 in accordance with] in a manner conforming with  • 按照，依据
+ »the ballot was held in accordance with trade union rules.  投票根据工会规定举行。
+
+【语源】1. Middle English : from Old French acordance, from acorder 'bring to an agreement' (see accord )
+
+
+
+————————————
+★☆☆   accordant
+ / əˈkɔ:dənt /◙ adjective
+1. (archaic)agreeing oble  • [古] 一致的；和谐的；相符合的
+ »I found the music accordant with the words of the service.  我发现音乐与仪式上的致词很协调。
+
+【语源】1. Middle English : from Old French acordant, from acorder 'bring to an agreement' (see accord )
+
+
+
+————————————
+★☆☆   according
+ / əˈkɔ:diŋ /◙ adverb
+1. (according to)as stated by or in  • 据…所述
+ »the outlook for investors is not bright, according to financial experts.  照金融家的说法，投资者的前景不甚光明。
+  in a manner corresponding or conforming to  • 按照；依照
+ »cook the rice according to the instructions.  按照说明煮饭。
+  in proportion or relation to  • 视…而定，按照
+ »salary will be fixed according to experience.  按照资历确定薪金。
+2. (according as)depending on whether  • 根据；取决于
+
+
+
+————————————
+★☆☆   accordingly
+ / əˈkɔ:diŋli /◙ adverb
+1. in a way that is appropriate to the particular circumstances  • 相应地
+ »we have to discover what his plans are and act accordingly.  我们必须弄清他有什么打算并采取相应行动。
+2. [sentence adverb] consequently ; therefore  • 从而，于是
+ »there was no breach of the rules; accordingly, there will be no disciplinary inquiry.  没有违规；因此也不会在纪律上查究。
+
+
+
+————————————
+★☆☆   accordion
+ / əˈkɔ:di:ən /◙ noun
+1. a musical instrument played by stretching and squeezing with the hands to work a central bellows that blows air over metal reeds, the melody and chords being sounded by buttons or keys  • 手风琴。
+--› compare concertina 
+  [as modifier] folding like the bellows of an accordion  • 像手风琴风箱一样折叠的
+ »an accordion pleat.  手风琴风箱似的褶裥。
+
+【派生】♦ accordionist noun
+
+【语源】1. mid 19th cent.: from German Akkordion, from Italian accordare 'to tune'
+
+
+
+————————————
+★☆☆   accost
+ / əˈkɔ:st , əˈkɔst /◙ verb
+1. [with obj.] approach and address (someone) boldly or aggressively  • （贸然）上前与…搭讪（或攀谈）
+ »reporters accosted him in the street.  记者们在街上到他跟前搭讪。
+ »a man tried to accost the girl on the way to school.  一男子在那女孩上学路上与她搭话。
+
+【语源】1. late 16th cent. (originally in the sense 'lie or go alongside'): from French accoster, from Italian accostare, from Latin ad- 'to' + costa 'rib, side'
+
+
+
+————————————
+★☆☆   accouchement
+ / əˈku:ʃmɑ:ŋ /◙ noun
+1. [mass noun] (archaic)the action of giving birth to a baby  • [古] 分娩
+
+【语源】1. late 18th cent. French, from accoucher 'act as midwife', from a- (from Latin ad 'to, at') + coucher 'put to bed' (see couch )
+
+
+
+————————————
+★☆☆   accoucheur
+ / ˌæku:ˈʃə: /◙ noun
+1. a male midwife  • 男助产士
+
+【语源】1. mid 18th cent. French, from accoucher (see accouchement )
+
+
+
+————————————
+★☆☆   account
+ / əˈkaunt /◙ noun
+1. a report or description of an event or experience  • 报道，记述
+ »a detailed account of what has been achieved.  对取得的成就的详细描述。
+  an interpretation or rendering of a piece of music  • 演奏（音乐）
+ »a lively account of Offenbach's score.  对奥芬巴赫乐曲的生动演奏。
+2. a record or statement of financial expenditure and receipts relating to a particular period or purpose  • 账；账目
+ »the barman was doing his accounts.  酒吧男招待在记账。
+ »he submitted a quarterly account.  他递交了一份季度账目。
+  [Accounts] the department of a company that deals with such records  • 会计科
+  (chiefly Brit.)a bill taking the form of such a record  • [主英] 账单
+ »there's no money to pay the tradesmen's accounts this month.  这个月没有钱支付零售商的账单。
+3. an arrangement by which a body holds funds on behalf of a client or supplies goods or services to them on credit  • 账户；赊购账
+ »a bank account.  银行账户。
+ »charge it to my account.  记在我的账上。
+ »I began buying things on account.  我开始赊购物品。
+  a client having such an arrangement with a supplier  • （记账交易）客户
+ »selling bibles to established accounts in the North.  将《圣经》卖给北方的记账交易老客户。
+  a contract to do work periodically for a client  • （定期结付的）交易合同
+ »another agency were awarded the account.  又一家代理商得到了合约。
+  [Stock Exchange, Brit.] a fixed period on a stock exchange, at the end of which payment must be made for stock that has been bought  • [股票英] 账期交易期
+4. [mass noun] importance  • 重要性
+ »money was of no account to her.  金钱对她无关紧要。
+◙ verb
+1. [with obj. and complement] consider or regard in a specified way  • 认为，看作
+ »her visit could not be accounted a success.  她的访问算不上成功。
+ »he accounted himself the unluckiest man alive.  他认为自己是世上最倒霉的人。
+2. [no obj.] (archaic)give or receive an account for money received  • [古] 报账
+ »after 1292 he accounted to the Westminster exchequer.  1292年以后他就向威斯敏斯特税务署报账。
+
+【IDIOMS】◘ by (或 from) all accounts
+1. according to what one has heard or read  • 根据各种流传的说法
+ »by all accounts he is a pretty nice guy.  据说他是个非常好的人。
+◘ call (或 bring) someone to account
+1. require someone to explain a mistake or poor performance  • 要求解释错误（或失误）
+◘ give a good (或 bad) account of oneself
+1. make a favourable (or unfavourable) impression through one's performance  • 表现出色（或拙劣）
+◘ keep an account of
+1. keep a record of  • 记录
+◘ leave something out of account
+1. fail or decline to consider a factor  • 未能（或不予）考虑
+◘ money of account
+1. denominations of money used in reckoning but not current as coins  • 记账货币
+◘ on someone's account
+1. for a specified person's benefit  • 为（某人）着想
+ »don't bother on my account.  不要为我多费神了。
+◘ on account of
+1. because of  • 因为，由于
+◘ on no account
+1. under no circumstances  • 决不，绝对不
+ »on no account let anyone know we're interested.  切莫让任何人知道我们感兴趣。
+◘ on one's own account
+1. with one's own money or assets, rather than for an employer or client  • 靠自己（的钱财）
+ »he began trading on his own account.  他开始独立经商。
+◘ settle (或 square) accounts with
+1. pay money owed to (someone)  • 与（某人）结清账目
+  have revenge on  • 向…报复，跟…算账
+◘ take something into account (或 take account of)
+1. consider a specified thing along with other factors before reaching a decision or taking action  • （在决定或行动之前）将…考虑进去
+◘ there's no accounting for tastes (或 taste)
+1. (proverb)it's impossible to explain why different people like different things, especially those things which the speaker considers unappealing  • [谚] 萝卜青菜，各有所爱
+◘ turn something to good account
+1. turn something to one's advantage  • 利用；善用
+
+【语源】1. Middle English (in the sense 'counting', 'to count'): from Old French acont (noun), aconter (verb), based on conter 'to count'
+
+【PHR V】◘ account for
+1. give a satisfactory record of (something, typically money, that one is responsible for)  • （尤指对自己掌管的钱财）作出满意说明
+  provide or serve as a satisfactory explanation or reason for  • 解释；说明
+ »he was brought before the Board to account for his behaviour.  他被带到董事会上为他的行为作出解释。
+  [一般作 be accounted for] know the fate or whereabouts of (someone or something), especially after an accident  • （尤指事故发生后）查明…的命运（或下落）
+ »everyone was accounted for after the floods.  洪水之后所有人的下落都弄清楚了。
+  succeed in killing, destroying, or defeating  • 杀死，消灭；击败
+ »a mishit drive accounted for Jones, who had scored 32.  一个击球失误使得32分的琼斯落败。
+2. supply or make up (a specified amount or proportion)  • 提供；构成（数量，比例）
+ »social security accounts for about a third of total public spending.  社会安全保障占公共开支总数的1/3。
+
+
+
+————————————
+★☆☆   accountable
+ / əˈkauntəbl /◙ adjective
+1. (of a person, organization, or institution) required or expected to justify actions or decisions; responsible  • （人，组织，机构）应负责任的；负有责任的
+ »ministers are accountable to Parliament.  部长们对议会负责。
+ »parents cannot be held accountable for their children's actions.  不能要求父母对其孩子的行为负责。
+2. explicable ; understandable  • 可解释的；可理解的
+ »the delayed introduction of characters' names is accountable, if we consider that names have a low priority.  推迟介绍人物姓名是可以理解的，如果我们认为名字较次要的话。
+
+【派生】♦ accountability noun
+♦ accountably adverb
+
+
+
+
+————————————
+★☆☆   accountancy
+ / əˈkauntənsɪ /◙ noun
+1. [mass noun] the profession or duties of an accountant  • 会计工作（或职务）
+
+
+
+————————————
+★☆☆   accountant
+ / əˈkauntənt /◙ noun
+1. a person whose job is to keep or inspect financial accounts  • 会计师，会计员
+
+【语源】1. Middle English : from Law French, present participle of Old French aconter (see account )The original use was as an adjective meaning 'liable to give an account', hence denoting a person who must do so
+
+
+
+————————————
+★☆☆   account executive◙ noun
+1. a business executive who manages the interests of a particular client, typically in advertising  • （尤指广告业）客户账目经理，业务经理
+
+
+
+————————————
+★☆☆   accounting
+ / əˈkaʊntɪŋ /◙ noun
+1. [mass noun] the action or process of keeping financial accounts  • 会计；记账
+
+
+
+————————————
+★☆☆   accounts payable◙ plural noun
+1. money owed by a company to its creditors  • 应付账款
+
+
+
+————————————
+★☆☆   accounts receivable◙ plural noun
+1. money owed to a company by its debtors  • 应收账款
+
+
+
+————————————
+★☆☆   accoutre
+ / əˈku:tə /◙ [美 accouter] , (accoutred, accoutring ; 美 accoutered, accoutering)
+1. [with obj.] [一般作 be accoutred] clothe or equip, typically in something noticeable or impressive  • 给…穿上，为…装备（某物，尤指引人注意或给人深刻印象之物）
+
+【语源】1. mid 16th cent.: from French accoutrer, from Old French acoustrer, from a- (from Latin ad 'to, at') + cousture 'sewing'
+
+
+
+————————————
+★☆☆   accoutrement
+ / əˈku:təmənt /◙ [美 accouterment] , noun
+1. [一般作 accoutrements] additional items of dress or equipment, or other items carried or worn by a person or used for a particular activity  • （为某人或某特定活动提供的）服饰；装备
+ »the accoutrements of religious ritual.  用于宗教仪式的服饰。  • 士兵装备（不包括武器和军服）
+
+【语源】1. mid 16th cent.: from French, from accoutrer 'clothe, equip' (see accoutre )
+
+
+
+————————————
+★☆☆   accra
+ / ˈækrə əˈkrɑ /◙ (也作 akara), noun
+1. (in West Africa and the Caribbean) a fritter made with black-eyed peas or a similar pulse, or, especially in Trinidad, mashed fish  • 阿克拉油煎豆馅饼（西非和加勒比海地区用“黑眼”豌豆或类似豆子制成的馅饼）；（尤指特立尼达岛的）鱼肉馅饼
+
+【语源】1. from Yoruba àkàrà 'bean cake'
+
+
+
+————————————
+★☆☆   Accra
+ / əˈkrɑ: /1. the capital of Ghana, a port on the Gulf of Guinea; pop. 86ˌ,460 (1ˌ84) (pop. of Greater æccra 1,431,100)  • 阿克拉（加纳的首都，几内亚湾一港口，1994年人口867,460；大阿克拉人口1,431,100）
+
+
+
+————————————
+★☆☆   accredit
+ / əˈkredɪt /◙ (accredited, accrediting), [with obj.] [一般作 be accredited] 
+1. give credit to (someone) for something  • 相信；认可
+ »he was accredited with being one of the world's fastest sprinters.  他被公认为世界上最快的短跑选手之一。
+  (accredit something to)attribute an action, saying, or quality to  • 把（行动，言论，特性）归于
+ »the discovery of distillation is usually accredited to the Arabs.  蒸馏法通常被认为是阿拉伯人发现的。
+2. (of an official body) give authority or sanction to (someone or something) when recognized standards have been met  • （官方机构）授权，批准
+ »institutions that do not meet the standards will not be accredited for teacher training.  没有达标的院校将不准进行教师培训。
+3. give official authorization for (someone, typically a diplomat or journalist) to be in a particular place or to hold a particular post  • 任命，派驻（某人，尤指外交官或记者）
+ »Arab ambassadors accredited to Baghdad.  派驻巴格达的阿拉伯大使。
+
+【派生】♦ accreditation noun
+
+【语源】1. early 17th cent. (in sense 2): from French accréditer, from a- (from Latin ad 'to, at') + crédit 'credit'
+
+
+
+————————————
+★☆☆   accredited
+ / əˈkreditid /◙ adjective
+1. (of a person, organization, or course of study) officially recognized or authorized  • （人，组织，课程）官方认可的；经授权的
+ »an accredited practitioner.  经授权的执业者。
+
+
+
+————————————
+★☆☆   accrete
+ / æˈkri:t /◙ verb
+1. [no obj.] grow by accumulation or coalescence  • （经积累或聚合而）生长；增大
+ »ice that had accreted grotesquely into stalactites.  奇形怪状地聚生成钟乳石状的冰。
+  [with obj.] form (a composite whole or a collection of things) by gradual accumulation  • 积聚为；积成
+ »the collection of art he had accreted was to be sold.  他经年积累的艺术收藏品将被出售。
+  [Astronomy] (of matter) come together or cause to come together under the influence of gravitation  • [天文] （物质）（被）吸积
+ »[no obj.] the gas will cool and then accrete to the galaxy's core.  气体将冷却，而后被吸积到星系中心。
+  [Astronomy] (of a body) be formed from such matter  • [天文] （天体）由吸积物形成
+
+【语源】1. late 18th cent.: from Latin accret- 'grown', from the verb accrescere, from ad- 'to' + crescere 'grow'
+
+
+
+————————————
+★☆☆   accretion
+ / əˈkri:ʃən /◙ noun
+1. [mass noun] the process of growth or increase, typically by the gradual accumulation of additional layers or matter  • 积淀；增生
+ »the accretion of sediments in coastal mangroves.  海岸红树林里沉积物的增加。
+ »the growing accretion of central government authority.  中央政府权力的不断集中。
+  [count noun] a thing formed or added by such growth or increase  • 积淀物，积聚物
+ »the city has a historic core surrounded by recent accretions.  该市有个被新建城区包围起来的充满历史韵味的中心区。
+  [Astronomy] the coming together and cohesion of matter under the influence of gravitation to form larger bodies  • [天文] 吸积
+
+【派生】♦ accretive adjective
+
+【语源】1. early 17th cent.: from Latin accretio(n-), from accrescere 'become larger' (see accrete )
+
+
+
+————————————
+★☆☆   accretionary prism◙ (也作 accretionary wedge), noun
+1. [Geology] a mass of sedimentary material scraped off a region of oceanic crust during subduction and piled up at the edge of a continental crustal plate  • [地质] 增生棱柱
+
+
+
+————————————
+★☆☆   accretion disc◙ noun
+1. [Astronomy] a rotating disc of matter formed by accretion around a massive body (such as a black hole) under the influence of gravitation  • [天文] 吸积盘，碟形吸积体
+
+
+
+————————————
+★☆☆   accrue
+ / əˈkru: /◙ (accrues, accrued, accruing)
+1. [no obj.] (of a benefit or sum of money) be received by someone in regular or increasing amounts over time  • （利益，钱款）产生；增长
+ »financial benefits will accrue from restructuring.  经济利益将随着重建而增长。
+ »[as adj. accrued] the accrued interest.  应计利息。
+  [with obj.] accumulate or receive (such payments or benefits)  • 积累；获得（款项，利益）
+ »they accrue entitlements to holiday pay.  他们将津贴累计入假日薪酬。
+  [with obj.] make provision for (a charge) at the end of a financial period for work that has been done but not yet invoiced  • 准备累算偿付
+
+【派生】♦ accrual noun
+
+【语源】1. late Middle English : from Old French acreue, past participle of acreistre 'increase', from Latin accrescere 'become larger' (see accrete )
+
+
+
+————————————
+★☆☆   acculturate
+ / əˈkʌltʃəˌreit /◙ verb
+1. assimilate or cause to assimilate a different culture, typically the dominant one  • （使）适应新文化（尤指主流文化），（使）受同化
+ »[no obj.] those who have acculturated to the United States.  适应了美国文化的人们。
+ »[with obj.] the next weeks were spent acculturating the field staff.  接下来的几周用来让现场调查人员熟悉当地习俗。
+
+【派生】♦ acculturation noun
+♦ acculturative adjective
+
+【语源】1. mid 20th cent.: from ac- + culture + -ateThe noun acculturation dates from the late 19th cent
+
+
+
+————————————
+★☆☆   accumulate
+ / əˈkju:mjuleit /◙ verb
+1. [with obj.] gather together or acquire an increasing number or quantity of  • 聚集；积累
+ »investigators have yet to accumulate enough evidence.  调查人员尚需收集足够的证据。
+  gradually gather or acquire (a resulting whole)  • （逐渐）积累
+ »her goal was to accumulate a huge fortune.  她的目标是积累起一大笔财富。
+  [no obj.] gather; build up  • 积聚；堆积
+ »the toxin accumulated in their bodies.  毒素在他们体内积聚。
+
+【语源】1. late 15th cent.: from Latin accumulat- 'heaped up', from the verb accumulare, from ad- 'to' + cumulus 'a heap'
+
+
+
+————————————
+★☆☆   accumulation
+ / əˌkju:mjəˈleɪʃən /◙ noun
+1. [mass noun] the acquisition or gradual gathering of something  • 积累，积聚；堆积
+ »the accumulation of wealth.  财富的积累。
+  [count noun] a mass or quantity of something that has gradually gathered or been acquired  • 积聚物；堆积物
+ »the accumulation of paperwork on her desk.  堆积于她书桌上的文书工作。
+  the growth of a sum of money by the regular addition of interest  • （由定期利息带来的）资本增益
+
+【语源】1. late 15th cent.: from Latin accumulatio(n-), from the verb accumulare (see accumulate )
+
+
+
+————————————
+★☆☆   accumulative
+ / əˈkju:mjulətiv /◙ adjective
+1. gathering or growing by gradual increases  • 积累而成的；累积的
+ »the accumulative effects of pollution.  污染带来的累积影响。
+
+
+
+————————————
+★☆☆   accumulator
+ / əˈkju:mjuleitə /◙ noun
+1. a person or thing that accumulates  • 积累者；积聚者
+ »an accumulator of capital.  积聚资本者。
+  [Brit.] a large rechargeable electric cell  • [英] 蓄电池
+  [Brit.] a bet placed on a series of races (or other events), the winnings and stake from each being placed on the next  • [英] （每赢一次就押于下一轮赌博的）累计赌注
+ »an eight-horse accumulator.  八马赌注。
+  [Computing] a register used to contain the results of an arithmetical or logical operation  • [计算机] 累加器
+
+
+
+————————————
+★☆☆   accuracy
+ / ˈækjurəsi /◙ (pl. -ies)
+1. [mass noun] the quality or state of being correct or precise  • 准确（性），精确（性）
+ »we have confidence in the accuracy of the statistics.  我们相信数据的准确性。
+  (technical)the degree to which the result of a measurement, calculation, or specification conforms to the correct value or a standard  • [技] 准确度。
+--› compare precision 
+ »the accuracy of radiocarbon dating.  碳-1４年代测定法的准确度。
+ »[count noun] accuracies of 50–70 per cent.  50%—70%的准确度。
+
+
+
+————————————
+★☆☆   accurate
+ / ˈækjurit /◙ adjective
+1. (especially of information, measurements, or predictions) correct in all details; exact  • （尤指信息、量度或预测）准确的，精确的
+ »accurate information about the illness is essential.  关于此病的准确信息至关重要。
+  (of an instrument or method) capable of giving such information  • （工具，方法）精密的
+ »an accurate thermometer.  精密温度计。
+  (of a piece of work) done with meticulous care and free from errors  • （工作）准确无误的
+  faithfully or fairly representing the truth about someone or something  • 真实的；逼真的
+ »the portrait is an accurate likeness of Mozart.  这幅画像酷肖莫扎特。
+2. (of a weapon or the person using it) capable of reaching the intended target  • （武器或其使用者）能精确瞄准目标的
+  (of a shot or throw, or the person making it) successful in reaching a target  • （射击、投掷或射击者、投掷者）射中（或投中）目标的
+
+【派生】♦ accurately adverb
+
+【语源】1. late 16th cent.: from Latin accuratus 'done with care', past participle of accurare, from ad- 'towards' + cura 'care'
+
+
+
+————————————
+★☆☆   accursed
+ / əˈkə:sid /◙ adjective
+1. (poetic/literary)under a curse  • [诗/文] 受诅咒的
+ »the Angel of Death walks this accursed house.  死神在这受诅咒的屋子里徘徊。
+2. [attrib.] (informal, dated)used to express strong dislike of or anger at someone or something  • [非正式，旧] 可恶的；该死的
+ »this accursed country!.  这该死的国家！。
+
+【语源】1. Middle English : past participle of obsolete accurse, from a- (expressing intensity) + curse
+
+
+
+————————————
+★☆☆   accurst◙ adjective
+1. (archaic). spelling of accursed  • [古] 同 accursed 
+
+
+
+————————————
+★☆☆   accusal
+ / əˈkju:zəl /◙ noun
+1. another term for accusation  • 同 accusation 
+
+
+
+————————————
+★☆☆   accusation
+ / ˌækju:ˈzeɪʃən /◙ noun
+1. a charge or claim that someone has done something illegal or wrong  • 指控；指责
+ »accusations of bribery.  对贿赂行为的指控。
+  [mass noun] the action or process of making such a charge or claim  • 提出指控；进行指责
+ »there was accusation in Brian's voice.  布莱恩的声音里带着指责。
+
+【语源】1. late Middle English : from Old French, from Latin accusatio(n-), from accusare 'call to account' (see accuse )
+
+
+
+————————————
+★☆☆   accusative
+ / əˈkju:zətiv /əGrammar] ə语法] 
+◙ adjective
+1. (in Latin, Greek, German, and some other languages) denoting a case of nouns, pronouns, and adjectives which expresses the object of an action or the goal of motion  • （拉丁语、希腊语、德语和一些其他语言中）宾格的
+◙ noun
+1. a word in the accusative case  • 宾格词
+  (the accusative)the accusative case  • 宾格
+
+【语源】1. late Middle English : from Latin (casus) accusativus, literally relating to an accusation or (legal) case, translating Greek (ptōsis) aitiatikē '(the case) showing cause'
+
+
+
+————————————
+★☆☆   accusatorial
+ / əˌkju:zəˈtɔ:riəl /◙ adjective
+1. [Law] (of a trial or legal procedure) involving accusation by a prosecutor and a verdict reached by an impartial judge or jury  • [律] （审判，法律程序）诉讼的；判决的。
+--› compare adversarial inquisitorial 
+
+【语源】1. early 19th cent.: from Latin accusatorius, from the verb accusare (see accuse ) + -al
+
+
+
+————————————
+★☆☆   accusatory
+ / əˈkju:zətəri /◙ adjective
+1. indicating or suggesting that one believes a person has done something wrong  • 指责的
+ »he pointed an accusatory finger in her direction.  他指责地用手指指着她。
+
+
+
+————————————
+★☆☆   accuse
+ / əˈkju:z /◙ verb
+1. [with obj.] [常作 be accused] charge (someone) with an offence or crime  • 指控，控告
+ »he was accused of murdering his wife's lover.  他被指控杀害了他妻子的情人。
+  claim that (someone) has done something wrong  • 指责（某人）
+ »he was accused of favouritism.  他被指责偏袒。
+
+【派生】♦ accuser noun
+
+【语源】1. Middle English : from Old French acuser, from Latin accusare 'call to account', from ad- 'towards' + causa 'reason, motive, lawsuit'
+
+
+
+————————————
+★☆☆   accused
+ / əˈkju:zd /◙ noun
+1. (the accused)[treated as sing. or pl.] a person or group of people who are charged with or on trial for a crime  • 被告
+
+
+
+————————————
+★☆☆   accusing
+ / əˈkju:ziŋ /◙ adjective
+1. (of an expression, gesture, or tone of voice) indicating a belief in someone's guilt or culpability  • （表情，手势，语气）表示责备的
+ »she stared at him with accusing eyes.  她用责备的目光瞪着他。
+
+【派生】♦ accusingly adverb
+
+
+
+
+————————————
+★☆☆   accustom
+ / əˈkʌstəm /◙ verb
+1. [with obj.] make (someone or something) accept something as normal or usual  • 使（人，事物）习惯
+ »I accustomed my eyes to the lenses.  我让自己的眼睛适应镜片。
+ »[with obj. and infinitive] sixth-form education is supposed to accustom pupils to think for themselves.  六年级的教育应当培养学生习惯于独立思考。
+  (be accustomed to)be used to  • 习惯于
+ »I am not accustomed to having my word questioned.  我不习惯有人对我的命令提出质疑。
+
+【语源】1. late Middle English : from Old French acostumer, from a- (from Latin ad 'to, at') + costume 'custom'
+
+
+
+————————————
+★☆☆   accustomed
+ / əˈkʌstəmd /◙ adjective
+1. [attrib] customary ; usual  • 惯常的，通常的
+ »his accustomed route.  他常走的路径。
+
+
+
+————————————
+★☆☆   AC/DC
+ / ˈeisi:ˈdi:si: /◙ adjective
+1. alternating current/direct current  • 交直流两用的
+  [informal] bisexual  • [非正式] 两性的；双性的
+
+
+
+————————————
+★☆☆   ace
+ / eis /◙ noun
+1. a playing card with a single spot on it, ranked as the highest card in its suit in most card games  • A纸牌（在多数牌戏中为最大牌）
+ »the ace of diamonds.  方块A。
+ »life had started dealing him aces again.  生活又开始眷顾他了。
+2. [often with modifier] [informal] a person who excels at a particular sport or other activity  • [非正式] 成绩超群的人，佼佼者
+ »a motorcycle ace.  王牌摩托车手。
+  a pilot who has shot down many enemy aircraft  • （击落多架敌机的）王牌飞行员
+3. (in tennis and similar games) a service that an opponent is unable to return and thus wins a point  • （网球等比赛用语）发球得分
+  [Golf, informal] a hole in one  • [高尔夫非正式] 一杆进穴
+◙ adjective
+1. [informal] very good  • [非正式] 一流的，杰出的
+ »an ace swimmer.  一流的游泳选手。
+ »[as an exclamation] Ace! You've done it!.  好极了！你成功了！。
+◙ verb
+1. [with obj.] [informal] (in tennis and similar games) serve an ace against (an opponent)  • [非正式] （网球等比赛用语）以发球赢（对手）一分
+  [Golf] score an ace on (a hole) or with (a shot)  • [高尔夫] 以一杆进（穴）得分
+  [N. Amer.] get an A or its eqivalent in (a test or exam)  • [北美] （在测验、考试中）得A，得优
+ »I aced my grammar test.  我语法考了个A。
+  (ace someone out)[N. Amer.] outdo someone in a competitive situation  • [北美] （在竞争场合）胜过（某人）
+ »it wasn't our intention to ace Phil out of a job.  我们并不想胜过菲尔，让他丢工作。
+
+【IDIOMS】◘ ace up one's sleeve (或北美
+1. a plan or piece of information kept secret until it becomes necessary to use it  • 手中握有王牌；有应急妙计
+◘ hold all the aces
+1. have all the advantages  • 占尽优势
+◘ play one's ace
+1. use one's best resource  • 打出王牌；使出绝招
+ »deciding to play her ace, Emily showed the letter to Vic.  艾米丽决定使出杀手锏，把信拿给维克看。
+◘ within an ace of
+1. very close to  • 差点儿，几乎
+ »they came within an ace of death.  他们差点儿就死了。
+
+【语源】1. Middle English (denoting the & oq. one & cq. on dice): via Old French from Latin as 'unity, a unit'
+
+
+
+————————————
+★☆☆   -acea◙ suffix
+1. [Zoology] forming the names of zoological groups  • [动] [构成动物学类群名称] 表示“…纲”，“…目”。
+--› compare -acean 
+ »Crustacea.
+
+【语源】1. from Latin, of the nature of', neuter plural adjectival ending
+
+
+
+————————————
+★☆☆   -aceae◙ suffix
+1. [Botany] forming the names of families of plants  • [植] [构成植物科属名称] 表示“…科”
+ »Liliaceae.
+
+【语源】1. from Latin, of the nature of', feminine plural adjectival ending
+
+
+
+————————————
+★☆☆   -acean◙ suffix
+1. [Zoology] forming the singular of group names ending in -acea (such as crustacean from Crustacea)  • [动] [构成以-acea结尾的类属名词的单数，如构成Crustacea 的单数crustacean] 
+
+【语源】1. from Latin -aceus 'of the nature of' + -an
+
+
+
+————————————
+★☆☆   acedia
+ / əˈsi:diə /◙ noun
+1. another term for accidie  • 同 accidie 
+
+【语源】1. early 17th cent.: via late Latin from Greek akēdia 'listlessness', from a- 'without' + kēdos 'care'
+
+
+
+————————————
+★☆☆   acellular
+ / eiˈseljulə /◙ adjective
+1. [Biology] not consisting of, divided into, or containing cells  • [生] 无细胞的，非细胞的
+  (especially of protozoa) consisting of one cell only  • （尤指原生动物）单细胞的
+
+
+
+————————————
+★☆☆   acentric
+ / əˈsentrik /◙ adjective
+1. without a centre; not centralized  • 无中心的；不在中心的
+  [Genetics] (of a chromosome) having no centromere  • [遗传] （染色体）无着丝粒的
+
+
+
+————————————
+★☆☆   -aceous◙ suffix
+1. [Botany] forming adjectives from family names ending in -aceae (such as ericaceous from Ericaceae)  • [植] [构成以-aceae结尾的科名的形容词，如构成Ericaceae的形容词ericaceous] 表示“…科的”
+2. (chiefly Biology & Geology)forming adjectives describing similarity, especially in shape, texture, or colour  • [主生，地质] [构成描述相似性的形容词，尤指形状、质地或颜色方面的相似性] 表示“相似的”
+ »arenaceous.
+ »foliaceous.
+ »olivaceous.
+
+【语源】1. from Latin -aceus 'of the nature of' + -ous
+
+
+
+————————————
+★☆☆   acephalous
+ / əˈsefələs /◙ adjective
+1. no longer having a head  • 失去头部的
+ »an acephalous skeleton.  无头骨架。
+  [Zoology] not having a head  • [动] 无头的
+  having no leader or chief  • 无首领的
+ »an acephalous society.  群龙无首的社会。
+2. [Prosody] (typically of a hexameter beginning with a short syllable) lacking a syllable or syllables in the first foot  • [诗韵] （尤指以短音节开头的六韵步诗行）首音步少一个（或几个）音节的
+
+【语源】1. mid 18th cent.: via medieval Latin from Greek akephalos 'headless' (from a- 'without' + kephalē 'head') + -ous
+
+
+
+————————————
+★☆☆   acer
+ / ˈeɪsə /◙ noun
+1. a Eurasian or North American deciduous tree or shrub which typically has five-lobed leaves and is widely grown for its ornamental foliage and bright autumn colours  • 枫树，槭树
+2. Genus Acer, family Aceraceae: numerous species, including the maples and the European sycamore  • 槭树属，槭树科：多种，包括枫树和欧洲的假挪威槭
+
+【语源】1. from Latin, maple'
+
+
+
+————————————
+★☆☆   acerb
+ / əˈsə:b /◙ adjective
+1. (chiefly US). another term for acerbic  • [主美] 同 acerbic 
+
+【语源】1. early 17th cent.: from Latin acerbus 'sour-tasting'
+
+
+
+————————————
+★☆☆   acerbic
+ / əˈsə:bik /◙ adjective
+1. (especially of a comment or style of speaking) sharp and forthright  • （尤指评论、说话风格）尖锐直率的
+ »his acerbic wit.  他尖刻的言词。
+2. (archaic or technical)tasting sour or bitter  • [古或 技] 酸的；苦涩的
+
+【派生】♦ acerbically adverb
+♦ acerbity noun
+
+【语源】1. mid 19th cent.: from Latin acerbus 'sour-tasting' + -ic
+
+
+
+————————————
+★☆☆   acesulfame
+ / ˌæsɪˈsʌlfeɪm /◙ noun
+1. [mass noun] a white crystalline compound used as a low-calorie artificial sweetener, typically in the form of a potassium salt (acesulfame-K)  • 丁磺氨
+2. A sulphur-containing heterocyclic compound; chem. formula: C4H5NO4S  • 含硫的杂环化合物；化学分子式： C4H5NO4S
+
+【语源】1. 1980s: of unknown origin
+
+
+
+————————————
+★☆☆   acet-◙ for combining
+1. variant spelling of aceto- shortened before a vowel (as in acetaldehyde)  • 同 aceto- o在元音前简化，如 acetaldehyde)
+
+
+
+————————————
+★☆☆   acetabulum
+ / æsiˈtæbjuləm /◙ (pl. acetabula -lə)
+1. [Anatomy] the socket of the hip bone, into which the head of the femur fits  • [剖] 髋臼；关节窝
+  [Zoology] any cup-shaped structure, especially a sucker  • [动] 臼状结构（尤指吸盘）
+
+【语源】1. late Middle English (denoting a vinegar cup, hence a cup-shaped cavity): from Latin, from acetum 'vinegar' + -abulum, denoting a container
+
+
+
+————————————
+★☆☆   acetal
+ / ˈæsitæl /◙ noun
+1. [Chemistry] an organic compound formed by the condensation of two alcohol molecules with an aldehyde molecule  • [化] 乙缩醛，乙缩醛二乙醇
+2. Acetals have the general formula R1CH(OR2)2, where R1 and R2are alkyl groups  • 乙缩醛通用的分子式为R1CH（OR2)2，其中R2和R2是烷基群
+
+【语源】1. mid 19th cent.: from acetic acid + al from alcohol
+
+
+
+————————————
+★☆☆   acetaldehyde
+ / ˌæsiˈtældəhaid /◙ noun
+1. [mass noun] [Chemistry] a colourless volatile liquid aldehyde obtained by oxidizing ethanol  • [化] 乙醛，醋醛
+2. Alternative name: ethanal; chem. formula: CH3CHO  • 又名： ethanal；化学分子式： CH3CHO
+
+
+
+————————————
+★☆☆   acetamide
+ / æsiˈtæmaid /◙ noun
+1. [mass noun] [Chemistry] the amide of acetic acid. It is a crystalline solid with a characteristic musty odour  • [化] 乙酰胺
+2. Alternative name: ethanamide; chem. Formula: CH3CONH2  • 又名： 醋酰胺;化学分子式： CH3CONH2
+
+【语源】1. mid 19th cent.: from acetyl + amide
+
+
+
+————————————
+★☆☆   acetaminophen
+ / ˌæsiˈtæminəfən /◙ noun
+1. [North American] . term for paracetamol  • [北美] 同 paracetamol 
+
+【语源】1. 1960s: from para-acetylaminophenol
+
+
+
+————————————
+★☆☆   acetanilide
+ / ˌæsiˈtænilid /◙ noun
+1. [mass noun] [Chemistry] a crystalline solid prepared by acetylation of aniline, used in dye manufacture  • [化] 乙酰替苯胺，萨罗芬，退热冰（用于印染业）
+2. Chem. Formula: C6H5NHCOCH3  • 化学分子式： C6H5NHCOCH3
+
+【语源】1. mid 19th cent.: from acet(yl) + anil(ine) + -ide
+
+
+
+————————————
+★☆☆   acetate
+ / ˈæsiˌteit /◙ noun
+1. [Chemistry] a salt or ester of acetic acid, containing the anion CH3COO- or the group -OOCCH3  • [化] （含阴离子CH3COO-或-OOCCH3基群的）醋酸盐，乙酸盐；醋酸酯
+2. [mass noun] cellulose acetate, especially as used to make textile fibres or plastic  • （尤指用于制造纺织纤维或塑料的）醋酸纤维（素）
+ »[as modifier] acetate silk.  醋酸纤维丝。
+  [count noun] a transparency made of cellulose acetate film  • 醋酸纤维素（制成的）透明正片
+  [count noun] a direct-cut recording disc coated with cellulose acetate  • 带醋酸纤维层素涂的刻录盘
+
+【语源】1. late 18th cent.: from acetic acid + -ate
+
+
+
+————————————
+★☆☆   acetic acid
+ / əˈsi:tɪk əˈsɛt- /◙ noun
+1. [mass noun] [Chemistry] the acid that gives vinegar its characteristic taste. The pure acid is a colourless viscous liquid or glassy solid  • [化] 乙酸，醋酸
+2. Alternative name: ethanoic acid; chem. formula: CH3COOH  • 又名： ethanoic acid； 化学分子式： CH3COOH
+
+【语源】1. late 18th cent. acetic from French acétique, from Latin acetum 'vinegar'
+
+
+
+————————————
+★☆☆   acetic anhydride◙ noun
+1. [mass noun] [Chemistry] the anhydride of acetic acid. It is a colourless pungent liquid, used in making synthetic fibres  • [化] 乙酸酐，脱水醋酸
+2. Chem. formula: (CH3CO)2O  • 化学分子式：(CH3CO)2O
+
+
+
+————————————
+★☆☆   aceto-◙ [作 acet- 元音前] , for combining
+1. [Chemistry] . representing acetic acid or acetyl  • [化] 表示“醋酸”，“乙酰基”
+
+
+
+————————————
+★☆☆   acetobacter
+ / əˌsi:tə(ʊ)ˈbæktə ˌæsɪtəʊ- /◙ noun
+1. [mass noun] bacteria that oxidize organic compounds to acetic acid, as in vinegar formation  • 醋杆菌
+2. Genus Acetobacter; Gram-negative oval or rod-shaped bacteria  • 醋杆菌属，革兰氏阴性的卵形或杆状菌
+
+【语源】1. modern Latin (genus name), from aceto- + bacterium
+
+
+
+————————————
+★☆☆   acetogenic
+ / əˌsi:tə(ʊ)ˈdʒɛnɪk ˌæsɪtəʊ- /◙ adjective
+1. (of bacteria) forming acetate or acetic acid as a product of metabolism  • （细菌）产生醋酸盐（或醋酸）的
+
+
+
+————————————
+★☆☆   acetonaemia
+ / ˌæsitəuˈni:miə /◙ noun
+1. another term for ketosis  • 同 ketosis 
+
+
+
+————————————
+★☆☆   acetone
+ / ˈæsitəun /◙ noun
+1. [mass noun] [Chemistry] a colourless volatile liquid ketone made by oxidizing isopropanol, used as an organic solvent and synthetic reagent  • [化] 丙酮
+2. Alternative name: propanone; chem. Formula: CH3COCH3  • 又名：propanone; 化学分子式：CH3COCH3
+
+【语源】1. mid 19th cent.: from acetic acid + -one
+
+
+
+————————————
+★☆☆   acetonitrile
+ / ˌæsitəuˈnaitril /◙ noun
+1. [mass noun] [Chemistry] a toxic odoriferous liquid, used as a solvent in high-performance liquid chromatography  • [化] 乙腈
+2. Alternative name: methyl cyanide; chem. Formula: CH3C≡N  • 又名：氰化甲烷;化学分子式：CH3C≡N
+
+
+
+————————————
+★☆☆   acetous
+ / ˈæsitəs /◙ adjective
+1. producing or resembling vinegar  • 产醋的；似醋的
+ »acetous fermentation.  制醋时的发酵（过程）。
+
+【语源】1. late Middle English (rare before the late 18th cent.): from late Latin acetosus 'sour', from Latin acetum 'vinegar'
+
+
+
+————————————
+★☆☆   acetyl
+ / ˈæsitil /◙ noun
+1. [as modifier] [Chemistry] of or denoting the acyl radical -C(O)CH3, derived from acetic acid  • [化] 乙酰基的
+ »acetyl chloride.  乙酰基氯化物。
+ »an acetyl group.  乙酰基群。
+
+【语源】1. mid 19th cent.: from acetic acid + -yl
+
+
+
+————————————
+★☆☆   acetylate
+ / ˌæsitiˈleit /◙ verb
+1. [with obj.] [Chemistry] introduce an acetyl group into (a molecule or compound)  • [化] 加乙酰基于（分子，化合物）
+ »[as adj. acetylated] the acetylated forms of chloramphenicol.  加乙酰基氯霉素。
+
+【派生】♦ acetylation noun
+
+
+
+
+————————————
+★☆☆   acetylcholine
+ / əˌsi:təlˈkəulin /◙ noun
+1. [mass noun] [Biochemistry] a compound which occurs throughout the nervous system, in which it functions as a neurotransmitter  • [生化] 乙酰胆碱
+
+
+
+————————————
+★☆☆   acetylcholinesterase
+ / ˌæsitilkəuliˈnestəreis /◙ noun
+1. [mass noun] [Biochemistry] an enzyme that causes rapid hydrolysis of acetylcholine. Its action serves to stop excitation of a nerve after transmission of an impulse  • [生化] 乙酰胆碱酯酶
+
+
+
+————————————
+★☆☆   acetyl coenzyme A◙ noun
+1. [mass noun] [Biochemistry] the acetyl ester of coenzyme A, involved as an acetylating agent in many biochemical processes  • [生化] 乙酰辅酶A
+
+
+
+————————————
+★☆☆   acetylene
+ / əˈsetili:n /◙ noun
+1. [Chemistry] a colourless pungent-smelling hydrocarbon gas, which burns with a bright flame, used in welding and formerly in lighting  • [化] 乙炔
+2. Alternative name: ethyne; chem. formula: C2H2  • 又名： ethyne;化学分子式： C2H2
+
+【语源】1. mid 19th cent.: from acetic acid + -yl + ene
+
+
+
+————————————
+★☆☆   acetylide
+ / ˌæsitiˈlaid /◙ noun
+1. [Chemistry] a salt-like compound formed from acetylene and a metal, containing the anion [C≡C] 2-or HC≡C-. Acetylides are typically unstable or explosive  • [化] 乙炔化物（含阴离子（C≡C）2-或HC≡C-，通常不稳定或易爆）
+
+
+
+————————————
+★☆☆   acetylsalicylic acid
+ / ˌæsɪtaɪlˌsælɪˈsɪlɪk -tɪl- /◙ noun
+1. systematic chemical name for aspirin  • [化] （学名）同 aspirin
+
+
+
+————————————
+★☆☆   ach
+ / ɑ:x /◙ exclamation
+1. dialect (chiefly Scottish) form of ah  • [主苏格兰方] 同 ah 
+ »ach well, win some lose some.  呃，有赢有输。
+
+【语源】1. late 15th cent. Scottish Gaelic, Dutch, and German
+
+
+
+————————————
+★☆☆   achaar◙ noun
+1. variant spelling of achar  • 同 achar 
+
+
+
+————————————
+★☆☆   Achaea
+ / əˈki:ə /1. a region of ancient Greece on the north coast of the Peloponnese  • 亚加亚（古希腊伯罗奔尼撒半岛北部沿海一地区）
+
+
+
+————————————
+★☆☆   Achaean
+ / əˈki:ən /◙ adjective
+1. of or relating to Achaea in ancient Greece  • （古希腊）亚加亚地区的
+  (poetic/literary)(especially in Homeric contexts) Greek  • [诗/文] （尤作荷马史诗用语）希腊的
+◙ noun
+1. an inhabitant of Achaea  • 亚加亚人
+  (poetic/literary)(especially in Homeric contexts) a Greek  • [诗/文] （尤作荷马史诗用语）希腊人
+2. The Achaeans were among the earliest Greek-speaking inhabitants of Greece, being established there well before the 12th century bc. Some scholars identify them with the Mycenaeans of the 14th–13th centuries bc. The Greek protagonists in the Trojan War are regularly called Achaeans in the Iliad, though this may have referred only to the leaders
+
+
+
+————————————
+★☆☆   Achaemenid
+ / əˈki:mənɪd , -ˈkemə- /◙ (也作 Achaemenian), adjective
+1. of or relating to the dynasty ruling in Persia from Cyrus I to Darius III (553–330 bc)  • （公元前553—前330年居鲁士一世至大流士三世统治波斯期间的）阿契美尼德王朝的
+◙ noun
+1. a member of this dynasty  • 阿契美尼德王朝的一员
+
+【语源】1. from Greek Akhaimenēs 'Achaemenes' (the reputed ancestor of the dynasty) + -id
+
+
+
+————————————
+★☆☆   achalasia
+ / ˌækəˈleiziə /◙ noun
+1. [mass noun] [Medicine] a condition in which the muscles of the lower part of the oesophagus fail to relax, preventing food from passing into the stomach  • [医] 弛缓不能
+
+【语源】1. early 20th cent.: from a- 'without, not' + Greek khalasis 'loosening' (from khalan 'relax') + -ia
+
+
+
+————————————
+★☆☆   achar
+ / əˈtʃɑ ˈætʃɑ /◙ (也作 achaar), noun
+1. [mass noun] (in Indian cookery) a type of pickle in which the food is preserved in spiced oil  • （印度烹调用语）香泡菜
+ »mango achar.  芒果香泡菜。
+
+【语源】1. from Hindi acār, from Persian
+
+
+
+————————————
+★☆☆   acharnement
+ / ɑ:ʃɑ:nəˈmɑ:ŋ /◙ noun
+1. [mass noun] (archaic)bloodthirsty fury or ferocity  • [古] 猛烈，残暴
+
+【语源】1. French, from acharner 'give (to dogs, falcons, etc.) a taste of flesh', from charn, archaic variant of chair, from Latin caro, carn- 'flesh'
+
+
+
+————————————
+★☆☆   acharya
+ / əˈtʃɑ:rɪə /◙ noun
+1. (in the Indian subcontinent) a Hindu or Buddhist spiritual teacher or leader  • （印度次大陆）（佛教或印度教的）导师，精神领袖
+  an influential mentor  • 贤明的指导者
+
+【语源】1. early 19th cent.: from Sanskrit ācārya 'master, teacher'
+
+
+
+————————————
+★☆☆   Achates
+ / əˈkeiti:z /əGreek & ɔoman Mythology] ə希腊神话，罗马神话] 
+1. a companion of æeneas. His loyalty to his friend was so exemplary as to become proverbial, hence the term fidus æchates (‘faithful æchates’)  • 阿凯提斯（埃涅阿斯的伙伴，他对朋友的忠诚被视为典范而广为流传，从而有fidus Achates “忠诚的阿凯提斯”一语）
+
+
+
+————————————
+★☆☆   achcha◙ exclamation, [Indian] [印度] 
+1. okay; all right  • 好，行
+2. is that so? (used in responses to indicate the speaker's surprise, joy, or doubt)  • 是这样的吗？（用于表达说话人的吃惊、快乐或疑惑）
+
+【语源】1. from Hindi acchā
+
+
+
+————————————
+★☆☆   ache
+ / eik /◙ noun
+1. a continuous or prolonged dull pain in a part of one's body  • 疼痛
+ »the ache in her head worsened.  她的头痛加剧了。
+ »[mass noun] he had stomach ache.  他胃痛。
+  [in sing.] (figurative)an emotion experienced with painful or bitter-sweet intensity  • [喻] 痛苦（一种恼人或苦乐参半的情感）
+ »an ache in her heart.  她心中的一点痛。
+◙ verb, [no obj.] 
+1. (of a person or bodily part) suffer from a continuous dull pain  • （人或身体的某个部位）疼痛
+ »I'm aching all over.  我浑身疼痛。
+ »my legs ached from the previous day's exercise.  前一天锻炼以后我两腿酸痛。
+ »[as adj. aching] aching feet.  疼痛的双脚。
+  (figurative)feel intense sadness or compassion  • [喻] 哀痛，怜悯
+ »she sat still and silent, her heart aching.  她坐着不动，一言不发，心中哀痛不已。
+ »she looked so tired that my heart ached for her.  她看上去如此疲惫，我都为她感到心疼了。
+2. feel an intense desire for  • 渴望
+ »she ached for his touch.  她渴望他的抚摸。
+ »[with infinitive] he was aching to get his hands on the ball.  他渴望自己能得到球。
+
+【IDIOMS】◘ aches and pains
+1. minor pains and discomforts, especially in the muscles  • （尤指肌肉）轻微疼痛和不适
+
+【派生】♦ achingly adverb
+ »[as submodifier] a sound which was achingly familiar to me.  让我心痛的熟悉声音。
+
+【语源】1. Old English æce (noun), acan (verb). In Middle and early modern English the noun was spelled atche and rhymed with 'batch' and the verb was spelled and pronounced as it is today. The noun began to be pronounced like the verb around 1,700. The modern spelling is largely due to Dr Johnson, who mistakenly assumed its derivation to be from Greek akhos 'pain'
+
+
+
+————————————
+★☆☆   Achebe
+ / ɑ:ˈtʃeɪbeɪ /1. ɔhinua (b.1ˌ30), ŋigerian novelist, poet, short-story writer, and essayist; bornælbert ɔhinualumgu. ŋotable works: ðhings ʃall æpart (1ˌˈ8). ŋobel Prize for ɚiterature (1ˌ8ˌ)  • 阿契贝，奇努阿（生于1930年，尼日利亚小说家，诗人，短篇小说家和散文家，出生名艾伯特•奇努阿卢姆固；代表作：《瓦解》[1958] ；1989年获诺贝尔文学奖）
+
+
+
+————————————
+★☆☆   achene
+ / æˈki:n /◙ noun
+1. [Botany] a small, dry one-seeded fruit that does not open to release the seed  • [植] 瘦果
+
+【语源】1. mid 19th cent.: from modern Latin achaenium, derived irregularly from a- 'not' + Greek khainein 'to gape'
+
+
+
+————————————
+★☆☆   Achernar
+ / ˈeɪkənɑ /1. əæstronomy] the ninth brightest star in the sky and the brightest in the constellation əridanus, visible only in the southern hemisphere  • [天文] 阿却尔纳星
+
+【语源】1. from Arabic, end of the river (i.e. Eridanus')
+
+
+
+————————————
+★☆☆   Acheron
+ / ˈækəˌrɔn /1. əGreek Mythology] one of the rivers of Hades  • [希腊神话] 冥河（之一）
+  (poetic/literary)hell  • [诗/文] 地狱
+
+【语源】1. Latin, from Greek Akherōn
+
+
+
+————————————
+★☆☆   Acheson
+ / ˈætʃisn /1. Dean əGooderham] (18ˌ3–1ˌˌ1), æmerican statesman, Secretary of State 1ˌ4ˌ–ˈ3  • 艾奇逊，迪安（•古德哈姆）（1893—1971，美国政治家，1949—1953年任国务卿）
+
+
+
+————————————
+★☆☆   Acheulian
+ / əˈsu:liən /◙ [亦作Acheulean] , adjective
+1. [Archaeology] of, relating to, or denoting the main Lower Palaeolithic culture in Europe (preceding the Mousterian) and a similar culture in Africa. It is represented by hand-axe industries, which are dated as a whole to about 1,500,000–150,000 years ago  • [考古] 阿舍利文化的（指欧洲早于莫斯特文化的旧石器时代早期主要文化及非洲一类似文化的遗址，以手斧行业为代表，总体可追溯到约1，500，000—150，000年前）。
+--› see Abbevillian 
+  [as noun the Acheulian] the Acheulian culture or period  • 阿舍利文化；阿舍利时期
+
+【语源】1. early 20th cent.: from French Acheuléen, from St-Acheul near Amiens in northern France, where objects from this culture were found
+
+
+
+————————————
+★☆☆   achieve
+ / əˈtʃi:v /◙ verb
+1. [with obj.] reach, attain, or successfully bring about (a desired objective, level, or result) by effort, skill, or courage  • （通过努力、技术或勇气）达到，取得，获得，实现（目标，水平，结果）
+ »he achieved his ambition to become a press baron.  他实现了成为报业巨头的宏愿。
+ »the communist system achieved a basic economic modernization.  共产主义制度实现了基本的经济现代化。
+
+【派生】♦ achievable adjective
+
+【语源】1. Middle English (in the sense 'complete successfully'): from Old French achever 'come or bring to a head', from a chief 'to a head'
+
+
+
+————————————
+★☆☆   achievement
+ / əˈtʃi:vmənt /◙ noun
+1. a thing done successfully , typically by effort, courage, or skill  • （尤指通过努力、勇气或技术取得的）成功，成就
+ »to reach this stage is a great achievement.  达到这一阶段是伟大的成就。
+2. [mass noun] the process or fact of achieving something  • 达到；实现
+ »the achievement of professional recognition.  得到专业人士的认可。
+ »a sense of achievement.  成就感。
+  a child's or student's progress in a course of learning, typically as measured by standardized tests or objectives  • 学习成绩
+ »assessing ability in terms of academic achievement.  用学习成绩来评定能力。
+ »[as modifier] an achievement test.  成绩测验。
+3. [Heraldry] a representation of a coat of arms with all the adjuncts to which a bearer of arms is entitled  • [纹章] 纹章牌
+
+
+
+————————————
+★☆☆   achiever◙ noun
+1. a person who achieves a high or specified level of success  • 事业成功人士
+
+
+
+————————————
+★☆☆   achillea
+ / ˌækəˈli:ə , əˈkɪli:ə /◙ noun
+1. a Eurasian and North African plant of a genus that includes the yarrow, typically having heads of small white or yellow flowers and fern-like leaves  • 蓍，蓍属植物
+2. Genus Achillea, family Compositae: numerous species  • 蓍属，菊科：众多种
+
+【语源】1. via Latin from Greek Akhilleios, denoting a plant supposed to have been used medicinally by Achilles
+
+
+
+————————————
+★☆☆   Achilles
+ / əˈkili:z /1. əGreek Mythology] a hero of the ðrojan θar, son of Peleus and ðhetis. During his infancy his mother plunged him in the Styx, thus making his body invulnerable except for the heel by which she held him. During the ðrojan θar æchilleskilled Hector but was later wounded in the heel by an arrow shot by Paris and died  • [希腊神话] 阿喀琉斯（特洛伊战争的英雄，佩琉斯与忒提斯之子，幼年时其母曾将他浸于冥河中，这样除了被母亲握住的脚踝之外，他浑身刀枪不入；特洛伊战争中阿喀琉斯杀死了赫克托耳，但后来被帕里斯用箭射中脚踝受伤而死）
+
+
+
+————————————
+★☆☆   Achilles' heel◙ noun
+1. a weakness or vulnerable point  • 弱点
+
+【语源】1. early 19th cent.: alluding to the vulnerability of Achilles
+
+
+
+————————————
+★☆☆   Achilles tendon◙ noun
+1. the tendon connecting calf muscles to the heel  • 跟腱
+
+
+
+————————————
+★☆☆   achimenes
+ / əˈkɪməni:z /◙ [复同单] 
+1. a Central American plant with tubular or trumpet-shaped flowers  • 猴面蝴蝶草，猴面蝴蝶草属植物
+2. Genus Achimenes, family Gesneriaceae  • 猴面蝴蝶草属，苦苣苔科
+
+【语源】1. modern Latin, either from Greek akhaimenis, denoting a different plant (euphorbia), or from a- 'not' + kheimanein 'expose to the cold'
+
+
+
+————————————
+★☆☆   Achinese
+ / ˈætʃɪni:z /◙ [复同单] 
+1. a member of a people living in northern Sumatra  • （居住在苏门答腊岛北部的）亚齐人
+2. [mass noun] the Indonesian language of this people  • 亚齐语（亚齐人使用的印度尼西亚语言）
+◙ adjective
+1. of or relating to this people or their language  • （与）亚齐人（有关）的；（与）亚齐语（有关）的
+
+【语源】1. From Acheh, Atjeh, a territory in northern Sumatra + -n- + -ese
+
+
+
+————————————
+★☆☆   achiote
+ / ˌɑ:tʃiˈəuti /◙ noun
+1. North American term for annatto  • [北美] 同 annatto 
+
+【语源】1. mid 17th cent.: from Spanish, from Nahuatl achiotl
+
+
+
+————————————
+★☆☆   achiral
+ / eɪˈkaɪr(ə)l /◙ adjective
+1. [Chemistry] (chiefly of a molecule) symmetric in such a way that it can be superimposed on its mirror image; not chiral  • [化] （多指分子）非手性的，非偏光的
+
+
+
+————————————
+★☆☆   achkan
+ / ˈætʃk(ə)n /◙ noun
+1. a knee-length coat buttoned in front, worn by men from the Indian subcontinent  • 艾奇肯上衣（印度次大陆男子穿的一种及膝的前开有纽扣的上衣）
+
+【语源】1. from Hindi ackan
+
+
+
+————————————
+★☆☆   achlorhydria
+ / ˌeiklɔ:ˈhaidriə /◙ noun
+1. [mass noun] [Medicine] absence of hydrochloric acid in the gastric secretions  • [医] 胃酸缺乏
+
+【语源】1. late 19th cent.: from a- 'without' + chlor- + hydro- + -ia
+
+
+
+————————————
+★☆☆   Acholi
+ / əˈtʃəʊli /◙ [复同单] 
+1. a member of a farming and pastoral people of northern Uganda and southern Sudan  • 阿乔利人（乌干达北部和苏丹南部的农牧民族）
+2. [mass noun] the Nilotic language of this people  • 阿乔利语
+◙ adjective
+1. of or relating to this people or their language  • （与）阿乔利人（有关）的；（与）阿乔利语（有关）的
+
+【语源】1. the name in Acholi
+
+
+
+————————————
+★☆☆   achondrite
+ / eiˈkɔndrait /◙ noun
+1. a stony meteorite containing no small mineral granules (chondrules)  • 无球粒陨星
+
+【派生】♦ achondritic adjective
+
+【语源】1. early 20th cent.: from a- 'without' + chondrite
+
+
+
+————————————
+★☆☆   achondroplasia
+ / eiˌkɔndrəˈpleiʒiə /◙ noun
+1. [mass noun] a hereditary condition in which the growth of long bones by ossification of cartilage is retarded, resulting in very short limbs and sometimes a face which is small in relation to the (normal sized) skull  • 软骨发育不全
+
+【派生】♦ achondroplasic adjective
+♦ achondroplastic adjective
+
+【语源】1. late 19th cent.: from a- 'without' + Greek khondros 'cartilage' + plasis 'moulding' + -ia
+
+
+
+————————————
+★☆☆   achromat
+ / ˈækrəmæt /◙ noun
+1. a lens that transmits light without separating it into constituent colours  • 消色差透镜
+
+
+
+————————————
+★☆☆   achromatic
+ / ˌækrəuˈmætik /◙ adjective
+1. relating to, employing, or denoting lenses that transmit light without separating it into constituent colours  • 消色差透镜的
+2. (poetic/literary)without colour  • [诗/文] 无色的
+ »the achromatic gloom.  无色的阴郁。
+
+【派生】♦ achromaticity noun
+♦ achromatism noun
+
+【语源】1. late 18th cent.: via French from Greek a- 'without' + khrōmatikos (from khrōma 'colour')
+
+
+
+————————————
+★☆☆   achy
+ / ˈeɪki: /◙ (-ier,-iest)
+1. suffering from continuous dull pain  • 疼痛的
+ »she felt tired and achy.  她感到疲惫、疼痛不止。
+
+
+
+————————————
+★☆☆   acicular
+ / əˈsikjulə /◙ adjective
+1. (technical)(chiefly of crystals) needle-shaped  • [技] （主要指水晶）针状的
+
+【语源】1. early 18th cent.: from late Latin acicula 'small needle' (diminutive of acus) + -ar
+
+
+
+————————————
+★☆☆   acid
+ / ˈæsid /◙ noun
+1. a substance with particular chemical properties including turning litmus red, neutralizing alkalis, and dissolving some metals; typically, a corrosive or sour-tasting liquid of this kind[mass noun]  • 酸。 常与 alkali 或 base 相对
+  [mass noun] (figurative)bitter or cutting remarks or tone of voice  • [喻] 尖刻（或尖酸）的言语（或语调）
+ »she was unable to quell the acid in her voice.  她无法压制住声音里的尖酸口吻。
+  [mass noun] [informal] the drug LSD  • [非正式] 迷幻药LSD （麦角二乙胺）
+  [Chemistry] a molecule or other species which can donate a proton or accept an electron pair in reactions  • [化] 质子供体，电子对受体
+2. Acids are compounds which release hydrogen ions (H+) when dissolved in water. Any solution with a pH of less than 7 is acidic, strong acids such as sulphuric or hydrochloric acid having a pH as low as 1 or 2. Most organic acids (carboxylic or fatty acids) contain the carboxyl group -COOH
+◙ adjective
+1. containing acid or having the properties of an acid; having a pH of less than 7  • 含酸的，酸性的，pH值小于7的。 常与 alkaline 或 basic 相对
+ »poor, acid soils.  贫瘠的酸性土壤。
+  [Geology] (of rock, especially lava) containing a relatively high proportion of silica  • [地质] （岩石，尤指熔岩）含相当量硅石的
+  [Metallurgy] relating to or denoting steel-making processes involving silica-rich refractories and slags  • [冶] （与炼钢过程中涉及硅石含量高的难熔物及炉渣）酸性（有关）的
+2. sharp-tasting or sour  • 味道刺激的，酸味的
+ »acid fruit.  酸的水果。
+  (of a person's remarks or tone) bitter or cutting  • （人的话语或口吻）尖刻的，尖酸的
+ »she was stung into acid defiance.  她被刺痛了，用尖刻的语言进行了反击。
+  (of a colour) strikingly intense or bright  • （颜色）刺目的，非常强烈、鲜亮的
+ »an acid green.  耀眼的绿色。
+
+【IDIOMS】◘ put the acid on
+1. [Austral./NZ informal] seek to extract a loan or favour from (someone). acid test, referring to possible resistance (because gold resists nitric acid)  • [澳／新西兰，非正式] 设法从（某人处）获得贷款或好处
+
+【语源】1. acid from acid test, referring to possible resistance (because gold resists nitric acid)
+
+【派生】♦ acidy adjective
+
+【语源】1. early 17th cent. (in the sense 'sour-tasting'): from Latin acidus, from acere 'be sour'
+
+
+
+————————————
+★☆☆   acid drop◙ noun
+1. [Brit.] a kind of boiled sweet with a sharp taste  • [英] 酸味糖果
+
+
+
+————————————
+★☆☆   acid-fast◙ adjective
+1. [Microbiology] denoting bacteria that cannot be decolorized by an acid after staining, which is characteristic of the mycobacteria that cause tuberculosis and leprosy  • [微生物] （导致肺结核和麻风病的结核菌）抗酸的，耐酸的；酸不褪色的
+
+
+
+————————————
+★☆☆   acid house◙ noun
+1. [mass noun] a kind of popular synthesized dance music with a fast repetitive beat, popular in the 1980s and associated with the taking of drugs such as Ecstasy  • 酸屋（流行于20世纪80年代与吸毒如迷幻药相关的快节奏重复节拍的通俗合成舞曲）
+
+
+
+————————————
+★☆☆   acidic
+ / əˈsɪdɪk /◙ adjective
+1. having the properties of an acid, or containing acid; having a pH below 7  • 酸的，酸性的，pH值小于7的。 常与 alkaline 或 basic 相对
+  [Geology] (of rock, especially lava) relatively rich in silica  • [地质] （岩石，尤指熔岩）含硅石较多的
+  [Metallurgy] relating to or denoting steel-making processes involving silica-rich refractories and slags  • [冶] （涉及硅石含量高的难熔物及炉渣的炼钢过程）酸性的
+2. sharp-tasting or sour  • 味道刺激的，酸的
+ »acidic wine.  酸葡萄酒。
+  (of a person's remarks or tone) bitter or cutting  • （人的话语或口吻）尖刻的，尖酸的
+ »the occasional acidic comment.  偶尔尖刻的评论。
+  (of a colour) strikingly intense or bright  • （颜色）刺目的，耀眼的
+ »an acidic yellow.  刺目的黄色。
+
+
+
+————————————
+★☆☆   acidify
+ / əˈsidifai /◙ (-ies,-ied)
+1. make or become acid  • （使）酸化，变酸
+ »[with obj.] pollutants can acidify surface water.  污染物质能使地表水酸化。
+
+【派生】♦ acidification noun
+
+
+
+
+————————————
+★☆☆   acidimetry
+ / ˌæsiˈdimitri /◙ noun
+1. [mass noun] measurement of the strengths of acids  • 酸定量法
+
+
+
+————————————
+★☆☆   acidity
+ / əˈsɪdɪti: /◙ noun, [mass noun] 
+1. the level of acid in substances such as water, soil, or wine  • （水、土壤或酒的）酸度
+  such a level in the gastric juices, typically when excessive and causing discomfort  • 胃酸浓度（尤指过多造成不适）
+2. bitterness or sharpness in a person's remarks or tone  • （人的话语或口吻）尖刻，尖酸
+ »the cutting acidity in his voice.  他语气中带的尖酸。
+
+
+
+————————————
+★☆☆   acid jazz◙ noun
+1. [mass noun] a kind of popular dance music incorporating elements of jazz, funk, soul, and hip hop  • 酸爵士乐（融合了爵士乐、乡土音乐、爵士灵歌和街舞元素的流行舞曲）
+
+【语源】1. apparently coined from acid house and popularized by the Acid Jazz record label founded in 1988
+
+
+
+————————————
+★☆☆   acidly◙ adverb
+1. with bitterness or sarcasm  • 尖刻地，挖苦地
+ »‘Is it up to you to make that decision?’ she asked acidly.  “轮得着你来作出那个决定了么？”她挖苦道。
+
+
+
+————————————
+★☆☆   acidophil
+ / ˈæsidəfil /◙ noun
+1. [Physiology] an acidophilic white blood cell  • [生理] 嗜酸细胞
+
+
+
+————————————
+★☆☆   acidophilic
+ / ˌæsidəuˈfilik , ˌæsiˈdɔfilik /◙ adjective, [Biology] [生] 
+1. (of a cell or its contents) readily stained with acid dyes  • （细胞或其内部结构）易沾染酸性染料的
+2. (of a micro-organism or plant) growing best in acidic conditions  • （微生物，植物）嗜酸的
+
+【语源】1. early 20th cent.: from acid + -philic (see -philia )
+
+
+
+————————————
+★☆☆   acidophilus
+ / ˌæsɪˈdɔfɪləs /◙ noun
+1. [mass noun] a bacterium that is used to make yogurt and to supplement the intestinal flora  • 乳酸杆菌，嗜酸杆菌
+2. Lactobacillus acidophilus; a Gram-positive rod-shaped bacterium  • 拉丁名Lactobacillus acidophilus; 革兰氏阳性杆菌
+
+【语源】1. 1920s：modern Latin, literally acid-loving'
+
+
+
+————————————
+★☆☆   acidosis
+ / ˌæsiˈdəusis /◙ noun
+1. [mass noun] [Medicine] an excessively acid condition of the body fluids or tissues  • [医] 酸中毒
+
+【派生】♦ acidotic adjective
+
+
+
+
+————————————
+★☆☆   acid rain◙ noun
+1. [mass noun] rainfall made sufficiently acidic by atmospheric pollution that it causes environmental harm, chiefly to forests and lakes. The main cause is the industrial burning of coal and other fossil fuels, the waste gases from which contain sulphur and nitrogen oxides which combine with atmospheric water to form acids  • 酸雨
+
+
+
+————————————
+★☆☆   acid rock◙ noun
+1. [mass noun] a style of rock music popular chiefly in the late 1960s, associated with or inspired by hallucinogenic drugs  • 迷幻摇滚乐（主要在60年代后期流行，与迷幻药有关的或由迷幻药引发的）
+
+
+
+————————————
+★☆☆   acid salt◙ noun
+1. [Chemistry] a salt formed by incomplete replacement of the hydrogen of an acid, e.g. potassium hydrogen sulphate (KHSO4)  • [化] 酸盐（如钾氢硫酸盐）
+
+
+
+————————————
+★☆☆   acid test◙ noun
+1. [in sing.] a conclusive test of the success or value of something  • 决定性的试验；严峻考验
+ »gritstone is the acid test of a climber's ability.  砂岩是对登山者能力的严峻考验。
+
+【语源】1. figuratively, from the original use denoting a test for gold using nitric acid
+
+
+
+————————————
+★☆☆   acidulate
+ / əˈsidjuleit /◙ verb
+1. [with obj.] [usa. as adj. acidulated] make slightly acidic  • 使略带酸性；微酸化
+ »acidulated water.  经微酸化的水。
+
+【派生】♦ acidulation noun
+
+【语源】1. mid 18th cent.: from Latin acidulus (from acidus 'sour'） + -ate
+
+
+
+————————————
+★☆☆   acidulous
+ / əˈsɪdʒələs /◙ adjective
+1. sharp-tasting ; sour  • 味道刺激的；酸的
+  (of a person's remarks or tone) bitter; cutting  • （话语，口吻）尖酸的，刻薄的
+
+【语源】1. mid 18th cent.: from Latin acidulus (from acidus 'sour') + -ous
+
+
+
+————————————
+★☆☆   acinus
+ / ˈæsinəs /◙ (pl. acini -nʌɪ), [Anatomy] [剖] 
+1. a small sac-like cavity in a gland, surrounded by secretory cells  • 腺泡
+2. a region of the lung supplied with air from one of the terminal bronchioles  • 肺泡
+
+【语源】1. mid 18th cent.:Latin, literally a kernel'
+
+
+
+————————————
+★☆☆   -acious◙ suffix
+1. (forming adjectives) inclined to; having as a capacity  • [构成形容词] 表示“倾向…的”；“有容量的”
+ »audacious.
+ »capacious.
+
+【语源】1. from Latin -ax,-ac- (especially forming adjectives from verbal stems) + -ous
+
+
+
+————————————
+★☆☆   -acity◙ suffix
+1. forming nouns of quality or state corresponding to adjectives ending in -acious (such as audacity corresponding to audacious)  • [构成以-acious 结尾的形容词的相应名词，表示性质与状态，如 audacity 与 audacious 相对应] 表示“…性”
+
+【语源】1. from French -acité or Latin -acitas
+
+
+
+————————————
+★☆☆   ack-ack
+ / ˈækˈæk /◙ noun
+1. [Military,informal] an anti-aircraft gun or regiment  • [军非正式] 高射炮；防空部队
+  [mass noun] an anti-aircraft gunfire  • 高射炮火
+
+【语源】1. signallers' name for the letters AA; ack for A was replaced in military use by able in 1942
+
+
+
+————————————
+★☆☆   ackee
+ / ˈæki: /◙ (也作 akee), noun
+1. a tropical West African tree which is cultivated for its fruit and has been introduced into the Caribbean and elsewhere  • 西非荔枝果
+2. Blighia sapida, family Sapindaceae  • 拉丁名 Blighia sapida，无患子科
+  [mass noun] the fruit of this tree, which is widely eaten as a vegetable but is poisonous until fully ripe[mass noun]  • 西非荔枝果（广泛作为蔬菜食用，但是在完全成熟前有毒）
+
+【语源】1. late 18th cent.: from Kru ākee
+
+
+
+————————————
+★☆☆   ack emma◙ adverb
+1. [Brit.,dated informal] . term for a.m  • [英，旧，非正式] 同 a.m 
+
+【语源】1. First World War: signallers' name for these letters
+
+
+
+————————————
+★☆☆   ackers
+ / ˈækəz /◙ plural noun
+1. [Brit. informal] money  • [英，非正式] 钱
+
+【语源】1. 1930s (originally used by British troops in Egypt as a name for the piastre)：probably an alteration of Arabic fakka 'small change, coins'
+
+
+
+————————————
+★☆☆   acknowledge
+ / əkˈnɔlidʒ /◙ verb
+1. [reporting verb] accept or admit the existence or truth of  • 接受，承认…的存在（或真实性）
+ »[with obj.] the plight of the refugees was acknowledged by the authorities.  难民的困境为当局所承认。
+ »[with clause] the government acknowledged that the tax was unfair.  政府承认这项税收不公允。
+ »[with direct speech] ‘That's true,’ she acknowledged.  “对了，”她承认道。
+2. [with obj.] (of a body of opinion) recognize the fact or importance or quality of  • （舆论团体）公认…的事实（或重要性、性质）
+ »the art world has begun to acknowledge his genius.  艺术界开始承认他的天才了。
+ »[with obj. and infinitive] he's generally acknowledged to be the game's finest coach.  他被公认为是这个运动项目最好的教练。
+  express or display gratitude for or appreciation of  • 对…表示感谢，欣赏
+ »he received a letter acknowledging his services.  他收到了肯定他的服务的感谢信。
+  accept the validity or legitimacy of  • 接受，确认…的有效性（或合法性）
+ »Henry acknowledged Richard as his heir.  亨利确认理查德为他的继承人。
+3. [with obj.] show that one has noticed or recognized (someone) by making a gesture or greeting  • （做手势或打招呼以示）答理，理会
+ »she refused to acknowledge my presence.  她拒不理会我的存在。
+  confirm (receipt of something)  • 确认（收讫某物）
+
+【派生】♦ acknowledgeable adjective
+
+【语源】1. late 15th cent.: from the obsolete Middle English verb knowledge, influenced by obsolete acknow 'acknowledge, confess'
+
+
+
+————————————
+★☆☆   acknowledgement
+ / əkˈnɔlidʒmənt /◙ (也作 acknowledgment), noun, [mass noun] 
+1. acceptance of the truth or existence of something  • （对某事物的真实性和存在的）承认
+ »there was no acknowledgement of the family's trauma.  没有承认家庭伤害。
+  the action of expressing or displaying gratitude or appreciation for something  • 感谢，赞赏
+ »he received an award in acknowledgement of his work.  他因其工作得到了奖励。
+  the action of showing that one has noticed someone or something  • （表示注意到了某人或某事的）示意
+ »he touched his hat in acknowledgement.  他用手触了触帽檐表示敬意。
+  [count noun] a letter confirming receipt of something  • （收到某物的）确认通知
+ »I received an acknowledgement of my application.  我收到了我的申请书的确认回执。
+2. [一般作 acknowledgements] an author's or publisher's statement of indebtedness to others, typically one printed at the beginning of a book  • （尤指印在书前面的作者或出版者的）致谢辞
+
+
+
+————————————
+★☆☆   ACL◙ for abbreviation
+1. anterior cruciate ligament  • 前十字（形）韧带
+
+
+
+————————————
+★☆☆   aclinic line
+ / əˈklɪnɪk /◙ noun
+1. another term for magnetic equator  • 同 magnetic equator 
+
+【语源】1. mid 19th cent.: aclinic from Greek aklinēs, from a- 'not' + klinein 'to bend'
+
+
+
+————————————
+★☆☆   ACLU◙ for abbreviation
+1. American Civil Liberties Union  • 美国公民自由协会
+
+
+
+————————————
+★☆☆   acme
+ / ˈækmi /◙ noun
+1. [in sing.] the point at which someone or something is best, perfect, or most successful  • 顶峰，顶端，极致
+ »physics is the acme of scientific knowledge.  物理学是科学知识的顶峰。
+
+【语源】1. late 16th cent.: from Greek akmē 'highest point'. Until the 18th cent. it was often consciously used as a Greek word and often written in Greek letters
+
+
+
+————————————
+★☆☆   Acmeist
+ / ˈækmiist /◙ adjective
+1. denoting or relating to an early 20th century movement in Russian poetry which rejected the values of symbolism in favour of formal technique and clarity of exposition. Notable members were Anna Akhmatova and Osip Mandelstam  • 阿克梅派诗人的（指20世纪早期俄罗斯诗歌运动，反对象征主义价值观，提倡形式技巧和简洁说明，著名成员有安娜•阿赫马托娃和奥西普•曼杰利什坦姆）
+◙ noun
+1. a member of this movement  • 阿克梅派诗人
+
+【派生】♦ Acmeism noun
+
+
+
+
+————————————
+★☆☆   acne
+ / ˈækni: /◙ noun
+1. [mass noun] a skin condition characterized by red pimples on the skin, especially on the face, due to inflamed or infected sebaceous glands and prevalent chiefly among adolescents  • 痤疮，粉刺，青春痘
+
+【派生】♦ acned adjective
+
+【语源】1. mid 19th cent.: via modern Latin from Greek aknas, a misreading of akmas, accusative plural of akmē 'highest point, peak, or facial eruption'; compare with acme
+
+
+
+————————————
+★☆☆   acne rosacea◙ noun
+--› see rosacea 
+
+
+
+————————————
+★☆☆   Acol
+ / ˈækəl /◙ noun
+1. [Bridge] a commonly used British system of bidding designed to enable partners with weaker hands to find suitable contracts  • [桥牌] 埃珂叫牌法（一种常用英国桥牌叫牌法，旨在让弱手牌伙伴竞叫以找到合适的定约墩数）
+
+【语源】1. 1930s: from Acol Road, Hampstead in London, the address of a house in which the system was devised
+
+
+
+————————————
+★☆☆   acolyte
+ / ˈækəˌlaɪt /◙ noun
+1. an assistant or follower  • 助手，追随者
+  a person assisting a priest in a religious service or procession  • （宗教仪式或队列中）教士助手
+
+【语源】1. Middle English : from Old French acolyt or ecclesiastical Latin acolytus, from Greek akolouthos 'follower'
+
+
+
+————————————
+★☆☆   Aconcagua
+ / ˌækənˈkɑ:gwə , ˌɑ:kən- /1. an extinct volcano in the ændes, on the border between ɔhile and ærgentina, rising to 6,ˌ60 m (22,834 ft). ɪt is the highest mountain in the western hemisphere  • 阿空加瓜山（安第斯山脉中一死火山，在智利与阿根廷边界，高6,960米， 即22,834英尺，是西半球最高的山）
+
+
+
+————————————
+★☆☆   aconite
+ / ˈækənait /◙ noun
+1. a poisonous plant of the buttercup family, bearing hooded pink or purple flowers and found in temperate regions of the northern hemisphere  • 乌头
+2. Genus Aconitum, family Ranunculaceae: many species, including monkshood and wolfsbane  • 乌头属，毛茛科： 多种，包括船形乌头和狼毒乌头
+  [mass noun] an extract of such a plant, used as a poison or in pharmacy  • （用作毒药或用于制药的）乌头精（提取物）
+3. (也作 winter aconite)a small herbaceous Eurasian plant, widely cultivated for its yellow flowers in early spring  • 冬乌头
+4. Genus Eranthis, family Ranunculaceae: several species, in particular E. hyemalis  • 菟葵属，毛茛科： 数种，尤指冬乌头
+
+【语源】1. mid 16th cent.: via French and Latin from Greek akoniton
+
+
+
+————————————
+★☆☆   aconitine
+ / əˈkɔniti:n /◙ noun
+1. [mass noun] [Chemistry] a poisonous alkaloid obtained from monkshood and related plants  • [化] 乌头碱
+
+
+
+————————————
+★☆☆   acorn
+ / ˈeɪˌkɔ:n , ˈeɪkən /◙ noun
+1. the fruit of the oak, a smooth oval nut in a rough cup-like base  • 橡树果，橡子
+
+【语源】1. Old English æcern, of Germanic origin; related to Dutch aker, also to acre,later associated with oak and corn
+
+
+
+————————————
+★☆☆   acorn barnacle◙ noun
+1. a stalkless barnacle that attaches itself, often in large numbers, to a variety of surfaces including rocks, ships, and marine animals  • 藤壶
+2. Genus Balanus, family Balanidae  • 藤壶属，藤壶科
+
+
+
+————————————
+★☆☆   acorn squash◙ noun
+1. a winter squash of a variety with ridged dark green to orange rind and yellow flesh  • 小青南瓜
+
+
+
+————————————
+★☆☆   acorn worm◙ noun
+1. a burrowing worm-like marine animal of shallow waters. Its body consists of a proboscis, a collar, and a long trunk with gill slits, and contains a structure resembling a notochord  • 柱头虫，栎实虫
+2. Class Enteropneusta, phylum Hemichordata  • 肠腮纲，半索动物门
+
+
+
+————————————
+★☆☆   acouchi
+ / əˈku:ʃi /◙ (pl. acouchis)
+1. a large forest rodent resembling an agouti, found in the Amazon basin  • 长尾刺豚鼠
+2. Genus Myoprocta, family Dasyproctidae: two species  • 长尾刺豚鼠属，刺豚鼠科：2种
+
+【语源】1. late 18th cent.: from French, from Tupi
+
+
+
+————————————
+★☆☆   acoustic
+ / əˈku:stik /◙ adjective
+1. relating to sound or the sense of hearing  • 声学的；听觉的
+ »dogs have a much greater acoustic range than humans.  狗的听觉范围比人大得多。
+  (of building materials) used for soundproofing or modifying sound  • （建筑材料）隔音的；修饰声音的
+ »acoustic tiles.  隔音砖。
+  (of a device or system) utilizing sound energy in its operation  • （装置，系统）利用声能运作的
+  (of an explosive mine or other weapon) able to be set off by sound waves  • （爆破性地雷或其他武器）能为声波引爆的
+2. (of popular music or musical instruments) not having electrical amplification  • （流行音乐，乐器）无电声扩音的，原声的
+ »an acoustic guitar.  原声吉他。
+◙ noun
+1. [一般作acoustics] the properties or qualities of a room or building that determine how sound is transmitted in it  • （房间或建筑物的）音响效果，音质
+ »the Symphony Hall has perfect acoustics.  交响音乐厅有完美的音响效果。
+  (acoustic)the acoustic properties or ambience of a sound recording or of a recording studio  • （录音的）音质；（录音室的）环境
+2. (acoustics)[treated as sing.] the branch of physics concerned with the properties of sound  • 声学
+3. a musical instrument without electrical amplification, typically a guitar  • 原声乐器（尤指吉他）
+
+【派生】♦ acoustical adjective
+♦ acoustically adverb
+
+【语源】1. mid 17th cent.: from Greek akoustikos, from akouein 'hear'
+
+
+
+————————————
+★☆☆   acoustic coupler◙ noun
+1. [Electronics] a modem which converts digital signals into audible signals and vice versa so that they can be transmitted and received over telephone lines. This typically takes the form of a sound-absorbent cradle, incorporating a microphone and loudspeaker, into which a telephone handset is placed  • [电子] 声音耦合器
+
+
+
+————————————
+★☆☆   acoustician
+ / ˌæku:ˈstiʃən /◙ noun
+1. an expert in the branch of physics concerned with the properties of sound  • 声学家
+
+
+
+————————————
+★☆☆   acoustic impedance◙ noun
+1. [Physics] the ratio of the pressure over an imaginary surface in a sound wave to the rate of particle flow across the surface  • [物理] 声阻抗
+
+
+
+————————————
+★☆☆   acoustic shock◙ noun
+1. [mass noun] damaged hearing suffered by the user of an earphone as a result of sudden excessive noise in the device  • （耳机音量突然大增造成的）听觉损伤
+
+
+
+————————————
+★☆☆   acquaint
+ / əˈkweint /◙ verb
+1. [with obj.] (acquaint someone with)make someone aware of or familiar with  • 使认识，使熟悉
+ »new staff should be acquainted with fire exit routes.  新员工应熟悉火警疏散路线。
+ »you need to acquaint yourself with the house style.  你需要熟悉出版社的印刷风格。
+  (be acquainted)be an acquaintance  • 认识
+ »I am not acquainted with any young lady of that name.  我不认识叫这名字的任何年轻女士。
+ »I'll leave you two to get acquainted.  我让你们两个人单独熟悉一下。
+
+【语源】1. Middle English : from Old French acointier 'make known', from late Latin accognitare, from Latin accognoscere, from ad- 'to' + cognoscere 'come to know'
+
+
+
+————————————
+★☆☆   acquaintance
+ / əˈkweintəns /◙ noun
+1. [mass noun] a person's knowledge or experience of something  • 了解，知悉
+ »the pupils had little acquaintance with the language.  学生们对这语言不了解。
+  one's slight knowledge of or friendship with someone  • 浅识；泛泛之交
+ »I renewed my acquaintance with Herbert.  我与赫伯特重续旧谊。
+2. a person one knows slightly, but who is not a close friend  • 熟人（只相识但非密友）
+ »a wide circle of friends and acquaintances.  一大圈朋友和熟人。
+  [mass noun] such people considered collectively  • [总称] 朋友，熟人
+ »his extensive acquaintance included Oscar Wilde and Yeats.  他的众多朋友中包括奥斯卡•王尔德和叶芝。
+
+【IDIOMS】◘ make the acquaintance of (或 make someone's acquaintance)
+1. meet someone for the first time and come to know them slightly  • 结识某人
+
+【派生】♦ acquaintanceship noun
+
+【语源】1. Middle English (in the sense 'mutual knowledge, being acquainted'): from Old French acointance, from acointier 'make known' (see acquaint )
+
+
+
+————————————
+★☆☆   acquaintance rape◙ noun
+1. [mass noun] (chiefly N. Amer.)rape by a person who is known to the victim  • [主北美] 熟人强奸
+
+
+
+————————————
+★☆☆   acquiesce
+ / ˌækwi:ˈes /◙ verb
+1. [no obj.] accept something reluctantly but without protest  • 默许，勉强同意
+ »Sara acquiesced in his decision.  萨拉默认他的决定。
+
+【派生】♦ acquiescence noun
+
+【语源】1. early 17th cent.: from Latin acquiescere, from ad- 'to, at' + quiescere 'to rest'
+
+
+
+————————————
+★☆☆   acquiescent
+ / ˌækwi:ˈesənt /◙ adjective
+1. (of a person) ready to accept something without protest, or to do what someone else wants  • （人）默许的，默从的
+
+【语源】1. early 17th cent.: from Latin acquiescent- 'remaining at rest', from the verb acquiescere (see acquiesce )
+
+
+
+————————————
+★☆☆   acquire
+ / əˈkwaiə /◙ verb, [with obj.] 
+1. buy or obtain (an asset or object) for oneself  • （为自己）买到，获得（资产，物品）
+  learn or develop (a skill, habit, or quality)  • 学到，习得，培养（技能，习惯，品质）
+ »you must acquire the rudiments of Greek.  你必须掌握希腊语的入门知识。
+ »I've acquired a taste for whisky.  我养成了喝威士忌酒的爱好。
+  achieve (a particular reputation) as a result of one's behaviour or activities  • （由于某人的行为或活动而）获得（某种名声）
+
+【IDIOMS】◘ acquired taste
+1. a thing that one has come to like only through experience  • （后天养成的）嗜好
+ »pumpkin pie is an acquired taste.  喜欢吃南瓜馅饼是后天养成的嗜好。
+  a liking of this kind  • 嗜好
+
+【派生】♦ acquirable adjective
+♦ acquiree noun
+1. [Finance] [财政,] 
+♦ acquirer noun
+
+【语源】1. late Middle English acquere, from Old French aquerre, based on Latin acquirere 'get in addition', from ad- 'to' + quaerere 'seek'. The English spelling was modified (c 1600) by association with the Latin word
+
+
+
+————————————
+★☆☆   acquired character◙ (也作 acquired characteristic), noun
+1. [Biology] a modification or change in an organ or tissue during the lifetime of an organism due to use, disuse, or environmental effects, and not inherited  • [生] 获得性状，获得性（特征）。
+--› see Lamarck 
+
+
+
+————————————
+★☆☆   acquired immune deficiency syndrome◙ noun
+--› see Aids 
+
+
+
+————————————
+★☆☆   acquirement
+ / əˈkwaiəmənt /◙ noun
+1. [mass noun] the action of acquiring something  • 获得，取得
+ »the acquirement of self control.  自控能力的养成。
+  [count noun] something acquired, typically a skill  • 学到的东西，造诣（尤指技能）
+
+
+
+————————————
+★☆☆   acquisition
+ / ˌækwiˈziʃən /◙ noun
+1. an asset or object bought or obtained, typically by a library or museum  • （尤指图书馆或博物馆经购置或获得的）资产，物品
+  an act of purchase of one company by another  • （一家公司对另一家公司的）收购
+  [mass noun] buying or obtaining assets or objects  • 资产购置（或获得），购得物，获得物
+ »western culture places a high value on material acquisition.  西方文化很重视获得物质。
+2. [mass noun] the learning or developing of a skill, habit, or quality  • （技能、习惯或品质的）习得，培养
+ »the acquisition of management skills.  管理技能的习得。
+
+【语源】1. late Middle English (in the sense 'act of acquiring something'): from Latin acquisitio(n-), from the verb acquirere (see acquire )
+
+
+
+————————————
+★☆☆   acquisition accounting◙ noun
+1. [mass noun] a procedure in accounting in which the value of the assets of a company is changed from book to fair market level after a takeover  • 收购会计；盘购会计；兼并会计
+
+
+
+————————————
+★☆☆   acquisitive
+ / əˈkwɪzɪtɪv /◙ adjective
+1. excessively interested in acquiring money or material things  • （对金钱或物质）渴望得到的，贪婪的
+
+【派生】♦ acquisitively adverb
+♦ acquisitiveness noun
+
+【语源】1. mid 19th cent.: from French acquisitif, -ive, from late Latin acquisitivus. from Latin acquisit- 'acquired', from the verb acquirere (see acquire )
+
+
+
+————————————
+★☆☆   acquit
+ / əˈkwit /◙ (acquitted, acquitting)
+1. [with obj.] [一般作be acquitted] free (someone) from a criminal charge by a verdict of not guilty  • 开释，宣告（某人）无罪
+ »she was acquitted on all counts.  她被判完全无罪。
+ »the jury acquitted Bream of murder.  陪审团认为布里姆谋杀罪名不成立。
+2. (acquit oneself)conduct oneself or perform in a specified way  • 行为，表现
+ »the goalkeeper acquitted himself well.  守门员表现良好。
+  (acquit oneself of)(archaic)discharge (a duty or responsibility)  • [古] 脱卸（职责，责任）
+
+【语源】1. middle English (originally in the sense 'pay a debt, discharge a liability'): from Old French acquiter, from medieval Latin acquitare 'pay a debt', from ad- 'to' + quitare 'set free'
+
+
+
+————————————
+★☆☆   acquittal
+ / əˈkwɪtl /◙ noun
+1. a judgement or verdict that a person is not guilty of the crime with which they have been charged  • 宣判无罪，无罪开释
+
+
+
+————————————
+★☆☆   acquittance
+ / əˈkwitəns /◙ noun
+1. [Law, dated] a written receipt attesting the settlement of a fine or debt  • [律旧] 罚单收据，清欠收据
+
+【语源】1. middle English : from Old French, from aquiter 'discharge (a debt') (see acquit )
+
+
+
+————————————
+★☆☆   acrasia
+ / əˈkreiziə /◙ noun
+1. variant spelling of akrasia  • 同 akrasia 
+
+
+
+————————————
+★☆☆   acre
+ / ˈeɪkə /◙ noun
+1. a unit of land area equal to 4,840 square yards (0.405 hectare)  • 英亩（相当于4,840平方码，即0.405公顷）
+  (acres of)[informal] a large extent or amount of something  • [非正式] 大片，大量
+ »acres of space.  广阔的空间。
+
+【派生】♦ acred adjective
+ »[in combination] a many-acred park.  好几英亩大的公园。
+
+【语源】1. Old English æcer (denoting the amount of land a yoke of oxen could plough in a day), of Germanic origin; related to Dutch akker and German Acker 'field', from an Indo-European root shared by Sanskrit ajra 'field', Latin ager, and Greek agros
+
+
+
+————————————
+★☆☆   Acre1. an industrial seaport of Israel; pop. 39,100 (1982).  • 阿卡（以色列的一工业海港；1982年人口39,100）。(亦称 Akko)
+2. a state of western Brazil, on the border with Peru; capital, Rio Branco  • 阿克里（巴西西部一州，与秘鲁毗邻，州府里奥布朗库）
+
+
+
+————————————
+★☆☆   acreage
+ / ˈeɪkərɪdʒ , ˈeɪkrɪdʒ /◙ noun
+1. [mass noun] an area of land, typically when used for agricultural purposes, but not necessarily measured in acres  • 土地面积（尤指农业用地，但不一定以英亩计算）
+ »a 35% increase in net acreage.  净面积35%的增幅。
+ »[count noun] a modest acreage in Drake's Prairie.  德雷克的草原里一块面积不大的地方。
+
+
+
+————————————
+★☆☆   acre-foot◙ (pl. acre-feet)
+1. a unit of volume equal to the volume of a sheet of water one acre (0.405 hectare) in area and one foot (30.48 cm) in depth; 43,560 cubic feet (1,233.5 cubic metres)  • 英亩-英尺（容积、容量单位，相当于面积为一英亩，即0.405公顷，深1英尺，即30.48厘米的一片水域的容积；合43,560立方英尺，即1,233．5立方米）
+
+
+
+————————————
+★☆☆   acrid
+ / ˈækrɪd /◙ adjective
+1. having an unpleasantly bitter or pungent taste or smell  • （气味）辛辣的，苦的，刺激的
+ »acrid fumes.  刺激性浓烟。
+  angry and bitter  • 愤怒刻薄的
+ »an acrid farewell.  愤愤而别。
+
+【派生】♦ acridity noun
+♦ acridly adverb
+
+【语源】1. early 18th cent.: formed irregularly from Latin acer acri- 'sharp, pungent' + -id,probably influenced by acid
+
+
+
+————————————
+★☆☆   acridine
+ / ˈækrɪˌdi:n /◙ noun
+1. [mass noun] [Chemistry] a colourless solid compound obtained from coal tar, used in the manufacture of dyes and drugs  • [化] 吖啶，一氮蒽，夹氮蒽
+2. Chem. formula: C13H9N  • 化学分子式：C13H9N
+
+【语源】1. late 19th cent.: coined in German from acrid + -ine
+
+
+
+————————————
+★☆☆   acriflavine
+ / ˌækriˈfleivi:n /◙ noun
+1. [mass noun] a bright orange-red dye derived from acridine, used as an antiseptic  • 吖啶黄（消毒灭菌剂）
+
+【语源】1. early 20th cent.: formed irregularly from acridine + Latin flavus 'yellow' + -ine
+
+
+
+————————————
+★☆☆   Acrilan
+ / ˈækrilən /◙ noun
+1. [mass noun] (trademark)a synthetic acrylic textile fibre  • [商标] 阿克利纶（合成丙烯酸纺织纤维）
+
+【语源】1. 1950s: from acrylic + Latin lana 'wool'
+
+
+
+————————————
+★☆☆   acrimonious
+ / ˌækrəˈməʊni:əs /◙ adjective
+1. (typically of speech or a debate) angry and bitter  • （尤指言词、辩论）激烈的，尖刻的
+ »an acrimonious dispute about wages.  关于工资的激烈争论。
+
+【派生】♦ acrimoniously adverb
+
+【语源】1. early 17th cent. (in the sense 'bitter, pungent'): from acrimony + -ous
+
+
+
+————————————
+★☆☆   acrimony
+ / ˈækrəˌməʊni: /◙ noun
+1. [mass noun] bitterness or ill feeling  • 尖刻，恶毒
+ »the AGM dissolved into acrimony.  年会变成了一场激烈的争吵。
+
+【语源】1. mid 16th cent. (in the sense 'bitter taste or smell'): from French acrimonie or Latin acrimonia, from acer, acri- 'pungent, acrid'
+
+
+
+————————————
+★☆☆   acrobat
+ / ˈækrəˌbæt /◙ noun
+1. an entertainer who performs spectacular gymnastic feats  • 杂技演员
+
+【语源】1. early 19th cent.: from French acrobate, from Greek akrobatēs, from akrobatos 'walking on tiptoe', from akron 'tip' + bainein 'to walk'
+
+
+
+————————————
+★☆☆   acrobatic
+ / ˌækrəˈbætɪk /◙ adjective
+1. performing, involving, or adept at spectacular gymnastic feats  • 杂技表演的，有关（擅长）杂技的
+
+【派生】♦ acrobatically adverb
+
+
+
+
+————————————
+★☆☆   acrobatics
+ / ˌækrəˈbætɪks /◙ plural noun
+1. [usa. treated as sing.] spectacular gymnastic feats  • 杂技，杂技技艺
+
+
+
+————————————
+★☆☆   acrocyanosis
+ / ˌækrəuˌsaiəˈnəusis /◙ noun
+1. [mass noun] [Medicine] bluish or purple colouring of the hands and feet caused by slow circulation  • [医] 手足发绀，肢端发绀
+
+【语源】1. late 19th cent.: from Greek akron 'tip' + cyanosis
+
+
+
+————————————
+★☆☆   acrolect
+ / ˈækrəulekt /◙ noun
+1. [Linguistics] the most prestigious dialect or variety of a particular language  • [语言学] 上层方言（或语言）。 与 basilect 相对
+
+【派生】♦ acrolectal adjective
+
+【语源】1. 1960s: from Greek akron 'summit' + -lect as in dialect
+
+
+
+————————————
+★☆☆   acromegaly
+ / ˌækrəuˈmeɡəli /◙ noun
+1. [mass noun] [Medicine] abnormal growth of the hands, feet, and face, caused by overproduction of growth hormone by the pituitary gland  • [医] 肢端肥大症
+
+【派生】♦ acromegalic adjective
+
+【语源】1. late 19th cent.: coined in French from Greek akron 'tip, extremity' + megas, megal- 'great'
+
+
+
+————————————
+★☆☆   acronym
+ / ˈækrəˌnɪm /◙ noun
+1. a word formed from the initial letters of other words (e.g. laser Aids)  • 首字母缩略词（如laser，Aids）
+
+【语源】1. 1940s: from Greek akron 'end, tip' + onuma 'name', on the pattern of homonym
+
+
+
+————————————
+★☆☆   acropetal
+ / əˈkrɔpitəl /◙ adjective
+1. [Botany] (of growth or development) upwards from the base or point of attachment  • [植] （生长，发育）向顶的。
+【OPP】 basipetal   (of the movement of dissolved substances) outwards towards the shoot and root apices  • （溶解物质的运动）向芽尖和根尖的
+
+【派生】♦ acropetally adverb
+
+【语源】1. late 19th cent.: from Greek akron 'tip' + Latin petere 'seek' + -al
+
+
+
+————————————
+★☆☆   acrophobia
+ / ˌækrəuˈfəubjə /◙ noun
+1. [mass noun] extreme or irrational fear of heights  • 恐高症
+
+【派生】♦ acrophobic adjective
+
+【语源】1. late 19th cent.: from Greek akron 'summit' + -phobia
+
+
+
+————————————
+★☆☆   acropolis
+ / əˈkrɔpəlis /◙ noun
+1. a citadel or fortified part of an ancient Greek city, typically one built on a hill  • （尤指建在山上的）古希腊城市的卫城
+  (the Acropolis)the ancient citadel at Athens, containing the Parthenon and other notable buildings, mostly dating from the 5th century bc  • 雅典卫城（包含帕台农神庙和其他有名建筑，大部分可追溯到公元前５世纪）
+
+【语源】1. Greek, from akron 'summit' + polis 'city'
+
+
+
+————————————
+★☆☆   across
+ / əˈkrɔs /◙ preposition & adverb
+1. from one side to the other of (something)  • 从…一边到另一边
+  expressing movement over a place or region[as adv.]  • [表示运动经过一地方或区域] 越过
+ »[as prep.] I ran across the street.  我奔跑过街。
+ »travelling across Europe.  穿越欧洲旅行。
+ »he had swum across.  他已经游过去了。
+  expressing position or orientation[as prep.]  • [表示方位、方向] 对过，横过
+ »they lived across the street from one another.  他们两个隔街居住。
+ »the bridge across the river.  跨越河流的桥。
+ »[as adv.] he looked across at me.  他朝我看过来。
+ »halfway across, Jenny jumped.  到了中途，珍妮就跳了起来。
+  [as adv.] used with an expression of measurement  • [与度量用语连用] 宽
+ »mounds some 30 metres across.  大约30米宽的土墩。
+  [as adv.] a crossword answer which reads horizontally  • 横向字谜答案
+ »19 across.  第19行。
+
+【IDIOMS】◘ across the board
+1. applying to all  • 全面的
+ »the cutbacks might be across the board.  可能全面缩减。
+  [US] (in horse racing) denoting a bet in which equal amounts are staked on the same horse to win, place, or show in a race  • [美] （赛马用语）综合赌注（对同一匹马在比赛中胜出，名次或出现的情况都下相同赌注）
+◘ across from
+1. opposite  • 对面
+ »she sat across from me.  她坐在我对面。
+◘ be (或 get) across something
+1. [Austral.] be or become fully cognizant of the details or complexity of an issue or situation  • [澳] 明了，洞悉（问题或情境的详情，复杂性）
+
+【语源】1. middle English (as an adverb meaning 'in the form of a cross'): from Old French a croix, en croix 'in or on a cross', later regarded as being from a- + cross
+
+
+
+————————————
+★☆☆   acrostic
+ / əˈkrɔstik /◙ noun
+1. a poem, word puzzle, or other composition in which certain letters in each line form a word or words  • 离合诗
+
+【语源】1. late 16th cent.: from French acrostiche, from Greek akrostikhis, from akron 'end' + stikhos 'row, line of verse'. The change in the ending was due to association with -ic
+
+
+
+————————————
+★☆☆   Acrux
+ / ˈækrʌks /1. əæstronomy] the star ælpha ɔrucis, which is the brightest star in the southern constellation ɔrux and the twelfth brightest in the sky  • [天文] 十字架二，南十字二，南十字座α星
+
+【语源】1. from A for alpha + crux
+
+
+
+————————————
+★☆☆   acrylamide
+ / ˌækriˈlæmaid /◙ noun
+1. [mass noun] [Chemistry] a colourless crystalline solid which readily forms water-soluble polymers  • [化] 丙烯酰胺
+2. The amide of acrylic acid; chem. formula: CH2=CHCONH2  • 丙烯酸氨化物；化学分子式：CH2CHCONH2
+
+【语源】1. late 19th cent.: from acrylic + amide
+
+
+
+————————————
+★☆☆   acrylic
+ / əˈkrɪlɪk /◙ adjective
+1. (of synthetic resins and textile fibres) made from polymers of acrylic acid or acrylates  • （合成树脂和纺织纤维聚合）丙烯酸的
+ »a red acrylic jumper.  红色丙烯酸纤维套衫。
+  of, relating to, or denoting paints based on acrylic resin as a medium  • （与）丙烯酸树脂涂料（或颜料）（有关）的
+ »acrylic colours.  丙烯酸颜料。
+ »an acrylic painting.  丙烯酸涂层。
+◙ noun
+1. [mass noun] an acrylic textile fibre  • 丙烯酸纺织纤维
+ »a sweater in four-ply acrylic.  四股丙烯酸纤维针织套衫。
+2. [常作 acrylics] an acrylic paint[mass noun]  • 丙烯酸颜料（涂料）
+
+【语源】1. mid 19th cent.: from the liquid aldehyde acrolein (from Latin acer, acri- 'pungent' + ol(eum) 'oil' + -in) + -yl + -ic
+
+
+
+————————————
+★☆☆   acrylic acid◙ noun
+1. [mass noun] [Chemistry] a pungent liquid organic acid which can be polymerized to make synthetic resins  • [化] 丙烯酸
+2. Alternative name: propenoic acid; chem. formula: CH2CH=COOH  • 又名：propenoic acid; 化学分子式：CH2CH=COOH
+
+【派生】♦ acrylate noun
+
+
+
+
+————————————
+★☆☆   acrylonitrile
+ / ˌækrələuˈnaitril /◙ noun
+1. [mass noun] [Chemistry] a pungent, toxic liquid, used in making artificial fibres and other polymers  • [化] 丙烯腈
+2. The nitrile of acrylic acid; chem. formula: CH2=CHCN  • 丙烯酸腈化物；化学分子式：CH2CHCN
+
+
+
+————————————
+★☆☆   ACT◙ for abbreviation
+1. advance corporation tax  • 预缴公司税
+  Australian Capital Territory  • 同 Australian Capital Territory 
+
+
+
+————————————
+★☆☆   act
+ / ækt /◙ verb, [no obj.] 
+1. take action; do something  • 行动；做某事
+ »they urged Washington to act.  他们敦促华盛顿采取行动。
+ »[with infinitive] governments must act to reduce pollution.  各国政府必须采取行动减少污染。
+  (act on)take action according to or in the light of  • 根据（或按照）…采取行动
+ »I shall certainly act on his suggestion.  我当然会按照他的建议行动。
+  (act for)take action in order to bring about  • 为…而行动
+ »one's ability to act for community change.  某人为社会变化采取行动的能力。
+  (act for/on behalf of)represent (someone) on a contractual, legal, or paid basis  • 代理
+ »he chose a solicitor to act for him.  他挑选了个律师作他的代理。
+  (act from/out of)be motivated by  • 出于…而做
+ »you acted from greed.  你这么做是出于贪婪。
+2. [with adverbial] behave in the way specified  • 行为，行动
+ »they challenged a man who was seen acting suspiciously.  他们盘问了个被认为行为可疑的男人。
+ »he acts as if he owned the place.  他的举止行为就好像他是那个地方的主人。
+  (act as/like)behave in the manner of  • 以…方式行动
+ »try to act like civilized adults.  要像文明的成人那样行为处事。
+3. (act as)fulfil the function or serve the purpose of  • 充当，担任
+ »they need volunteers to act as foster-parents.  他们需要志愿者来充当养父母。
+  have the effect of  • 起…作用
+ »a five-year sentence will act as a deterrent.  五年监禁将起到威慑作用。
+4. take effect; have a particular effect  • 起作用；见效
+ »bacteria act on proteins and sugar.  细菌对蛋白质和糖作用。
+5. perform a fictional role in a play, film, or television  • （在戏剧、电影或电视里）扮演角色
+ »she acted in her first professional role at the age of six.  她六岁时扮演了第一个正式角色。
+  [with obj.] perform (a part or role)  • 扮演（角色）
+ »he acted the role of the dragon.  他扮演龙的角色。
+ »doctors do not always act out the role of doctor.  医生不一定总是起到医生的作用。
+  [with complement] behave so as to appear to be; pretend to be  • 作出…的样子，假装
+ »I acted dumb at first.  我开始时有意沉默。
+  [with obj.] (act something out)perform a narrative as if it were a play  • 表演，将（故事）表演出来
+ »encouraging pupils to act out the stories.  鼓励学生们将故事表演出来。
+  [with obj.] (act something out)[Psychoanalysis] express repressed emotion or impulses in overt behaviour as a defensive substitute for conscious recall, typical of some behavioural disorders  • [心理分析] 行为表现
+◙ noun
+1. a thing done; a deed  • 行为
+ »a criminal act.  犯罪行为。
+ »the act of writing down one's thoughts.  写下某人的想法的举动。
+ »an act of heroism.  英雄主义行为。
+  [Acts 或 Acts of the Apostles] a New Testament book immediately following the Gospels and relating the history of the early Church  • （《圣经•新约》中紧接着福音书，与早期教会历史有关的）《使徒行传》
+2. [in sing.] a pretence  • 假装
+ »she was putting on an act and laughing a lot.  她装腔作势地笑了又笑。
+  [with adj. or noun modifier] a particular type of behaviour or routine  • 某种行为（或常规、惯例）
+ »he did his Sir Galahad act.  他干了一件加拉哈德爵士式的高尚事。
+3. [Law] a written ordinance of Parliament, Congress, etc.  • [律] （议会、国会等的书面）法令，条例
+ »the 1989 Children's Act.  1989年的儿童法。
+  a document attesting a legal transaction  • 判决书
+  [常作 acts] [dated] the recorded decisions or proceedings of a committee or an academic body  • [旧] （委员会或学术团体的）决定记录，会议记录，公报，学报
+4. a main division of a play, ballet, or opera  • （戏剧、芭蕾舞剧或歌剧的）幕
+  a set performance  • 表演
+ »her one-woman poetry act.  她的女独诗朗诵。
+  a performing group  • 演出团体
+ »an act called the Apple Blossom Sisters.  苹果花姐妹剧团。
+
+【IDIOMS】◘ act of God
+1. an instance of uncontrollable natural forces in operation (often used in insurance claims)  • [常用于保险索赔] 不可抗力
+◘ act of grace
+1. a privilege or concession that cannot be claimed as a right  • 恩典，大赦令
+◘ catch someone in the act
+1. [一般作 be caught in the act] surprise someone in the process of doing something wrong  • 当场抓住（或发现）某人做坏事
+ »the thieves were caught in the act.  窃贼们被当场抓住。
+◘ clean up one's act
+1. behave in a more acceptable manner  • 改进举止
+◘ get one's act together
+1. [informal] galvanize oneself into organizing one's life or affairs effectively  • [非正式] （使自己的生活处事）有头绪；有条有理地行事
+◘ get (或 be) in on the act
+1. [informal] become or be involved in a particular activity, in order to gain profit or advantage  • [非正式] （为获得利益或有利条件而）加入（或参与）（活动），插一手
+◘ a hard (或 tough) act to follow
+1. an achievement or performance which sets a standard regarded as being hard for others to measure up to  • 难以取得的成就（或成绩）
+◘ in the act of
+1. in the process of  • 在…过程中
+ »they photographed him in the act of reading other people's mail.  他们拍下了他私看他人信件的行为过程。
+
+【派生】♦ actability noun
+♦ actable adjective
+
+【语源】1. late Middle English : from Latin actus 'event, thing done', act- 'done', from the verb agere, reinforced by the French noun acte
+
+【PHR V】◘ act up
+1. (of a thing) fail to function properly  • （某物）运转不正常
+ »the plane's engine was acting up.  飞机引擎运转不正常。
+  (of a person) misbehave  • （人）行为不端
+2. (of a person) take over or be promoted to a more senior position, typically on a temporary basis
+3. （人）（多指暂时）接任更高职位，擢升
+
+
+
+————————————
+★☆☆   Actaeon
+ / ækˈti:ən /1. əGreek Mythology] a hunter who, because he accidentally saw ærtemis bathing, was changed by her into a stag and killed by his own hounds  • [希腊神话] 亚克托安（猎人，因无意间看到阿耳忒弥斯沐浴而被她变成了牡鹿，给自己的猎犬咬死）
+
+
+
+————————————
+★☆☆   actant
+ / ˈæktənt /◙ noun
+1. [Grammar] a noun or noun phrase involved in the action expressed by a verb  • [语法] 动作名词，动作名词短语
+2. (in literary theory) a person, creature, or object playing any of a set of active roles in a narrative  • （文学理论用语）（故事中）活跃的人物（或动物、物体）
+
+
+
+————————————
+★☆☆   ACTH
+ / ˌeɪˌsi:ti:ˈeɪtʃ /əɑiochemistry] ə生化] 
+◙ for abbreviation
+1. adrenocorticotrophic hormone  • 同 adrenocorticotrophic hormone 
+
+
+
+————————————
+★☆☆   actin
+ / ˈæktin /◙ noun
+1. [mass noun] [Biochemistry] a protein which forms (together with myosin) the contractile filaments of muscle cells, and is also involved in motion in other types of cell  • [生化] 肌动蛋白，肌纤蛋白
+
+【语源】1. 1940: from Greek aktis, aktin- 'ray' + -in
+
+
+
+————————————
+★☆☆   acting
+ / ˈæktɪŋ /◙ noun
+1. [mass noun] the art or occupation of performing fictional roles in plays, films, or television  • （戏剧、电影或电视）表演
+◙ adjective
+1. [attrib.] temporarily doing the duties of another person  • 代理的
+ »an acting director.  代理导演。
+
+
+
+————————————
+★☆☆   acting pilot officer◙ noun
+1. a rank in the RAF above warrant officer and below pilot officer  • 代理空军少尉（英国皇家空军一级准尉之上，少尉之下的军衔）
+
+
+
+————————————
+★☆☆   actinian
+ / ækˈtiniən /◙ noun
+1. [Zoology] a sea anemone  • [动] 海葵
+
+【语源】1. mid 18th cent.: from the modern Latin genus name Actinia (from Greek aktis aktin- 'ray') + -an
+
+
+
+————————————
+★☆☆   actinic
+ / ækˈtinik /◙ adjective
+1. (technical)(of light or lighting) able to cause photochemical reactions, as in photography, through having a significant short wavelength or ultraviolet component  • [技] （光，照明）光化性的
+  relating to or caused by such light  • 光化引起的，与光化有关的
+
+【派生】♦ actinism noun
+
+【语源】1. mid 19th cent.: from Greek aktis, aktin- 'ray' + -ic
+
+
+
+————————————
+★☆☆   actinide
+ / ˈæktinaid /◙ noun
+1. [Chemistry] any of the series of fifteen metallic elements from actinium (atomic number 89) to lawrencium (atomic number 103) in the periodic table. They are all radioactive, the heavier members being extremely unstable and not of natural occurrence  • [化] 锕类
+
+【语源】1. 1940s: from actinium + -ide,on the pattern of lanthanide
+
+
+
+————————————
+★☆☆   actinium
+ / ækˈtiniəm /◙ noun
+1. [mass noun] the chemical element of atomic number 89, a radioactive metallic element of the actinide series. It is rare in nature, occurring as an impurity in uranium ores[Symbol: Ac]  • （化学元素）锕（符号：Ac）
+
+【语源】1. early 20th cent.: from Greek aktis, aktin- 'ray' + -ium
+
+
+
+————————————
+★☆☆   actinolite
+ / ækˈtinəuˌlait /◙ noun
+1. [mass noun] a green mineral of the amphibole group containing calcium, magnesium, and iron and occurring chiefly in metamorphic rocks and as a form of asbestos  • 阳起石
+
+【语源】1. late 18th cent.: from Greek aktis, aktin- 'ray' + lithos 'stone' (because of the ray-like crystals)
+
+
+
+————————————
+★☆☆   actinometer
+ / ˌæktiˈnɔmitə /◙ noun
+1. [Physics] an instrument for measuring the intensity of radiation, typically ultraviolet radiation  • [物理] 曝光计（表），（尤指紫外辐射）光线强度计
+
+【语源】1. mid 19th cent.: from Greek aktis, aktin- 'ray' + -meter
+
+
+
+————————————
+★☆☆   actinomorphic
+ / ˌæktinəuˈmɔ:fik /◙ adjective
+1. [Biology] characterized by radial symmetry, such as a starfish or the flower of a daisy  • [生] 辐射对称的（如海星或雏菊花）。
+--› compare zygomorphic 
+
+【派生】♦ actinomorphy noun
+
+【语源】1. late 19th cent.: from Greek aktis, aktin- 'ray' + morphē 'form' + -ic
+
+
+
+————————————
+★☆☆   actinomycete
+ / ˌæktinəumaiˈsi:t /◙ noun
+1. a bacterium of an order of typically non-motile filamentous forms. They include the economically important streptomycetes, and were formerly regarded as fungi  • 放射菌类
+2. Order Actinomycetales; Gram-positive  • 放射菌目；革兰氏阳性菌
+
+【语源】1. 1920s (originally only in the plural): modern Latin, from Greek aktis, aktin- 'ray' + mukētes, plural of mukēs 'fungus'
+
+
+
+————————————
+★☆☆   action
+ / ˈækʃən /◙ noun
+1. [mass noun] the fact or process of doing something, typically to achieve an aim  • （尤指为达成一目的）行动，行动过程
+ »demanding tougher action against terrorism.  要求采取更强硬的行动反对恐怖主义。
+ »if there is a breach of regulations, we will take action.  要是有违反规章的情况，我们就会采取行动。
+  the way in which something such as a chemical has an effect or influence  • （化学物等起的）作用
+ »the seeds require the catalytic action of water to release heat.  种子需要水的催化作用来散热。
+  short for industrial action  • industrial action 的简称
+ »the rank and file want to call the action off.  基层群众想取消这次罢工。
+  armed conflict  • 武力行为，武装冲突
+ »servicemen listed as missing in action during the war.  战时在战斗中失踪人员名单上的军人。
+  [count noun] a military engagement  • 战斗，作战，军事行动
+ »a rearguard action.  后卫战斗。
+  the events represented in a story or play  • 情节
+ »the action is set in a country house.  故事发生在一所乡村房舍里。
+  [informal] exciting or notable activity  • [非正式] （令人激动的或值得注意的）活动
+ »the weekend sporting action begins on Saturday.  周末的体育活动从周六开始。
+ »people in media want to be where the action is.  媒体人员想亲临活动现场。
+  [as exclamation] used by a film director as a command to begin  • 开始（电影导演开拍的指令）
+ »lights, camera, action.  灯光，摄影，开始。
+2. a thing done; an act  • 事情，行为
+ »I would not be responsible for my actions if I saw him.  我要是见到他，就不会对我的行为负责。
+  a legal process; a lawsuit  • 诉讼
+ »a civil action for damages.  要求赔偿损失的民事诉讼。
+  a gesture or movement  • 举动，行动
+3. [usu. with modifier] a manner or style of doing something, typically the way in which a mechanism works or a person moves  • 做事方式，风格（尤指机械运转或人的动作方式）
+ »a high paddle action in canoeing.  划船时的一次高桨划动。
+  the mechanism that makes a machine or instrument work  • （使机器或器械运转的）机制
+ »a piano with an escapement action.  有控键装置的钢琴。
+◙ verb
+1. [with obj.] [一般作 be actioned] take action on; deal with  • 对…采取行动，处理
+ »your request will be actioned.  你的请求会被受理的。
+
+【IDIOMS】◘ actions speak louder than words
+1. (proverb)what someone actually does means more than what they say they will do  • [谚] 事实胜于雄辩
+◘ go into action
+1. start work or activity  • 开始行动，干起来
+◘ in action
+1. engaged in a certain activity; in operation  • 在活动，在运转
+ »watching him in action, normal workers are left in awe.  看他工作，普通工人都肃然起敬。
+◘ man (或 woman) of action
+1. a person whose life is characterized by physical activity or deeds rather than by words or intellectual matters  • 实干者
+◘ out of action
+1. temporarily unable to engage in a certain activity; not working  • 暂停活动，不（再）起作用；不（再）运转，失效
+ »a heart attack put him out of action.  他心脏病发作，无法继续工作。
+◘ put into action
+1. put into effect; carry out  • 生效；实施
+
+【语源】1. late middle English : via Old French from Latin actio(n-), from agere 'do, act'
+
+
+
+————————————
+★☆☆   actionable
+ / ˈækʃənəb(ə)l /◙ adjective
+1. [Law] giving sufficient reason to take legal action  • [律] （有足够理由）可控告的，可起诉的
+ »their remarks were bordering on actionable.  他们的言论几乎可被起诉。
+2. able to be done or acted on；having practical value  • 可行的；有实际价值的
+ »insightful and actionable information on the effect advertising is having on your brand.  关于广告宣传对贵品牌所产生影响的颇有见地且具有实际价值的信息。
+
+
+
+————————————
+★☆☆   action at a distance◙ noun
+1. [mass noun] [Physics, chiefly historical] the exertion of force by one body on another separated from the first by empty space  • [物理主 史] 超距作用
+
+
+
+————————————
+★☆☆   action committee◙ (也作 action group), noun
+1. a body formed to campaign politically, especially on a particular issue  • （尤指关于某一问题的政治）行动委员会
+
+
+
+————————————
+★☆☆   Action Directe
+ / ˌæksjɔ̃ dɪˈrɛkt /1. a group of extreme left-wing ʃrench terrorists  • 直接行动组织（一个极端左翼法国恐怖分子组织）
+
+【语源】1. 1980s : French, literally direct action'
+
+
+
+————————————
+★☆☆   actioner◙ noun
+1. [informal] a film predominantly consisting of exciting action and adventure  • [非正式] 动作片
+
+
+
+————————————
+★☆☆   action figure◙ noun
+1. a doll representing a person or fictional character known for vigorous action, such as a soldier or superhero  • （以善于强劲格斗的士兵或超级英雄为形象的）玩具人
+
+
+
+————————————
+★☆☆   action for declarator◙ noun
+--› see declarator 
+
+
+
+————————————
+★☆☆   action-packed◙ adjective
+1. [informal] full of activity or excitement  • [非正式] 充满活动的，激动人心的
+ »an action-packed programme of events.  情节曲折、激动人心的节目。
+
+
+
+————————————
+★☆☆   action painting◙ noun
+1. [mass noun] a technique and style of abstract painting in which paint is randomly splashed, thrown, or poured on to the canvas. It was made famous by Jackson Pollock, and formed part of the more general movement of abstract expressionism  • 行动绘画，动作绘画（在画布上随意泼洒倾泻颜料的抽象绘画技巧或风格，由杰克逊•波洛克而闻名，并构成更为普通的抽象表现主义运动的一部分）
+
+
+
+————————————
+★☆☆   action point◙ noun
+1. a specific proposal for action to be taken, typically one arising from a discussion or meeting  • （尤指讨论或会议中提议采取明确行动的）建议行动
+
+
+
+————————————
+★☆☆   action potential◙ noun
+1. [Physiology] the change in electrical potential associated with the passage of an impulse along the membrane of a muscle cell or nerve cell  • [生理] 动作电位
+
+
+
+————————————
+★☆☆   action replay◙ noun
+1. [Brit.] a playback of part of a television broadcast, typically one in slow motion of an incident in a sporting event  • [英] 动作重放
+  [informal] an exact repetition of an action or event  • [非正式] （行动或事件的）重复，重演
+
+
+
+————————————
+★☆☆   action research◙ noun
+1. [mass noun] studies carried out in the course of an activity or occupation, typically in the field of education, to improve the methods and approach of those involved  • （尤指教育领域里，在活动和工作的过程中，为了改进参与人员的方法而进行的）行为研究
+
+
+
+————————————
+★☆☆   action stations◙ plural noun
+1. (chiefly Brit.)the positions taken up by military personnel in preparation for action (often as a command or signal to prepare for action)  • [主英] 战位；各就各位（常作准备行动的命令或信号）
+
+
+
+————————————
+★☆☆   Actium, Battle of
+ / ˈæktɪəm /1. a naval battle which took place in 31 bc off the promontory of æctium in western Greece, in the course of which Octavian defeated Mark æntony  • 亚克兴角战役（公元前31世纪在希腊西部亚克兴角外发生的海战，此役屋大维击败了马克•安东尼）
+
+
+
+————————————
+★☆☆   activate
+ / ˈæktiveit /◙ verb
+1. [with obj.] make (something) active or operative  • 使活跃，使运作，激活
+ »fumes from cooking are enough to activate the alarm.  烹调的油烟足以激响警报器。
+  convert (a substance, molecule, etc.) into a reactive form[as adj. activated]  • 使（物质、分子等）活化; 活性化
+ »activated chlorine.  活性氯。
+
+【派生】♦ activation noun
+♦ activator noun
+
+
+
+
+————————————
+★☆☆   activated carbon◙ (也作 activated charcoal), noun
+1. [mass noun] charcoal that has been heated or otherwise treated to increase its adsorptive power  • 活性炭
+
+
+
+————————————
+★☆☆   activated sludge◙ noun
+1. [mass noun] aerated sewage containing aerobic micro-organisms which help to break it down  • 活性污泥
+
+
+
+————————————
+★☆☆   activation analysis◙ noun
+1. [mass noun] [Chemistry] a technique of analysis in which atoms of a particular element in a sample are made radioactive, typically by irradiation with neutrons, and their concentration is then determined radiologically  • [化] 活化分析，放射性分析
+
+
+
+————————————
+★☆☆   activation energy◙ noun
+1. [Chemistry] the minimum quantity of energy which the reacting species must possess in order to undergo a specified reaction  • [化] 活化能
+
+
+
+————————————
+★☆☆   active
+ / ˈæktiv /◙ adjective
+1. (of a person) engaging or ready to engage in physically energetic pursuits  • （人）积极（参加体能活动）的
+ »I needed to change my lifestyle and become more active.  我需要改变我的生活方式动得更多些。
+  moving or tending to move about vigorously or frequently  • 活跃的，积极的
+ »active fish need a larger tank.  活跃的鱼儿需要大一些的鱼缸。
+  characterized by energetic activity  • 有活力的，积极活跃的
+ »they enjoyed an active social life.  他们过着活跃丰富的社交生活。
+ »an active outdoors holiday.  充满活力的户外假日。
+  (of a person's mind or imagination) alert and lively  • （人的头脑、想像力）敏锐的，活跃的
+  doing things for an organization, cause, or campaign, rather than simply giving it one's support  • 积极参与的
+ »she was an active member of the society.  她是协会的积极成员。
+ »he had never been very active in the affairs of the Institute.  他向来对学院的事情不太积极。
+  (of a person) participating or engaged in a particular sphere or activity  • （人）参与某种范围（或活动）的
+ »sexually active teenagers.  两性关系活跃的青少年们。
+  [predic.] (of a person or animal) pursuing their usual occupation or activity, typically at a particular place or time  • （人，动物）活动的（尤指在特定地点或时间进行的）
+ »tigers are active mainly at night.  老虎主要在夜间活动。
+2. working ; operative  • 工作的，运转的
+ »the old watermill was active until 1960.  直到1960年这座老水磨还在运转。
+  (of a bank account) in continuous use  • （银行账户）交易频繁的，连续使用的
+  (of an electric circuit) capable of modifying its state or characteristics automatically in response to input or feedback  • （电路）主动感应的
+  (of a volcano) that is erupting or has erupted in historical times  • （火山）活跃的，活的
+  (of a disease) in which the symptoms are manifest; not in remission or latent  • （疾病）症状显性的；非缓解的，非潜伏的
+ »active colitis.  活动性（或显性）结肠炎。
+  having a chemical or biological effect on something  • 活性的，有化学（或生物）作用的
+ »active ingredients.  活性成分。
+3. [Grammar] denoting a voice of verbs in which the subject is typically the person or thing performing the action and which can take a direct object (e.g. she loved him as opposed tohe was loved)  • [语法] 主动语态（如 she loved him 与 he was loved 对照）。
+【OPP】 Passive ◙ noun
+1. [Grammar] an active form of a verb  • [语法] 动词主动态
+  (the active)the active voice  • 主动语态
+
+【派生】♦ actively adverb
+
+【语源】1. Middle English (in the sense 'preferring action to contemplation'): from Latin activus, from act- 'done', from the verb agere
+
+
+
+————————————
+★☆☆   active birth◙ noun
+1. [mass noun] childbirth during which the mother is encouraged to be as active as possible, mainly by moving around freely and assuming any position which feels comfortable  • 主动分娩
+
+
+
+————————————
+★☆☆   active carbon◙ (也作 active charcoal), noun
+1. another term for activated carbon  • 同 activated carbon 
+
+
+
+————————————
+★☆☆   active citizen◙ noun
+1. a person who actively takes responsibility and initiative in areas of public concern such as crime prevention and the local community  • 积极公民（积极主动担负如防止犯罪和社区公益等公共问题的人）
+
+【派生】♦ active citizenship noun
+
+
+
+
+————————————
+★☆☆   active duty◙ noun
+1. [mass noun] the playing of a direct role in the operational work of the police or armed forces as opposed to doing administrative work  • 现役
+
+
+
+————————————
+★☆☆   active immunity◙ noun
+1. [mass noun] [Physiology] the immunity which results from the production of antibodies by the immune system in response to the presence of an antigen  • [生理] 主动免疫。
+--› compare passive immunity 
+
+
+
+————————————
+★☆☆   active layer◙ noun
+1. [Geography] the seasonally thawed surface layer above permafrost  • [地理] 活性层
+
+
+
+————————————
+★☆☆   active list◙ noun
+1. a list of the officers in an armed service who are liable to be called on for duty  • 现役编制军官名单
+
+
+
+————————————
+★☆☆   active matrix◙ noun
+1. [Electronics] a display system in which each pixel is individually controlled  • [电子] 有效矩阵，有源矩阵
+
+
+
+————————————
+★☆☆   active service◙ noun
+1. [mass noun] direct participation in military operations as a member of the armed forces  • 现役，战时服役
+
+
+
+————————————
+★☆☆   active site◙ noun
+1. [Biochemistry] a region on an enzyme that binds to a protein or other substance during a reaction  • [生化] 活性部位
+
+
+
+————————————
+★☆☆   active transport◙ noun
+1. [mass noun] [Biology] the movement of ions or molecules across a cell membrane into a region of higher concentration, assisted by enzymes and requiring energy  • [生] 主动转运，主动运输
+
+
+
+————————————
+★☆☆   activism
+ / ˈæktivizəm /◙ noun
+1. [mass noun] the policy or action of using vigorous campaigning to bring about political or social change  • 行动主义（或行为），激进主义（或行为）（指为实现政治或社会变革而采取激进活动的政策或行动）
+
+【派生】♦ activist noun & adjective
+
+
+
+
+————————————
+★☆☆   activity
+ / ækˈtiviti /◙ (pl. -ies)
+1. [mass noun] the condition in which things are happening or being done  • （事情发生或发展的）状况
+ »there has been a sustained level of activity in the economy.  经济方面曾有保持持续水平的经营活动。
+  busy or vigorous action or movement  • （忙碌或积极的）行为，行动
+ »the room was a hive of activity.  房间里热闹非凡。
+2. [一般作 activities] a thing that a person or group does or has done  • 活动
+ »the firm's marketing activities.  公司的市场营销活动。
+  a recreational pursuit or pastime  • 娱乐休闲活动
+ »a range of sporting activities.  一系列体育活动。
+  (activities)actions taken by a group in order to achieve their aims  • （一团体为达成目的而采取的）行动
+ »the police were investigating communist activities.  警方正在调查共产党的活动。
+3. the degree to which something displays its characteristic property or behaviour  • 活性
+ »abnormal liver enzyme activities.  异常肝酶活性。
+  [Chemistry] a thermodynamic quantity representing the effective concentration of a particular component in a solution or other system, equal to its concentration multiplied by an activity coefficient  • [化] 热力活性，活度
+
+【语源】1. late Middle English : from French activité or late Latin activitas, from Latin act- 'done', from the verb agere
+
+
+
+————————————
+★☆☆   act of contrition◙ noun
+1. (in the Roman Catholic Church) a penitential prayer  • （罗马天主教）忏悔祷告
+
+
+
+————————————
+★☆☆   actomyosin
+ / ˌæktəuˈmaiəsin /◙ noun
+1. [mass noun] [Biochemistry] a complex of actin and myosin of which the contractile protein filaments of muscle tissue are composed  • [生化] 肌动球蛋白
+
+【语源】1. 1940s: from actin + myosin
+
+
+
+————————————
+★☆☆   actor
+ / ˈæktə /◙ noun
+1. a person whose profession is acting on the stage, in films, or on television  • 演员
+  a person who behaves in a way that is not genuine  • 像在演戏的人
+ »in war one must be a good actor.  战争中人们必须是好演员。
+  a participant in an action or process  • （行动或过程）参与者
+ »employers are key actors within industrial relations.  雇主是工业关系中的主角。
+
+【派生】♦ actorish adjective
+
+【语源】1. late Middle English (originally denoting an agent or administrator): from Latin, doer, actor', from agere 'do, act'. The theatre sense dates from the 16th cent
+
+
+
+————————————
+★☆☆   actor-manager◙ noun
+1. a person who is both manager and actor in a theatre company  • （剧团）经理兼演员
+
+
+
+————————————
+★☆☆   Actors' Studio1. an acting workshop in New York City, founded in 1947 by Elia Kazan and others, and a leading centre of method acting  • （纽约市）演员排练场（由伊利亚•卡赞和其他人于1947年创办，为重要的体验派表演中心）
+
+
+
+————————————
+★☆☆   actress
+ / ˈæktris /◙ noun
+1. a female actor  • 女演员
+
+
+
+————————————
+★☆☆   actressy◙ adjective
+1. characteristic of an actress in being self-consciously theatrical or emotionally volatile  • 矫揉造作的，感情变化无常的
+ »her actressy manner.  她像演戏似的做作态度。
+
+
+
+————————————
+★☆☆   actual
+ / ˈæktʃuəl /◙ adjective
+1. existing in fact, typically as contrasted with what was intended, expected, or believed  • 实际存在的（尤与曾经打算、期望或相信的相对）
+ »the estimate was much less than the actual cost.  估计成本比实际成本要少得多。
+ »those were his actual words.  那些就是他的原话。
+  used to emphasize the important aspect of something  • [用于强调某事的重要方面] 实际的
+ »the book could be condensed into half the space, but what of the actual content?  那本书是可以浓缩成原来的一半长短，但是实际的内容怎么办呢？
+2. existing now; current  • 现存的；当前的
+ »using actual income to measure expected income.  以当前收入来衡量预期收入。
+
+【IDIOMS】◘ in actual fact
+1. used to emphasize a comment, typically one that modifies or contradicts a previous statement  • 实际上（用于强调一意见，尤指更改先前或与先前所说相抵触的言论）
+ »people talk as if he was a monster—in actual fact he was a very kind guy.  人们谈起他来好像他是个怪物——但实际上他是个很好的人。
+◘ your actual —
+1. [informal] the real, genuine, or important thing specified  • [非正式] 真实的，真正的，重要的
+ »is this a drop of your actual feminine intuition?  这真是你的一点女性直觉吗？
+
+【语源】1. Middle English : from Old French actuel 'active, practical', from late Latin actualis, from actus (see act )
+
+
+
+————————————
+★☆☆   actual bodily harm◙ [缩略词: ABH] , noun
+1. [mass noun] [Law] minor injury, such as bruising, inflicted on a person by the deliberate action of another, considered less serious than grievous bodily harm  • [律] 轻微身体伤害
+
+
+
+————————————
+★☆☆   actuality
+ / ˌæktʃu:ˈælɪti: /◙ (pl. -ies)
+1. [mass noun] actual existence, typically as contrasted with what was intended, expected, or believed  • 现状（尤与曾打算、预期或相信的相对）
+ »the building looked as impressive in actuality as it did in magazines.  这建筑物看上去和在杂志上一样让人印象深刻。
+  (actualities)existing conditions or facts  • 现状，事实
+ »the grim actualities of prison life.  监狱生活的严酷事实。
+
+【语源】1. late Middle English (in the sense 'activity'): from Old French actualite or medieval Latin actualitas, from actualis 'active, practical', from actus (see act )
+
+
+
+————————————
+★☆☆   actualize
+ / ˈæktjuəlaiz /◙ (也作 -ise), verb
+1. [with obj.] make a reality of  • 实现
+ »he had actualized his dream and achieved the world record.  他实现了自己的梦想，创造了世界纪录。
+
+【派生】♦ actualization noun
+
+
+
+
+————————————
+★☆☆   actually
+ / ˈæktʃu:əli: /◙ adverb
+1. as the truth or facts of a situation  • 事实上，实际上
+ »we must pay attention to what young people are actually doing.  我们必须关注年轻人实际上都在做什么。
+ »the time actually worked on a job.  一件活儿实际上所花费的时间。
+2. [sentence adverb] used to emphasize that something someone has said or done is surprising  • [用于强调某人所说或所做之事让人吃惊] 竟然，居然
+ »he actually expected me to be pleased about it!.  他居然还希望我能为之高兴！。
+  used when expressing an opinion, typically one that is not expected  • [多用于表达出乎意料的意见、看法] 事实上
+ »‘Actually,’ she said icily, ‘I don't care who you go out with.’.  “事实上，”她冷冷地说，“我可不在乎你和谁出去。”。
+  used when expressing a contradictory opinion or correcting someone  • [用于表达与人相反的意见或纠正某人] 事实上
+ »‘Tom's happy anyway.’ ‘He isn't, actually, not any more.’.  “汤姆还是很快乐的。”“他不快乐，事实上，他不再是快乐的了。”。
+  used to introduce a new topic or to add information to a previous statement  • [用于引入新的话题或补充先前的言论] 事实上
+ »he had a thick Cockney accent—he sounded like my grandad actually.  他有很重的伦敦东区腔——事实上，他听上去像是我爷爷。
+
+
+
+————————————
+★☆☆   actuary
+ / ˈæktjuəri /◙ (pl. -ies)
+1. a person who compiles and analyses statistics and uses them to calculate insurance risks and premiums  • 保险计算员，保险精算师
+
+【派生】♦ actuarial adjective
+♦ actuarially adverb
+1. (也作 actuarily)
+
+【语源】1. mid 16th cent. (originally denoting a clerk or registrar of a court): from Latin actuarius 'bookkeeper', from actus (see act )The current sense dates from the mid 19th cent
+
+
+
+————————————
+★☆☆   actuate
+ / ˈæktʃu:ˌeɪt /◙ verb
+1. [with obj.] cause (a machine or device) operate  • 使（机器，装置）开动
+ »the pendulum actuates an electrical switch.  摆锤启动了电开关。
+2. [一般作 be actuated] cause (someone) to act in a particular way; motivate  • 使（某人）行动；激发（某人）动机
+ »the defendants were actuated by malice.  被告的动机源自怨恨。
+
+【派生】♦ actuation noun
+♦ actuator noun
+
+【语源】1. late 16th cent.: from medieval Latin actuat- 'carried out, caused to operate', from the verb actuare, from Latin actus (see act )The original sense was 'carry out in practice', later 'stir into activity, enliven' ; sense 1dates from the mid 17th cent
+
+
+
+————————————
+★☆☆   actus reus
+ / ˌæktəs ˈreɪəs /◙ noun
+1. [mass noun] [Law] action or conduct which is a constituent element of a crime, as opposed to the mental state of the accused  • [律] 构成行为，犯罪行为（构成犯罪的行动或行为，与被告的心理状态相对）。
+--› compare mens rea 
+
+【语源】1. Latin, literally guilty act'
+
+
+
+————————————
+★☆☆   acuity
+ / əˈkjuiti /◙ noun
+1. [mass noun] sharpness or keenness of thought, vision, or hearing  • （思想、视力或听力）尖锐，敏锐
+ »intellectual acuity.  智力敏锐。
+ »visual acuity.  视力敏锐。
+
+【语源】1. late Middle English : from Old French acuite or medieval Latin acuitas, from Latin acuere 'sharpen' (see acute )
+
+
+
+————————————
+★☆☆   aculeate
+ / əˈkju:liit /◙ adjective
+1. [Entomology] (of an insect) having a sting  • [昆] （昆虫）有刺的
+2. [Botany] sharply pointed; prickly  • [植] 具（皮）刺的；刺状的
+◙ noun
+1. [Entomology] a stinging insect of a group that includes the bees, wasps, and ants  • [昆] 有刺类昆虫（包括蜜蜂、黄蜂和蚂蚁）
+2. Section Aculeata, suborder Apocrita, order Hymenoptera  • 针尾部，细腰亚目，膜翅目
+
+【语源】1. mid 17th cent.: from Latin aculeatus, from aculeus 'a sting', diminutive of acus 'needle'
+
+
+
+————————————
+★☆☆   acumen
+ / əˈkju:mən , ˈækjə- /◙ noun
+1. [mass noun] the ability to make good judgements and take quick decisions, typically in a particular domain  • 敏锐，聪明（尤指在某一领域判断力敏锐、决策敏锐）
+ »business acumen.  商业头脑敏锐。
+
+【语源】1. late 16th cent.: from Latin, sharpness, point', from acuere 'sharpen' (see acute )
+
+
+
+————————————
+★☆☆   acuminate
+ / əˈkju:minit /◙ adjective
+1. [Biology] (of a plant or animal structure, e.g. a leaf) tapering to a point  • [生] （植物或动物结构，如叶子）渐尖的，长尖的
+
+【语源】1. late 16th cent.: from late Latin acuminatus 'pointed', from acuminare 'sharpen to a point', from acuere 'sharpen' (see acute )
+
+
+
+————————————
+★☆☆   acupressure
+ / ˈækjuˌpreʃə /◙ noun
+1. [mass noun] a form of alternative therapy in which manual pressure is used to stimulate supposed energy points on the body  • 针压法
+
+【语源】1. 1950s: blend of acupunctureand pressure
+
+
+
+————————————
+★☆☆   acupuncture
+ / ˈækjʊˌpʌŋktʃə /◙ noun
+1. [mass noun] a system of complementary medicine in which fine needles are inserted in the skin at specific points along what are considered to be lines of energy (meridians), used in the treatment of various physical and mental conditions  • 针刺疗法
+2. Acupuncture has been practised in China for more than 4,500 years and is increasingly popular in the West. Acupuncturists believe that treatment works by countering an imbalance of energy in the body; recently some scientists have suggested that the needles may stimulate the body's endorphins or naturally occurring painkillers
+
+【派生】♦ acupuncturist noun
+
+【语源】1. late 17th cent.: from Latin acu 'with a needle' + puncture
+
+
+
+————————————
+★☆☆   acushla
+ / əˈkuʃlə /◙ noun
+1. [Irish dated] an affectionate form of address  • [爱尔兰, 旧] 心爱的人
+
+【语源】1. mid 19th cent.: from Irish a chuisle (moi chroi) 'O pulse (of my heart)!'
+
+
+
+————————————
+★☆☆   acutance
+ / əˈkju:təns /◙ noun
+1. [mass noun] the sharpness of a photographic or printed image  • （照片或印刷图像的）锐度
+
+【语源】1. 1950s: from acute + -ance
+
+
+
+————————————
+★☆☆   acute
+ / əˈkju:t /◙ adjective
+1. (of a bad, difficult, or unwelcome situation or phenomenon) present or experienced to a severe or intense degree  • （不利、困难或讨厌的情况或现象）严重的，剧烈的
+ »an acute housing shortage.  住房严重不足。
+ »the problem is acute and getting worse.  问题严重并在恶化。
+  (of a disease or its symptoms) of short duration but typically severe  • （疾病，症状）急性的。 常与 chronic 相对
+ »acute appendicitis.  急性阑尾炎。
+  denoting or designed for patients with such conditions  • 急性病的；为急性病人准备的
+ »an acute ward.  急性病病房。
+ »acute patients.  急性病病人。
+2. having or showing a perceptive understanding or insight: shrewd  • 有洞察力的，精明的
+ »an acute awareness of changing fashions.  对时尚变化的敏锐意识。
+  (of a physical sense or faculty) highly developed; keen  • （感官，能力）高度发展的；灵敏的
+ »an acute sense of smell.  灵敏的嗅觉。
+3. (of an angle) less than 90°  • 锐角
+  having a sharp end; pointed  • 有尖端的，尖的
+4. (of a sound) high; shrill  • （声音）高的，尖的
+◙ noun
+1. short for acute accent  • acute accent 的简称
+
+【派生】♦ acutely adverb
+♦ acuteness noun
+
+【语源】1. late Middle English (describing a disease or its symptoms): from Latin acutus, past participle of acuere 'sharpen', from acus 'needle'
+
+
+
+————————————
+★☆☆   acute abdomen◙ noun
+1. [Medicine] a condition of severe abdominal pain, usually requiring emergency surgery, caused by acute disease of or injury to the internal organs  • [医] 剧烈腹痛
+
+
+
+————————————
+★☆☆   acute accent◙ noun
+1. a mark placed over certain letters in some languages to indicate a feature such as altered sound quality (e.g. in fiancée)  • 扬声符，尖音符，尖重音（如在 fiancée中）
+
+
+
+————————————
+★☆☆   acute rheumatism◙ noun
+1. another term for rheumatic fever  • 同 rheumatic fever 
+
+
+
+————————————
+★☆☆   ACW◙ for abbreviation
+1. aircraftwoman  • 同 aircraftwoman 
+
+
+
+————————————
+★☆☆   -acy◙ suffix
+1. forming nouns of state or quality  • [构成名词] 表示“状态”，“性质”
+ »celibacy.
+ »lunacy.
+
+【语源】1. variant of -cy,from Latin -atia (medieval Latin -acia), or from Greek -ateia
+
+
+
+————————————
+★☆☆   acyclic
+ / eiˈsaiklik /◙ adjective
+1. not displaying or forming part of a cycle  • 非周期的，非循环的
+  (of a woman) not having a menstrual cycle  • （女子）无月经周期的
+  [Chemistry] (of a compound or molecule) containing no rings of atoms  • [化] （化合物，分子）无原子环的，无周期的
+
+
+
+————————————
+★☆☆   acyclovir
+ / eiˈsaikləuˌviə /◙ noun
+1. [mass noun] [Medicine] an antiviral drug used chiefly in the treatment of herpes and Aids. Also called Zovirax (trademark)  • [医] 阿昔洛韦（一抗病毒药物，主要用于治疗疱疹和艾滋病。 亦称 Zovirax 商标）
+
+【语源】1. 1970s: from acycl(ic) + vir(al DNA)
+
+
+
+————————————
+★☆☆   acyl
+ / ˈæsil /◙ noun
+1. [as modifier] [Chemistry] of or denoting a radical of general formula -C(O)R, where R is an alkyl group, derived from a carboxylic acid  • [化] 酰基
+ »acyl groups.  酰基群。
+
+【语源】1. late 19th cent.: coined in German, from Latin acidus (see acid ) + -yl
+
+
+
+————————————
+★☆☆   acylate
+ / ˈæsəˌleit /◙ verb
+1. [with obj.] [Chemistry] introduce an acyl group into (a molecule or compound)  • [化] 酰化
+ »[as adj. acylated] an acylated glycine derivative.  酰化氨基乙酸衍生物。
+
+【派生】♦ acylation noun
+
+
+
+
+————————————
+★☆☆   -ad-ad¹
+◙ suffix
+1. forming nouns  • [构成名词] 
+2. in collective numerals  • [构成集合数词] 
+ »myriad.
+ »triad.
+3. in names of females in classical mythology, such as dryad and naiad  • [构成古典神话的女性名，例如 dryad 和 naiad] 
+ »naiad.
+4. forming names of members of some taxonomic groupings  • [构成某些分类学类别成员名称] 
+ »bromeliad.
+
+【语源】1. from the Greek ending -as, -ad--ad²
+◙ suffix
+1. forming nouns such as ballad salad  • [构成名词，例如ballad，salad] 
+--› compare -ade 
+
+【语源】1. from French -ade
+
+
+
+————————————
+★☆☆   AD◙ for abbreviation
+1. Anno Domini (used to indicate that a date comes the specified number of years after the traditional date of Christ's birth)  • 同 Anno Domini （用于指传统耶稣诞生日之后的特定年份）
+
+【用法】1. ad is normally written in small capitals and should be placed before the numerals, as in ad 375 not 375 ad The reason for this is that ad is an abbreviation of anno domini which means ‘in the year of our Lord’. However, when the date is spelled out, it is normal to write the third century ad not ad the third century 
+--› compare bc 
+
+
+
+————————————
+★☆☆   ad-◙ prefix
+1. denoting motion or direction to  • 表示“往”，“向…”
+ »advance.
+ »adduce.
+  reduction or change into  • 表示“减少”，“变成”
+ »adapt.
+ »adulterate.
+  addition, increase, or intensification  • 表示“添加”，“增长”，“加剧”
+ »adjunct.
+
+【语源】1. from Latin ad 'to'; in the 16th cent. the use of ad- and its variants was extended to replace a- from a different origin such as Latin ab- (e.g. advance, from French avancer based on late Latin abante 'in front')
+
+【用法】1. Ad- is also found assimilated in the following forms: a- before sc sp, st ; ac- before c, k, q ; af- before f ; ag- before g ; al- before l ; an- before n ; ap- before p ; ar- before r ; as- before s ; at- before t 
+
+
+
+————————————
+★☆☆   A/D[Electronics] [电子] 
+◙ for abbreviation
+1. analogue to digital  • 模拟数字
+
+
+
+————————————
+★☆☆   ad◙ noun, [informal] [非正式] 
+1. an advertisement  • 广告
+2. [Tennis] advantage  • [网球] 占先
+
+【语源】1. mid 19th cent.: abbreviation
+
+
+

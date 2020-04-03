@@ -1,0 +1,3843 @@
+﻿————————————
+★☆☆   depreciate
+ / dɪˈpri:ʃi:ˌeɪt /◙ verb
+1. [no obj.] diminish in value over a period of time  • 贬值，跌价
+ »sterling is expected to depreciate against the dollar.  预料英镑对美元的比价将要下跌。
+  [with obj.] reduce the recorded value in a company's books of (an asset) each year over a predetermined period  • 降低资产价值（指在事前确定的时期内每年一次降低公司资产账目中所登录的价值）
+2. [with obj.] disparage or belittle (something)  • 贬低；轻视
+ »she was already depreciating her own aesthetic taste.  她对自己的审美力评价已有所降低。
+
+【派生】♦ depreciatory adjective
+
+【语源】1. late Middle English (in sense 2): from late Latin depreciat- 'lowered in price, undervalued', from the verb depreciare, from Latin de- 'down' + pretium 'price'
+
+
+
+————————————
+★☆☆   depreciation
+ / dɪˌpri:ʃi:ˈeɪʃən /◙ noun
+1. [mass noun] a reduction in the value of an asset with the passage of time, due in particular to wear and tear  • （尤指财产因损耗而造成的）折旧贬值；（财产因时间而造成的）折旧
+   decrease in the value of a currency relative to other currencies  • （货币）贬值
+ »depreciation leads to losses for non-dollar based investors.  货币贬值导致了非美元投资者的损失。
+ »[count noun] a currency depreciation.  通货贬值。
+
+
+
+————————————
+★☆☆   depredation
+ / ˌdeprɪˈdeɪʃən /◙ noun
+1. [一般作 depredations] an act of attacking or plundering  • 破坏；损害；蹂躏；掠夺，劫掠
+ »protecting grain from the depredations of rats and mice.  保护粮食不受鼠类糟蹋。
+
+【语源】1. late 15th cent. (in the sense 'plundering, robbery', (plural) 'ravages'): from French déprédation, from late Latin depraedatio(n-), from depraedari 'plunder'
+
+
+
+————————————
+★☆☆   depredator
+ / ˈdɛprɪdeɪtə /◙ noun
+1. (archaic)a person or thing that makes depredations, especially a predatory animal  • [古] 食肉动物；破坏者；掠夺者；破坏物
+
+【派生】♦ depredatory adjective
+
+【语源】1. early 17th cent.: from late Latin depraedator, from depraedat- 'plundered', from the verb depraedari
+
+
+
+————————————
+★☆☆   depress
+ / diˈpres /◙ verb, [with obj.] 
+1. make (someone) feel utterly dispirited or dejected  • 使沮丧，使消沉
+ »that first day at school depressed me.  上学第一天使我心情沮丧。
+  reduce the level or strength of activity in (something, especially an economic or biological system)  • 使（经济）萧条，使不景气；抑制（生物系统），压抑
+ »fear of inflation in America depressed bond markets.  对美国通货膨胀的恐惧使证券市场不景气。
+ »alcohol depresses the nervous system.  酒精压抑神经系统。
+2. push or pull (something) down into a lower position  • 压低，拉下
+ »depress the lever.  按下操作手柄。
+
+【派生】♦ depressible adjective
+
+【语源】1. late Middle English: from Old French depresser, from late Latin depressare, frequentative of deprimere 'press down'
+
+
+
+————————————
+★☆☆   depressant
+ / diˈpresənt /◙ adjective
+1. (chiefly of a drug) reducing functional or nervous activity  • （多指药物）抑制机能（或神经）活动的，镇静的
+◙ noun
+1. a depressant drug  • 镇静剂
+  an influence that depresses economic or other activity  • （对经济等活动的）压抑作用，抑制作用
+ »higher taxation is a depressant.  提高税收有抑制作用。
+
+
+
+————————————
+★☆☆   depressed
+ / dɪˈprest /◙ adjective
+1. (of a person) in a state of general unhappiness or despondency  • （人）沮丧的，消沉的
+  (of a person) suffering from clinical depression  • （人）患抑郁症的
+  (of a place or economic activity) suffering the damaging effects of a lack of demand or employment  • （地方，经济活动）萧条的，衰退的
+ »depressed areas.  萧条地区。
+  (of an object or part of an object) in a physically lower position, having been pushed or forced down  • （物体或其部分）凹陷的；被压下的；被按下的；下陷的
+ »a depressed fracture of the skull.  头骨凹陷骨折。
+
+
+
+————————————
+★☆☆   depressing
+ / dɪˈpresɪŋ /◙ adjective
+1. causing or resulting in a feeling of miserable dejection  • 令人沮丧的，情绪低落的，抑郁的
+ »that thought is too depressing for words.  那想法让人压抑得无法形容。
+  causing a damaging reduction in economic activity  • 造成萧条的
+ »the mortgage rate increase will have a depressing effect on the housing market.  抵押贷款利率提高会造成房产市场的萧条。
+
+【派生】♦ depressingly adverb
+
+
+
+
+————————————
+★☆☆   depression
+ / diˈpreʃən /◙ noun, [mass noun] 
+1. severe despondency and dejection, typically felt over a period of time and accompanied by feelings of hopelessness and inadequacy  • 沮丧，抑郁
+  [Medicine] a condition of mental disturbance characterized by such feelings to a greater degree than seems warranted by the external circumstances， typically with lack of energy and difficulty in maintaining concentration or interest in life  • [医] 抑郁症
+ »clinical depression.  临床抑郁症。
+  a long and severe recession in an economy or market  • 萧条
+ »the depression in the housing market.  房产市场的萧条。
+  (the Depression 或 the Great Depression)the financial and industrial slump of 1929 and subsequent years  • （1929年及随后几年的）大萧条
+2. the lowering or reducing of something  • 降低，减少
+ »the depression of prices.  降低价格。
+  the action of lowering something or pressing something down  • 按下，推压
+ »depression of the plunger delivers two units of insulin.  推压注射器柱塞注入两个单位的胰岛素。
+  [count noun] a sunken place or hollow on a surface  • 凹面，低凹处
+ »the original shallow depressions were slowly converted to creeks.  原来的浅浅的低凹处慢慢变成了小溪。
+  [Astronomy & Geography] the angular distance of an object below the horizon or a horizontal plane  • [天文，地理] 俯角，俯视角
+  [count noun] [Meteorology] a region of lower atmospheric pressure, especially a cyclonic weather system  • [气象] 低气压区（尤指旋风系统）
+
+【语源】1. late Middle English: from Latin depressio(n-), from deprimere 'press down'(see depress )
+
+
+
+————————————
+★☆☆   depressive
+ / diˈpresiv /◙ adjective
+1. causing feelings of hopeless despondency and dejection  • 令人泄气的，令人抑郁的
+  [Medicine] relating to or tending to suffer from clinical depression  • [医] 抑郁症的
+ »a depressive illness.  抑郁症。
+  causing a reduction in strength, effectiveness, or value  • （对强度、效力或价值）削弱的，使衰退的
+ »steroids have a depressive effect on the immune system.  类固醇对免疫系统有削弱作用。
+◙ noun
+1. [Medicine] a person suffering from or with a tendency to suffer from depression  • [医] 抑郁症患者；有患抑郁症倾向者
+
+【语源】1. early 17th cent.: from French dépressif, -ive or medieval Latin depressivus, from depress- 'pressed down', from the verb deprimere (see depress )
+
+
+
+————————————
+★☆☆   depressor
+ / diˈpresə /◙ noun
+1. [Anatomy] (也作 depressor muscle)a muscle whose contraction pulls down the part of the body to which it is attached  • [剖] 降肌
+  any of several specific muscles in the face  • 面部肌肉
+ »[followed by Latin genitive] depressor anguli oris.  降口角肌。
+2. [Physiology] a nerve whose stimulation results in a lowering of blood pressure  • [生理] 降压神经
+3. an instrument for pressing something down  • 压板， 压器
+
+【语源】1. early 17th cent. (in the general sense 'someone or something that depresses'): from Latin, from depress- 'pressed down', from the verb deprimere (see depress )
+
+
+
+————————————
+★☆☆   depressurize
+ / ˌdi:ˈpreʃəraiz /◙ (也作 -ise), verb
+1. [with obj.] release the pressure of the gas inside (a pressurized vehicle or container)  • 释放（增压运载车辆或容器）的气体压力
+  [no obj.] (of a pressurized vehicle or container) lose pressure  • （增压运载工具或容器）失去压力，释放压力，减压
+
+【派生】♦ depressurization noun
+
+
+
+
+————————————
+★☆☆   Deprez1. variant spelling of des Prez  • 同 des Prez 
+
+
+
+————————————
+★☆☆   deprivation
+ / ˌdeprəˈveɪʃən /◙ noun
+1. [mass noun] the damaging lack of material benefits considered to be basic necessities in a society  • 严重匮乏，赤贫
+ »low wages mean that 3.75 million people suffer serious deprivation.  低工资意味着有375万人赤贫。
+  the lack or denial of something considered to be a necessity  • （必需之事的）缺乏；剥夺
+ »sleep deprivation.  睡眠缺乏。
+  (archaic)the action of depriving someone of office, especially an ecclesiastical office  • [古] 教会职务革除，神职革除
+
+【语源】1. late Middle English (in the sense 'removal from office'): from medieval Latin deprivatio(n-), from the verb deprivare (see deprive )
+
+
+
+————————————
+★☆☆   deprive
+ / diˈpraiv /◙ verb
+1. [with obj.] deny (a person or place) the possession or use of something  • 剥夺（人，地方）对某物的所有（或使用）
+ »the city was deprived of its water supplies.  城市被剥夺了水的供应。
+  (archaic)depose (someone, especially a clergyman) from office  • [古] 革职（尤指革除神职人员的职务）
+ »Archbishop Bancroft deprived a considerable number of puritan clergymen.  班克罗夫特大主教革除了许多清教徒牧师的职务。
+
+【派生】♦ deprival noun
+
+【语源】1. Middle English (in the sense 'depose from office'): from Old French depriver, from medieval Latin deprivare, from de- 'away, completely' + privare (see private )
+
+
+
+————————————
+★☆☆   deprived
+ / dɪˈpraɪvd /◙ adjective
+1. suffering a severe and damaging lack of basic material and cultural benefits  • （物质上和文化上）严重匮乏的，赤贫的
+ »the charity cares for destitute and deprived children.  该慈善团体专事救助生活和教育均无着落的赤贫儿童。
+  (of a person) suffering a lack of a specified benefit that is considered important  • （人）丧失的，被剥夺的
+ »the men felt sexually deprived.  这些男人觉得自己被剥夺了性生活。
+
+
+
+————————————
+★☆☆   de profundis
+ / ˌdeɪ prəˈfʊndɪs /◙ adverb
+1. used to convey that one's deepest and most heartfelt feelings of sorrow or anguish are being expressed  • 痛彻心扉地
+◙ noun
+1. a heartfelt cry of appeal expressing such feelings  • 悲痛欲绝的呼叫
+
+【语源】1. Latin, from the depths', the opening words of Psalm 130
+
+
+
+————————————
+★☆☆   deprogramme◙ [美 deprogram] , (deprogrammed, deprogramming, 美 deprogramed, deprograming)
+1. [with obj.] release (someone) from apparent brainwashing, typically that of a religious cult, by the systematic reindoctrination of conventional values  • 使（某人）摆脱思想毒害（尤指摆脱极端的宗教狂热）
+
+
+
+————————————
+★☆☆   deproteinize
+ / di:ˈprəutinaiz /◙ verb
+1. [with obj.] remove the protein from (a substance), usually as a stage in chemical purification  • 使脱蛋白
+
+【派生】♦ deproteinization noun
+
+
+
+
+————————————
+★☆☆   Dept◙ for abbreviation
+1. Department  • 同 Department 
+
+
+
+————————————
+★☆☆   depth
+ / depθ /◙ noun
+1. [mass noun] the distance from the top or surface to the bottom of something  • 深度
+ »shallow water of no more than 12 feet in depth.  深度不超过12英尺的浅水区。
+  distance from the nearest to the farthest point of something or from the front to the back  • 纵深
+ »the depth of the wardrobe.  衣橱的纵深。
+  used to specify the distance below the top or surface of something to which someone or something percolates or at which something happens  • 渗透（或渗漏）深度；下降深度；下达深度
+ »[in sing.] loosen the soil to a depth of 8 inches.  将坌土松至八英寸深。
+  the apparent existence of three dimensions in a picture, photograph, or other two-dimensional representation  • （画、照片等二维画面中的）立体感；纵深感
+ »texture in a picture gives it depth.  画面的质感使其有纵深感。
+2. [mass noun] complexity and profundity of thought  • （思想的）深奥，深刻
+ »the book has unexpected depth.  此书具有出人意料的深刻性。
+  extensive and detailed study or knowledge  • （学识的）精深博大
+ »third-year courses typically go into more depth.  第三年的课程通常更深。
+  intensity of emotion, usually considered as a laudable quality  • （感情）深切，深厚
+ »a man of compassion and depth of feeling.  富有同情心、感情深厚的男人。
+3. (the depths)a point far below the surface  • 深处
+ »he lifted the manhole cover and peered into the depths beneath.  他掀起窨井盖向下面深处望去。
+  a time considered to be the worst point within a bad period  • （某一时期中）最不良的时段
+ »4 am in the depths of winter.  隆冬时节的清晨4点。
+  a time when one's negative feelings are at their most intense  • （负面情感）最强烈时
+ »she was in the depths of despair.  她当时正处于最绝望的时候。
+  a place which is remote and inaccessible  • 偏远之处
+ »I wish I didn't live in the depths of Devon.  但愿我并不住在德文郡的偏远之处。
+
+【IDIOMS】◘ hidden depths
+1. usually admirable but previously unnoticed qualities of a person  • 内秀
+ »solo spots reveal hidden depths.  插演（或插播）的独奏（或独唱）小节目往往会显露出不为人知的内秀。
+  obscure or secretive aspects of a situation  • （某一情况中）隐秘；秘而不宣的部分
+ »the hidden depths of marital life.  婚姻生活中的隐秘。
+◘ in depth
+1. in great detail; comprehensively and thoroughly  • 详细地，全面地，深入地。
+--› see in-depth 
+ »research students pursue a specific aspect of a subject in depth.  研究生对课题的某一特定方面进行深入研究。
+◘ out of one's depth
+1. in water too deep to stand in  • 在深水区
+  (figurative)in the position of lacking the ability or knowledge to cope  • [喻] 超越自己能力的；理解不了的
+ »they soon realized they were out of their depth in Division One.
+
+【语源】1. late Middle English: from deep + -th, on the pattern of pairs such as long, length
+
+
+
+————————————
+★☆☆   depth charge◙ noun
+1. an explosive charge designed to be dropped from a ship or aircraft and to explode under water at a preset depth, used for attacking submarines  • 深水炸弹
+
+
+
+————————————
+★☆☆   depth finder◙ noun
+1. an echo sounder or other device for measuring water depth  • 回声测深仪；水深测量仪
+
+
+
+————————————
+★☆☆   depth gauge◙ noun
+1. a device fitted to a drill bit to ensure that the hole drilled does not exceed the required depth  • 深度规
+
+
+
+————————————
+★☆☆   depthless◙ adjective
+1. unfathomably deep  • 无底的
+ »a depthless gorge.  无底的深谷。
+  (figurative)shallow and superficial  • [喻] 肤浅的
+
+【派生】♦ depthlessly adverb
+
+
+
+
+————————————
+★☆☆   depth of field◙ noun
+1. the distance between the nearest and the furthest objects that give an image judged to be in focus in a camera  • 景深
+
+
+
+————————————
+★☆☆   depth of focus◙ noun
+1. another term for depth of field  • 同 depth of field 
+2. the distance between the two extreme axial points behind a lens at which an image is judged to be in focus  • 焦深
+
+
+
+————————————
+★☆☆   depth psychology◙ noun
+1. [mass noun] the study of unconscious mental processes and motives, especially in psychoanalytic theory and practice  • 深蕴心理学
+
+
+
+————————————
+★☆☆   depth sounder◙ noun
+1. another term for echo sounder  • 同 echo sounder 
+
+
+
+————————————
+★☆☆   depurate
+ / ˈdepjureit /◙ verb
+1. [with obj.] (rare)free (something) of impurities  • [罕] 使净化，除去…的杂质
+
+【派生】♦ depuration noun
+◘ depurative adjective & noun
+♦ depurator noun
+
+【语源】1. early 17th cent.: from medieval Latin depurat- 'purified', from the verb depurare, from de- 'completely' + purare 'purify' (from purus 'pure')
+
+
+
+————————————
+★☆☆   deputation
+ / ˌdepjəˈteɪʃən /◙ noun
+1. a group of people appointed to undertake a mission or take part in a formal process on behalf of a larger group  • 代表团
+ »he had been a member of a deputation to Napoleon III.  他曾是去觐见拿破仑三世的代表团成员。
+
+【语源】1. late Middle English (in the sense 'appointment to an office or function'): from late Latin deputatio(n-), from the verb deputare (see depute )
+
+
+
+————————————
+★☆☆   depute
+ / dɪˈpju:t /◙ verb
+1. [with obj. and infinitive] appoint or instruct (someone) to perform a task for which one is responsible  • 指定（或要求）（某人）代替自己做事，委派（某人）
+ »she was deputed to look after him while Clarissa was away.  她受托在克拉丽莎离开的这段时间里照顾他。
+  [with obj.] delegate (authority or a task)  • 下放（权力，任务）
+◙ noun
+1. [Scottish] a person appointed to act in an official capacity or as a representative of another official  • [苏格兰] 被授权人，受权人
+ »[as modifier] a depute chairman.  代理主席。
+
+【语源】1. late Middle English: via Old French from Latin deputare 'consider to be, assign', from de- 'away' + putare 'think over, consider'
+
+
+
+————————————
+★☆☆   deputize
+ / ˈdepjəˌtaɪz /◙ verb
+1. [no obj.] temporarily act or speak on behalf of someone else  • 临时代理；临时代言
+ »she got a job deputizing for a lecturer on maternity leave.  她临时代替一位休产假的讲师工作。
+  [with obj.] [N. Amer.] make (someone) a deputy  • [北美] 让（某人）代表
+
+
+
+————————————
+★☆☆   deputy
+ / ˈdepjuti /◙ (pl. -ies)
+1. a person whose immediate superior is a senior figure within an organization and who acts for this superior in their absence  • 副手，代理人
+  a parliamentary representative in certain countries  • （某些国家的）议会议员
+  [Brit.] a coal mine official responsible for safety  • [英] （负责煤矿安全工作的）矿区安全主任
+
+【IDIOMS】◘ by deputy
+1. (historical)instructing another person to act in one's stead; by proxy  • [史] 由他人代理的；由他人代表的
+ »the wardens of the forests performed important duties by deputy.  森林管理员通过代理人执行重要任务。
+
+【派生】♦ deputyship noun
+
+【语源】1. late Middle English: from Old French depute, from late Latin deputatus, past participle of deputare (see depute )
+
+
+
+————————————
+★☆☆   deputy lieutenant◙ noun
+1. (in the UK) the deputy of the Lord Lieutenant of a county  • （英国）郡治安副长官
+
+
+
+————————————
+★☆☆   dequeue◙ (dequeues, dequeuing 或 dequeueing, dequeued)
+1. [with obj.] [Computing] remove (an item of data awaiting processing) from a queue of such items  • [计算机] 使（待处理数据项）出列
+
+
+
+————————————
+★☆☆   De Quincey
+ / də ˈkwɪnsi /1. ðhomas (1ˌ8ˈ–18ˈˌ), ənglish essayist and critic. He achieved fame with his ɔonfessions of an ənglish Opium əater (1822), a study of his addiction to opium and its psychological effects  • 德•昆西，托马斯（1785–1859，英格兰散文作家和评论家，以《一个英国鸦片吸食者的自白》［1822］成名，书中探讨了自己吸食鸦片成瘾的情形及其心理影响）
+
+
+
+————————————
+★☆☆   deracinate
+ / diˈræsineit /◙ verb
+1. [with obj.] (poetic/literary)tear (something) up by the roots  • [诗／文] 把…连根拔起；根除，杜绝
+
+【派生】♦ deracination noun
+
+【语源】1. late 16th cent.: from French déraciner, from dé- (expressing removal) + racine 'root' (based on Latin radix)
+
+
+
+————————————
+★☆☆   deracinated◙ adjective
+1. another term for déraciné  • 同 déraciné 
+
+
+
+————————————
+★☆☆   derail
+ / di:ˈreɪl /◙ verb
+1. [with obj.] [一般作 be derailed] cause (a train or tram) to leave its tracks accidentally  • 使（火车，有轨电车）出轨
+ »a train was derailed after it collided with a herd of cattle.  一列火车在与牛群相撞后出轨。
+  [no obj.] (of a train or tram) accidentally leave the tracks  • （火车，有轨电车）出轨
+ »the trams had a tendency to derail on sharp corners.  有轨电车在急转弯处容易出轨。
+  [with obj.] (figurative)obstruct (a process) by diverting it from its intended course  • [喻] 使脱离原进程；阻碍，阻挠
+ »the plot is seen by some as an attempt to derail the negotiations.  有人认为这一阴谋的目的是阻挠谈判。
+
+【派生】♦ derailment noun
+
+【语源】1. mid 19th cent.: from French dérailler, from dé- (expressing removal) + rail 'rail'
+
+
+
+————————————
+★☆☆   derailleur
+ / di:ˈreiljuə /◙ noun
+1. a bicycle gear which works by lifting the chain from one sprocket wheel to another of a different size  • （自行车的）换挡装置
+
+【语源】1. 1930s: from French, from dérailler 'derail'
+
+
+
+————————————
+★☆☆   Derain
+ / ˈdərã,  /1. ændré (1880–1ˌˈ4), ʃrench painter, one of the exponents of fauvism. He also designed theatre sets and costumes, notably for the ɑallets ɔusses  • 德兰，安德烈（1880–1954，法国画家，野兽派鼓吹者之一，也曾设计舞台布景和戏装，其中以俄罗斯芭蕾舞团所作之设计最为著名）
+
+
+
+————————————
+★☆☆   derange
+ / dɪˈreɪndʒ /◙ verb
+1. [with obj.] [usu. as adj. deranged] cause (someone) to become insane  • 使精神错乱
+ »a deranged man.  精神错乱的男人。
+  throw (something) into confusion; cause to act irregularly  • 使混乱；使紊乱；使行为（或行动）不规则
+ »stress deranges the immune system.  压力使免疫系统紊乱。
+  (archaic)intrude on; interrupt  • [古] 打扰；打断
+ »I am sorry to have deranged you for so small a matter.  对不起我为了这点小事打扰了你。
+
+【派生】♦ derangement noun
+
+【语源】1. late 18th cent.: from French déranger, from Old French desrengier, literally 'move from orderly rows'
+
+
+
+————————————
+★☆☆   derate
+ / di:ˈreit /◙ verb, [with obj.] 
+1. [Brit.] (under the former rates system) remove part or all of the burden of rates from (a property or business)  • （根据以前的税收制度）减免（财产，公司）的税
+2. reduce the power rating of (a component or device)  • 降低额定功率
+ »the engines were derated to 90 horse power.  发动机的额定功率被降到90马力。
+
+
+
+————————————
+★☆☆   deration
+ / ˈdi:ˈræʃən /◙ verb
+1. [with obj.] [一般作 be derationed] free (a commodity) of rationing restrictions  • 取消（商品的）配给（或定量供应）
+
+
+
+————————————
+★☆☆   Derbent
+ / dəˈbɛnt /1. a city in southern ɔussia, in Dagestan on the western shore of the ɔaspian Sea; pop. 80,000 (1ˌ8ˈ)  • 杰尔宾特（俄罗斯南部城市，位于达吉斯坦自治共和国境内的里海西岸，1985年人口80,000）
+
+
+
+————————————
+★☆☆   Derby
+ / ˈdɑ:bi /Derby¹
+1. a city in the Midlands of əngland, on the ɔiver Derwent; pop. 214,000 (1ˌˌ1)  • 德比（英格兰中部地区一城市，在德文特河畔，1991年人口214,000）Derby²
+1. Edward George Geoffrey Smith Stanley, 14th Earl of (1799–1869), British Conservative statesman, Prime Minister 1852, 1858–9, and 1866–8. In his last term as Prime Minister he carried the second Reform Act (1867) through Parliament  • 德比伯爵（第十四），爱德华•乔治•杰弗里•史密斯•斯坦利（1799–1869，英国保守党政治家，1852、 1858–1859及1866–1868年任首相，在其最后任期中，促使第二次议会选举法修正法案获得议会通过［1867］）Derby³
+◙ (pl. -ies)
+1. an annual flat horse race for three-year-olds, founded in 1780 by the 12th Earl of Derby The race is run on Epsom Downs in England in late May or early June  • 德比马赛（一年一度的三岁马平地速跑比赛，于1780年由德比伯爵第十二世发起，每年5月底或6月初在英格兰埃普索姆唐斯举行）
+  a similar race elsewhere  • 马赛
+ »the Irish Derby.  爱尔兰马赛。
+  [in names] an important sporting contest  • 重要体育比赛，重要赛事
+ »the showjumping Derby at Hickstead.  在希克斯特德举行的越障马术赛事。
+  (derby). another term for local derby  • 同 local derby 
+2. (derby)[N. Amer.] a bowler hat said to be from American demand for a hat of the type worn at the Epsom Derby  • [北美] 圆顶硬礼帽
+3. a boot or shoe having the eyelet tabs stitched on top of the vamp  • （鞋带穿孔圈缝在鞋面顶端的）德比靴（或鞋）Derby4
+◙ noun
+1. [mass noun] a hard pressed cheese made from skimmed milk, chiefly in Derbyshire  • 德比郡奶酪
+
+
+
+————————————
+★☆☆   Derby Day◙ noun
+1. the day on which the Derby is run  • 德比赛马日
+
+
+
+————————————
+★☆☆   Derbyshire
+ / ˈdɑ:biʃə /1. a county of north central əngland; county town, Matlock  • 德比郡（英格兰中北部一郡，首府马特洛克）
+
+
+
+————————————
+★☆☆   Derbyshire neck◙ noun
+1. [mass noun] (historical)goitre, formerly endemic in parts of Derbyshire  • [史] 德比郡大脖子病，甲状腺肿
+
+
+
+————————————
+★☆☆   de re
+ / deɪ ˈreɪ, di: /◙ adjective
+1. [Philosophy] relating to the properties of things mentioned in an assertion or expression, rather than to the assertion or expression itself  • [哲] 与事物属性（而非与陈述或表达本身）有关的。
+--› compare de dicto 
+
+【语源】1. Latin, literally about the thing'
+
+
+
+————————————
+★☆☆   derealization
+ / di:riəlaiˈzeiʃən /◙ [亦作-isation] , noun
+1. [mass noun] a feeling that one's surroundings are not real, especially as a symptom of mental disturbance  • 现实感丧失（尤指精神病的一种症状）
+
+【派生】♦ derealized adjective
+
+
+
+
+————————————
+★☆☆   derecho
+ / dɪˈreɪtʃəʊ /◙ (pl. derechos)
+1. (pl. derechos) [US] a storm system that moves a long distance rapidly and brings winds which can devastate an area several miles wide  • [美] 长距离快速移动的暴风（其威力可摧毁方圆数英里的地区）
+
+【语源】1. late 19th cent.: Spanish, literally 'direct, straight'
+
+
+
+————————————
+★☆☆   derecognize
+ / di:ˈrekəgˌnaɪz /◙ (也作 -ise), verb
+1. [with obj.] withdraw recognition of (an organization or country)  • 撤销对（组织，国家）的承认
+
+【派生】♦ derecognition noun
+
+
+
+
+————————————
+★☆☆   dereference
+ / di:ˈrɛfərəns /◙ verb
+1. [with obj.] [Computing] obtain the address of a data item held in another location from (a pointer)  • [计算机] 解除（指针）的关联
+
+
+
+————————————
+★☆☆   deregister
+ / diˈredʒistə /◙ verb
+1. [with obj.] remove from a register  • 撤销注册，注销
+ »scores of patients have been deregistered by the practices.  许多病人因这些做法而被注销。
+  [no obj.] remove one's name from a register  • 除名，注销
+
+【派生】♦ deregistration noun
+
+
+
+
+————————————
+★☆☆   deregulate
+ / diˈreɡjuˌleit /◙ verb
+1. [with obj.] remove regulations or restrictions from  • 撤销对…的规定（或限制）
+ »the trucking industry was deregulated in the early 1980s.  货车运输业在20世纪80年代早期就解除了管制。
+
+【派生】♦ deregulation noun
+♦ deregulatory adjective
+
+
+
+
+————————————
+★☆☆   derelict
+ / ˈderəˌlɪkt /◙ adjective
+1. in a very poor condition as a result of disuse and neglect  • 废弃的，破旧的
+ »a derelict Georgian mansion.  年久失修的乔治王朝时代的府邸。
+ »the barge lay derelict for years.  那驳船已被废置多年。
+  (chiefly N. Amer.)(of a person) shamefully negligent in not having done what one should have done  • [主北美] （人）玩忽职守的，不负责任的
+ »he was derelict in his duty to his country.  他玩忽职守，未能履行对国家的职责。
+◙ noun
+1. a person without a home, job, or property  • 流浪汉，无家可归的人
+ »derelicts who could fit all their possessions in a paper bag.  可以把所有家当都放在纸袋中的流浪者。
+  a piece of property, especially a ship, abandoned by the owner and in poor condition  • 废弃物（尤指废弃船只）
+
+【语源】1. mid 17th cent.: from Latin derelictus 'abandoned', past participle of derelinquere, from de- 'completely' + relinquere 'forsake'
+
+
+
+————————————
+★☆☆   dereliction
+ / deriˈlikʃən /◙ noun, [mass noun] 
+1. the state of having been abandoned and become dilapidated  • 废弃，遗弃
+ »a 15th-century farmhouse has been saved from dereliction.  一座15世纪的农舍免遭废弃。
+  [一般作dereliction of duty] the shameful failure to fulfil one's obligations  • 玩忽职守
+
+【语源】1. late 16th cent.: from Latin derelictio(n-), from the verb derelinquere (see derelict )
+
+
+
+————————————
+★☆☆   derepress
+ / ˌdi:riˈpres /◙ verb
+1. [with obj.] [Biochemistry & Genetics] activate (enzymes, genes, etc.) from an inoperative or latent state  • [生化，遗传] 对（酶，基因）去阻遏（或去阻抑、去抑制）
+
+【派生】♦ derepression noun
+
+
+
+
+————————————
+★☆☆   derequisition
+ / di:rekwiˈziʃən /◙ verb
+1. [with obj.] [dated] return (requisitioned property) to its former owner  • [旧] 把（征用财产）归还旧主
+
+
+
+————————————
+★☆☆   derestrict
+ / ˈdi:risˈtrikt /◙ verb
+1. [with obj.] remove restrictions from  • 取消对…的限制
+
+【派生】♦ derestriction noun
+
+
+
+
+————————————
+★☆☆   deride
+ / dɪˈraɪd /◙ verb
+1. [with obj.] express contempt for; ridicule  • 表示轻蔑；嘲笑
+ »critics derided the proposals as clumsy attempts to find a solution.  批评者嘲笑那些建议是试图寻求解决办法的拙劣尝试。
+
+【派生】♦ derider noun
+
+【语源】1. mid 16th cent.: from Latin deridere 'scoff at'
+
+
+
+————————————
+★☆☆   de-rig◙ verb
+1. [with obj.] dismantle the rigging of (a ship, boat, or light aircraft)  • 拆除（船只）的索具；拆除（轻型飞行器）的吊索系统
+
+
+
+————————————
+★☆☆   de rigueur
+ / ˌdə rɪˈgə: /◙ adjective
+1. required by etiquette or current fashion  • 按照礼节（或时尚）所要求的
+ »it was de rigueur for bands to grow their hair long.  乐队队员留长发是时尚所需。
+
+【语源】1. mid 19th cent.: French, literally in strictness'
+
+
+
+————————————
+★☆☆   derision
+ / dɪˈrɪʒən /◙ noun
+1. [mass noun] contemptuous ridicule or mockery  • 嘲笑
+ »my stories were greeted with derision and disbelief.  我讲的经历遭到嘲笑和怀疑。
+
+【IDIOMS】◘ hold ( 或 have) in derision
+1. (archaic)regard with mockery  • [古] 以嘲笑态度对待
+
+【派生】♦ derisible adjective
+
+【语源】1. late Middle English: via Old French from late Latin derisio(n-), from deridere 'scoff at'
+
+
+
+————————————
+★☆☆   derisive
+ / dɪˈraɪsɪv , -zɪv , -ˈrɪsɪv , -ˈrɪz- /◙ adjective
+1. expressing contempt or ridicule  • 轻蔑的，嘲笑的
+ »he gave a harsh, derisive laugh.  他发出刺耳的嘲笑声。
+
+【派生】♦ derisively adverb
+♦ derisiveness noun
+
+【语源】1. mid 17th cent.: from derision, on the pattern of the pair decision, decisive
+
+
+
+————————————
+★☆☆   derisory
+ / diˈraisəri /◙ adjective
+1. ridiculously small or inadequate  • 小（或少）得荒谬的
+ »they were given a derisory pay rise.  他们的工资增长少得可笑。
+2. another term for derisive:  • 同 derisive :
+ »his derisory gaze swept over her.  他用嘲弄的目光扫视她。
+
+【语源】1. early 17th cent. (in the sense 'derisive'): from late Latin derisorius, from deris- 'scoffed at', from the verb deridere (see derision )
+
+【用法】1. Although the words derisory and derisive share similar roots they have different core meanings. Derisory usually means ‘ridiculously small or inadequate’, as in a derisory pay offer or the security arrangements were derisoryDerisive, on the other hand, is used to mean ‘showing contempt’, as in he gave a derisive laugh
+
+
+
+————————————
+★☆☆   derivate
+ / ˈderiveit /◙ noun
+1. something derived, especially a product obtained chemically from a raw material  • 衍生物
+
+【语源】1. late Middle English: from Latin derivat- 'derived', from the verb derivare (see derive )
+
+
+
+————————————
+★☆☆   derivation
+ / ˌderəˈveɪʃən /◙ noun
+1. [mass noun] the obtaining or developing of something from a source or origin  • 得到；推论；溯源
+ »the derivation of scientific laws from observation.  从观察中推导出科学规律。
+  the formation of a word from another word or from a root in the same or another language  • （词的）派生
+  [Linguistics] the set of stages that link a sentence in a natural language to its underlying logical form  • [语言学] 推导
+  [count noun] [Mathematics] a sequence of statements showing that a formula, theorem, etc., is a consequence of previously accepted statements  • [数] 导数
+  [Mathematics] the process of deducing a new formula, theorem, etc., from previously accepted statements  • [数] 推导
+
+【派生】♦ derivational adjective
+
+【语源】1. late Middle English (denoting the drawing of a fluid, specifically the drawing of pus or blood; also in the sense 'formation of a word from another word'): from Latin derivatio(n-), from the verb derivare (see derive )
+
+
+
+————————————
+★☆☆   derivative
+ / diˈrivətiv /◙ adjective
+1. (typically of an artist or work of art) imitative of the work of another person, and usually disapproved of for that reason  • （尤指艺术家或艺术作品）模仿的，缺乏独创性的
+ »an artist who is not in the slightest bit derivative.  没有丝毫模仿痕迹的画家。
+  originating from, based on, or influenced by  • 受…影响的，以为基础的，源自…的
+ »Darwin's work is derivative of the moral philosophers.  达尔文的工作受到伦理学家的影响。
+  [attrib.] (of a financial product) having a value deriving from an underlying variable asset  • （金融产品）衍生的
+ »equity-based derivative products.  基于股权的衍生产品。
+◙ noun
+1. something which is based on another source  • 派生物，衍生物
+ »the aircraft is a derivative of the Falcon 20G.  这种飞机是从猎鹰２0Ｇ型派生而来的。
+  [常作 derivatives] an arrangement or instrument (such as a future, option, or warrant) whose value derives from and is dependent on the value of an underlying asset  • 金融衍生产品，金融衍生工具
+ »[as modifier] the derivative market.  衍生市场。
+  a word derived from another or from a root in the same or another language  • 派生词
+  a substance that is derived chemically from a specified compound  • 衍生物
+ »crack is a highly addictive cocaine derivative.  强效纯可卡因是极易上瘾的可卡因衍生物。
+  [Mathematics] an expression representing the rate of change of a function with respect to an independent variable  • [数] 导数
+
+【派生】♦ derivatively adverb
+
+【语源】1. late Middle English (in the adjective sense 'having the power to draw off', and in the noun sense 'a word derived from another'): from French dérivatif, -ive, from Latin derivativus, from derivare (see derive )
+
+
+
+————————————
+★☆☆   derive
+ / diˈraiv /◙ verb
+1. [with obj.] (derive something from)obtain something from (a specified source)  • 从…中获得（或取得）
+ »they derived great comfort from this assurance.  他们从这项保证中获得很大安慰。
+  (derive something from)base a concept on a logical extension or modification of (another concept)  • 从…得出，源自
+ »Marx derived his philosophy of history from Hegel.  马克思的历史哲学来源于黑格尔。
+  [no obj.] (derive from)(of a word) have (a specified word, usually of another language) as a root or origin  • （词）由（某词，通常是外来词）派生
+ »the word ‘punch’ derives from the Hindustani ‘pancha’ ‘punch’.  一词派生自兴都斯坦语的 pancha。
+ »the word ‘man’ is derived from the Sanskrit ‘manas’. man.  一词派生自梵语manas。
+  [no obj.] (derive from)arise from or originate in (a specified source)  • 源自，来源于
+ »words whose spelling derives from Dr Johnson's incorrect etymology.  拼法源自约翰逊博士错误词源的单词。
+  (be derived from)[Linguistics] (of a sentence in a natural language) be linked by a set of stages to (its underlying logical form)  • [语言学] （自然语言中的句子）推导自（隐含的逻辑形式）
+  (be derived from)(of a substance) be formed or prepared by (a chemical or physical process affecting another substance)  • （物质）由（影响另一物质的化学或物理过程）衍生
+ »strong acids are derived from the combustion of fossil fuels.  强酸由矿物燃料的燃烧衍生。
+  [Mathematics] obtain (a function or equation) from another by a sequence of logical steps, for example by differentiation  • [数] 导出（函数，方程）
+
+【派生】♦ derivable adjective
+
+【语源】1. late Middle English (in the sense 'draw a fluid through or into a channel'): from Old French deriver or Latin derivare, from de- 'down, away' + rivus 'brook, stream'
+
+
+
+————————————
+★☆☆   derived demand◙ noun
+1. [Economics] a demand for a commodity, service, etc. which is a consequence of the demand for something else  • [经济] 派生需求，引伸需求
+
+
+
+————————————
+★☆☆   derived fossil◙ noun
+1. a fossil redeposited in a sediment which is younger than the one in which it first occurred  • 移积化石，转生化石
+
+
+
+————————————
+★☆☆   derm
+ / də:m /◙ noun
+1. another term for dermis  • 同 dermis 
+
+
+
+————————————
+★☆☆   derma
+ / ˈdə:mə /derma¹
+◙ noun
+1. another term for dermis  • 同 dermis 
+
+【语源】1. early 18th cent.: modern Latin, from Greek 'skin'derma²
+◙ noun
+1. [mass noun] beef or chicken intestine, stuffed and cooked in dishes such as kishke  • （充填后在菜肴中烹调的）牛肠衣（或鸡肠衣）
+
+【语源】1. from Yiddish derme, plural of darm 'intestine'; related to Old English tharm 'intestine'
+
+
+
+————————————
+★☆☆   dermabrasion
+ / ˌdə:məˈbreiʒən /◙ noun
+1. [mass noun] the removal of superficial layers of skin with a rapidly revolving abrasive tool, as a technique in cosmetic surgery  • 皮肤磨平术
+
+【语源】1. 1950s: from Greek derma 'skin' + abrasion
+
+
+
+————————————
+★☆☆   Dermaptera
+ / də:ˈmæptərə /◙ plural noun
+1. [Entomology] an order of insects that comprises the earwigs  • [昆] 革翅目
+
+【派生】♦ dermapteran noun & adjective
+♦ dermapterous adjective
+
+【语源】1. modern Latin (plural), from Greek derma 'skin' + pteron 'wing'
+
+
+
+————————————
+★☆☆   dermatitis
+ / ˌdə:məˈtaitis /◙ noun
+1. [mass noun] a condition of the skin in which it becomes red, swollen, and sore, sometimes with small blisters, resulting from direct irritation of the skin by an external agent or an allergic reaction to it  • 皮炎。
+--› compare eczema 
+
+【语源】1. late 19th cent.: from Greek derma, dermat- 'skin' + -itis
+
+
+
+————————————
+★☆☆   dermato-
+ / ˈdə:mətəʊ /◙ for combining
+1. of or relating to the skin  • 表示“（与）皮肤（有关）的”
+ »dermatomycosis.
+
+【语源】1. from Greek derma, dermat- 'skin, hide'
+
+
+
+————————————
+★☆☆   dermatoglyphics
+ / ˌdə:mətəˈɡlifiks /◙ plural noun
+1. [treated as sing.] the study of skin markings or patterns on fingers, hands, and feet, and its application, especially in criminology  • （尤用于犯罪学中的）肤纹学，皮肤纹理学
+
+【派生】♦ dermatoglyph noun
+♦ dermatoglyphic adjective
+♦ dermatoglyphically adjective
+
+【语源】1. 1920s: from dermato- 'skin' + Greek gluphikos 'carved' (from gluphē 'carving')
+
+
+
+————————————
+★☆☆   dermatology
+ / ˌdɜ:məˈtɔlədʒi: /◙ noun
+1. [mass noun] the branch of medicine concerned with the diagnosis and treatment of skin disorders  • 皮肤病学
+
+【派生】♦ dermatological adjective
+♦ dermatologically adverb
+♦ dermatologist noun
+
+
+
+
+————————————
+★☆☆   dermatome
+ / ˈdə:mətəum /◙ noun
+1. [Embryology] the lateral wall of each somite in a vertebrate embryo, giving rise to the connective tissue of the skin  • [胚] 生皮节，皮根。
+--› compare myotome , sclerotome 
+  [Physiology] an area of the skin supplied by nerves from a single spinal root  • [生理] 皮区
+
+
+
+————————————
+★☆☆   dermatomycosis
+ / ˌdə:mətəumaiˈkəusis /◙ (pl. dermatomycoses -siːz)
+1. [mass noun] a fungal infection of the skin, especially by a dermatophyte  • 皮肤真菌病，皮肤霉菌病，肤癣病
+
+
+
+————————————
+★☆☆   dermatomyositis
+ / ˌdə:mətəˌmaiəˈsaitis /◙ noun
+1. [mass noun] [Medicine] inflammation of the skin and underlying muscle tissue, involving degeneration of collagen, discoloration, and swelling, typically occurring as an autoimmune condition or associated with internal cancer  • [医] 皮肌炎
+
+
+
+————————————
+★☆☆   dermatophyte
+ / ˈdə:mətəufait /◙ noun
+1. a pathogenic fungus that grows on skin, mucous membranes, hair, nails, feathers, and other body surfaces, causing ringworm and related diseases  • 皮肤真菌，表皮寄生菌
+2. Trichophyton and other genera, subdivision Deuteromycotina  • 发癣菌属及其他属，半知菌亚门
+
+【派生】♦ dermatophytic adjective
+
+
+
+
+————————————
+★☆☆   dermatophytosis
+ / dəˌmætəfaiˈtəusis /◙ (pl. dermatophytoses -siːz)
+1. another term for dermatomycosis  • 同 dermatomycosis 
+
+
+
+————————————
+★☆☆   dermatosis
+ / ˌdə:məˈtəusis /◙ (pl. dermatoses -siːz)
+1. [mass noun] a disease of the skin, especially one that does not cause inflammation  • （尤指不发炎的）皮肤病
+
+
+
+————————————
+★☆☆   dermestid
+ / də:ˈmestid /◙ noun
+1. [Entomology] a small beetle of a family [Dermestidae] that includes many kinds which are destructive (especially as larvae) to hides, skin, fur, wool, and other animal substances  • [昆] 皮蠹科昆虫
+
+【语源】1. late 19th cent.: from modern Latin Dermestidae (plural), from the genus name Dermestes, formed irregularly from Greek derma 'skin' + esthiein 'eat'
+
+
+
+————————————
+★☆☆   dermis
+ / ˈdə:mis /◙ noun
+1. [mass noun] (technical)the skin  • [技] 皮肤
+  [Anatomy] the thick layer of living tissue below the epidermis which forms the true skin, containing blood capillaries, nerve endings, sweat glands, hair follicles, and other structures  • [剖] 真皮
+
+【派生】♦ dermal adjective
+♦ dermic adjective
+1. (rare)[罕] 
+
+【语源】1. mid 19th cent.: modern Latin, suggested by epidermis
+
+
+
+————————————
+★☆☆   dermoid
+ / ˈdə:mɔid /◙ noun
+1. short for dermoid cyst  • dermoid cyst 的简称
+
+
+
+————————————
+★☆☆   dermoid cyst◙ noun
+1. [Medicine] an abnormal growth (teratoma) containing epidermis, hair follicles, and sebaceous glands, derived from residual embryonic cells  • [医] 皮样囊肿
+
+
+
+————————————
+★☆☆   Dermoptera
+ / də:ˈmɔptərə /◙ plural noun
+1. [Zoology] a small order of mammals which comprises the flying lemurs or colugos  • [动] 皮翼目
+
+【派生】♦ dermopteran noun & adjective
+
+【语源】1. modern Latin (plural), from Greek derma 'skin' + pteron 'wing'
+
+
+
+————————————
+★☆☆   dernier cri
+ / də:njeɪ ˈkri: /◙ noun
+1. (the/le dernier cri)the very latest fashion  • 最新时尚，最新式样
+
+【语源】1. late 19th cent.: French, literally last cry'
+
+
+
+————————————
+★☆☆   derogate
+ / ˈderəˌgeɪt /◙ verb, [formal] [正式] 
+1. [no obj.] (derogate from)detract from  • 减低；减损
+ »this does not derogate from his duty to act honestly and faithfully.  这并不能减低他应公正诚实行事的责任。
+2. [no obj.] (derogate from)deviate from (a set of rules or agreed form of behaviour)  • 背离，偏离（规则，行为准则）
+ »one country has derogated from the Rome Convention.  有一个国家已经背离了罗马公约。
+3. [with obj.] disparage (someone or something)  • 贬损，贬低（人，事）
+ »it is typical of him to derogate the powers of reason.  他总是贬低理性的力量。
+
+【派生】♦ derogative adjective
+
+【语源】1. late Middle English: from Latin derogat- 'abrogated', from the verb derogare, from de- 'aside, away' + rogare 'ask'
+
+
+
+————————————
+★☆☆   derogation
+ / ˌderəuˈɡeiʃən /◙ noun
+1. an exemption from or relaxation of a rule or law  • （规则或法律的）豁免，免除；松缓，放松
+ »countries assuming a derogation from EC law.  设想欧共体法律会放松的国家。
+2. [mass noun] the perception or treatment of someone or something as being of little worth  • 贬低，轻视
+ »the derogation of women.  对女性的贬低。
+
+【语源】1. late Middle English (in the sense 'impairment of the force of'): from Latin derogatio(n-), from the verb derogare (see derogate )
+
+
+
+————————————
+★☆☆   derogatory
+ / dɪˈrɔgəˌtɔ:ri: , -ˌtəʊri: /◙ adjective
+1. showing a critical or disrespectful attitude  • 持批评态度的，贬低的，不敬的
+ »she tells me I'm fat and is always making derogatory remarks.  她说我胖还老是说些贬低我的话。
+
+【派生】♦ derogatorily adverb
+
+【语源】1. early 16th cent. (in the sense 'impairing in force or effect'): from late Latin derogatorius, from derogat- 'abrogated', from the verb derogare (see derogate )
+
+
+
+————————————
+★☆☆   derrick
+ / ˈderɪk /◙ noun
+1. a kind of crane with a movable pivoted arm for moving or lifting heavy weights, especially on a ship  • （尤指船载）悬转臂起重机
+2. the framework over an oil well or similar boring, holding the drilling machinery  • 钻塔；油井井架
+
+【语源】1. early 17th cent. (denoting a hangman, also the gallows): from Derrick, the surname of a London hangman
+
+
+
+————————————
+★☆☆   Derrida
+ / ˈdɛrɪdə,  /1. ʊacques (b. 1ˌ30), ʃrench philosopher and critic, the most important figure in deconstruction. ŋotable works: Of Grammatology (1ˌ6ˌ) and θriting and Difference (1ˌ6ˌ)  • 德里达，雅克（生于1930年，法国哲学家和评论家，解构主义最重要的人物；代表作品： 《论写作学》［1967］和《写作与差异》［1967］）
+
+【派生】♦ Derridean adjective & noun
+
+
+
+
+————————————
+★☆☆   derring-do
+ / deriŋˈdu: /◙ noun
+1. [mass noun] (dated or humorous)action displaying heroic courage  • [旧或 幽默] 英勇事迹
+ »tales of derring-do.  关于英勇事迹的故事。
+
+【语源】1. late 16th cent.: from late Middle English dorryng do 'daring to do', used by Chaucer, and, in a passage by Lydgate based on Chaucer's work, misprinted in 16th-cent. editions as derrynge do; this was misinterpreted by Spenser to mean 'manhood, chivalry', and subsequently taken up and popularized by Sir Walter Scott
+
+
+
+————————————
+★☆☆   derringer
+ / ˈderindʒə /◙ noun
+1. a small pistol with a large bore, which is very effective at close range  • 德林泽手枪，大口径短筒手枪
+
+【语源】1. mid 19th cent.: named after Henry Deringer (1786–1868), the American gunsmith who invented it
+
+
+
+————————————
+★☆☆   derris
+ / ˈderis /◙ noun
+1. [mass noun] an insecticide made from the powdered roots of certain tropical plants, containing rotenone  • 鱼藤酮杀虫剂
+2. a woody climbing plant of the pea family, which bears leathery pods and has tuberous roots from which this insecticide is obtained  • 鱼藤
+3. Genus Derris, family Leguminosae  • 鱼藤属，豆科
+
+【语源】1. mid 19th cent. (in sense 2): modern Latin (genus name), from Greek, leather covering' (referring to the plant's leathery pods)
+
+
+
+————————————
+★☆☆   derrière
+ / ˌdɛrɪˈɛ: /◙ noun
+1. (informal euphemistic)term for a person's buttocks  • [非正式，婉] 臀部
+
+【语源】1. late 18th cent.: French, literally behind'
+
+
+
+————————————
+★☆☆   derro◙ (pl. derros)
+1. [Austral./NZ informal] a vagrant, especially one who is dependent on alcohol  • [澳/新西兰，非正式] （尤指嗜酒如命的）流浪汉
+
+【语源】1. 1970s: abbreviation of derelict + -o
+
+
+
+————————————
+★☆☆   derry◙ noun
+1. [用于短语 have a derry on someone] [Austral./NZ informal] be prejudiced against someone  • [澳／新西兰，非正式] （对某人）偏见
+
+【语源】1. late 19th cent.: apparently from the song refrain derry down
+
+
+
+————————————
+★☆☆   Derry --› see Londonderry 
+
+
+
+————————————
+★☆☆   derv
+ / də:v /◙ (也作 DERV), noun
+1. [mass noun] [Brit.] diesel oil for road vehicles  • [英] （公路车辆用）柴油
+
+【语源】1. 1940s (apparently Second World War forces' slang): acronym from diesel-engined road-vehicle
+
+
+
+————————————
+★☆☆   dervish
+ / ˈdə:viʃ /◙ noun
+1. a Muslim (specifically Sufi) religious man who has taken vows of poverty and austerity. Dervishes first appeared in the 12th century; they were noted for their wild or ecstatic rituals and were known as dancing, whirling, or howling dervishes according to the practice of their order  • （专指伊斯兰教苏非派的）伊斯兰苦行僧（最初出现于12世纪，以其狂热、亢奋的仪式著称，宣誓过清贫艰苦的修行生活，按各自教团的习俗分别称为舞蹈苦行僧、转圈苦行僧和号叫苦行僧）
+
+【语源】1. from Turkish derviş, from Persian darvīŝ 'poor', (as a noun) 'religious mendicant'
+
+
+
+————————————
+★☆☆   de règle
+ / də ˈrɛgl(ə),  /◙ adjective
+1. required by custom; proper  • 合乎习惯的；适当的，得体的
+ »it shall be de règle for guests to come in afternoon dresses.  按习惯礼仪客人应穿便宴半礼服。
+
+【语源】1. French, literally of rule'
+
+
+
+————————————
+★☆☆   DES◙ for abbreviation
+1. (in the UK) Department of Education and Science (replaced in 1992 by the Department for Education)  • （英国）教育与科学部（1992年改为教育部）
+  [Computing] data encryption standard  • [计算机] 数据加密标准
+
+
+
+————————————
+★☆☆   desacralize
+ / di:ˈseikrəlaiz /◙ (也作 -ise), verb
+1. [with obj.] remove the religious or sacred status or significance from  • 使世俗化，使非神圣化
+
+【派生】♦ desacralization noun
+
+
+
+
+————————————
+★☆☆   de Sade1. Marquis,  • 见 Sade. suppressed 
+
+
+
+————————————
+★☆☆   desalinate
+ / di:ˈsælineit /◙ verb
+1. [with obj.] [usu. as adj. desalinated] remove salt from (seawater)  • 淡化（海水），使（海水）脱盐
+
+【派生】♦ desalination noun
+♦ desalinator noun
+
+
+
+
+————————————
+★☆☆   desalinize
+ / di:ˈsæləˌnaɪz /◙ verb
+1. US term for desalinate  • [美] 同 desalinate 
+
+【派生】♦ desalinization noun
+
+
+
+
+————————————
+★☆☆   desalt
+ / di:ˈsɔ:lt /◙ verb
+1. another term for desalinate  • 同 desalinate 
+
+
+
+————————————
+★☆☆   desaparecido
+ / ˌdɛzəpærəˈsi:dəʊ,  /◙ (pl. -os)
+1. (especially in South America), a person who has disappeared, presumed killed by members of the armed services or the police  • （尤指南美洲的）失踪者（疑为军警所杀害）
+
+【语源】1. Spanish, literally disappeared'
+
+
+
+————————————
+★☆☆   desaturate
+ / di:ˈsætʃəreit /◙ verb
+1. [with obj.] make less saturated; cause to become unsaturated  • 降低饱和度，使不饱和
+
+【派生】♦ desaturation noun
+
+
+
+
+————————————
+★☆☆   descale
+ / di:ˈskeil /◙ verb
+1. [with obj.] remove deposits of scale from  • 去除…的水垢
+
+【派生】♦ descaler noun
+
+
+
+
+————————————
+★☆☆   descamisado
+ / dɛsˌkæmɪˈsɑ:dəʊ /◙ (pl. -os)
+1. (in Latin America) a very poor person  • （拉丁美洲）穷困潦倒的人
+
+【语源】1. Spanish, literally shirtless'
+
+
+
+————————————
+★☆☆   descant
+ / ˈdesˌkænt /◙ noun
+1. [Music] an independent treble melody usually sung or played above a basic melody  • [乐] 迪斯康特（音高通常高于基本旋律的独立高音旋律，用于伴唱或伴奏）
+  (archaic or poetic/literary)a melodious song  • [古或 诗／文] 悠扬之歌
+  a discourse on a theme or subject  • 论述
+ »his descant of deprivation.  他对贫困问题的论述。
+◙ verb
+1. [no obj.] talk tediously or at length  • 详谈，冗长评述
+ »I have descanted on this subject before.  我曾经详细论述过这个主题。
+
+【语源】1. late Middle English: from Old French deschant, from medieval Latin discantus 'part-song, refrain'
+
+
+
+————————————
+★☆☆   descant recorder◙ noun
+1. the most common size of recorder (musical instrument), with a range of two octaves from the C above middle C upwards  • （有两个八度音程的）雷高德直笛
+
+
+
+————————————
+★☆☆   Descartes
+ / deiˈkɑ:t , dɛkart /1. ɔené (1ˈˌ6–16ˈ0), ʃrench philosopher, mathematician, and man of science  • 笛卡尔，勒内（1596—1650，法国哲学家，数学家和科学家）
+
+【用法】1. Aiming to reach totally secure foundations for knowledge, he concluded that everything was open to doubt except his own conscious experience, and his existence as a necessary condition of this: ‘Cogito, ergo sum’ [I think, therefore I am] . From this certainty he developed a dualistic theory regarding mind and matter as separate though interacting. In mathematics Descartes developed the use of coordinates to locate a point in two or three dimensions
+
+
+
+————————————
+★☆☆   descend
+ / diˈsend /◙ verb, [no obj.] 
+1. move or fall downwards  • 下降；落下
+ »the aircraft began to descend.  飞机开始下降。
+  [with obj.] move down (a slope or stairs)  • 下（坡，楼梯）
+ »the vehicle descended a ramp.  车辆下了斜坡。
+  (of stairs, a road or path, or a piece of land) be on a slope or incline and extend downwards  • （楼梯，道路，小径，土地）下斜，下倾
+ »a side road descended into the forest.  一条岔道下斜着延伸到森林中。
+ »[with obj.] a narrow flight of stairs descended a steep slope.  一段狭窄的楼梯陡陡地通到下面。
+  come or go down a scale, especially from the superior to the inferior  • （尤指从优到劣）依次递降
+ »[as adj. descending] the categories are listed in descending order of usefulness.  这些品种按实用价值递减的顺序列出。
+  [Music] (of sound) become lower in pitch  • [乐] （声响）渐低
+ »[as adj. descending] a passage of descending chords.  渐低和弦乐段。
+  (descend to)act in a specified shameful way that is far below one's usual standards  • 降低人格做事，堕落到
+ »he was scrupulous in refusing to descend to misrepresentation.  他为人正直审慎，拒绝做人所不齿的歪曲真相之事。
+  (descend into)(of a situation or group of people) reach (a state considered undesirable or shameful)  • （情况，群体）沦落到…的地步
+ »the army had descended into chaos.  军队已沦落到了混乱的地步。
+2. (descend on/upon)make a sudden attack on  • 突袭
+ »the militia descended on Rye.  民兵突袭赖伊。
+  (descend on/upon)make an unexpected and typically unwelcome visit to  • 突然来到，突然访问
+ »groups of visiting supporters descended on a local pub.  一批批外来的支持者突然来到了当地一家酒吧。
+  (of a feeling or atmosphere) develop suddenly and be felt throughout a place or by a person or group of people  • （感觉，气氛）突然笼罩
+ »an air of gloom descended on Labour party headquarters.  一片沮丧的气氛突然笼罩着工党总部。
+  (of night or darkness) begin to occur  • （夜色，黑暗）降临
+ »as the winter darkness descended, the fighting ceased.  随着冬日夜幕的降临，战斗停止了。
+3. (be descended from)be a blood relative of (a specified, typically illustrious ancestor)  • 是…的后裔（尤指望族）
+ »John Dalrymple was descended from an ancient Ayrshire family.  约翰•达尔林普尔是艾尔郡一古老家族的后裔。
+  (of an asset) pass by inheritance, typically from parent to child  • （资产）交由…继承
+ »his lands descended to his eldest son.  他的土地传给了长子。
+
+【派生】♦ descendent adjective
+
+【语源】1. Middle English: from Old French descendre, from Latin descendere, from de- 'down' + scandere 'to climb'
+
+
+
+————————————
+★☆☆   descendant
+ / diˈsendənt /◙ noun
+1. a person, plant, or animal that is descended from a particular ancestor  • 子孙，后裔，后代
+ »Shakespeare's last direct descendant.  莎士比亚最后的直系后裔。
+  a machine, artefact, system, etc., that has developed from an earlier, more rudimentary version  • （机器、制造品等）后继型产品
+
+【语源】1. late Middle English (as an adjective in the sense 'descending'): from French, present participle of descendre 'to descend' (see descend ). The noun dates from the early 17th cent
+
+
+
+————————————
+★☆☆   descender
+ / diˈsendə /◙ noun
+1. a part of a letter that extends below the level of the base of a letter such as x (as in g and p)  • （字母的）下伸部分（例如 g，p的下半部）
+  a letter having such a part  • 下伸字母
+
+
+
+————————————
+★☆☆   descendeur
+ / dɪˈsɛndə /◙ noun
+1. [Climbing] a piece of metal around which a rope is passed, which makes use of friction to slow descent during abseiling  • [登山] （绕绳下降时用于减慢下降速度的）金属滑栓
+
+【语源】1. late 20th cent.: from French, literally descender'
+
+
+
+————————————
+★☆☆   descendible
+ / diˈsendəbl /◙ adjective
+1. [Law] (of property) able to be inherited by a descendant  • [律] （资产）可（由后代）继承的
+
+
+
+————————————
+★☆☆   descending colon◙ noun
+1. [Anatomy] the part of the large intestine which passes downwards on the left side of the abdomen towards the rectum  • [剖] 降结肠
+
+
+
+————————————
+★☆☆   descent
+ / diˈsent /◙ noun
+1. [usu. in sing.] an action of moving downwards, dropping, or falling  • 下降，下落
+ »the plane had gone into a steep descent.  飞机陡然下降。
+  a downward slope, especially a path or track  • 坡道
+ »a steep, badly eroded descent.  陡峭而且已被严重侵蚀的坡道。
+  a moral, social, or psychological decline into a specified undesirable state  • 没落;　堕落
+ »the ancient empire's slow descent into barbarism.  古代帝国慢慢没落至野蛮状态的过程。
+2. [mass noun] the origin or background of a person in terms of family or nationality  • 血统，家世，门第
+ »most of the settlers were of Cornish descent.  大多数移民都来自康沃尔地方。
+  the transmission of qualities, property, or privileges by inheritance  • 世袭；遗传
+3. (descent on)a sudden violent attack  • 突袭
+ »a descent on the Channel ports.  突袭英吉利海峡诸港。
+  an unexpected visit, especially an unwelcome one  • 突然来到，突然访问
+
+【语源】1. Middle English: from Old French descente, from descendre 'to descend' (see descend )
+
+
+
+————————————
+★☆☆   descramble◙ verb
+1. [with obj.] convert or restore (a signal) to intelligible form  • 解除（信号）扰频
+
+【派生】♦ descrambler noun
+
+
+
+
+————————————
+★☆☆   describe
+ / disˈkraib /◙ verb, [with obj.] 
+1. give an account in words of (someone or something), including all the relevant characteristics, qualities, or events  • 描述，形容（人，事）
+ »the police said the man was described as white, 6 ft tall, with mousy, cropped hair.  警方说那男人据描述是白人，六英尺高，灰褐色平头短发。
+2. mark out or draw (a geometrical figure)  • 标示，画（几何图形）
+ »on the diameter of a circle an equilateral triangle is described.  在圆的直径上画一等边三角形。
+  move in a way which follows the outline of (an imaginary geometrical figure)  • 画出（想像的几何图形的）轮廓
+ »a single light is seen to describe a circle.  有人看到一道亮光划了一个圆圈。
+
+【派生】♦ describable adjective
+♦ describer noun
+
+【语源】1. late Middle English: from Latin describere, from de- 'down' + scribere 'write'
+
+
+
+————————————
+★☆☆   description
+ / disˈkripʃən /◙ noun
+1. a spoken or written representation or account of a person, object, or event  • 描述；描写；形容
+ »people who had seen him were able to give a description.  见过他的人都能形容出他的模样来。
+  [mass noun] the action of giving such a representation or account  • 描述；描写；形容（指动作）
+ »teaching by demonstration and description.  通过演示和描述来教学。
+2. a sort, kind, or class of people or things  • （人或物的）类别
+ »it is laughably easy to buy drugs of all descriptions.  各类毒品都可买得，简直容易到了荒唐的程度。
+
+【IDIOMS】◘ beyond description
+1. to a great and astonishing extent  • 极其，无法形容
+ »his face was swollen beyond description.  他的脸肿得无法形容。
+◘ defy description
+1. be so unusual or remarkable as to be impossible to describe  • （因异乎寻常而）无法形容
+ »the sheer scale of the Requiem defies description.  安魂弥撒的规模大得无法形容。
+
+【语源】1. late Middle English: via Old French from Latin descriptio(n-), from describere 'write down'
+
+
+
+————————————
+★☆☆   descriptive
+ / dɪˈskrɪptɪv /◙ adjective
+1. serving or seeking to describe  • （用于）描述的
+  [Grammar] (of an adjective) assigning a quality rather than restricting the application of the expression modified, e. g. blue as distinct from few  • [语法] （形容词）描写性的
+2. describing or classifying without expressing feelings or judging  • 客观描述的
+  [Linguistics] denoting or relating to an approach to language analysis that describes accents, forms, structures, and without making value judgements  • [语言学] 描写性的。 常与 prescriptive 相对
+
+【派生】♦ descriptively adverb
+♦ descriptiveness noun
+
+【语源】1. mid 18th cent.: from late Latin descriptivus, from descript- 'written down', from the verb describere (see describe )
+
+
+
+————————————
+★☆☆   descriptivism◙ noun
+1. [mass noun] [Philosophy] the doctrine that the meanings of ethical or aesthetic terms and statements are purely descriptive rather than prescriptive, evaluative, or emotive  • [哲] 描写主义，描述主义
+
+【派生】♦ descriptivist noun & adjective
+
+
+
+
+————————————
+★☆☆   descriptor
+ / disˈkriptə /◙ noun
+1. an element or term that has the function of describing, identifying, or indexing in particular  • 标志成分（指具有描述、识别和索引编制功能的成分或词语），尤指
+  [Linguistics] a word or expression used to describe or identify something  • [语言学] 描写词语，描述词语
+  [Computing] a piece of stored data that indicates how other data is stored  • [计算机] 描述符，解说符
+
+【语源】1. 1930s: from Latin, literally describer', from descript- 'written down', from the verb describere (see describe )
+
+
+
+————————————
+★☆☆   descry
+ / dɪˈskraɪ /◙ (-ies, -ied)
+1. [with obj.] (poetic/literary)catch sight of  • [诗／文] 看到
+ »she descried two figures.  她看见两个人影。
+
+【语源】1. Middle English: perhaps confused with obsolete descry 'describe', variant of obsolete descrive (via Old French from Latin describere 'write down'), which also had the meaning 'perceive'
+
+
+
+————————————
+★☆☆   desecrate
+ / ˈdesɪˌkreɪt /◙ verb
+1. [with obj.] [常作 be desecrated] treat (a sacred place or thing) with violent disrespect; violate  • 亵渎，玷污（圣地，圣物）
+ »more than 300 graves were desecrated.  300多座墓被亵渎了。
+  (figurative)spoil (something which is valued or respected)  • [喻] 糟蹋，破坏（有价值或受敬仰的事物）
+ »many lanes are desecrated with yellow lines.  许多小路都被黄色禁止停车线搞糟了。
+
+【派生】♦ desecration noun
+♦ desecrator noun
+
+【语源】1. late 17th cent.: from de- (expressing reversal) + a shortened form of consecrate
+
+
+
+————————————
+★☆☆   deseed◙ verb
+1. [with obj.] [usu. as adj. deseeded] remove the seeds from (a plant, vegetable, or fruit)  • 把（植物、蔬菜或水果）去籽
+
+【派生】♦ deseeder noun
+
+
+
+
+————————————
+★☆☆   desegregate
+ / di:ˈseɡriˌɡeit /◙ verb
+1. [with obj.] end a policy of racial segregation in  • 废止…的种族隔离政策
+ »actions to desegregate colleges and schools.  废止学校种族隔离政策的行动。
+
+【派生】♦ desegregation noun
+
+
+
+
+————————————
+★☆☆   deselect
+ / ˌdi:siˈlekt /◙ verb, [with obj.] 
+1. [Brit.] (of a local branch of a political party) reject (an existing Member of Parliament) as a candidate in a forthcoming election  • [英] （政党的地方分部）拒绝承认（现任议员）再次竞选的资格
+2. turn off (a selected feature) on a list of options on a computer menu  • 在计算机菜单上取消（已选定的选项）
+
+【派生】♦ deselection noun
+
+
+
+
+————————————
+★☆☆   desensitize
+ / ˌdi:ˈsensitaiz /◙ (也作 -ise), verb
+1. [with obj.] make less sensitive  • 降低…的敏感度
+ »creams to desensitize the skin at the site of the injection.  减少注射处皮肤敏感度的护肤霜。
+  make (someone) less likely to feel shock or distress at scenes of cruelty, violence, or suffering by overexposure to such images  • 使（人）对残暴行为麻木不仁
+ »[as adj. desensitized] people who view such movies become desensitized to violence.  看这类电影的人对暴力变得麻木不仁。
+  free (someone) from a phobia or neurosis by gradually exposing them to the thing that is feared  • 消除（某人）的恐惧症。 见 systematic desensitization
+
+【派生】♦ desensitization noun
+♦ desensitizer noun
+
+
+
+
+————————————
+★☆☆   desert
+ / ˈdezət / n. / diˈzə:t / vt., vi.desert¹
+◙ verb
+1. [with obj.] abandon (a person, cause, or organization) in a way considered disloyal or treacherous  • 遗弃，背弃（人，事业，组织）
+ »he deserted his wife and daughter and went back to England.  他遗弃妻女，返回了英格兰。
+  [usu. as adj. deserted] (of a number of people) leave (a place), causing it to appear empty  • （一定数量的人）离弃（某地）
+ »the lobby of the hotel was virtually deserted.  旅馆大厅里几乎没有什么人了。
+  (of a quality or ability) fail (someone), especially at a crucial moment when most needed  • （品质或能力在最需要时）舍弃，背离（某人）
+ »her luck deserted her.  运气（在她最需要时）离她而去。
+  [no obj.] [Military] (of a soldier) illegally run away from military service  • [军] （士兵）擅离职守
+
+【派生】♦ desertion noun
+
+【语源】1. late Middle English: from Old French deserter, from late Latin desertare, from Latin desertus 'left waste' (see desert )desert²
+◙ noun
+1. a dry, barren area of land, especially one covered with sand, that is characteristically desolate, waterless, and without vegetation  • 沙漠
+  a lifeless and unpleasant place, especially one comprising or covered with a specified substance  • 荒原，不毛之地
+ »a desert of lead-mine spoil.  满是铅矿弃土的不毛之地。
+  a situation or area considered dull and uninteresting  • 沉闷乏味的境况（或地区）；荒漠
+ »a cultural desert.  文化荒漠。
+◙ adjective
+1. [attrib.] like a desert  • 像沙漠的
+ »overgrazing has created desert conditions.  过度放牧造成沙漠状况。
+  uninhabited and desolate  • 无人居住的，荒凉的
+ »desert wastes.  无人烟的荒地。
+
+【语源】1. Middle English: via Old French from late Latin desertum 'something left waste', neuter past participle of deserere 'leave, forsake'desert³
+◙ noun
+1. [一般作 deserts] a person's worthiness or entitlement to reward or punishment  • 应得的奖赏（或惩罚）
+ »the penal system fails to punish offenders in accordance with their deserts.  这一刑罚制度无法做到根据违法者的违法行径惩罚他们。
+
+【IDIOMS】◘ get (或 receive) one's just deserts
+1. receive the appropriate reward or (more usually)　punishment for one's actions  • 值得受赏；应受惩罚
+ »those who caused great torment to others rarely got their just deserts.  那些给他人带来巨大痛苦的人很少受到应受的惩罚。
+
+【语源】1. Middle English: via Old French from deservir 'serve well' (see deserve
+
+
+
+————————————
+★☆☆   desert boot◙ noun
+1. a lightweight boot with the upper made from suede  • 沙地靴
+
+
+
+————————————
+★☆☆   deserter◙ noun
+1. a member of the armed forces who deserts  • 逃兵
+ »deserters from the army.  军队逃兵。
+
+【语源】1. mid 17th cent.: from desert, on the pattern of French déserteur
+
+
+
+————————————
+★☆☆   desertification
+ / diˌzə:tifiˈkeiʃən /◙ noun
+1. [mass noun] the process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture  • 沙漠化，荒漠化
+
+
+
+————————————
+★☆☆   desert island◙ noun
+1. a remote tropical island, typically uninhabited  • 荒岛
+
+【语源】1. desert ultimately from Latin desertus 'abandoned, deserted'; in later use treated as an attributive use of desert
+
+
+
+————————————
+★☆☆   desert oak◙ noun
+1. an Australian casuarina tree, which typically grows in arid regions  • 沙漠木麻黄
+2. Casuarina decaisneana, family Casuarinaceae  • 拉丁名Casuarina decaisneana，木麻黄科
+
+
+
+————————————
+★☆☆   desert pavement◙ noun
+1. [Geology] a surface layer of closely packed or cemented pebbles, rock fragments, etc., from which fine material has been removed by the wind in arid regions  • [地质] 沙漠砾石盖层
+
+
+
+————————————
+★☆☆   desert rat◙ noun
+1. [informal] a soldier of the 7th British armoured division (with the jerboa as a badge) in the North African desert campaign of 1941–2  • [非正式] 沙漠跳鼠（1941–1942年北非沙漠之战中佩戴跳鼠标记的英国第七装甲师士兵）
+
+
+
+————————————
+★☆☆   desert rose◙ noun
+1. a flower-like aggregate of crystals of a mineral, occurring in arid areas  • 沙漠玫瑰状晶石
+2. a succulent plant with pink tubular flowers and a swollen woody stem containing toxic milky sap that is sometimes used for arrow poison. It is native to East Africa and Arabia  • 沙漠蔷薇
+3. Adenium obesum, family Apocynaceae  • 拉丁名Adenium obesum，夹竹桃科
+4. (也作 Sturt's desert rose)a dense shrub with pinkish-lilac flowers and black spotted leaves and fruit. Native to arid regions of Australia, it is the floral emblem of the Northern Territory of Australia  • 斯特提棉
+5. Gossypium sturtianum, family Malvaceae  • 拉丁名Gossypium sturtianum，锦葵科
+
+
+
+————————————
+★☆☆   Desert Storm syndrome◙ noun
+1. another term for Gulf War syndrome  • 沙漠风暴综合征。 (同 Gulf War syndrome )
+
+【语源】1. from Operation Desert Storm, the name of the Allied Forces' land campaign in the 1991 Gulf War
+
+
+
+————————————
+★☆☆   desert varnish◙ noun
+1. [mass noun] [Geology] a dark hard film of oxides formed on exposed rock surfaces in arid regions  • [地质] 沙漠岩漆
+
+
+
+————————————
+★☆☆   deserve
+ / diˈzə:v /◙ verb
+1. [with obj.] do something or have or show qualities worthy of (a reaction which rewards or punishes as appropriate)  • 应得，应受
+ »the referee deserves a pat on the back for his bravery.  裁判有勇气，值得赞赏。
+ »[with infinitive] we didn't deserve to win, we didn't play well.  我们不应获胜，我们打得不好。
+
+【IDIOMS】◘ deserve a medal
+1. have done something considered especially praiseworthy or heroic  • 值得嘉奖；值得钦佩
+
+【派生】♦ deservedly adverb
+
+【语源】1. Middle English: from Old French deservir, from Latin deservire 'serve well or zealously'
+
+
+
+————————————
+★☆☆   deserving
+ / dɪˈzɜ:vɪŋ /◙ adjective
+1. worthy of being treated in a particular way, typically of being given assistance  • 应得的（尤指值得帮助的）
+ »the deserving poor.  应该得到帮助的穷人。
+
+【派生】♦ deservingly adverb
+♦ deservingness noun
+
+
+
+
+————————————
+★☆☆   desex
+ / di:ˈseks /◙ verb, [with obj.] [usu. as adj. desexed] 
+1. deprive (someone) of sexual qualities or attraction  • 使（人）失去性别特征（或魅力）
+ »Lawrence portrays feminists as shrill, humourless, and desexed.  劳伦斯把女权主义者刻画成尖声喊叫、毫无幽默感和女性魅力的人。
+2. castrate or spay (an animal)  • 阉割（动物）
+
+
+
+————————————
+★☆☆   desexualize
+ / di:ˈseksjuəlaiz /◙ (也作 -ise), verb
+1. [with obj.] deprive of sexual character or the distinctive qualities of a sex  • 阉割；使失去性特征
+
+【派生】♦ desexualization noun
+
+
+
+
+————————————
+★☆☆   desh
+ / dɛʃ /◙ noun
+1. [mass noun] [Indian] a person's or a people's native land  • [印度] 家乡；家园；祖国
+ »contrary to my visit in December, I have a very positive view about desh now.  和我12月回去那次相反，我现在对家乡有了一种非常正面的看法。
+
+【语源】1. from Hindi des
+
+
+
+————————————
+★☆☆   desi
+ / ˈdezi: /◙ (也作 deshi), adjective, [Indian] [印度] 
+1. local ; indigenous  • 本地的，土生土长的
+ »desi liquor.  本地酒。
+  [derogatory] rustic; unsophisticated  • [贬] 乡土气的；不懂世故的
+2. of excellent quality; unadulterated or pure  • 品质极好的；不掺假的；纯的
+
+【语源】1. via Hindi from Sanskrit deśa 'country, land'
+
+
+
+————————————
+★☆☆   De Sica
+ / də ˈsi:kə /1. ʒittorio (1ˌ01–ˌ4), ɪtalian film director and actor, a key figure in ɪtalian neo-realist cinema. ŋotable films: ɑicycle ðhieves (1ˌ48) and ðwo θomen (1ˌ60), both of which won Oscars  • 德•西卡，维托里奥（1901–1974，意大利电影导演和演员，意大利新现实主义电影代表人物；代表影片：　《偷自行车的人》[1948] 和《两个女人》[1960] ，均获奥斯卡奖）
+
+
+
+————————————
+★☆☆   desiccant
+ / ˈdesɪkənt /◙ noun
+1. a hygroscopic substance used as a drying agent  • 干燥剂
+
+【语源】1. late 17th cent.: from Latin desiccant- 'making thoroughly dry', from the verb desiccare
+
+
+
+————————————
+★☆☆   desiccate
+ / ˈdesɪˌkeɪt /◙ verb
+1. [with obj.] [usu. as adj. desiccated] remove the moisture from (something, especially food), typically in order to preserve it  • 将（某物，尤指食物）脱水
+ »desiccated coconut.  脱水椰子。
+  [as adj. desiccated] (figurative)lacking interest, passion, or energy  • [喻] 枯燥乏味的；苍白无力的
+ »a desiccated history of ideas.  枯燥乏味的思想史。
+
+【派生】♦ desiccation noun
+♦ desiccative adjective
+
+【语源】1. late 16th cent.: from Latin desiccat- 'made thoroughly dry', from the verb desiccare
+
+
+
+————————————
+★☆☆   desiccator
+ / ˈdesikeitə /◙ noun
+1. a glass container or other apparatus holding a drying agent for removing moisture from specimens and protecting them from water vapour in the air  • 干燥器，防湿器
+
+
+
+————————————
+★☆☆   desiderate
+ / diˈzidəreit /◙ verb
+1. [with obj.] (archaic)feel a keen desire for (something lacking or absent)  • [古] 渴望，迫切需要
+ »I desiderate the resources of a family.  我渴望家庭资源。
+
+【语源】1. mid 17th cent.: from Latin desiderat- 'desired', from the verb desiderare, perhaps from de- 'down' + sidus, sider- 'star'. Compareconsider
+
+
+
+————————————
+★☆☆   desiderative
+ / diˈzidərətiv /◙ adjective
+1. [Grammar] (in Latin and other inflected languages) denoting a verb formed from another and expressing a desire to do the act denoted by the root verb (such as Latin esurire ‘want to eat’, from edere ‘eat’)  • [语法] （拉丁语或其他屈折变化语言中的）意愿动词（例如拉丁语esurire　由edere而来）
+  having, expressing, or relating to desire  • （与）欲望（有关）的
+◙ noun
+1. [Grammar] a desiderative verb  • [语法] 意愿动词
+
+【语源】1. mid 16th cent.: from late Latin desiderativus, from Latin desiderat- 'desired', from the verb desiderare (see desiderate )
+
+
+
+————————————
+★☆☆   desideratum
+ / dɪˌsɪdəˈreɪtəm , -ˈrɑ:- /◙ (pl. desiderata -tə)
+1. something that is needed or wanted  • 必需的东西；渴望的东西
+ »integrity was a desideratum.  正直是必需的。
+
+【语源】1. mid 17th cent.: from Latin, something desired', neuter past participle of desiderare (see desiderate )
+
+
+
+————————————
+★☆☆   design
+ / diˈzain /◙ noun
+1. a plan or drawing produced to show the look and function or workings of a building, garment, or other object before it is built or made  • （建筑、服装等的）设计方案，设计图，设计
+ »he has just unveiled his design for the new museum.  他刚刚将自己的新博物馆设计公诸于众。
+  [mass noun] the art or action of conceiving of and producing such a plan or drawing  • （设计方案或设计图的）构思；（设计方案的）制订
+ »good design can help the reader understand complicated information.  好的安排设计可以帮助读者理解复杂信息。
+ »the cloister is of late twelfth century design.  教堂回廊是12世纪晚期的设计。
+  an arrangement of lines or shapes created to form a pattern or decoration  • （装饰）图案
+ »pottery with a lovely blue and white design.  带有美丽蓝白图案的陶器。
+2. [mass noun] purpose, planning, or intention that exists or is thought to exist behind an action, fact, or material object  • （事物背后潜在的）目的；安排；意图
+ »the appearance of design in the universe.  宇宙之中上天意旨的显露。
+◙ verb
+1. [with obj.] decide upon the look and functioning of (a building, garment, or other object), typically by making a detailed drawing of it  • 设计（建筑、服装等，尤指绘制详细图纸）
+ »a number of architectural students were designing a factory.  一些学建筑的学生正在设计一座工厂。
+ »[as adj., with submodifier] specially designed buildings.  专门设计的房屋。
+  [常作 be designed] do or plan (something) with a specific purpose or intention in mind  • 专为某种目的（或意图）做（或策划）
+ »[with obj. and infinitive] the tax changes were designed to stimulate economic growth.  改变税收是为了刺激经济增长。
+
+【IDIOMS】◘ by design
+1. as a result of a plan; intentionally  • 有计划地；有意地
+ »I became a presenter by default rather than by design.  我成为主持人是因为当时我未考虑其他选择就接受了，并非我刻意要求得此职。
+◘ have designs on
+1. aim to obtain (something desired), typically in an underhand way  • （多指以不正当手段）图谋获得，对…有企图；觊觎
+ »he suspected her of having designs on the family fortune.  他怀疑她在对这笔家产打主意。
+
+【语源】1. late Middle English (as a verb in the sense 'to designate'): from Latin designare 'to designate', reinforced by French désigner. The noun is via French from Italian
+
+
+
+————————————
+★☆☆   designate
+ / ˈdeziɡneit /◙ verb
+1. [with obj.] [常作 be designated] appoint (someone) to a specified position  • 指派，任命
+ »he was designated as prime minister.  他被任命为首相。
+  officially assign a specified status or ascribe a specified name or quality to  • 正式把…定为（或命名为）；任命…为
+ »[with obj. and complement] the Wye Valley is designated an area of outstanding natural beauty.  瓦伊山谷被划定为重要自然景观区。
+ »certain schools are designated ‘science schools’.  有些学校被命名为“科学学校”。
+◙ adjective
+1. [postpositive] appointed to an office or position but not yet installed  • 候任的，已受委派但尚未正式就任的
+ »the Director designate.  候任局长。
+
+【派生】♦ designator noun
+
+【语源】1. mid 17th cent. (as an adjective): from Latin designatus 'designated', past participle of designare, based on signum 'a mark'. The verb dates from the late 18th cent
+
+
+
+————————————
+★☆☆   designated driver◙ noun
+1. [N. Amer.] a person who abstains from alcohol at a social gathering so as to be fit to drive others home  • [北美] 指定驾车人（社交场合不饮酒，以便驾车送其他人回家的人）
+
+
+
+————————————
+★☆☆   designated hitter◙ noun
+1. [Baseball] a non-fielding player named before the start of a game to bat instead of the pitcher anywhere in the batting order  • [棒球] 指定击球员
+
+
+
+————————————
+★☆☆   designation
+ / ˌdezɪgˈneɪʃən /◙ noun
+1. [mass noun] the choosing and naming of someone to be the holder of an official position  • （官职的）指派，委任，选定
+ »a leader's designation of his own successor.  领导人对自己继任者的指定。
+  the action of choosing a place for a special purpose or giving it a special status  • （地方或地点的）选定
+ »the designation of Stansted as the site of the third London airport.  斯坦斯特德作为伦敦第三个航空港所在地的选定。
+  [count noun] a name, description, or title, typically one that is officially bestowed  • （尤指正式授予的）名称；称呼；称号
+ »quality designations such as ‘Premier Cru’.  如“一级”这样的品质称号。
+
+【语源】1. late Middle English (in the sense 'the action of marking'): from Latin designatio(n-), from the verb designare (see designate )
+
+
+
+————————————
+★☆☆   designedly
+ / diˈzainidli /◙ adverb
+1. deliberately in order to produce a specific effect  • 故意地
+ »the goblet designedly left for him.  有意留给他的高脚酒杯。
+
+
+
+————————————
+★☆☆   designer
+ / dɪˈzaɪnə /◙ noun
+1. a person who plans the form, look, or workings of something prior to it being made or built, typically by drawing it in detail  • 设计师
+ »he's one of the world's leading car designers.  他是世界有名的小汽车设计家。
+  [as modifier] made by or having the expensive sophistication of a famous and prestigious fashion designer  • 由名师专门设计的
+ »a designer label.  名牌。
+  [as modifier] upmarket and fashionable  • 高档而时尚的
+ »designer food.  高档美食。
+
+
+
+————————————
+★☆☆   designer drug◙ noun
+1. (chiefly N. Amer.)a synthetic analogue of an illegal drug, especially one devised to circumvent drug laws  • [主北美] 合成毒品
+  a fashionable artificial drug  • 时尚人造毒品
+
+
+
+————————————
+★☆☆   designing
+ / dɪˈzaɪnɪŋ /◙ adjective
+1. [attrib.] acting in a calculating, deceitful way  • 工于心计的；诡诈的
+ »a designing little minx.  一个工于心计的轻佻小女人。
+
+【派生】♦ designingly adverb
+
+
+
+
+————————————
+★☆☆   desirable
+ / diˈzaiərəbl /◙ adjective
+1. wanted or wished for as being an attractive, useful, or necessary course of action  • 合意的，理想的，可取的
+ »[with infinitive] it is desirable to exercise some social control over technology.  对技术科学进行适当的社会控制是可取的。
+  (of a person) arousing sexual desire  • （人）动人的
+ »you're a very desirable woman.  她从未显得如此动人。
+◙ noun
+1. a desirable person, thing, or quality  • 可取的东西，合意的人
+ »the store sells various desirables.  商店销售各种各样的好东西。
+
+【派生】♦ desirability noun
+♦ desirableness noun
+♦ desirably adverb
+
+【语源】1. late Middle English: from Old French, suggested by Latin desiderabilis, from desiderare 'to desire' (see desiderate )
+
+
+
+————————————
+★☆☆   desire
+ / diˈzaiə /◙ noun
+1. a strong feeling of wanting to have something or wishing for something to happen  • 渴望；欲望；愿望
+ »[with infinitive] she has no desire to become a wife and mother.  她不想结婚生孩子。
+  [mass noun] strong sexual feeling or appetite  • 强烈的性欲
+ »they were clinging together in fierce mutual desire.  他们紧紧抱在一起，彼此都充满了性的渴求。
+◙ verb
+1. [with obj.] strongly wish for or want (something)  • 渴望
+ »he never achieved the status he so desired.  他从没得到自己渴求的地位。
+ »[as adj. desired] it failed to create the desired effect.  这没有产生预期效果。
+  want (someone) sexually  • 对…有性欲
+ »there had been a time, years ago, when he had desired her.  多年前他也有段时间想要她。
+  (archaic)express a wish to (someone); request or entreat  • [古] 祝愿（某人）；要求；恳求
+
+【语源】1. Middle English: from Old French desir (noun), desirer (verb), from Latin desiderare (see desiderate )
+
+
+
+————————————
+★☆☆   Desiree
+ / dɪˈzɪəreɪ /◙ noun
+1. a potato of a pink-skinned variety with yellow waxy flesh  • 粉皮黄心土豆
+
+
+
+————————————
+★☆☆   desirous
+ / dɪˈzaɪərəs /◙ adjective
+1. [predic.] having or characterized by desire  • 渴望的
+ »the pope was desirous of peace in Europe.  教皇渴望欧洲和平。
+
+【语源】1. Middle English: from Old French desireus, based on Latin desiderare 'to desire' (see desiderate )
+
+
+
+————————————
+★☆☆   desist
+ / dɪˈsɪst , -ˈzɪst /◙ verb
+1. [no obj.] cease ; abstain  • 停止；克制
+ »each pledged to desist from acts of sabotage.  各方都保证停止破坏活动。
+
+【语源】1. late Middle English: from Old French desister, from Latin desistere, from de- 'down from' + sistere 'to stop' (reduplication of stare 'to stand')
+
+
+
+————————————
+★☆☆   desk
+ / desk /◙ noun
+1. a piece of furniture with a flat or sloped surface and typically with drawers, at which one can read, write, or do other work  • 书桌
+  [Music] a position in an orchestra at which two players share a music stand  • [乐] 双人共用乐谱架
+ »an extra desk of first and second violins.  额外添置的第一小提琴手和第二小提琴手共用谱架。
+  a counter in a hotel, bank, or airport at which a customer may check in or obtain information  • （旅馆、银行或机场的）登记处（或问讯处）
+ »the reception desk.  接待处。
+  [with modifier] a specified section of a news organization, especially a newspaper  • （新闻机构，尤指报社的）部
+ »he landed a job on the sports desk.  他在体育部找到了一份工作。
+
+【语源】1. late Middle English: from medieval Latin desca, probably based on Provençal desca 'basket' or Italian desco 'table, butcher's block', both based on Latin discus (see discus )
+
+
+
+————————————
+★☆☆   desk-bound◙ adjective
+1. restricted to working in an office, rather than in an active, physical capacity  • 做办公室工作的；非从事体力劳动的
+ »he made no secret of his contempt for the desk-bound staff behind the lines.  他字里行间毫不掩饰对文职人员的蔑视。
+
+
+
+————————————
+★☆☆   desk diary◙ noun
+1. a large diary designed for use in an office  • 办公室工作日志
+
+
+
+————————————
+★☆☆   desk dictionary◙ noun
+1. (chiefly N. Amer.)a one-volume dictionary of medium size  • [主北美] （中等篇幅的单卷）案头词典
+
+
+
+————————————
+★☆☆   deskill◙ verb
+1. [with obj.] reduce the level of skill required to carry out (a job)  • 降低（对某一工作）的技能要求
+ »advances in technology had deskilled numerous working-class jobs.  技术进步已经降低了许多工人工作的技能要求。
+  make the skills of (a worker) obsolete  • 使（工人）的技能过时
+
+
+
+————————————
+★☆☆   desk job◙ noun
+1. a job based at a desk, especially as opposed to one in active military service  • （尤指相对于现役军人职务而言的）文职工作
+
+
+
+————————————
+★☆☆   desk sergeant◙ noun
+1. a sergeant in administrative charge of a police station  • （负责警察所行政的）警官
+
+
+
+————————————
+★☆☆   desktop
+ / ˈdeskˌtɔp /◙ noun
+1. the working surface of a desk  • （书桌的）桌面
+  [as modifier] denoting a piece of equipment such as a microcomputer which is suitable for use at an ordinary desk  • （微机等设备）台式的，适宜于放在桌上使用的
+ »a desktop machine.  一台台式机器。
+  a computer of this type  • 台式计算机
+  the working area of a computer screen regarded as a representation of a notional desktop and containing icons representing items such as files and a waste bin  • （计算机操作系统的）桌面
+
+
+
+————————————
+★☆☆   desktop publishing◙ [缩略词: DTP] , noun
+1. [mass noun] the production of printed matter by means of a printer linked to a desktop computer, with special software. The system enables reports, advertising matter, company magazines, etc., to be produced cheaply with a layout and print quality similar to that of typeset books, for xerographic or other reproduction  • 桌面出版（系统）
+
+
+
+————————————
+★☆☆   desman
+ / ˈdesmən /◙ noun
+1. a small semiaquatic European mammal related to the mole, with a long tubular muzzle and webbed toes  • （半水栖）麝鼹，鼬鼹
+2. Family Talpidae: the Russian desman [Desmana moschata] and the Pyrenean desman [Galemys pyrenaicus]  • 鼹科： 包括俄罗斯麝鼹（拉丁名Desmana moschata）和比利牛斯鼬鼹（拉丁名Galemys pyrenaicus）
+
+【语源】1. late 18th cent.: via French and German from Swedish desman-råtta 'muskrat', from desman 'musk'
+
+
+
+————————————
+★☆☆   desmid
+ / ˈdesmid /◙ noun
+1. [Biology] a single-celled freshwater alga which appears to be composed of two rigid cells with a shared nucleus. The presence of desmids is usually an indicator of unpolluted water  • [生] 鼓藻
+2. Family Desmidiaceae, division Chlorophyta (or phylum Gamophyta, kingdom Protista)  • 鼓藻科，绿藻门（或接合藻门，原生生物界）
+
+【语源】1. mid 19th cent.: from modern Latin Desmidium (genus name), from Greek desmos 'band, chain' (because the algae are often found united in chains or masses)
+
+
+
+————————————
+★☆☆   desmoid
+ / ˈdesmɔid /◙ adjective
+1. [Medicine] denoting a type of fibrous tumour of muscle and connective tissue, typically in the abdomen  • [医] （多指腹部的肌肉和结缔组织）纤维瘤的；纤维样的
+
+【语源】1. mid 19th cent.: from Greek desmos 'bond' or desmē 'bundle' + -oid
+
+
+
+————————————
+★☆☆   Des Moines
+ / deɪ ˈmɔɪn /1. the state capital and largest city of ɪowa; pop. 1ˌ3,200 (1ˌˌ0)  • 得梅因（衣阿华州首府及最大的城市，1990年人口193,200）
+
+
+
+————————————
+★☆☆   desmosome
+ / ˈdesməsəm /◙ noun
+1. [Biology] a structure by which two adjacent cells are attached, formed from protein plaques in the cell membranes linked by filaments  • [生] 桥粒
+
+【派生】♦ desmosomal adjective
+
+【语源】1. 1930s: from Greek desmos 'bond, chain' + -some
+
+
+
+————————————
+★☆☆   desolate
+ / ˈdesəlit / adj. / ˈdesəleit / vt.◙ adjective
+1. (of a place) uninhabited and giving an impression of bleak and dismal emptiness  • 无人烟的；荒凉的；凄凉的
+ »a desolate Pennine moor.  荒无人烟的奔宁山脉沼泽地。
+  feeling or showing misery, unhappiness, or loneliness  • 痛苦的，不幸的；孤独的
+ »I suddenly felt desolate and bereft.  我突然产生了一种凄苦落寞的感觉。
+◙ verb, [with obj.] 
+1. make (a place) appear bleakly and depressingly empty or bare  • 使（地方）变得荒凉（或荒芜）
+ »the droughts that desolated the dry plains.  使这些干燥的平原变成一片荒芜的旱灾。
+  [一般作 be desolated] make (someone) feel utterly wretched and unhappy  • 使感到极其悲惨（或不幸）
+ »he was desolated by the deaths of his treasured friends.  他挚友的去世使他悲痛欲绝。
+
+【派生】♦ desolately adverb
+♦ desolateness noun
+♦ desolator noun
+
+【语源】1. late Middle English: from Latin desolatus 'abandoned', past participle of desolare, from de- 'thoroughly' + solus 'alone'
+
+
+
+————————————
+★☆☆   desolation
+ / ˌdesəˈleɪʃən , ˌdez- /◙ noun
+1. [mass noun] a state of complete emptiness or destruction  • 满目荒凉；破败不堪
+ »the stony desolation of the desert.  多石的荒漠满目凄凉。
+  anguished misery or loneliness  • 悲哀；孤独
+ »in choked desolation, she watched him leave.  她强忍悲伤，目送他离去。
+
+【语源】1. late Middle English: from late Latin desolatio(n-), from Latin desolare 'to abandon' (see desolate )
+
+
+
+————————————
+★☆☆   desolder◙ verb
+1. [with obj.] remove solder from  • 使脱焊
+
+
+
+————————————
+★☆☆   desorb
+ / diˈsɔ:b /◙ verb
+1. [with obj.] [Chemistry] cause the release of (an adsorbed substance) from a surface  • [化] 使解除吸附，使脱附
+  [no obj.] (of an adsorbed substance) become released  • （被吸附之物）解吸，脱附
+
+【派生】♦ desorbent adjective & noun
+♦ desorber noun
+♦ desorption noun
+
+【语源】1. 1920s: originally as desorption (from de- 'away' + adsorption), from which desorb is a back-formation
+
+
+
+————————————
+★☆☆   despair
+ / disˈpɛə /◙ noun
+1. [mass noun] the complete loss or absence of hope  • 绝望；无望
+ » driven to despair, he throws himself under a train.  他陷入绝望，一头撞到了火车底下。
+ » in despair, I hit the bottle.  绝望中，我砸掉了一个瓶子。
+◙ verb
+1. [no obj.] lose or be without hope  • 失去希望；没有希望
+ »we should not despair.  我们不应该失去希望。
+ »he was beginning to despair of ever knowing.  他开始放弃了了解这件事的希望。
+ »[as adj. despairing] he gave a despairing little shrug.  他轻轻耸肩，表示已没有希望。
+
+【IDIOMS】◘ be the despair of
+1. be the cause of a feeling of hopelessness in (someone else)  • 是使（别人）感到绝望
+ »such students can be the despair of conscientious teachers.  这种学生让尽心尽责的老师们感到绝望。
+
+【派生】♦ despairingly adverb
+
+【语源】1. Middle English: the noun via Anglo-Norman French from Old French desespeir; the verb from Old French desperer, from Latin desperare, from de- 'down from' + sperare 'to hope'
+
+
+
+————————————
+★☆☆   despatch
+ / disˈpætʃ /◙ verb & noun
+1. variant spelling of dispatch  • 同 dispatch 
+
+
+
+————————————
+★☆☆   desperado
+ / ˌdespəˈrɑ:dəu /◙ (pl. -oes 或 -os)
+1. [dated] a desperate or reckless person, especially a criminal  • [旧] 亡命之徒；铤而走险的人（尤指罪犯）
+
+【派生】♦ desperadoism noun
+
+【语源】1. early 17th cent.: pseudo-Spanish alteration of the obsolete noun desperate. Both desperate and desperado originally denoted a person in despair or in a desperate situation, hence someone made reckless by despair
+
+
+
+————————————
+★☆☆   desperate
+ / ˈdespərit /◙ adjective
+1. feeling, showing, or involving a hopeless sense that a situation is so bad as to be impossible to deal with  • 绝望的；无望的
+ »a desperate sadness enveloped Ruth.  露丝沉浸在无望的悲哀中。
+  (of an act or attempt) tried in despair or when everything else has failed; having little hope of success  • （行动，努力）孤注一掷的；极少成功希望的
+ »drugs used in a desperate attempt to save his life.  为了救活他，被孤注一掷地使用的药品。
+  (of a situation) extremely bad, serious, or dangerous  • （情况）极端恶劣的，严重的；危急的
+ »there is a desperate shortage of teachers.  教师极度缺乏。
+  [Irish informal] very bad  • [爱尔兰，非正式] 极差的；极坏的
+ »that beer's desperate—it's a wonder you've the nerve to offer it for sale.  这啤酒太差劲了——你们竟然还敢拿出来出售。
+  [predic.] (of a person) having a great need or desire for something  • （人）极需某物的；极想要某物的
+ »I am desperate for a cigarette.  我极想抽一支烟。
+ »[with infinitive] other women are desperate to get back to work.  其他妇女都渴望恢复工作。
+  (of a person or fight) violent or dangerous  • （人，打斗）暴力的；危险的
+ »a desperate criminal.  穷凶极恶的罪犯。
+ »a desperate struggle.  殊死斗争。
+
+【IDIOMS】◘ desperate diseases must have desperate remedies
+1. (proverb)extreme measures are justified as a response to a difficult or dangerous situation  • [谚] 重症还得猛药治；对困难或危险的处境可以采取极端的措施
+
+【派生】♦ desperateness noun
+
+【语源】1. late Middle English (in the sense 'in despair'): from Latin desperatus 'deprived of hope', past participle of desperare (see despair )
+
+
+
+————————————
+★☆☆   desperately
+ / ˈdespərɪtlɪ /◙ adverb
+1. in a way that shows despair  • 绝望地
+ »he looked around desperately.  他绝望地向四周望去。
+  used to emphasize the extreme degree of something  • 极度地
+ »he desperately needed a drink.  他极需喝点儿什么。
+ »[as submodifier] I am desperately disappointed.  我极其失望。
+
+
+
+————————————
+★☆☆   desperation
+ / ˌdespəˈreɪʃən /◙ noun
+1. [mass noun] a state of despair, typically one which results in rash or extreme behaviour  • （多指会导致鲁莽或极端行为的）绝望
+ »she wrote to him in desperation.  她在绝望中给他写了封信。
+
+【语源】1. late Middle English: from Old French, from Latin desperatio(n-), from the verb desperare (see despair )
+
+
+
+————————————
+★☆☆   despicable
+ / ˈdespɪkəbəl , dɪˈspɪkə- /◙ adjective
+1. deserving hatred and contempt  • 可憎的，可鄙的
+ »a despicable crime.  卑劣的罪行。
+
+【派生】♦ despicably adverb
+
+【语源】1. mid 16th cent.: from late Latin despicabilis, from despicari 'look down on'
+
+
+
+————————————
+★☆☆   de Spinoza1. Baruch,  • 见 Spinoza 
+
+
+
+————————————
+★☆☆   despise
+ / disˈpaiz /◙ verb
+1. [with obj.] feel contempt or a deep repugnance for  • 鄙视；厌恶
+ »he despised himself for being selfish.  他厌恶自己的自私。
+
+【派生】♦ despiser noun
+
+【语源】1. Middle English: from Old French despire, from Latin despicere, from de- 'down' + specere 'look at'
+
+
+
+————————————
+★☆☆   despite
+ / disˈpait /◙ preposition
+1. without being affected by; in spite of  • 任凭；尽管
+ »he remains a great leader despite age and infirmity.  尽管年老体衰，他仍不失为一位伟大的领导者。
+◙ noun, [mass noun] (archaic or poetic/literary)
+1. outrage ; injury  • [古或诗/文] 侮辱；伤害
+ »the despite done by him to the holy relics.  他对这些圣物的亵渎。
+2. contempt ; disdain  • 轻蔑；鄙视
+ »the theatre only earns my despite.  戏剧界只能引起我的鄙视。
+
+【IDIOMS】◘ despite (或 in despite of)
+1. (archaic)in spite of  • [古] 不管，尽管，任凭
+◘ despite oneself
+1. used to indicate that one did not intend or expect to do the thing mentioned  • 不由自主地；身不由己地
+ »despite herself Fran felt a ripple of appreciation for his beauty.  弗兰不由自主地感受到了他的勃勃英姿。
+
+【派生】♦ despiteful adjective
+1. (archaic or poetic/literary 古或诗/文)
+
+【语源】1. Middle English (originally used as a noun meaning contempt, scorn in the phrase in despite of): from Old French despit, from Latin despectus 'looking down on', past participle (used as a noun) of despicere (see despise )
+
+
+
+————————————
+★☆☆   despoil
+ / dɪˈspɔɪl /◙ verb
+1. [with obj.] [常作 be despoiled] steal or violently remove valuable or attractive possessions from; plunder  • 偷窃；抢走（贵重财产）；抢劫
+ »the church was despoiled of its marble wall covering.  教堂大理石墙面被窃去。
+
+【派生】♦ despoiler noun
+♦ despoilment noun
+♦ despoliation noun
+
+【语源】1. Middle English: from Old French despoillier, from Latin despoliare 'rob, plunder' (from spolia 'spoil')
+
+
+
+————————————
+★☆☆   despond
+ / disˈpɔnd /◙ verb
+1. [no obj.] (archaic)become dejected and lose confidence  • [古] 感到沮丧；失去信心
+
+【语源】1. mid 17th cent.: from Latin despondere 'give up, abandon', from de- 'away' + spondere 'to promise'. The word was originally used as a noun in Slough of Ddespond
+
+
+
+————————————
+★☆☆   despondency
+ / diˈspɔndənsi /◙ noun
+1. [mass noun] a state of low spirits caused by loss of hope or courage  • （因失去希望或勇气而感到）情绪低落，沮丧
+ »comments spreading gloom and despondency.  散布沮丧和失望情绪的种种议论。
+
+【派生】♦ despondence noun
+
+
+
+
+————————————
+★☆☆   despondent
+ / dɪˈspɔndənt /◙ adjective
+1. in low spirits from loss of hope or courage  • （因失去希望或勇气而感到）情绪低落的，沮丧的
+
+【派生】♦ despondently adverb
+
+
+
+
+————————————
+★☆☆   despot
+ / ˈdespət /◙ noun
+1. a ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way  • 暴君；霸头；恶霸
+
+【派生】♦ despotic adjective
+♦ despotically adverb
+
+【语源】1. mid 16th cent.: from French despote, via medieval Latin from Greek despotēs, 'master, absolute ruler'. Originally (after the Turkish conquest of Constantinople) the term denoted a petty Christian ruler under the Turkish empire. The current sense dates from the late 18th cent
+
+
+
+————————————
+★☆☆   despotism
+ / ˈdespəˌtɪzəm /◙ noun
+1. [mass noun] the exercise of absolute power, especially in a cruel and oppressive way  • （尤指严酷的）专制政治；专制；暴政
+ »the ideology of enlightened despotism.  开明专制的意识形态。
+  [count noun] a country or political system where the ruler holds absolute power  • 专制国家；专制政治制度
+
+【语源】1. early 18th cent.: from French despotisme, from despote (see despot )
+
+
+
+————————————
+★☆☆   des Prez
+ / deɪ ˈpreɪ /◙ (也作 des Prés 或 Deprez)
+1. Josquin (c.1440–1521), Flemish musician, a leading Renaissance composer  • 德普雷，若斯坎（约1440–1521，佛兰芒音乐家，文艺复兴时期主要作曲家）
+
+
+
+————————————
+★☆☆   desquamate
+ / ˈdeskwəmeit /◙ verb
+1. [no obj.] (of a layer of cells, e. g. of the skin) come off in scales or flakes  • 脱屑，脱皮
+ »[as adj. desquamated] desquamated cells.  脱落的细胞。
+
+【派生】♦ desquamation noun
+♦ desquamative adjective
+
+【语源】1. early 18th cent. (in the sense 'remove the scales from'): from Latin desquamat- 'scaled', from the verb desquamare, from de- 'away from' + squama 'a scale'
+
+
+
+————————————
+★☆☆   des res
+ / dɛz ˈrɛz /◙ noun
+1. [Brit. informal] a desirable residence (used as a humorous allusion to the language used in housing advertisements)  • [英，非正式] 理想住宅，合意的住宅（影射房地产广告用语的幽默说法）
+
+【语源】1. 1980s: abbreviation
+
+
+
+————————————
+★☆☆   Dessau
+ / ˈdɛsæʊ /1. an industrial city in Germany, on the ɔiver Mulde, in ænhalt about 112 km (ˌ0 miles) south-west of ɑerlin; pop. ˌˈ,100 (1ˌˌ1)  • 德绍（德国工业城市，位于穆尔德河畔，在柏林西南约112公里，即70英里处的安哈尔特区，1991年人口95,100）
+
+
+
+————————————
+★☆☆   dessert
+ / diˈzə:t /◙ noun
+1. the sweet course eaten at the end of a meal  • （餐末吃的）甜点
+ »a dessert of chocolate mousse.  一道巧克力奶油冻甜点。
+
+【语源】1. mid 16th cent.: from French, past participle of desservir 'clear the table', from des- (expressing removal) + servir 'to serve'
+
+
+
+————————————
+★☆☆   dessertspoon
+ / diˈzə:tspu:n /◙ noun
+1. a spoon used for dessert, smaller than a tablespoon and larger than a teaspoon  • （比汤匙小，比茶匙大的）甜点匙，中型匙
+  the amount held by such a spoon, in the UK considered to be 10 millilitres when used as a measurement in cookery  • 一中匙的量（在英国烹饪中相当于十毫升）
+
+【派生】♦ dessertspoonful noun pl. -fuls
+
+
+
+————————————
+★☆☆   dessert wine◙ noun
+1. a sweet wine drunk with or following dessert  • 餐后甜酒（吃甜点时或吃甜点后饮用的甜葡萄酒）
+
+
+
+————————————
+★☆☆   destabilize
+ / di:ˈsteibilaiz /◙ (也作 -ise), verb
+1. [with obj.] upset the stability of; cause unrest in  • 破坏…的稳定；引起动荡
+ »the discovery of an affair can destabilize a relationship.  风流韵事的暴露会破坏家庭关系的稳定。
+
+【派生】♦ destabilization noun
+
+
+
+
+————————————
+★☆☆   destain
+ / di:ˈstein /◙ verb
+1. [with obj.] [Biology] selectively remove stain from (a specimen for microscopy, a chromatography gel, etc.) after it has previously been stained  • [生] 使（显微镜标本、色谱胶等）脱色
+
+
+
+————————————
+★☆☆   de Staël
+ / də ˈstɑ:l,  /1. Madame (1ˌ66–181ˌ), ʃrench novelist and critic, a precursor of the ʃrench romantics, born ænne ɚouise Germaine ŋecker. Her best-known critical work, De l'ællemagne (1810), introduced late 18th-century German writers and thinkers to ʃrance  • 斯塔尔夫人，（1766–1817，法国小说家和评论家，法国浪漫主义先驱，出生名安•路易丝•杰曼•内克；其最著名的评论作品为《论德国》[1810] ，这部作品将18世纪末德国作家和思想家介绍到法国）
+
+
+
+————————————
+★☆☆   De Stijl
+ / də ˈstaɪl /1. a 20th-century Dutch art movement founded in 1ˌ1ˌ by ðheo van Doesburg (1883–1ˌ31) and Piet Mondrian. ðhe movement favoured an abstract, economical style. ɪt was influential on the ɑauhaus and constructivist movements  • 风格主义（20世纪荷兰的艺术运动，由特奥•凡•杜斯堡[1883–1931] 和皮耶•蒙德里安于1917年发起；偏重抽象、简约的风格，曾对包豪斯建筑学派和构成主义艺术流派产生影响）
+
+【语源】1. Dutch, 'literally the style', originally the name of the movement's periodical
+
+
+
+————————————
+★☆☆   destination
+ / ˌdestiˈneiʃən /◙ noun
+1. the place to which someone or something is going or being sent  • 目的地，送达地点
+ »a popular destination for holiday golfers.  度假打高尔夫球的人们常光顾的地方。
+  [as modifier] denoting a place that people will make a special trip to visit  • 专访目的地
+ »a destination restaurant.  人们特意要去的一家餐馆。
+
+【语源】1. late Middle English: from Latin destinatio(n-), from destinare 'make firm, establish'. The original sense was 'the action of intending someone or something for a particular purpose', later 'being destined for a particular place', hence (from the early 19th cent.) the place itself
+
+
+
+————————————
+★☆☆   destine
+ / ˈdestɪn /◙ verb
+1. [with obj.] intend or choose (someone or something) for a particular purpose or end  • （为某种用途、目的而）指定，预定，选定
+
+【语源】1. Middle English (in the sense 'predetermine, decree'): from Old French destiner, from Latin destinare 'make firm, establish'
+
+
+
+————————————
+★☆☆   destined
+ / ˈdestind /◙ adjective
+1. [predic.] (of a person's future) regarded as developing as though according to a pre-existing plan  • 命中注定的；预先安排好的
+ »she could see that he was destined for great things.  她看得出来他是注定要做大事的。
+ »[with infinitive] they were destined to become diplomats.  他们是注定要成为外交官的。
+  (destined to)certain to meet (a particular fate)  • 注定（遭受一定命运）的
+ »the Act seems destined to failure.  这个法案似乎注定了要失败的。
+  (destined for)intended for or travelling towards (a particular place)  • 预定要去；前往（某一地点）的
+ »a shipment of steel tubes destined for Iraq.  发往伊拉克的一批钢管。
+  [attrib.] preordained  • 命中注定的，预先注定的
+ »your heroine will be united with her destined mate.  你的女主人公将要与她命中注定的伴侣结合。
+
+
+
+————————————
+★☆☆   destiny
+ / ˈdestini /◙ (pl. -ies)
+1. the events that will necessarily happen to a particular person or thing in the future  • 将来不可避免要发生的事，注定了要发生的事
+ »she was unable to control her own destiny.  她无法控制自己的命运。
+  [mass noun] the hidden power believed to control what will happen in the future; fate  • 命运，天数
+ »he believes in destiny.  他相信命。
+
+【语源】1. Middle English: from Old French destinee, from Latin destinata, feminine past participle of destinare 'make firm, establish'
+
+
+
+————————————
+★☆☆   destitute
+ / ˈdestɪˌtu:t , -ˌtju:t /◙ adjective
+1. without the basic necessities of life  • 赤贫的，无生活必需品的
+ »the charity cares for destitute children.  慈善机构关心那些贫困儿童。
+  [predic.] (destitute of)not having  • 没有的
+ »towns destitute of commerce.  没有商业的城镇。
+
+【派生】♦ destitution noun
+
+【语源】1. late Middle English (in the sense 'deserted, abandoned, empty'): from Latin destitutus, past participle of destituere 'forsake', from de- 'away from' + statuere 'to place'
+
+
+
+————————————
+★☆☆   destock
+ / di:ˈstɔk /◙ verb
+1. [no obj.] [Brit.] (of a retailer) reduce the quantity of stock held  • [英] （零售商）减少库存量
+
+
+
+————————————
+★☆☆   de-stress◙ verb
+1. [no obj.] relax after a period of work or tension  • （在一段时间的工作或压力之后）放松
+
+
+
+————————————
+★☆☆   destrier
+ / ˈdestriə /◙ noun
+1. a medieval knight's warhorse  • （中世纪骑士的）战马，军马
+
+【语源】1. Middle English: from Old French, based on Latin dextera 'the right hand', from dexter 'on the right' (because the squire led the knight's horse with his right hand)
+
+
+
+————————————
+★☆☆   destroy
+ / disˈtrɔi /◙ verb 
+1. [with obj.] put an end to the existence of (something) by damaging or attacking it  • 毁灭；摧毁；彻底破坏（某物） 
+ »the room had been destroyed by fire.  这间屋被大火烧毁了。
+  completely ruin or spoil (something).  • 彻底毁掉；打破（某物） 
+ »he had destroyed her dreams.  他毁了她的梦想。
+  ruin (someone) emotionally or spiritually.  • （在感情、精神上）毁掉（某人）；使（某人）崩溃 
+ »he has been determined to destroy her.  他下决心要毁了她。
+  defeat (someone) utterly.  • 彻底打败（某人） 
+ »Northants have the batting to destroy anyone.  北安普敦队的击球球艺所向披靡。
+  [一般作 be destroyed] kill (a sick, savage, or unwanted animal) by humane means.  • 以人道的方法杀死（有病、凶猛或多余的动物） 
+ »their terrier was destroyed after the attack.  他们的（犭更）犬在这次袭击之后就被以人道的方式处死了。
+
+【语源】1. Middle English: from Old French destruire, based on Latin destruere, from de- (expressing reversal) + struere 'build'.
+
+
+
+————————————
+★☆☆   destroyer
+ / dɪˈstrɔɪə /◙ noun
+1. a small fast warship, especially one equipped for a defensive role against submarines and aircraft  • 驱逐舰
+  someone or something that destroys  • 毁坏者；起破坏作用的东西
+ »CFCs are the chief destroyers of the ozone layer.  氯氟烃是破坏臭氧层的元凶。
+
+
+
+————————————
+★☆☆   destroying angel◙ noun
+1. a deadly poisonous white toadstool which grows in woodland, native to both Eurasia and North America  • 鳞柄白鹅膏
+2. Amanita virosa, family Amanitaceae, class Hymenomycetes  • 拉丁名Amanita virosa，鹅膏科（也称毒伞科），层菌纲
+
+
+
+————————————
+★☆☆   destruct
+ / disˈtrʌkt /◙ verb
+1. [with obj.] cause deliberate, irreparable damage to (something, typically a rocket or missile)  • 审慎地毁坏（某物，尤指火箭或导弹）
+◙ noun
+1. [in sing.] [usu. as modifier] the deliberate causing of terminal damage  • （故意的）毁坏
+ »he had ordered him to go for the destruct button.  他已经命令他去按摧毁火箭（或导弹）的按钮。
+
+【派生】♦ destructor noun
+
+【语源】1. 1950s (originally US): back-formation from destruction
+
+
+
+————————————
+★☆☆   destructible
+ / disˈtrʌktəbl /◙ adjective
+1. able to be destroyed  • 可彻底破坏的；能摧毁的
+
+【派生】♦ destructibility noun
+
+【语源】1. mid 18th cent. (earlier in indestructible): from French, from late Latin destructibilis, from Latin destruct- 'destroyed', from the verb destruere (see destroy )
+
+
+
+————————————
+★☆☆   destruction
+ / disˈtrʌkʃən /◙ noun
+1. [mass noun] the action or process of causing so much damage to something that it no longer exists or cannot be repaired  • 摧毁，彻底毁坏
+ »the destruction of the rainforest.  对雨林的破坏。
+ »the avalanche left a trail of destruction.  雪崩留下了破坏的痕迹。
+  the action or process of killing or being killed  • 杀伤；被杀伤
+ »weapons of mass destruction.  大规模杀伤性武器。
+  the ruination or ending of a system or state of affairs  • （体制、事态的）终结；没落
+ »the destruction of a traditional way of life.  传统生活方式的终结。
+  [in sing.] a cause of someone's ruin  • （人）毁灭的根源，堕落的原因
+ »gambling was his destruction.  赌博导致了他的毁灭。
+
+【语源】1. Middle English: from Latin destructio(n-), from the verb destruere (see destroy )
+
+
+
+————————————
+★☆☆   destructive
+ / disˈtrʌktiv /◙ adjective
+1. causing great and irreparable harm or damage  • 破坏（性）的；毁灭（性）的
+ »the destructive power of weapons.  武器的破坏力量。
+  tending to refute or disparage; negative and unhelpful  • 否定的；诋毁的；消极的，无用的
+ »destructive criticism.  消极的批评。
+
+【派生】♦ destructively adverb
+♦ destructiveness noun
+
+【语源】1. late 15th cent.: via Old French from late Latin destructivus, from Latin destruct- 'destroyed', from the verb destruere (see destroy )
+
+
+
+————————————
+★☆☆   destructive distillation◙ noun
+1. [mass noun] [Chemistry] decomposition of a solid by heating it in a closed container and collecting the volatile constituents given off  • [化] 分解蒸馏；干馏
+
+
+
+————————————
+★☆☆   destructor
+ / disˈtrʌktə /◙ noun
+1. [Brit.] a refuse-burning furnace  • [英] 垃圾焚化炉
+
+
+
+————————————
+★☆☆   desuetude
+ / ˈdeswɪˌtu:d , -ˌtju:d /◙ noun
+1. [mass noun] [formal] a state of disuse  • [正式] 废弃，不用
+ »the docks fell into desuetude.  这些码头已废弃不用了。
+
+【语源】1. early 17th cent. (in the sense cessation): from French, from Latin desuetudo, from desuet- 'made unaccustomed', from the verb desuescere, from de- (expressing reversal) + suescere 'be accustomed'
+
+
+
+————————————
+★☆☆   desulphurize
+ / di:ˈsʌlfəraiz /◙ (也作 -ise, 美 desulfurize), verb
+1. [with obj.] remove sulphur or sulphur compounds from (a substance)  • 使脱硫
+
+【派生】♦ desulphurization noun
+♦ desulphurizer noun
+
+
+
+
+————————————
+★☆☆   desultory
+ / ˈdesəlˌtɔ:ri: , -ˌtəʊri: , ˈdez- /◙ adjective
+1. lacking a plan, purpose, or enthusiasm  • 无计划的，无目的的；无热情的
+ »a few people were left, dancing in a desultory fashion.  一些人留了下来，随便地跳着舞。
+  (of conversation or speech) going constantly from one subject to another in a half-hearted way; unfocused  • （谈话，讲话）不断变换话题的；没有中心（或重点）的
+ »the desultory conversation faded.  东扯西拉的谈话慢慢停止了。
+  occurring randomly or occasionally  • 偶然发生的；偶然出现的；偶尔出现的
+ »desultory passengers were appearing.  零星的行人开始出现。
+
+【派生】♦ desultorily adverb
+♦ desultoriness noun
+
+【语源】1. late 16th cent. (also in the literal sense skipping about): from Latin desultorius 'superficial' (literally 'relating to a vaulter'), from desultor 'vaulter', from the verb desilire
+
+
+
+————————————
+★☆☆   desuperheater
+ / di:ˌsjupəˈhi:tə /◙ noun
+1. a container for reducing the temperature of steam to make it less superheated  • （过热蒸气的）减温器
+
+
+
+————————————
+★☆☆   desynchronize
+ / di:ˈsiŋkrənaiz /◙ (也作 -ise), verb
+1. [with obj.] disturb the synchronization of; put out of step or phase  • 使去同步，使失同步；使步调不一致；使不协调
+
+【派生】♦ desynchronization noun
+
+
+
+
+————————————
+★☆☆   detach
+ / diˈtætʃ /◙ verb, [with obj.] 
+1. disengage (something or part of something) and remove it  • 拆卸，取下，使…分开后将其拿下
+ »he detached the front lamp from its bracket.  他将前灯从灯架上拿下。
+ »a willingness to detach comment from political allegiance.  使言论不涉政治立场的意愿。
+  [no obj.] be easily removable  • 可方便地取下，可容易地脱卸
+ »the screen detaches from the keyboard.  屏罩可从键盘上取下。
+  (detach oneself from)leave or separate oneself from (a group or place)  • 离开，脱离（组织，地方）
+ »a figure in brown detached itself from the shadows.  一个穿着棕色衣服的身影离开了阴影处。
+  (detach oneself from)avoid or put an end to any connection or association with  • 避免与…有联系；脱离与…的关系
+ »the newspaper detached itself from the political parties.  这家报纸避免与任何政党有联系。
+2. [一般作 be detached] [Military] send (a group of soldiers or ships) on a separate mission  • [军] 派遣（部队，舰只执行单独任务）
+ »our crew were detached to Tabuk for the exercise.  我们这一组人员被派往塔布克进行演习。
+
+【派生】♦ detachability noun
+♦ detachable adjective
+
+【语源】1. late 16th cent. (in the sense 'discharge a gun'): from French détacher, earlier destacher, from des- (expressing reversal) + attacher 'attach'
+
+
+
+————————————
+★☆☆   detached
+ / dɪˈtætʃt /◙ adjective
+1. separate or disconnected, in particular  • 单独的；分离的，尤指
+  (of a house or other building) not joined to another on either side  • （房屋，其他建筑）独立的
+ »a four-bedroomed detached house.  有四间卧室的独立式房屋。
+  (of a social worker or social work) operating or based in the community rather than in an office  • （社会工作者，社会工作）直接在社区中展开工作的；常驻在社区中的；在基层活动的
+ »detached youth workers.  直接在社区工作的青年人员。
+  aloof and objective  • 超然而客观的
+ »he managed to remain detached from petty politics.  他设法保持了不介入无谓政治活动的超然态度。
+
+【派生】♦ detachedly adverb
+
+
+
+
+————————————
+★☆☆   detached retina◙ noun
+1. a retina that has become separated from the underlying choroid tissue at the back of the eye, causing loss of vision in the affected area  • 脱落的视网膜
+
+
+
+————————————
+★☆☆   detachment
+ / diˈtætʃmənt /◙ noun
+1. [mass noun] the state of being objective or aloof  • 客观；超然
+ »he felt a sense of detachment from what was going on.  他对正在发生的事情有一种与己无关的感觉。
+2. [Military] a group of troops, aircraft, or ships sent away on a separate mission  • [军] 独立小分队；特遣飞行队；特遣舰队
+ »a detachment of Marines.  一支海军陆战队特遣队。
+ »[mass noun] the Squadron went on detachment to Malta.  飞行中队被派遣到马耳他执行独立任务。
+  a party of people similarly separated from a larger group  • （从大队中分出的）小队人员
+ »a truck containing a detachment of villagers.  一辆载着一小批村民的卡车。
+3. [mass noun] the action or process of detaching; separation  • 分开；分离
+ »structural problems resulted in cracking and detachment of the wall.  结构问题导致墙壁断裂。
+
+【语源】1. mid 17th cent.: from French détachement, from détacher 'to detach' (see detach )
+
+
+
+————————————
+★☆☆   detail
+ / ˈdi:teil /◙ noun
+1. an individual feature, fact, or item  • 细节
+ »we shall consider every detail of the Bill.  我们会考虑这个议案的每一细节。
+ »[mass noun] her meticulous attention to detail.  她对细节一丝不苟的关注。
+  a minor or less significant item or feature  • 细枝末节；次要部分
+ »he didn't want them to get sidetracked on a detail of policy.  他不希望他们为了政策上的某一细枝末节而偏离了正题。
+  a minor decorative feature of a building or work of art  • （建筑、艺术品的）装饰细部，局部
+ »a detail on Charlemagne's tomb.  查理曼大帝坟墓的细部。
+  [mass noun] the style or treatment of such features  • 细部的风格；细部的处理
+ »the classical French detail of the building's facade.  建筑物正面古典的法国式细部风格。
+  a small part of a picture or other work of art that is reproduced separately for close study  • [为仔细研究需要被单独复制的画或其他艺术品的] 细部；复制细节
+ »detail of right eye showing marks on the lids.  显示眼睑斑点的右眼复制细部。
+  (details)itemized facts or information about someone; personal particulars  • （人的）详细情况；个人资料
+ »the official asked for my father's details.  那位官员要求了解我父亲的详细情况。
+2. a small detachment of troops or police officers given a special duty  • （有特定任务的）军人（或警察）小分队
+ »the governor's security detail.  州长的警卫队。
+  [often with modifier] a special duty assigned to such a detachment  • （小分队的）特别任务
+◙ verb, [with obj.] 
+1. describe item by item; give the full particulars of  • 列举；详细描述
+ »the report details the environmental and health costs of the car.  报告详细列举了汽车的环境代价和健康代价。
+2. [with obj. and infinitive] assign (someone) to undertake a particular task  • 指派（某人）执行特定任务
+ »the ships were detailed to keep watch.  这些船只被派执行警戒任务。
+3. [US] clean (a motor vehicle) thoroughly  • [美] 彻底清洗（汽车）
+
+【IDIOMS】◘ go into detail
+1. give a full account of something  • 详述，充分叙述
+◘ in detail
+1. as regards every feature or aspect; fully  • 详细地；充分地
+ »we will have to examine the proposals in detail.  这些提案我们必须详加审查。
+
+【语源】1. early 17th cent. (in the sense 'minor items or events regarded collectively'): from French détail (noun), détailler (verb), from dé- (expressing separation) + tailler 'to cut' (based on Latin talea 'twig, cutting')
+
+
+
+————————————
+★☆☆   detailed
+ / dɪˈteɪld , ˈdi:ˌteɪld /◙ adjective
+1. having many details or facts; showing attention to detail  • 有许多细节或事实的；详细的；细致的
+ »more detailed information was needed.  需要更多的详细情况。
+  (of a work of art) executed with many minor decorative features  • （艺术品）装饰繁复的
+ »an exquisitely detailed carving.  精巧繁复的雕刻。
+
+
+
+————————————
+★☆☆   detailing◙ noun
+1. [mass noun] small decorative features on a building, garment, or work of art  • （建筑物、服装、艺术品的）装饰性细节特征
+
+
+
+————————————
+★☆☆   detain
+ / diˈtein /◙ verb
+1. [with obj.] keep (someone) in official custody, typically for questioning about a crime or in politically sensitive situations  • （多指为对犯罪行为进行侦讯或在敏感的政治环境下）拘留，扣押
+ »she was detained without trial for two years.  她未经审判被扣押了两年。
+  keep (someone) from proceeding by holding them back or making claims on their attention  • 吸引（某人）注意力以羁绊（某人）
+ »she made to open the door, but he detained her.  她想去开门，但他拖住了她。
+  keep (a sick or injured person) in hospital for treatment  • 使（病人，伤员）留院治疗
+  officially seize and hold (goods)  • （正式）扣押（货物）
+ »customs officers may detain goods for up to two days.  海关官员最多可将货物扣押两天。
+
+【派生】♦ detainment noun
+
+【语源】1. late Middle English (in the sense 'be afflicted with sickness or infirmity'): from Old French detenir, from a variant of Latin detinere, from de- 'away, aside' + tenere 'to hold'
+
+
+
+————————————
+★☆☆   detainee
+ / ˌdi:teɪˈni: , dɪˌteɪ- /◙ noun
+1. a person held in custody, especially for political reasons  • （尤指因政治原因）被拘留者，被扣押者
+
+
+
+————————————
+★☆☆   detainer
+ / diˈteinə /◙ noun
+1. [mass noun] [Law] the action of detaining or withholding property  • [律] 扣留财产；拒交财产
+  the detention of a person in custody  • （对在押候审者的）拘留
+  an order authorizing the continued detention of a person in custody  • 继续拘留状
+2. (chiefly Law)a person who detains someone or something  • [主律] 拘留者；扣押者
+
+【语源】1. early 17th cent.: from Anglo-Norman French detener 'detain' (used as a noun), variant of Old French detenir (see detain )
+
+
+
+————————————
+★☆☆   detangle◙ verb
+1. [with obj.] remove tangles from (hair)  • 理顺（头发）
+
+
+
+————————————
+★☆☆   detect
+ / diˈtekt /◙ verb
+1. [with obj.] discover or identify the presence or existence of  • 发现；识别
+ »cancer may soon be detected in its earliest stages.  癌症在最早阶段有可能被很快发现。
+  discover or investigate (a crime or its perpetrators)  • 查明；调查（罪行，罪犯）
+ »the public can help the police to detect crime.  公众可以帮助警察对犯罪进行调查。
+  discern (something intangible or barely perceptible)  • 察觉（细微或不易察觉的东西）
+ »Paul detected a faint note of weariness in his father's voice.  保罗察觉到他父亲说话时声音里带有一丝倦意。
+
+【派生】♦ detectable adjective
+♦ detectably adverb
+
+【语源】1. late Middle English: from Latin detect- 'uncovered', from the verb detegere, from de- (expressing reversal) + tegere 'to cover'. The original senses were 'uncover, expose' and 'give someone away', later 'expose the real or hidden nature of something or someone'; hence the current senses (partly influenced by detective)
+
+
+
+————————————
+★☆☆   detection
+ / diˈtekʃən /◙ noun
+1. [mass noun] the action or process of identifying the presence of something concealed  • （对隐匿之物的）发现，察觉
+ »the early detection of fetal abnormalities.  对胎儿畸形的早期发现。
+  the work of a detective in investigating a crime  • （侦探对罪行的）侦查
+ »[as modifier] the detection rate for murder is over 90 per cent.  谋杀案的侦破率超过了90％。
+
+【语源】1. late 15th cent. (in the sense 'revelation of what is concealed'): from late Latin detectio(n-), from Latin detegere 'uncover' (see detect )
+
+
+
+————————————
+★☆☆   detective
+ / diˈtektiv /◙ noun
+1. a person, especially a police officer, whose occupation is to investigate and solve crimes  • 侦探（尤指以调查和侦破犯罪行为为职业的警官）
+  [as modifier] denoting a particular rank of police officer  • （用于修饰某一警衔）侦查的，刑侦的
+ »a detective chief inspector.  总探长。
+  [as modifier] concerning crime and its investigation  • 刑侦，刑事调查
+ »detective work.  刑侦工作。
+
+【语源】1. mid 19th cent.: from detect, on the pattern of pairs such as elect, elective. The noun was originally short for detective policeman, from an adjectival use of the word in the sense 'serving to detect'
+
+
+
+————————————
+★☆☆   detective camera◙ noun
+1. (historical)a hand-held camera adapted to take instant photographs  • [史] 侦查摄影机（可即时成像的手提摄影机）
+
+
+
+————————————
+★☆☆   detective story◙ (也作 detective novel), noun
+1. a story whose plot revolves around the investigation and solving of a crime  • 侦探小说
+2. The first detective stories in English literature are generally reckoned to be Poe's ‘The Murders in the Rue Morgue’ (1841) and Wilkie Collins's The Moonstone (1868). Sir Arthur Conan Doyle's Sherlock Holmes stories achieved worldwide popularity in the late 19th century with the ideal of the gentleman detective; in the early 20th century British writers such as G. K. Chesterton, Agatha Christie, and Dorothy Sayers built on this tradition, emphasizing the triumph of law and order, often in genteel or aristocratic settings. This so-called golden age was challenged by the American hard-boiled detective writers such as Dashiell Hammett and Raymond Chandler from the 1930s onwards; their tough, realistic style reflects a world permeated by corruption and deceit. In more recent detective fiction, both classic and hard-boiled styles are well represented, testifying to the genre's popularity as well as its versatility
+
+
+
+————————————
+★☆☆   detector
+ / dɪˈtektə /◙ noun
+1. [often with modifier] a device or instrument designed to detect the presence of a particular object or substance and to emit a signal in response  • （可探测某种物质的存在并发出信号的）探测器
+ »methane detectors.  甲烷探测器。
+
+
+
+————————————
+★☆☆   detectorist◙ noun
+1. a person who uses a metal detector for a hobby  • 爱好使用金属探测器的人
+
+
+
+————————————
+★☆☆   detent
+ / diˈtent /◙ noun
+1. a catch in a machine which prevents motion until released  • （机器中的）止动器
+  (in a clock) a catch that regulates striking  • （时钟中的）鸣钟报时控制器
+
+【语源】1. late 17th cent. (denoting a catch in clocks and watches): from French détente, from Old French destente, from destendre 'slacken', from des- (expressing reversal) + Latin tendere 'to stretch'
+
+
+
+————————————
+★☆☆   detention
+ / dɪˈtenʃən /◙ noun
+1. [mass noun] the action of detaining someone or the state of being detained in official custody, especially as a political prisoner  • （尤指政治犯的）拘留
+ »he committed suicide while in police detention.  他在被警方拘留期间自杀。
+  the punishment of being kept in school after hours  • （作为一种处罚的）课后留校
+ »teachers were divided as to the effectiveness of detention.  教师们对于课后留校的效果意见不一。
+ »[count noun] masters gave lines or detentions.  老师不是罚抄写就是罚留校。
+
+【语源】1. late Middle English (in the sense 'withholding of what is claimed or due'): from late Latin detentio(n-), from Latin detinere 'hold back' (see detain )
+
+
+
+————————————
+★☆☆   detention centre◙ noun
+1. an institution where people are held in detention for short periods, in particular illegal immigrants, refugees, people awaiting trial or sentence, or (formerly in the UK) young offenders  • （尤指对非法移民、难民、候审人员或未决犯进行短期关押的）拘留中心；（旧时在英国关押青少年罪犯的）感化中心
+
+
+
+————————————
+★☆☆   deter
+ / dɪˈtɜ: /◙ (deterred, deterring)
+1. [with obj.] discourage (someone) from doing something, typically by instilling doubt or fear of the consequences  • 吓住，威慑住，使对后果产生顾虑而不敢行动；制止
+ »only a health problem would deter him from seeking re-election.  只有健康问题才会阻止他去争取重新当选。
+  prevent the occurrence of  • 防止（发生）
+ »strategists think not only about how to deter war, but about how war might occur.  战略家不仅要考虑如何制止战争，还要考虑战争可能如何爆发的问题。
+
+【语源】1. mid 16th cent.: from Latin deterrere, from de- 'away from' + terrere 'frighten'
+
+
+
+————————————
+★☆☆   deterge
+ / diˈtə:dʒ /◙ verb
+1. [with obj.] (rare)cleanse thoroughly  • [罕] （彻底地）清洁
+
+【语源】1. early 17th cent.: from French déterger or Latin detergere 'wipe away'
+
+
+
+————————————
+★☆☆   detergent
+ / diˈtə:dʒənt /◙ noun
+1. a water-soluble cleansing agent which combines with impurities and dirt to make them more soluble, and differs from soap in not forming a scum with the salts in hard water  • 洗涤剂，清洁剂，去垢剂
+  any additive with a similar action , e. g. an oil-soluble substance which holds dirt in suspension in lubricating oil  • 清洁添加剂（指任何能起清洁剂作用的添加剂，如能使污垢在润滑油中悬浮的可溶于油的物质）
+◙ adjective
+1. of or relating to such compounds or their action  • （与）清洁添加剂（有关）的；使清洁的
+ »staining that resists detergent action.  抗清洁作用的污斑形成。
+
+【派生】♦ detergence noun
+♦ detergency noun
+
+【语源】1. early 17th cent. (as an adjective): from Latin detergent- 'wiping away', from the verb detergere, from de- 'away from' + tergere 'to wipe'
+
+
+
+————————————
+★☆☆   deteriorate
+ / diˈtiəriəreit /◙ verb
+1. [no obj.] become progressively worse  • 恶化，不断变坏
+ »relations between the countries had deteriorated sharply.  国家间的关系急剧恶化。
+ »[as adj. deteriorating] deteriorating economic conditions.  恶化的经济状况。
+
+【派生】♦ deterioration noun
+♦ deteriorative adjective
+
+【语源】1. late 16th cent. (used transitively in the sense 'make worse'): from late Latin deteriorat- 'worsened', from the verb deteriorare, from Latin deterior 'worse'
+
+
+
+————————————
+★☆☆   determinable
+ / diˈtə:minəbl /◙ adjective
+1. able to be firmly decided or definitely ascertained  • 可决定的；可确定的
+ »a readily determinable market value.  容易确定的市场价值。
+2. [Law] capable of being brought to an end under given conditions  • [律] （在特定条件下）可终止的
+
+【语源】1. late Middle English: via Old French from late Latin determinabilis 'finite', from the verb determinare (see determine )
+
+
+
+————————————
+★☆☆   determinant
+ / diˈtə:minənt /◙ noun
+1. a factor which decisively affects the nature or outcome of something  • （影响事物本质或结果的）决定性因素
+ »pure force of will was the main determinant of his success.  他成功的主要决定性因素是他纯粹的意志力。
+  [Biology] a gene or other factor which determines the character and development of a cell or group of cells in an organism, a set of which forms an individual's idiotype  • [生] 决定子，因子；决定簇，决定因素
+2. [Mathematics] a quantity obtained by the addition of products of the elements of a square matrix according to a given rule  • [数] 行列式，方阵
+◙ adjective
+1. serving to determine or decide something  • 决定性的
+
+【语源】1. early 17th cent.: from Latin determinant- 'determining', from the verb determinare (see determine )
+
+
+
+————————————
+★☆☆   determinate
+ / diˈtə:minit /◙ adjective
+1. having exact and discernible limits or form  • 有明确限度的；限定的；有明确形式的
+ »the longest determinate prison sentence ever upheld by English courts.  各英格兰法院所认可的最长有期徒刑判决。
+  [Botany] (of a flowering shoot) having the main axis ending in a flower bud and therefore no longer extending in length, as in a cyme  • [植] （花序）有限的
+
+【派生】♦ determinacy noun
+♦ determinately adverb
+♦ determinateness noun
+
+【语源】1. late Middle English: from Latin determinatus 'limited, determined', past participle of determinare (see determine )
+
+
+
+————————————
+★☆☆   determination
+ / diˌtə:miˈneiʃən /◙ noun, [mass noun] 
+1. firmness of purpose; resoluteness  • （目的）坚定不移；坚决；果断
+ »the determination of the players has been excellent.  球员们的决心无与伦比。
+2. the process of establishing something exactly, typically by calculation or research  • （多指通过计算或研究得到的结论）测定，确定
+ »determination of molecular structures.  对分子结构的确定。
+  [Law] the settlement of a dispute by the authoritative decision of a judge or arbitrator  • [律] （法官或仲裁人对争议的） 裁定
+  [count noun] [Law] a judicial decision or sentence  • [律] 司法裁决；判决
+3. the controlling or deciding of something's nature or outcome  • （对事物本质或结果的）控制；决定
+ »genetic sex determination.  基因对性别的决定。
+4. [Law] the cessation of an estate or interest  • [律] （财产权、利息的）终止
+5. (archaic)a tendency to move in a fixed direction  • [古] （向固定方向）移动的趋势
+
+【语源】1. late Middle English (in the senses 'settlement of a controversy by a judge or by reasoning' and 'authoritative opinion'): via Old French from Latin determinatio(n-), from the verb determinare (see determine )
+
+
+
+————————————
+★☆☆   determinative
+ / diˈtə:minətiv /◙ adjective
+1. [predic.] (chiefly Law)serving to define, qualify, or direct  • [主律] 决定性的，达到标准的；有指导意义的
+ »the employer's view is not determinative of the issue.  在这个问题上雇主的意见并不是决定性的。
+◙ noun
+1. [Grammar] . another term for determiner  • [语法] 同 determiner 
+
+【语源】1. mid 17th cent.: from French déterminatif, -ive or late Latin determinativus, from determinat- 'determined', from the verb determinare (see determine )
+
+
+
+————————————
+★☆☆   determine
+ / diˈtə:min /◙ verb, [with obj.] 
+1. cause (something) to occur in a particular way; be the decisive factor in  • 造成；起决定性作用
+ »it will be her mental attitude that determines her future.  决定她前途的因素将是她的精神状态。
+  firmly decide  • 下定决心，决意
+ »[with infinitive] she determined to tackle Stephen the next day.  她下定决心第二天要解决斯蒂芬的问题。
+ »[no obj.] he determined on a withdrawal of his forces.  他决意撤回他的部队。
+2. ascertain or establish exactly, typically as a result of research or calculation  • （尤指通过研究或计算）探知；确定
+ »our aim is to determine the electric field.  我们的目的是要确定电场。
+ »[with clause] the point of our study was to determine what is true, not what is practicable.  我们研究的目的是要确定什么是真实的，而不是什么是可行的。
+  [Mathematics] specify the value, position, or form of (a mathematical or geometrical object) uniquely  • [数] 决定出，求出
+3. [Law, archaic] bring or come to an end  • [律古] 终止
+
+【语源】1. late Middle English: from Old French determiner, from Latin determinare 'limit, fix', from de- 'completely' + terminare 'terminate'
+
+
+
+————————————
+★☆☆   determined
+ / dɪˈtɜ:mɪnd /◙ adjective
+1. having made a firm decision and being resolved not to change it  • 下定决心的，决意的
+ »[with infinitive] Alina was determined to be heard.  阿林娜决心要把自己的意见说出来。
+  possessing or displaying resolve  • 坚定的，坚决的
+ »Helen was a determined little girl.  海伦是个坚定的小姑娘。
+ »a determined effort to reduce inflation.  为减少通货膨胀所作的坚定不移的努力。
+
+【派生】♦ determinedly adverb
+♦ determinedness noun
+
+
+
+
+————————————
+★☆☆   determiner
+ / dɪˈtɜ:mənə /◙ noun
+1. a person or thing that determines or decides something  • 决定者；起决定作用的人（或事），决定因素
+2. [Grammar] a modifying word that determines the kind of reference a noun or noun group has, for example a, the, every  • [语法] 限定词，限定成分，（如a, the, every）。
+--› see article 
+
+
+
+————————————
+★☆☆   determinism
+ / diˈtə:minizəm /◙ noun
+1. [mass noun] [Philosophy] the doctrine that all events, including human action, are ultimately determined by causes regarded as external to the will. Some philosophers have taken determinism to imply that individual human beings have no free will and cannot be held morally responsible for their actions  • [哲] 决定论
+
+【派生】♦ determinist noun & adjective
+♦ deterministic adjective
+♦ deterministically adverb
+
+
+
+
+————————————
+★☆☆   deterrent
+ / dɪˈtɜ:rənt , -ˈtʌr- /◙ noun
+1. a thing that discourages or is intended to discourage someone from doing something  • 威慑力量，吓阻力量，制止力量；威慑物
+  a nuclear weapon or weapons system regarded as deterring an enemy from attack  • 核威慑
+◙ adjective
+1. able or intended to deter  • 有威慑力的；能越威慑作用的；目的在威慑…的；吓阻的
+ »the deterrent effect of heavy prison sentences.  重刑判决的威慑作用。
+
+【派生】♦ deterrence noun
+
+【语源】1. early 19th cent.: from Latin deterrent- 'deterring', from the verb deterrere (see deter )
+
+
+
+————————————
+★☆☆   detest
+ / dɪˈtest /◙ verb
+1. [with obj.] dislike intensely  • 憎恶
+ »she really did detest his mockery.  她真的非常讨厌他的嘲弄。
+
+【派生】♦ detester noun
+
+【语源】1. late 15th cent.: from Latin detestari, from de- 'down' + testari 'witness, call upon to witness' (from testis 'a witness')
+
+
+
+————————————
+★☆☆   detestable
+ / diˈtestəb(ə)l /◙ adjective
+1. deserving intense dislike  • 可憎的，令人厌恶的
+ »I found the film's violence detestable.  我认为这部电影中的暴力是令人厌恶的。
+
+【派生】♦ detestably adverb
+
+【语源】1. late Middle English: from Old French, or from Latin detestabilis, from the verb detestari (see detest )
+
+
+
+————————————
+★☆☆   detestation
+ / diˌtesˈteiʃən /◙ noun
+1. [mass noun] intense dislike  • 憎恶，厌恶
+ »Wordsworth's detestation of aristocracy.  沃兹沃思对贵族统治的憎恶。
+  [count noun] (archaic)a detested person or thing  • [古] 令人憎恶的人（或事物）
+ »he is the detestation of the neighbourhood.  他是邻里们讨厌的人。
+
+【语源】1. late Middle English: via Old French from Latin detestatio(n-), from the verb detestari (see detest )
+
+
+
+————————————
+★☆☆   dethrone
+ / diˈθrəun /◙ verb
+1. [with obj.] remove (a ruler, especially a monarch) from power  • 废黜（统治者，尤指君主）
+  (figurative)remove from a position of authority or dominance  • [喻] 使（从权威或优势地位）下台
+ »he dethroned the defending title-holder.  他击败了卫冕者。
+
+【派生】♦ dethronement noun
+
+
+
+
+————————————
+★☆☆   detinue
+ / ˈdetinju: /◙ noun
+1. [mass noun] [Law] the crime of wrongful detention of goods or personal possessions (replaced in the UK by the tort of wrongful interference of goods)  • [律] 非法扣留动产罪（在英国为妨碍他人动产的侵权行为）
+  legal action against this  • 针对非法扣留动产罪的诉讼
+
+【语源】1. late Middle English: from Old French detenue, past participle (used as a noun) of detenir 'detain'
+
+
+
+————————————
+★☆☆   detonate
+ / ˈdetnˌeɪt /◙ verb
+1. explode or cause to explode  • 爆炸；引爆
+ »[no obj.] two other bombs failed to detonate.  另有两枚炸弹未能爆炸。
+ »[with obj.] a trigger that can detonate nuclear weapons.  可以引爆核武器的启动装置。
+
+【派生】♦ detonative adjective
+
+【语源】1. early 18th cent.: from Latin detonat- 'thundered down or forth', from the verb detonare, from de- 'down' + tonare 'to thunder'
+
+
+
+————————————
+★☆☆   detonation
+ / ˌdetnˈeɪʃən /◙ noun
+1. [mass noun] the action of causing a bomb or explosive device to explode  • 引爆，起爆（炸弹，爆炸装置）
+  [count noun] a loud explosion  • 巨大的爆炸声
+ »a series of deafening detonations was heard.  听到了一连串震耳欲聋的爆炸声。
+  (technical)combustion of a substance which is initiated suddenly and propagates extremely rapidly giving rise to a shock wave  • [技] 爆燃，爆鸣。
+--› compare deflagration 
+  the premature combustion of fuel in an internal-combustion engine, causing pinking  • （内燃机的）爆燃，爆鸣
+
+【语源】1. late 17th cent.: from French détonation, from the verb détoner, from Latin detonare 'thunder down' (see detonate )
+
+
+
+————————————
+★☆☆   detonator
+ / ˈdetnˌeɪtə /◙ noun
+1. a device or a small sensitive charge used to detonate an explosive  • 雷管，起爆管；起爆剂
+  another term for fog signal  • 同 fog signal 
+
+
+
+————————————
+★☆☆   detorsion
+ / di:ˈtɔ:ʃən /◙ noun
+1. [mass noun] [Zoology] (in gastropod molluscs) the evolutionary reversion of a group to a primitive linear body plan  • [动] （腹足纲软体动物的）反扭转。
+--› compare torsion 
+
+
+
+————————————
+★☆☆   detour
+ / ˈdi:tuə /◙ noun
+1. a long or roundabout route that is taken to avoid something or to visit somewhere along the way  • 迂回路，绕行的路
+ »he had made a detour to a cafe.  他绕道来到了一家咖啡馆。
+  an alternative route for use by traffic when the usual road is temporarily closed  • （常用道路暂时封闭时的）临时绕行道路
+◙ verb
+1. [no obj., with adverbial of direction] take a long or roundabout route  • 绕道
+ »he detoured around the walls.  他沿墙绕道而行。
+  [with obj.] avoid or bypass (something) by taking such a route  • 绕过，绕开…而行
+ »I would detour the endless stream of motor homes.  我要绕过川流不息的度假旅宿汽车。
+
+【语源】1. mid 18th cent. (as a noun): from French détour 'change of direction', from détourner 'turn away'
+
+
+
+————————————
+★☆☆   detox
+ / di:ˈtɔks /əinformal] ə非正式] 
+◙ noun
+1. [mass noun] . short for detoxification :  • detoxification 的简称
+ »he ended up in detox for three months.  他最后接受了三个月的戒毒（或戒酒）治疗。
+◙ verb
+1. short for detoxify  • detoxify 的简称
+
+
+
+————————————
+★☆☆   detoxicate
+ / di:ˈtɔksɪˌkeɪt /◙ verb
+1. another term for detoxify  • 同 detoxify 
+
+【派生】♦ detoxication noun
+
+【语源】1. mid 19th cent.: from de- (expressing removal) + Latin toxicum 'poison', on the pattern of 'intoxicate'
+
+
+
+————————————
+★☆☆   detoxification
+ / di:ˌtɔksifiˈkeiʃən /◙ noun
+1. [mass noun] the process of removing toxic substances or qualities  • 排毒，去毒，解毒
+  medical treatment of an alcoholic or drug addict involving abstention from drink or drugs until the bloodstream is free of toxins  • 戒酒治疗；戒毒治疗
+
+
+
+————————————
+★☆☆   detoxify
+ / di:ˈtɔksiˌfai /◙ (-ies, -ied)
+1. [with obj.] remove toxic substances or qualities from  • 去毒，解毒
+ »the process uses chemical reagents to detoxify the oil.  这个过程使用化学试剂来去除油中的毒物。
+  [一般作 be detoxified] treat (an alcoholic or drug addict) to remove the effects of drink or drugs in order to help them overcome addiction  • 治疗有酒瘾（或毒瘾）的人使某人戒掉酒瘾（或毒瘾）
+ »he was twice detoxified from heroin.  他受过两次戒除海洛因的治疗。
+  [no obj.] abstain from drink and drugs until the bloodstream is free of toxins in order to overcome alcoholism or drug addiction  • 戒酒；戒毒
+  [no obj.] become free of poisonous substances or qualities  • 变得无毒
+ »you can help your body detoxify by cutting down on coffee.  少喝咖啡有助于体内排毒。
+
+【派生】♦ detoxifier noun
+
+【语源】1. early 20th cent.: from de- (expressing removal) + Latin toxicum 'poison' + -fy
+
+
+
+————————————
+★☆☆   detract
+ / dɪˈtrækt /◙ verb
+1. [no obj.] (detract from)reduce or take away the worth or value of  • 贬损，贬低；抹杀
+ »these quibbles in no way detract from her achievement.  这些无关痛痒的批评丝毫不能贬低她的成就。
+  [with obj.] deny or qualify (a quality or achievement) so as to make its subject seem less impressive  • 否认（或淡化）（某种品质或成就）以贬低，抹杀
+ »it is detracting nothing from his ability to say that he owed the championship to a superior car.  说他赢得锦标赛归功于一辆好车并没有贬低他的能力。
+2. [with obj.] (detract someone/thing from)divert or distract (someone or something) away from  • 转移，分散（注意力、兴趣等），使分心
+ »this CD should not detract listeners from the other two issues.  这张CD应该不会分散听众对另外两张CD的关注。
+
+【派生】♦ detraction noun
+♦ detractive adjective
+
+【语源】1. late Middle English: from Latin detract- 'drawn away', from the verb detrahere, from de- 'away from' + trahere 'draw'
+
+
+
+————————————
+★☆☆   detractor
+ / dɪˈtræktə /◙ noun
+1. a person who disparages someone or something  • 贬损者，贬低者
+
+
+
+————————————
+★☆☆   detrain
+ / ˌdi:ˈtrein /◙ verb
+1. [no obj.] leave a train  • 下火车
+  [with obj.] cause or assist to leave a train  • 使下火车；帮助下火车
+ »passengers were detrained as the train was on fire.  因为火车失火，乘客们被疏散下了火车。
+
+【派生】♦ detrainment noun
+
+
+
+
+————————————
+★☆☆   detribalize
+ / di:ˈtraibəlaiz /◙ (也作 -ise), verb
+1. [with obj.] [usu. as adj. detribalized] remove (someone) from a traditional tribal social structure  • 使（某人）脱离传统的部落社会结构
+  remove a traditional tribal social structure from (a culture)  • 使传统的部落社会结构（从某种文化中）游离出来
+
+【派生】♦ detribalization noun
+
+
+
+
+————————————
+★☆☆   detriment
+ / ˈdetrəmənt /◙ noun
+1. [mass noun] the state of being harmed or damaged  • 伤害；损害
+ »he is engrossed in his work to the detriment of his married life.  他一心扑在工作上，这有损于他的婚姻生活。
+ »no one could do one without detriment to the other.  没有人能做好其中的一件而不损害另一件。
+  [count noun] a cause of harm or damage  • 伤害（或损害）的原因
+ »such tests are a detriment to good education.  这种测验是危害良好教育的根源。
+
+【语源】1. late Middle English in the sense 'loss sustained by damage': from Old French, from Latin detrimentum, from detri-, stem of deterere 'wear away'
+
+
+
+————————————
+★☆☆   detrimental
+ / ˌdetriˈmentl /◙ adjective
+1. tending to cause harm  • 有害的；不利的
+ »recent policies have been detrimental to the interests of many old people.  最近的政策对许多老年人不利。
+ »moving her could have a detrimental effect on her health.  移动她可能对她的健康产生不利影响。
+
+【派生】♦ detrimentally adverb
+
+
+
+
+————————————
+★☆☆   detrition
+ / diˈtriʃən /◙ noun
+1. [mass noun] (rare)the action of wearing away by friction  • [罕] 磨损，磨耗
+
+【语源】1. late 17th cent.: from medieval Latin detritio(n-), from detri-, stem of deterere 'wear away'
+
+
+
+————————————
+★☆☆   detritivore
+ / ˈdetritivɔ: /◙ noun
+1. [Zoology] an animal which feeds on dead organic material, especially plant detritus  • [动] 食碎屑（尤指植物碎屑）动物
+
+【派生】♦ detritivorous adjective
+
+【语源】1. 1960s: from detritus + -vore 'eating' (see -vorous )
+
+
+
+————————————
+★☆☆   detritus
+ / dɪˈtraɪtəs /◙ noun
+1. [mass noun] waste or debris of any kind  • 废物；残骸
+ »the streets were foul with detritus.  街道上散发出垃圾的腐臭。
+  gravel, sand, silt, or other material produced by erosion  • （由于侵蚀形成的）沙砾，沙子，泥沙等
+  organic matter produced by the decomposition of organisms  • （有机物的）腐质
+
+【派生】♦ detrital adjective
+
+【语源】1. late 18th cent. (in the sense 'detrition'): from French détritus, from Latin detritus, from deterere 'wear away'
+
+
+
+————————————
+★☆☆   Detroit
+ / diˈtrɔit /1. a major industrial city and Great ɚakes shipping centre in ŋə Michigan; pop. 1,028,000 (1ˌˌ0). ɪt is the centre of the uS automobile industry, containing the headquarters of ʃord, ɔhrysler, and General Motors  • 底特律（密歇根州东北部一主要工业城市和大湖区航运中心，1990年人口1,028,000，是美国汽车工业中心，福特、克莱斯勒和通用汽车总部均在该市）
+
+
+
+————————————
+★☆☆   de trop
+ / də ˈtrəʊ,  /◙ adjective
+1. not wanted; unwelcome  • 被冷落的；不受欢迎的
+ »she had no grasp of the conversation and felt herself de trop.  她对交谈内容茫然不解，觉得自己受了冷落。
+
+【语源】1. mid 18th cent.: French, literally excessive'
+
+
+
+————————————
+★☆☆   de Troyes1. Chrétien, Chrétien de Troyes.suppressed?>  • 见 Chrétien de Troyes 
+
+
+
+————————————
+★☆☆   detrusor
+ / diˈtru:sə /◙ (也作 detrusor muscle), noun
+1. [Anatomy] a muscle which forms a layer of the wall of the bladder  • [剖] 逼尿肌
+
+【语源】1. mid 18th cent.: modern Latin, from Latin detrus- 'thrust down', from the verb detrudere
+
+
+
+————————————
+★☆☆   Dettol
+ / ˈditəl /◙ noun
+1. [mass noun] (trademark)a type of surgical or household disinfectant  • [商标] 滴露（一种手术用或家用消毒剂）
+
+【语源】1. 1930s: an invented name
+
+
+
+————————————
+★☆☆   detumescence
+ / ˌdi:tu(:)ˈmesns /◙ noun
+1. [mass noun] the process of subsiding from a state of tension, swelling, or (especially) sexual arousal  • （肉体、精神）紧张状态的缓解（尤指性欲被激发后的消退）；退肿
+
+【派生】♦ detumesce verb
+♦ detumescent adjective
+
+【语源】1. late 17th cent.: from Latin detumescere, from de- 'down, away'+ tumescere 'to swell'
+
+
+
+————————————
+★☆☆   detune
+ / di:ˈtju:n /◙ verb
+1. [with obj.] cause (a musical instrument) to become out of tune  • 使（乐器）走调
+  [usu. as adj. detuned] reduce the performance or efficiency of (a motor vehicle or engine) by adjustment  • （通过调节）降低（汽车、发动机的）工作性能或效率
+  alter the wavelength of the light emitted by (a laser)  • 改变（激光）波长
+
+【派生】♦ detuner noun
+
+
+
+
+————————————
+★☆☆   Deucalion
+ / dju:ˈkeiljən /1. əGreek Mythology] the son of Prometheus. θith his wife Pyrrha he survived a flood sent by ɛeus to punish human wickedness; they were then instructed to throw stones over their shoulders, and these turned into humans to repopulate the world  • [希腊神话] 丢卡利翁（普罗米修斯之子，在宙斯为惩罚人类的邪恶所发的一场洪水中，与其妻子皮拉幸免于难；后受命从肩头向后扔下石头，这些石头变成了人类重新居住于世）
+
+
+
+————————————
+★☆☆   deuce
+ / dju:s /deuce¹
+◙ noun
+1. (chiefly US)a thing representing, or represented by, the number two, in particular  • [主美] 代表二的物体；被二代表的物体，尤指
+  the two on dice or playing cards  • 骰子（或纸牌）中的二
+  a throw of two at dice  • 掷骰子所得的二
+  (informal, dated)a two-dollar bill  • [非正式，旧] 两美元纸币
+2. [Tennis] the score of 40 all in a game, at which each player needs two consecutive points to win the game  • [网球] 局末平分；盘末平分
+
+【语源】1. late 15th cent.: from Old French deus 'two', from Latin duosdeuce²
+◙ noun
+1. (the deuce)[informal] used as a euphemism for ‘devil’ in expressions of annoyance, impatience, or surprise or for emphasis  • [非正式，婉] 究竟，到底（用于表示恼怒、不耐烦、吃惊或用于加重语气）
+ »how the deuce are we to make a profit?  我们到底该怎么办才能赚钱？
+ »what the deuce are you trying to do?  你到底想干什么？
+
+【IDIOMS】◘ a (或 the) deuce of a —
+1. used to emphasize how bad, difficult, or serious something is  • ［用于加重语气］非常糟糕的;非常困难的；非常严重的
+
+【语源】1. mid 17th cent.: from Low German duus, probably of the same origin as deuce (two aces at dice being the worst throw)
+
+
+
+————————————
+★☆☆   deuced
+ / dju:st , ˈdju:sid /(informal, dated)ə非正式, 旧] 
+◙ adjective
+1. [attrib.] used for emphasis, especially to express disapproval or frustration  • 极其，非常（用于加重语气）
+ »I sound like a deuced newspaper reporter.  我说起话来倒真像是那种该死的报社记者。
+ »[as submodifier] I'm so deuced fond of you.  我太喜欢你了。
+
+【派生】♦ deucedly adverb
+ »[as submodifier] they're deucedly hard to find.  要找到他们可真是难透了。
+
+
+
+————————————
+★☆☆   deurmekaar
+ / ˌdjə:məˈkɑ: /◙ adjective
+1. [S. African informal] in a state of muddle or confusion  • [南非，非正式] 糊涂的；混乱的
+
+【语源】1. Afrikaans, from Dutch dialect variants of door elkaar, literally 'through one another, interchangeable'
+
+
+
+————————————
+★☆☆   deus ex machina
+ / ˌdeɪʊs ɛks ˈmækɪnə, ˌdi:əs ɛks məˈʃi:nə /◙ noun
+1. an unexpected power or event saving a seemingly hopeless situation, especially as a contrived plot device in a play or novel  • （戏剧或小说中）出人意料的解围情节，摆脱绝境的情节；（生活中）突然出现的转机，意料不到的转危为安
+
+【语源】1. late 17th cent.: modern Latin, translation of Greek theos ek mēkhanēs, 'god from the machinery'. In Greek theatre, actors representing gods were suspended above the stage, the denouement of the play being brought about by their intervention
+
+
+
+————————————
+★☆☆   Deut.◙ for abbreviation
+1. Deuteronomy (in biblical references)  • [圣经] 同 Deuteronomy 
+
+
+
+————————————
+★☆☆   deuteragonist
+ / ˌdu:təˈræɡənist /◙ noun
+1. the person second in importance to the protagonist in a drama  • （戏剧中的）第二主角
+
+【语源】1. mid 19th cent.: from Greek deuteragōnistēs, from deuteros 'second' + agōnistēs 'actor'
+
+
+
+————————————
+★☆☆   deuteranope
+ / ˈdju:tərəˌnəup /◙ noun
+1. a person suffering from deuteranopia  • 绿色色盲者，第二型色盲者
+
+
+
+————————————
+★☆☆   deuteranopia
+ / ˌdju:tərəˈnəupiə /◙ noun
+1. [mass noun] colour blindness resulting from insensitivity to green light, causing confusion of greens, reds, and yellows  • 绿色色盲（指因对绿色光无感觉而造成的色盲，患者常混淆绿色光、红色光和黄色光），第二型色盲。 。
+--› compare protanopia 
+
+【语源】1. early 20th cent.: from deutero- 'second' (the colour green being regarded as the second component of colour vision) + an- + -opia
+
+
+
+————————————
+★☆☆   deuterated
+ / ˈdju:təreitid /◙ (也作 deuteriated), adjective
+1. [Chemistry] (of a compound) in which the ordinary isotope of hydrogen has been replaced with deuterium  • [化] （化合物）氘化的；含氘的
+
+【派生】♦ deuteration noun
+
+
+
+
+————————————
+★☆☆   deuteric
+ / ˈdju:tərik /◙ adjective
+1. [Geology] relating to or denoting alteration of the minerals of an igneous rock during the later stages of consolidation  • [地质] 岩浆后期的，初生变质的
+
+【语源】1. early 20th cent.: from deutero- 'secondary' + -ic
+
+
+
+————————————
+★☆☆   deuterium
+ / du:ˈtɪəri:əm , dju:- /◙ noun
+1. [mass noun] [Chemistry] a stable isotope of hydrogen with a mass approximately twice that of the usual isotope[Symbol: D]  • [化] 氘，重氢[符号: D] 
+2. Deuterium atoms have a neutron as well as a proton in the nucleus, and the isotope is present to about 1 part in 6,000 in naturally occurring hydrogen. It is used as a fuel in thermonuclear bombs, and heavy water (D2O) is used as a moderator in nuclear reactors
+
+【语源】1. 1930s: modern Latin, from Greek deuteros 'second'
+
+
+
+————————————
+★☆☆   deutero-
+ / ˈdju:tərəʊ /◙ for combining
+1. second  • 表示“第二”
+ »Deutero-Isaiah.
+  secondary  • 表示“次要的”，“二级的”
+ »deuterocanonical.
+
+【语源】1. from Greek deuteros 'second'
+
+
+
+————————————
+★☆☆   deuterocanonical
+ / ˌdju:təˌrəukəˈnɔnikl /◙ adjective
+1. (of sacred books or literary works) forming a secondary canon  • （圣典）次经的，旁经的；（文学作品）伪托的
+
+
+
+————————————
+★☆☆   Deutero-Isaiah
+ / ˌdju:tərəʊaɪˈzaɪə /1. the supposed later author of ɪsaiah 40–ˈˈ  • 《以赛亚书》第40–55章的假设作者
+
+
+
+————————————
+★☆☆   deuteron
+ / ˈdju:tərɔn /◙ noun
+1. the nucleus of a deuterium atom, consisting of a proton and a neutron  • 氘核，重氢核
+
+【语源】1. 1930s: from Greek deuteros 'second', on the pattern of proton
+
+
+
+————————————
+★☆☆   Deuteronomy
+ / ˌdju:təˈrɔnəmi /1. the fifth book of the ɑible, containing a recapitulation of the ðen ɔommandments and much of the Mosaic law  • 《申命记》（《圣经》中的第五卷，包括对“十戒”的概述和摩西律法的大部分）
+
+
+
+————————————
+★☆☆   Deutschland
+ / ˈdɔitʃlənd /1. German name for Germany  • [德] 同 Germany 
+
+
+
+————————————
+★☆☆   Deutschmark
+ / ˈdɔɪtʃmɑ:k /◙ (也作 Deutsche Mark), noun
+1. the basic monetary unit of Germany, equal to 100 pfennig  • 马克（德国基本货币单位，等于100芬尼）
+
+【语源】1. from German deutsche Mark German mark'
+
+
+
+————————————
+★☆☆   deutzia
+ / ˈdju:tsjə /◙ noun
+1. an ornamental shrub with white or pinkish flowers, native to Asia and Central America  • 溲疏
+2. Genus Deutzia, family Hydrangeaceae  • 溲疏属，绣球科
+
+【语源】1. modern Latin, named after Johann van der Deutz, 18th-cent. Dutch patron of botany
+
+
+
+————————————
+★☆☆   deva
+ / ˈdeivə /◙ noun
+1. a member of a class of divine beings in the Vedic period, which in Indian religion are benevolent and in Zoroastrianism are evil  • 天，提婆（吠陀时期的一种神，在印度宗教中是善的，而在琐罗亚斯德教中是恶的）。
+--› compare asura 
+  [Indian] (in general use) a god  • [印度] 神（统称）
+
+【语源】1. from Sanskrit, literally shining one', later god'
+
+
+
+————————————
+★☆☆   devadasi
+ / ˌdeivəˈdɑ:si: /◙ (pl. devadasis)
+1. a hereditary female dancer in a Hindu temple  • （印度教寺庙中的）世袭舞女
+
+【语源】1. from Sanskrit devadāsī, literally 'female servant of a god'
+
+
+
+————————————
+★☆☆   de Valera
+ / ˌdə vəˈlɛ:rə /1. əamon (1882–1ˌˌˈ), æmerican-born ɪrish statesman, ðaoiseach əPrime Minister] 1ˌ3ˌ–48, 1ˌˈ1–4, and 1ˌˈˌ–ˌ and President of the ɔepublic of ɪreland 1ˌˈˌ–ˌ3. He was the leader of Sinn ʃein 1ˌ1ˌ–26 and the founder of the ʃianna ʃáil Party in 1ˌ26. æs President of the ɪrish ʃree State from 1ˌ32, de ʒalera was largely responsible for the new constitution of 1ˌ3ˌ which created the state of əire  • 德•瓦勒拉，埃蒙（1882–1975，美国出生的爱尔兰政治家，1937–1948、1951–1954和1957–1959年间任爱尔兰共和国总理，1959–1973年间任爱尔兰共和国总统，1917至1926年任爱尔兰新芬党领袖，1926年创建替天行道士兵党；自1932年任爱尔兰自由邦总统起大力促成1937年新宪法的诞生，爱尔兰国家正是根据这部宪法成立的）
+
+
+
+————————————
+★☆☆   de Valois
+ / də ˈvælwɑ: /1. Dame ŋinette (b.18ˌ8), ɪrish choreographer, ballet dancer, and teacher; born ədris Stannus. æ former soloist with Diaghilev's ɑallets ɔusses, she formed the ʒic-θells ɑallet (which eventually became the ɔoyal ɑallet) and the Sadler's θells ballet school  • 德韦尔娃，尼内特女爵士（生于1898年，爱尔兰舞蹈编导、芭蕾舞演员、教师，出生名伊德里斯•斯坦纳斯；原为佳吉列夫的俄罗斯芭蕾舞团独舞演员，后成立维克威尔斯芭蕾舞团［皇家芭蕾舞团的前身］和萨德勒的威尔斯芭蕾舞学校）
+
+
+
+————————————
+★☆☆   devalorize
+ / di:ˈvæləraiz /◙ verb
+1. [with obj.] (rare)devalue  • [罕] 减值，贬值
+
+【派生】♦ devalorization noun
+
+【语源】1. early 20th cent.: from French dévaloriser
+
+
+
+————————————
+★☆☆   devalue
+ / di:ˈvælju: /◙ (devalues, devalued, devaluing)
+1. [with obj.] reduce or underestimate the worth or importance of  • 贬低，降低…的价值；降低…的重要性
+ »I resent the way people seem to devalue my achievement.  人们似乎在贬低我的成就，对此我感到愤慨。
+  [常作 be devalued] [Economics] reduce the official value of (a currency) in relation to other currencies  • [经济] 使（货币）贬值
+ »the dinar was devalued by 20 per cent.  第纳尔贬值20％。
+
+【派生】♦ devaluation noun
+
+
+
+
+————————————
+★☆☆   Devanagari
+ / ˌdeivəˈnɑ:ɡəri /◙ noun
+1. [mass noun] the alphabet used for Sanskrit, Hindi, and other Indian languages  • 梵文字母，天城书（梵语、印地语和其他印度语言所用的字母表）
+
+【语源】1. from Sanskrit, literally divine town script', from deva 'god' + nāgarī (from nagara 'town'), an earlier name of the script
+
+
+
+————————————
+★☆☆   devastate
+ / ˈdevəˌsteɪt /◙ verb
+1. [with obj.] destroy or ruin (something)  • 摧毁，破坏；毁灭
+ »the city was devastated by a huge earthquake.  该城市毁于一次大地震。
+ »bad weather has devastated the tourist industry.  恶劣的天气对旅游业造成了严重破坏。
+  cause (someone) severe and overwhelming shock or grief  • 使（某人）震惊（或极度悲伤）
+ »she was devastated by the loss of Damian.  失去达米安使她悲痛欲绝。
+
+【派生】♦ devastation noun
+♦ devastator noun
+
+【语源】1. mid 17th cent.: from Latin devastat- 'laid waste', from the verb devastare, from de- 'thoroughly' + vastare 'lay waste'
+
+
+
+————————————
+★☆☆   devastating
+ / ˈdevəsteitiŋ /◙ adjective
+1. highly destructive or damaging  • 毁灭性的；极具破坏性的
+ »a devastating cyclone struck Bangladesh.  一场极具破坏性的旋风袭击了孟加拉国。
+  causing severe shock, distress, or grief  • 引起极度震惊（或悲痛、忧伤）的
+ »the news came as a devastating blow.  这消息是个沉痛的打击。
+  [informal] extremely impressive, effective, or attractive  • [非正式] 令人印象极为深刻的；极为有效的；极具吸引力的
+ »she had a devastating wit.  她智力超群，令人难忘。
+
+【派生】♦ devastatingly adverb
+ »[as submodifier] a devastatingly attractive man.  一位极具魅力的男子。
+
+
+
+————————————
+★☆☆   devein
+ / di:ˈvein /◙ verb
+1. [with obj.] remove the main central vein from (a shrimp or prawn)  • 抽去（虾）背部的黑色静脉
+
+
+
+————————————
+★☆☆   develop
+ / diˈveləp /◙ (developed, developing)
+1. grow or cause to grow and become more mature, advanced, or elaborate[no obj.]  • （使）成长，发育；发展
+ »motion pictures were to develop into mass entertainment.  电影后来发展成了一种大众娱乐。
+ »[as adj. developing] this is a rapidly developing field.  这是一个飞速发展的领域。
+ »[with obj.] enabling individuals to develop their personal skills.  使个人得以提高自己的技能。
+  [no obj.] [often as adj. developing] (of a poor agricultural country) become more economically and socially advanced  • （贫穷的农业国在经济和社会上）发展，变得更加发达
+ »the developing world.  发展中的世界。
+  [with obj.] convert (land) to a new purpose by constructing buildings or making other use of its resources  • 开发土地，在土地上进行建设；利用土地资源
+  construct or convert (a building) so as to improve existing resources  • （为更好利用资源）兴建（或改造）房屋
+  [with obj.] elaborate (a musical theme) by modification of the melody, harmony, or rhythm  • （修改旋律、和声或节奏以）展开（音乐主题）
+  [with obj.] [Chess] bring (a piece) into play from its initial position on a player's back rank  • [棋] 出（子）
+2. start to exist, experience, or possess[with obj.]  • 产生；感受；具有
+ »[no obj.] a strange closeness developed.  一种奇特的亲密感开始出现。
+ »I developed an interest in law.  我对法律产生了兴趣。
+ »Aids victims often develop a rare type of cancer.  艾滋病患者往往会罹患某种罕见的癌症。
+3. [with obj.] treat (a photographic film) with chemicals to make a visible image  • 显影，使（摄影胶片）显影
+
+【语源】1. mid 17th cent. (in the sense 'unfold, unfurl'): from French développer, based on Latin dis- 'un-' + a second element of unknown origin found also in envelop
+
+
+
+————————————
+★☆☆   developable
+ / diˈveləpəbl /◙ adjective
+1. able to be developed, in particular  • 可发展的，尤指
+  (of land or property) able to be adapted or improved so as to become productive or profitable  • （土地，财产）可开发的，可改造的
+  [Geometry] (of a curved surface) capable of being flattened into a plane without overlap or separation, as with a cylinder  • [几何] （曲面）可展开（成为平面）的（如圆柱体）
+  [Mathematics] (of a function or expression) capable of being expanded as a series  • [数] （函数，表达式）能作为级数展开的
+
+
+
+————————————
+★☆☆   developed
+ / dɪˈveləpt /◙ adjective
+1. advanced or elaborated to a specified degree  • 发达的；详密的
+ »a fully developed system of public law.  详密完备的公法体系。
+  (of a person or part of the body) having specified physical proportions  • （人体，身体某部位）成规定比例的
+ »a strongman with well-developed muscles.  肌肉非常匀称的大力士。
+  (of a country or region) advanced economically and socially  • （国家，地区）（经济、社会）发达的
+ »economic assistance to the less-developed countries.  对欠发达国家的经济援助。
+ »the developed world.  发达世界。
+
+
+
+————————————
+★☆☆   developer
+ / diˈveləpə /◙ noun
+1. a person or thing that develops something  • 发展者，开发者；推动发展的事物
+ »a property developer.  房地产开发商。
+ »software developers.  软件开发商。
+  [with adj.] a person who grows or matures at a specified time or rate  • （在特定时间或以特定速度）成长（或发育成熟）的人
+ »I was a slow developer.  我发育较慢。
+  [mass noun] a chemical agent used for treating photographic film to make a visible image  • 显影剂
+
+
+
+————————————
+★☆☆   developing country◙ noun
+1. a poor agricultural country that is seeking to become more advanced economically and socially  • 发展中国家
+
+
+
+————————————
+★☆☆   development
+ / diˈveləpmənt /◙ noun, [mass noun] 
+1. the process of developing or being developed  • 发展（过程）
+ »she traces the development of the novel.  她追溯了长篇小说的发展过程。
+ »the development of less invasive treatment.  较低创伤性治疗方法的发展。
+  a specified state of growth or advancement  • 发育（或成长、进化）的特定阶段
+ »the wings attain their full development several hours after birth.  出生后数小时翅膀发育完全成熟。
+  [count noun] a new and refined product or idea  • 新产品；新构想；精品
+ »the latest developments in information technology.  信息技术的最新产品。
+  [count noun] an event constituting a new stage in a changing situation  • 新发展
+ »I don't think there have been any new developments since yesterday.  我认为自昨天以来就没有任何新进展出现。
+  the process of converting land to a new purpose by constructing buildings or making use of its resources  • （通过建造房屋或利用土地资源进行的）土地开发
+ »land suitable for development.  适宜开发的土地。
+  [count noun] an area of land with new buildings on it  • 新建楼区
+ »a major housing development in Essex.  埃塞克斯郡的主要住宅开发区。
+  [Chess] the process of bringing one's pieces into play in the opening phase of a game  • [棋] （开局阶段的）出子布局
+2. the process of starting to experience or suffer from an ailment or feeling  • 开始患（病）；开始有（某种感觉）
+ »the development of brittle bones.  骨质疏松（症状）的出现。
+3. the process of treating photographic film with chemicals to make a visible image  • 显影
+
+
+
+————————————
+★☆☆   developmental
+ / diˌveləpˈmentəl /◙ adjective
+1. concerned with the development of someone or something  • 与（人或事的）发展（有关）的
+ »developmental problems.  发展问题。
+ »developmental psychology.  发展心理学。
+  concerned with the evolution of animals and plants  • 与动植物的进化有关的
+ »developmental biology.  进化生物学。
+
+【派生】♦ developmentally adverb
+
+
+
+
+————————————
+★☆☆   developmental delay◙ noun
+1. [mass noun] the condition of a child being less developed mentally or physically than is normal for its age  • （儿童）发育滞后
+
+
+
+————————————
+★☆☆   development area◙ noun
+1. (in the UK) an area in which government assistance is available to encourage business investment, in order to counteract unemployment  • （英国）开发区（由政府提供帮助鼓励企业投资以消除失业现象）
+
+
+

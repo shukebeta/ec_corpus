@@ -1,0 +1,3362 @@
+﻿——————————————
+★☆☆   read ●●●●●
+The form read is pronounced /riːd/ when it is the present tense, and /red/ when it is the past tense and past participle. read 作现在式时读作/riːd/，作过去式和过去分词时读作 /red/。
+
+1.VERB	动词  读;阅读;理解;看懂 When you read something such as a book or article, you look at and understand the words that are written there. 
+  【语法信息】：V n
+  【语法信息】：V about n
+  【语法信息】：V through n
+  【语法信息】：V that
+  【语法信息】：V
+  【搭配模式】：a N
+
+Have you read this book?...你看过这本书吗？
+I read about it in the paper...我在报纸上看到了这件事。
+He read through the pages slowly and carefully...他慢慢地仔细阅读每一页。It was nice to read that the Duke will not be sending his son off to boarding school...得知公爵不会把儿子送到寄宿学校真让人高兴。She spends her days reading and watching television.她每天就是读读书，看看电视。Read is also a noun.  
+
+I settled down to have a good read.我静下心来认真阅读。
+
+2.VERB	动词  朗读;出声读;念出 When you read a piece of writing to someone, you say the words aloud. 
+  【语法信息】：V n
+  【语法信息】：V to n
+  【语法信息】：V n n
+  【语法信息】：Also V n to n
+
+Jay reads poetry so beautifully...杰伊朗读诗歌很动听。
+I like it when she reads to us...我很喜欢她读书给我们听。
+I sing to the boys or read them a story before tucking them in.在给这些男孩们盖好被子叫他们乖乖睡觉前，我会给他们唱首歌或讲一个故事听。
+
+3.VERB	动词  读书，阅读（能力） People who can read have the ability to look at and understand written words. 
+  【语法信息】：V
+  【语法信息】：V n
+
+He couldn't read or write...他不会读写。
+He could read words at 18 months.他18个月大的时候就认字了。
+
+4.VERB	动词  读，识（乐谱） If you can read music, you have the ability to look at and understand the symbols that are used in written music to represent musical sounds. 
+  【语法信息】：V n
+
+Later on I learned how to read music.后来我学会了怎么识乐谱。
+
+5.VERB	动词  （电脑）读取（文件或文档） When a computer reads a file or a document, it takes information from a disk or tape. 
+  【语法信息】：V n
+  【FIELD标签】：COMPUTING 计算机
+
+How can I read a Microsoft Excel file on a computer that only has Works installed?我怎样在只安装了Works软件的电脑上读取微软的Excel文件呢？
+
+6.VERB	动词  写着;标着 You can use read when saying what is written on something or in something. For example, if a notice reads 'Entrance', the word 'Entrance' is written on it. 
+  【语法信息】：V with quote
+  【搭配模式】：no cont
+
+The sign on the bus read 'Private: Not In Service'.巴士的标牌上写着“私家车：不对外出租”。
+
+7.VERB	动词  （文章）读起来… If you refer to how a piece of writing reads, you are referring to its style. 
+  【语法信息】：V prep/adv
+
+The book reads like a ballad...这本书读起来像歌谣。
+It reads very awkwardly.它读起来很拗口。
+
+8.N-COUNT	可数名词  令人愉快的读物；好书（或杂志） If you say that a book or magazine is a good read, you mean that it is very enjoyable to read. 
+  【搭配模式】：adj N
+
+Ben Okri's latest novel is a good read.本·奥克里的最新小说很精彩。
+
+9.VERB	动词  理解;解读 If something is read in a particular way, it is understood or interpreted in that way. 
+  【语法信息】：be V-ed as n
+  【语法信息】：V n adv/prep
+
+The play is being widely read as an allegory of imperialist conquest...这部剧被广泛解读为对帝国主义征服的讽喻。
+South Africans were praying last night that he has read the situation correctly...昨晚南非人在祈祷他对形势的解读是正确的。
+Now how do you read his remarks on that subject?那么你是如何理解他关于那个话题的言论的呢？
+
+10.VERB	动词  看得出，读懂，看透（想法或心思） If you read someone's mind or thoughts, you know exactly what they are thinking without them telling you. 
+  【语法信息】：V n
+
+As if he could read her thoughts, Benny said, 'You're free to go any time you like.'班尼仿佛看出了她的心思，说道：“你随时都可以自由离开。”
+
+11.VERB	动词  理解；读懂；了解 If you can read someone or you can read their gestures, you can understand what they are thinking or feeling by the way they behave or the things they say. 
+  【语法信息】：V n
+
+If you have to work in a team you must learn to read people...如果要在一个团队中工作你必须学会了解他人。
+Under the shaded light her expression was difficult to read.她的表情隐在阴影中，很难读懂。
+
+12.VERB	动词  （无线通讯用语）听到 If someone who is trying to talk to you with a radio transmitter says, 'Do you read me?', they are asking you if you can hear them. 
+  【语法信息】：V n
+
+Alpha-Bravo-Zulu 643 to Saltezar, do you read me? Over...阿尔法－布拉沃－祖鲁643呼叫萨德扎，能听到我的声音吗？完毕。
+We read you loud and clear. Over.我们能够清楚地听到你的声音。完毕。
+
+13.VERB	动词  读（表）；记下（仪表上的数字） When you read a measuring device, you look at it to see what the figure or measurement on it is. 
+  【语法信息】：V n
+
+When officials like gas and electricity men call to read the meter, ask for identification...当有燃气或电力公司的职员来抄表时，要请他们出示身份证件。
+It is essential that you are able to read a thermometer.最基本的是要能看懂温度计。
+
+14.VERB	动词  （仪器）标明，显示 If a measuring device reads a particular amount, it shows that amount. 
+  【语法信息】：V amount
+
+The thermometer read 105 degrees Fahrenheit...温度计显示华氏105度。
+The fuel gauge reads below zero.燃油表显示油量在零以下。
+
+15.VERB	动词  攻读;专修 If you read a subject at university, you study it. 
+  【语法信息】：V n
+  【语法信息】：V for n
+  【语域标签】：BRIT 英
+  【语域标签】：FORMAL 正式
+
+She read French and German at Cambridge University...她在剑桥大学学习法语和德语。
+He is now reading for a maths degree at Surrey University.他现在就读于萨里大学，攻读数学学位。in AM, use 美国英语用 major, study
+
+16.PHRASE	短语  完全相信；把…当作真理 If you take something as read, you accept it as true or right and therefore feel that it does not need to be discussed or proved. 
+  【搭配模式】：V inflects
+
+We took it as read that he must have been a KGB agent...我们完全相信他曾经是一名克格勃特工。
+The case for aid to eastern Europe is taken as read.援助东欧的主张被认为完全正确。
+
+17. See also: reading;   to read between the lines→see: line; 相关词组：read into read out read up on 
+
+
+——————————————
+★☆☆   readable ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  有可读性的；值得一读的 If you say that a book or article is readable, you mean that it is enjoyable and easy to read. 
+
+This is an impeccably researched and very readable book.这本书中的研究缜密透彻，可读性很强。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  易读的;字迹清晰的 A piece of writing that is readable is written or printed clearly and can be read easily. 
+
+My secretary worked long hours translating my almost illegible writing into a typewritten and readable script.我的秘书花了很长时间把我写的几乎无法辨认的手稿用打字机打印成易读的文本。
+
+
+——————————————
+★☆☆   reader ●●●●○
+
+1.N-COUNT	可数名词  读者 The readers of a newspaper, magazine, or book are the people who read it. 
+
+If you are a regular reader of Homes & Gardens you will know what an invaluable source of inspiration it is...如果你常读《家和花园》杂志的话，就会知道它是一个多么宝贵的灵感源泉。
+These texts give the reader an insight into the Chinese mind.这些文章使读者对中国人的思维有了深层次的认识。
+
+2.N-COUNT	可数名词  爱读书的人；有读书习惯的人 A reader is a person who reads, especially one who reads for pleasure. 
+  【搭配模式】：usu with supp
+
+Thanks to that job I became an avid reader...多亏了那份工作我才成了一个喜欢阅读的人。
+Their books are loved by young readers the world over.他们的书得到了全世界年轻读者的喜爱。
+
+3.N-COUNT	可数名词  （出版社的）审稿人，审阅人 A reader is a person who reads books for a publisher in order to give an opinion on whether they should be published or not. 
+
+4.N-COUNT	可数名词  （英国大学中仅次于教授的）高级讲师 In British universities, a reader is a senior lecturer, with a rank just below that of a professor. 
+
+John Stevenson is Reader in History at the University of Sheffield.约翰·史蒂文森是谢菲尔德大学的历史学高级讲师。
+
+5.N-COUNT	可数名词  （美国大学的）助教 In American universities and colleges, a reader is an assistant to a teacher. Readers' duties include reading and marking examination papers and other work. 
+
+6.N-COUNT	可数名词  （帮助阅读或学习外语的）读本，读物 A reader is a book to help children to learn to read, or to help people to learn a foreign language. It contains passages of text, and often exercises to give practice in reading and writing. 
+
+
+——————————————
+★☆☆   readership ●○○○○
+
+1.N-COUNT	可数名词  读者（人数） The readership of a book, newspaper, or magazine is the number or type of people who read it. 
+  【搭配模式】：usu sing
+
+Its readership has grown to over 15,000 subscribers...它的订阅人数上升到了15,000多人。
+A new format would alienate its ageing readership without attracting young readers.新的版式会疏远上了年纪的读者群，并且也不会吸引年轻读者。
+
+2.N-COUNT	可数名词  （英国大学的）高级讲师职位 In Britain, a readership is the post of a reader at a university. 
+
+
+——————————————
+★☆☆   readily ●●○○○
+
+1.ADV-GRADED	副词  乐意地；欣然地 If you do something readily, you do it in a way which shows that you are very willing to do it. 
+  【搭配模式】：ADV with v
+
+I asked her if she would allow me to interview her, and she readily agreed...我问她是否允许我采访她，她欣然同意了。
+When I was invited to the party, I readily accepted.当被邀请参加聚会的时候，我一口答应了。
+
+2.ADV-GRADED	副词  迅速地；容易地；轻松地 You also use readily to say that something can be done or obtained quickly and easily. For example, if you say that something can be readily understood, you mean that people can understand it quickly and easily. 
+  【搭配模式】：ADV adj
+
+The components are readily available in hardware shops...这些零件很容易在五金商店买到。
+I don't readily make friends.我不轻易交友。
+
+
+——————————————
+★☆☆   readiness
+
+1.N-UNCOUNT	不可数名词  愿意；乐意 If someone is very willing to do something, you can talk about their readiness to do it. 
+
+...their readiness to co-operate with the new US envoy.他们乐意和新任美国特使合作
+
+2.N-UNCOUNT	不可数名词  准备就绪;以备 If you do something in readiness for a future event, you do it so that you are prepared for that event. 
+  【搭配模式】：usu in N
+
+Security tightened in the capital in readiness for the president's arrival.首都加强了警备，准备迎接总统的到来。
+
+
+——————————————
+★☆☆   reading ●●●○○
+
+1.N-UNCOUNT	不可数名词  阅读；读书 Reading is the activity of reading books. 
+
+I have always loved reading.我一直喜欢读书。
+...young people who find reading and writing difficult.觉得阅读和写作很难的年轻人
+
+2.N-COUNT	可数名词  读书会;朗诵会 A reading is an event at which poetry or extracts from books are read to an audience. 
+
+This year's event consisted of readings, lectures and workshops.今年的活动包括读书会、讲座和研讨会。
+...a poetry reading.诗歌朗诵会
+
+3.N-COUNT	可数名词  理解方法;解读方法 Your reading of a word, text, or situation is the way in which you understand or interpret it. 
+  【搭配模式】：with supp
+
+My reading of her character makes me feel that she was too responsible a person to do those things...照我对她的性格的了解来看，她是个特别负责任的人，不会做出那些事情的。
+Local public housing authorities disagree with this reading of the law.当地的公共住房管理当局不同意对该法律的这种解读。
+
+4.N-COUNT	可数名词  （测量仪器上的）读数，计量 The reading on a measuring device is the figure or measurement that it shows. 
+
+Once you have recorded the reading, shake the thermometer down to below 36 degrees...一旦完成计数，把温度计标数甩到36度以下。
+The gauge must be giving a faulty reading.量表的显示肯定有误。
+
+5.N-COUNT	可数名词  （英国议会或美国国会讨论一项新法案以获通过的三步立法程序之一）议案宣读 In the British Parliament or the US Congress, a reading is one of the three stages of introducing and discussing a new bill before it can be passed as law. 
+  【搭配模式】：usu ord N
+
+The bill is expected to pass its second reading with a comfortable majority.预计这项法案将以绝大多数赞成而通过议会第二次宣读。
+
+6.PHRASE	短语  读起来感觉… If you say that a book or an article makes interesting reading or makes for interesting reading, you mean that it is interesting to read. 
+  【搭配模式】：V inflects
+
+The list of drinks, a dozen pages long, makes fascinating reading...酒水单一共有十几页长，读起来很有趣。
+The report, called 'Child Poverty and Deprivation in the UK', makes for depressing reading.题为“英国儿童的贫困状况”的报告让人读起来心情沉重。
+
+
+——————————————
+★☆☆   reading glasses
+
+1.N-PLURAL	复数名词  （阅读时戴的）老花镜 Reading glasses are glasses that are worn by people, for example when they are reading, because they cannot see things close to them very well. 
+  【搭配模式】：also a pair of N
+
+
+——————————————
+★☆☆   reading lamp
+
+1.N-COUNT	可数名词  台灯 A reading lamp is a small lamp that you keep on a desk or table. You can move part of it in order to direct the light to where you need it for reading. 
+
+
+——————————————
+★☆☆   reading room
+
+1.N-COUNT	可数名词  （图书馆或博物馆的）阅览室 A reading room is a quiet room in a library or museum where you can read and study. 
+
+
+——————————————
+★☆☆   read into
+
+1.PHRASAL VERB	短语动词  认为包含;认为存在 If you read a meaning into something, you think it is there although it may not actually be there. 
+  【语法信息】：V n P n
+  【语法信息】：V amount P n
+  【语法信息】：Also V P n n
+
+The addict often reads disapproval into people's reactions to him even where it does not exist...这个瘾君子经常把别人对他的反应当作反感他的意思，即使别人并没有那个意思。
+It would be wrong to try to read too much into such a light-hearted production.如果硬把太多含义强加给这部轻松的作品就不对了。
+
+
+——————————————
+★☆☆   readjust
+
+1.VERB	动词  重新调整（或适应） When you readjust to a new situation, usually one you have been in before, you adapt to it. 
+  【语法信息】：V to n
+  【语法信息】：V
+
+I can understand why astronauts find it difficult to readjust to life on earth...我能够理解为什么宇航员发现重新适应地球上的生活不容易。
+They are bound to take time to readjust after a holiday.他们肯定需要时间重新适应假期结束后的生活。
+
+2.VERB	动词  再调整;(重新)调整 If you readjust the level of something, your attitude to something, or the way you do something, you change it to make it more effective or appropriate. 
+  【语法信息】：V n
+
+The rebel army has readjusted its strategy...叛军已经重新调整了策略。
+In the end you have to readjust your expectations...最后，你需要调整你的预期。
+We are simply going to readjust her medication and see how things are.我们要做的只是调整她的用药，然后再看看情况怎样。
+
+3.VERB	动词  重置;校准 If you readjust something such as a piece of clothing or a mechanical device, you correct or alter its position or setting. 
+  【语法信息】：V n
+
+Michael groaned and readjusted his shorts...迈克尔一边发着牢骚一边整了整自己的短裤。
+Readjust your watch. You are now on Moscow time.重新调一下你的手表。现在是莫斯科时间。
+
+
+——————————————
+★☆☆   readjustment
+
+1.N-VAR	可变名词  重新适应（或调整） Readjustment is the process of adapting to a new situation, usually one that you have been in before. 
+  【搭配模式】：usu with supp
+
+The next few weeks will be a period of readjustment...接下来的几周将是适应阶段。
+The readjustment to peace and home is slow and painful.重新适应和平以及家庭生活是缓慢而痛苦的。
+
+2.N-VAR	可变名词  （重新）调整 A readjustment of something is a change that you make to it so that it is more effective or appropriate. 
+  【搭配模式】：usu with supp
+
+The organization denies that it is seeking any readjustment of state borders.该组织否认其正在寻求对国界进行调整。
+...the effects of economic readjustment.经济调整的影响
+
+
+——————————————
+★☆☆   readout
+
+1.N-COUNT	可数名词  读数，数据显示（如速度、高度或分贝） If an electronic measuring device gives you a readout, it displays information about the level of something such as a speed, height, or sound. 
+
+The system provides a digital readout of the vehicle's speed...这个系统提供车辆速度的电子读数。
+The visibility readout is .019.能见度为.019。
+
+
+——————————————
+★☆☆   read out
+
+1.PHRASAL VERB	短语动词  （大声）读出;朗读 If you read out a piece of writing, you say it aloud. 
+  【语法信息】：V P n (not pron)
+  【语法信息】：V n P
+
+He's obliged to take his turn at reading out the announcements...轮到他大声宣读通知了。
+Shall I read them out?要我大声读出来吗？
+
+
+——————————————
+★☆☆   read up on
+
+1.PHRASAL VERB	短语动词  熟知;专攻;对…了如指掌 If you read up on a subject, you read a lot about it so that you become informed about it. 
+  【语法信息】：V P P n
+
+I've read up on the dangers of all these drugs.我对所有这些药物的危险性了如指掌。
+
+
+——————————————
+★☆☆   ready ●●●●○
+
+1.ADJ	形容词  （人）准备就绪的;（物品）准备好的 If someone is ready, they are properly prepared for something. If something is ready, it has been properly prepared and is now able to be used. 
+  【搭配模式】：v-link ADJ
+
+It took her a long time to get ready for church...她花了很长时间才做好去教堂的准备。
+The cocaine was ready for distribution...那些可卡因已经准备好进行分销了。
+Are you ready to board, Mr. Daly?...你准备好登机了吗，戴利先生？In a few days time the sprouts will be ready to eat...再过几天球芽甘蓝就可以吃了。Tomorrow he would tell his pilot to get the aircraft ready...明天他会告诉他的飞行员准备好飞机。It's eight-fifteen, dear, and your breakfast's ready.8点15分了，亲爱的，你的早餐已经做好了。
+
+2.ADJ	形容词  准备好的;胜任的 If you are ready for something or ready to do something, you have enough experience to do it or you are old enough and sensible enough to do it. 
+  【搭配模式】：v-link ADJ
+
+She says she's not ready for marriage...她说自己还没有准备好结婚。
+You'll have no trouble getting him into a normal school when you feel he's ready to go.当你觉得他可以应付的时候再把他弄进一所普通学校是不会有问题的。
+
+3.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  愿意的；乐意的；情愿的；甘愿的 If you are ready to do something, you are willing to do it. 
+  【搭配模式】：v-link ADJ to-inf
+
+They were ready to die for their beliefs...他们甘愿为信仰而死。
+She was always ready to give interviews.她一向乐意接受采访。
+
+4.ADJ	形容词  需要的；想要的 If you are ready for something, you need it or want it. 
+  【搭配模式】：v-link ADJ for n
+
+I don't know about you, but I'm ready for bed...我不知道你怎样，但是我要睡觉了。
+After five days in the heat of Bangkok, we were ready for the beach.在曼谷的炎热天气中呆了5天之后，我们想要去海边。
+
+5.ADJ	形容词  即将…的;可能…的 To be ready to do something means to be about to do it or likely to do it. 
+  【搭配模式】：v-link ADJ to-inf
+
+She looked ready to cry...她看起来要哭了。
+Just as we were ready to sit down to dinner, a little boy came running in...正当我们要吃晚餐的时候，一个小男孩跑着进来了。
+He says it's like a volcano ready to erupt.他说这就像一座即将喷发的火山。
+
+6.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  现成的;就绪的;易于得到的 You use ready to describe things that are able to be used very quickly and easily. 
+  【搭配模式】：ADJ n
+
+I didn't have a ready answer for this dilemma...我没有想出解决这个困境的现成答案。
+'But not quite yet,' he says quickly, with that ready smile of his...“但还不至于如此，”他脱口而出，脸上保持着他那一贯的微笑。
+Why does German industry enjoy such a ready supply of well-trained and well-motivated workers?为什么德国工业能有如此现成的训练有素且积极肯干的劳动力资源呢？
+
+7.ADJ	形容词  现金的;现钱的 Ready money is in the form of notes and coins rather than cheques or credit cards, and so it can be used immediately. 
+  【搭配模式】：ADJ n
+  【搭配模式】：usu the N
+  【语域标签】：BRIT 英
+  【语域标签】：INFORMAL 非正式
+
+I'm afraid I don't have enough ready cash.恐怕我身上没有足够的现金。Ready money is sometimes referred to as the readies .  现金；现钱;现钞
+
+She was a bit short of the readies.她手头现金有点儿紧张。
+
+8.VERB	动词  使做好准备;准备好 When you ready something, you prepare it for a particular purpose. 
+  【语法信息】：V n for n
+  【语法信息】：V n
+  【语法信息】：Also V n to-inf
+  【语域标签】：FORMAL 正式
+
+John's soldiers were readying themselves for the final assault...约翰的手下正在为最后的进攻做准备。
+In Egypt, two new camps were readied for the absorption of refugees...在埃及，两个新的营地已经准备好收留难民了。
+Cameramen readied tripods.摄影师们架好了三脚架。
+
+9.COMB in ADJ	与形容词构成的词  （与过去分词连用）表示“已经…好的”，“事先…的” Ready combines with past participles to indicate that something has already been done, and that therefore you do not have to do it yourself. 
+
+You can buy ready-printed forms for wills at stationery shops...你可以在文具店买到已印好的遗嘱单。
+If you buy the fish ready filleted, make sure the flesh is firm and springy.如果你要买已经片好的鱼片，一定要买鱼肉紧实有弹性的。
+
+10.PHRASE	短语  现成的；可以立即使用的；在手边的 If you have something at the ready, you have it in a position where it can be quickly and easily used. 
+  【搭配模式】：usu n PHR
+
+Soldiers came charging through the forest, guns at the ready.荷枪实弹的士兵穿过林区冲了上来。
+
+11.PHRASE	短语  准备就绪；整装待发 If you want to emphasize that a person is properly prepared for something, or that something can now be used, you can say that they are ready and waiting . 
+  【搭配模式】：v-link PHR
+  【语用信息】：emphasis
+
+She liked to be ready and waiting at home when Bernard returned from work...她想在伯纳德下班回家的时候把一切准备就绪。
+The chalet was kept ready and waiting for them at all times.小屋已收拾好随时迎接他们的到来。
+
+12.CONVENTION	惯用语  已经准备就绪；就等你先开始 If you say to someone 'Ready when you are', you are telling them that you are now ready to do something and that as soon as they are ready, you will do it. 
+
+'Are you ready to pull out?' — 'I'm ready when you are, Captain.'“准备好出发了吗?”——“就等你了，船长。”
+
+
+——————————————
+★☆☆   ready-made ●○○○○
+
+1.ADJ	形容词  现成的;预制的 If something that you buy is ready-made, you can use it immediately, because the work you would normally have to do has already been done. 
+
+We rely quite a bit on ready-made meals — they are so convenient...我们很是依赖现成食物——它们真的很方便。
+You can buy it ready-made at Chinese groceries...在中国杂货店里你可以买到现成的。
+The ready-made bedcovers cost from £200.现成的床罩定价200英镑起。
+
+2.ADJ	形容词  方便的;实用的;有用的 Ready-made means extremely convenient or useful for a particular purpose. 
+  【搭配模式】：usu ADJ n
+
+Those wishing to study urban development have a ready-made example on their doorstep...那些想要研究城市发展的人眼下就有一个十分现成的范例。
+It provides perfect strangers with a ready-made and infinitely adaptable topic of conversation.它给完全陌生的人提供了一个方便灵活的聊天话题。
+
+
+——————————————
+★☆☆   ready meal
+
+1.N-COUNT	可数名词  现成食品；方便食品 Ready meals are complete meals that are sold in shops. They are already prepared and you need only heat them before eating them. 
+
+
+——————————————
+★☆☆   ready-to-wear
+
+1.ADJ	形容词  做好的;非定制的;即买即穿的 Ready-to-wear clothes are made in standard sizes so that they fit most people, rather than being made specially for a particular person. 
+  【搭配模式】：ADJ n
+
+In 1978 he launched his first major ready-to-wear collection for the Austin Reed stores.在1978年他为奥斯汀·里德时装店推出了他的第一个高级成衣系列。
+
+
+——————————————
+★☆☆   reaffirm ●○○○○
+
+1.VERB	动词  重申；再次肯定 If you reaffirm something, you state it again clearly and firmly. 
+  【语法信息】：V n
+  【语法信息】：V that
+  【语域标签】：FORMAL 正式
+
+He reaffirmed his commitment to the country's economic reform programme...他重申了实施国家经济改革计划的决心。
+The government has reaffirmed that it will take any steps necessary to maintain law and order.政府重申将采取一切必要措施维护法律和秩序。
+
+
+——————————————
+★☆☆   reafforestation
+
+1.N-UNCOUNT	不可数名词  同reforestation Reafforestation is the same as reforestation . 
+  【语域标签】：mainly BRIT 主英
+
+
+——————————————
+★☆☆   reagent
+
+1.N-COUNT	可数名词  试剂，试药（常用以测试某一成分存在与否） A reagent is a substance that is used to cause a chemical reaction. Reagents are often used in order to indicate the presence of another substance. 
+  【FIELD标签】：TECHNICAL 术语
+
+
+——————————————
+★☆☆   real ●●●●●
+
+1.ADJ	形容词  真的；真实的；非虚构的 Something that is real actually exists and is not imagined, invented, or theoretical. 
+
+No, it wasn't a dream. It was real...不，它不是一个梦，它是真实的。
+Legends grew up around a great many figures, both real and fictitious.围绕着许多人物都有传说流传开，有真实的也有虚构的。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  身临其境的;亲身经历的 If something is real to someone, they experience it as though it really exists or happens, even though it does not. 
+  【搭配模式】：usu v-link ADJ
+
+Whitechild's life becomes increasingly real to the reader.怀特蔡尔德的生活在读者面前显得越来越真实。
+
+3.ADJ	形容词  天然的；真材实料的；非仿制的；非人工合成的 A material or object that is real is natural or functioning, and not artificial or an imitation. 
+  【搭配模式】：usu ADJ n
+
+...the smell of real leather...真皮的气味
+Who's to know if they're real guns or not?...谁能知道它们是不是真枪呢？
+Desmond did not believe the diamond was real.德斯蒙德不相信那钻石是真的。
+
+4.ADJ	形容词  真正的；完全的；不掺假的；货真价实的 You can use real to describe someone or something that has all the characteristics or qualities that such a person or thing typically has. 
+  【搭配模式】：ADJ n
+
+...his first real girlfriend...他第一个真正的女友
+He's not a real alcoholic...他并非货真价实的酒鬼。
+The only real job I'd ever had was as manager of the local cafe.我唯一一次真正的工作经历是在当地咖啡馆当经理。Usage Note :
+Do not confuse real and actual. You use real to describe things that exist rather than being imagined or theoretical. Robert squealed in mock terror, then in real pain. You use actual to emphasize that what you are referring to is real or genuine, for example, the actual cost of something is what it costs rather than what you expect it to cost. You can also use actual to contrast different aspects of something, for example the time taken to prepare for something with the time taken to do something. The actual boat trip takes about forty-five minutes.
+    不要混淆real和actual。real表示事物的确存在，非想象的或理论上的。例如，Robert squealed in mock terror, then in real pain（罗伯特起初假装害怕而尖叫，接着却真的疼得叫起来）。actual强调所指的事物是真实的或实际的，例如，actual cost指实际的花费，而不是预期的花费。actual还可以用来对比事物的不同方面，例如用来准备做某事的时间和真正做某事花费的时间之间的对比。如：The actual boat trip takes about forty-five minutes（实际坐船的时间大概有45分钟）。
+
+5.ADJ	形容词  真正的;最初的 You can use real to describe something that is the true or original thing of its kind, in contrast to one that someone wants you to believe is true. 
+  【搭配模式】：ADJ n
+
+This was the real reason for her call...这才是她打电话的真正原因。
+Her real name had been Miriam Pinckus.她的真名叫米丽娅姆·平卡斯。
+
+6.ADJ	形容词  最重要的;最典型的 You can use real to describe something that is the most important or typical part of a thing. 
+  【搭配模式】：ADJ n
+
+When he talks, he only gives glimpses of his real self...当他讲话时，他只流露少许个人的真实想法。
+The smart executive has people he can trust doing all the real work.这个精明的主管所有重要的工作都有信得过的人来做。
+...a solo journey to discover the real America.探寻真实美洲的独自旅行
+
+7.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  真实存在的;严肃的 You can use real when you are talking about a situation or feeling to emphasize that it exists and is important or serious. 
+  【搭配模式】：usu ADJ n
+  【语用信息】：emphasis
+
+Global warming is a real problem...全球变暖是个严重的问题。
+The prospect of civil war is very real...发生内战的可能性是真实存在的。
+There was never any real danger of the children being affected...并不存在儿童受到感染的切实危险。Political defeat seemed a real possibility at the end of 1981...政治失败在1981年底看来确有可能。At least they have a real chance to find work.至少他们的确有找到工作的机会。
+
+8.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  真实的;真诚的 You can use real to emphasize a quality that is genuine and sincere. 
+  【搭配模式】：ADJ n
+  【语用信息】：emphasis
+
+You've been drifting from job to job without any real commitment...你从一个工作跳到另一个工作，从没有真正投入进去。
+Germany has shown real determination to come to terms with the anti-Semitism of its past.德国表现出正视自己反犹主义历史的诚意。
+
+9.ADJ	形容词  （放在名词前）十足的，绝对的 You can use real before nouns to emphasize your description of something or someone. 
+  【搭配模式】：ADJ n
+  【语用信息】：emphasis
+  【STYLE标签】：mainly SPOKEN 主口语
+
+'It's a fabulous deal, a real bargain.'“这桩买卖真让人难以置信，绝对合算。”
+'You must think I'm a real idiot.'“你一定觉得我简直是个白痴.”
+
+10.ADJ	形容词  （成本或价值）实际的，净的，实的 The real cost or value of something is its cost or value after other amounts have been added or subtracted and when factors such as the level of inflation have been considered. 
+  【搭配模式】：ADJ n
+  【搭配模式】：PHR with cl
+
+...the real cost of borrowing.借款的实际成本You can also talk about the cost or value of something in real terms .  按实价;算净值
+
+In real terms the cost of driving is cheaper than a decade ago...开车的实际成本比10年前降低了。Pensions have increased in real terms over the last twenty years.退休金在过去20年中有了实际增长。
+
+11.ADV	副词  （用于形容词或副词前表示强调）非常，真正 You can use real to emphasize an adjective or adverb. 
+  【搭配模式】：ADV adj/adv
+  【语用信息】：emphasis
+  【语域标签】：AM 美
+  【语域标签】：INFORMAL 非正式
+
+He is finding prison life 'real tough'...他发现监狱生活“确实难熬”。
+I don't think you are trying real hard.我觉得你并没有真正努力尝试。
+
+12.PHRASE	短语  真实地;真正地;不是假装 If you say that someone does something for real, you mean that they actually do it and do not just pretend to do it. 
+  【搭配模式】：usu PHR after v
+
+The sex scenes were just good acting. We didn't do it for real.床戏只是逼真的表演。我们没有来真的。
+
+13.PHRASE	短语  来真的，真是这样（表示令人吃惊） If you think that someone or something is very surprising, you can ask if they are for real . 
+  【搭配模式】：v-link PHR
+  【语域标签】：AM 美
+  【语域标签】：INFORMAL 非正式
+
+Is this guy for real?这家伙是来真的吗？
+
+14.PHRASE	短语  真品；非仿冒品；真实事件 If you say that a thing or event is the real thing, you mean that it is the thing or event itself, rather than an imitation or copy. 
+
+The counterfeits sell for about $20 less than the real thing...赝品比真货便宜大约20美元。
+The Blairgowrie Highland Games, on the other hand, are the real thing rather than a media event.另一方面，布莱尔高里高地赛确实是真正的比赛，而不单是媒体盛事。
+
+
+——————————————
+★☆☆   real ale
+——————————————
+★☆☆   real estate ●●○○○
+
+1.N-UNCOUNT	不可数名词  不动产;房地产 Real estate is property in the form of land and buildings, rather than personal possessions. 
+  【语域标签】：mainly AM 主美
+
+By investing in real estate, he was one of the richest men in the United States.通过投资房地产，他成为美国最富有的人之一。
+...the most spectacular piece of real estate he had ever imagined.他能想象出来的最气派的房产
+
+2.N-UNCOUNT	不可数名词  房地产（商）；房地产（代理人） Real estate businesses or real estate agents sell houses, buildings, and land. 
+  【搭配模式】：usu N n
+  【语域标签】：AM 美
+
+...the real estate agent who sold you your house.卖给你房子的房地产经纪商
+...the real estate industry...房地产行业
+He had a long career in real estate.他曾长期从事房地产业。in BRIT, use 英国英语用 estate agency, estate agents
+
+
+——————————————
+★☆☆   realign
+
+1.VERB	动词  重整;重组;重塑;重新制定 If you realign your ideas, policies, or plans, you organize them in a different way in order to take account of new circumstances. 
+  【语法信息】：V n
+  【语法信息】：Also V
+
+She has, almost single-handedly, realigned British politics.她几乎是单枪匹马一个人重整了英国政坛。
+
+2.VERB	动词  重新调整；重新排列 If you realign objects, you move some or all of them in order to make them into a particular pattern. 
+  【语法信息】：V n
+
+I turned aside to realign the photographs of my children on the shelf.我转过身去把架子上孩子们的照片重新摆了摆。
+
+
+——————————————
+★☆☆   realignment ●○○○○
+
+1.N-VAR	可变名词  （公司、经济或体系的）重组 If a company, economy, or system goes through a realignment, it is organized or arranged in a new way. 
+  【搭配模式】：usu N of n
+
+...a realignment of the existing political structure.现存政治结构的重组
+
+
+——————————————
+★☆☆   realise
+
+1.   →see: realize; 
+
+
+——————————————
+★☆☆   realism ●○○○○
+
+1.N-UNCOUNT	不可数名词  现实主义；现实态度；务实精神 When people show realism in their behaviour, they recognize and accept the true nature of a situation and try to deal with it in a practical way. 
+  【语用信息】：approval
+
+It was time now to show more political realism...现在是拿出更多政治务实精神的时候了。
+The early ambitions of youthful enthusiasm soon become tempered with realism.之前年少时对理想抱负怀有的一腔热情很快便被现实浇灭。
+
+2.N-UNCOUNT	不可数名词  （绘画、小说或电影的）现实主义 If things and people are presented with realism in paintings, stories, or films, they are presented in a way that is like real life. 
+  【语用信息】：approval
+
+Greene's stories had an edge of realism that made it easy to forget they were fiction...格林的小说带有现实主义色彩，很容易让人忘记它们是虚构的。
+Sincere performances and gritty Boston settings add to the film's realism.真诚的表演和对波士顿这一背景城市的真实刻画增添了电影的现实主义色彩。
+
+
+——————————————
+★☆☆   realist ●○○○○
+
+1.N-COUNT	可数名词  现实主义者;务实者 A realist is someone who recognizes and accepts the true nature of a situation and tries to deal with it in a practical way. 
+  【语用信息】：approval
+
+I see myself not as a cynic but as a realist...我觉得自己不是一个愤世嫉俗的人，而是一个现实主义者。
+Realists would agree with many of these criticisms.现实主义者可能会赞同许多这类批评。
+
+2.ADJ	形容词  （画家或作家）现实主义的 A realist painter or writer is one who represents things and people in a way that is like real life. 
+  【搭配模式】：ADJ n
+
+...perhaps the foremost realist painter of our times.也许是我们时代最重要的现实主义画家
+
+
+——————————————
+★☆☆   realistic ●●○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  现实的;务实的;实事求是的 If you are realistic about a situation, you recognize and accept its true nature and try to deal with it in a practical way. 
+  【搭配模式】：usu v-link ADJ
+
+Police have to be realistic about violent crime...警方需要对暴力犯罪持务实态度。
+It's only realistic to acknowledge that something, some time, will go wrong.只有承认有些事情在某些时候会出问题才是现实的。
+...a realistic view of what we can afford.对于我们可以负担起什么的现实观点realistically
+
+As an adult, you can assess the situation realistically.作为一个成年人，你能现实地评估局势。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （目标或目的等）现实的，明智的，能实现的 Something such as a goal or target that is realistic is one which you can sensibly expect to achieve. 
+
+Multi-party elections are scheduled for sometime next year but many doubt that this is a realistic goal...多党选举计划在明年某个时间进行，但是许多人怀疑这个目标是否现实。
+A more realistic figure is eleven million...更加实际一点的数字是1,100万。
+Establish deadlines that are more realistic.确定更加现实的最后期限。
+
+3.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （绘画、小说或电影）现实主义风格的，写实的，逼真的 You say that a painting, story, or film is realistic when the people and things in it are like people and things in real life. 
+
+...extraordinarily realistic paintings of Indians...关于印第安人的极为逼真的绘画
+The language is foul and the violence horribly realistic.语言污秽，暴力场面非常写实。realistically
+
+The film starts off realistically and then develops into a ridiculous fantasy.电影以写实开头，然后却发展成为荒诞的幻想。
+
+
+——————————————
+★☆☆   realistically ●○○○○
+
+1.ADV	副词 See also: realistic;  实际地;现实地 You use realistically when you want to emphasize that what you are saying is true, even though you would prefer it not to be true. 
+  【搭配模式】：ADV with cl
+  【语用信息】：emphasis
+
+Realistically, there is never one right answer.说实在的，永远没有一个正确答案。
+
+
+——————————————
+★☆☆   reality ●●●●○
+
+1.N-UNCOUNT	不可数名词 See also: virtual reality;  现实;事实 You use reality to refer to real things or the real nature of things rather than imagined, invented, or theoretical ideas. 
+
+Fiction and reality were increasingly blurred...虚构和现实越来越难以区分了。
+Psychiatrists become too caught up in their theories to deal adequately with reality.精神病专家太纠结于理论，无法很好地处理现实问题。
+
+2.N-COUNT	可数名词  （尤指不愉快的或困难的）真实情况，实际情形 The reality of a situation is the truth about it, especially when it is unpleasant or difficult to deal with. 
+  【搭配模式】：usu the N of n
+
+...the harsh reality of top international competition...高层次的国际竞争的严酷现实
+Other psychoanalysts do accept the reality of child sexual abuse.其他心理分析师确实接受了儿童性侵犯的现实。
+
+3.N-SING	单数名词  现实存在;真实发生的事 You say that something has become a reality when it actually exists or is actually happening. 
+
+...the whole procedure that made this book become a reality...本书成书的整个过程
+The reality is that they are poor.现状是他们很贫穷。
+
+4.PHRASE	短语  事实上；实际上 You can use in reality to introduce a statement about the real nature of something, when it contrasts with something incorrect that has just been described. 
+  【搭配模式】：PHR with cl
+
+He came across as streetwise, but in reality he was not.他给人的印象是很适应都市生活，但实际上并非如此。
+
+
+——————————————
+★☆☆   reality check
+
+1.N-COUNT	可数名词  真情实况;现实的提醒 If you say that something is a reality check for someone, you mean that it makes them recognize the truth about a situation, especially about the difficulties involved in something they want to achieve. 
+  【搭配模式】：usu sing
+
+Jones's wise words are a timely reality check for many at the club who believe the great days are just around the corner.琼斯的一番高见来得正是时候，对于俱乐部中许多相信好日子已经不远的人来说不啻于当头一棒。
+
+
+——————————————
+★☆☆   reality TV
+
+1.N-UNCOUNT	不可数名词  真人秀电视节目 Reality TV is a type of television programming which aims to show how ordinary people behave in everyday life, or in situations, often created by the programme makers, which are intended to represent everyday life. 
+
+...the Americans' current infatuation with reality TV.美国人眼下对真人秀电视节目的痴迷
+
+
+——————————————
+★☆☆   realizable
+in BRIT, also use 英国英语亦用 realisable
+
+1.ADJ	形容词  可实现的;可行的 If your hopes or aims are realizable, there is a possibility that the things that you want to happen will happen. 
+  【语域标签】：FORMAL 正式
+
+...the reasonless assumption that one's dreams and desires were realizable.认为人的梦想和欲望可以实现的毫无根据的假设
+
+2.ADJ	形容词  （财富）可变现的 Realizable wealth is money that can be easily obtained by selling something. 
+  【语域标签】：FORMAL 正式
+
+In many cases this realizable wealth is not realized during the lifetime of the home owner...许多情况下业主有生之年都没有把这笔可变现的财产变现。
+They must prove they own £250,000 of realisable assets.他们必须证明拥有25万英镑的可变现财产。
+
+
+——————————————
+★☆☆   realize ●●●●○
+in BRIT, also use 英国英语亦用 realise
+
+1.VERB	动词  认识到；意识到；了解 If you realize that something is true, you become aware of that fact or understand it. 
+  【语法信息】：V that
+  【语法信息】：V wh
+  【语法信息】：V n
+  【语法信息】：V
+
+As soon as we realised something was wrong, we moved the children away...我们刚意识到有什么不对劲就把孩子转移了。
+People don't realize how serious this recession has actually been...人们没有意识到这次经济衰退事实上有多严重。
+Once they realised their mistake the phone was reconnected again...他们一意识到他们的错误，电话就重新接通了。'That's my brother.'—'Oh, I hadn't realized.'“那是我弟弟。”——“哦，我没认出来呀。”realization
+
+There is now a growing realisation that things cannot go on like this for much longer...现在人们越来越认识到事情不能再像这样发展了。
+He nearly cried out at the sudden realization of how much Randall looked like him.当他意识到兰德尔和自己有多么相像时，几乎叫了出来。
+
+2.VERB	动词  （希望、心愿或恐惧）实现，成为现实，发生 If your hopes, desires, or fears are realized, the things that you hope for, desire, or fear actually happen. 
+  【语法信息】：be V-ed
+  【搭配模式】：usu passive
+
+Straightaway our worst fears were realised...我们最恐惧的事情一下发生了。
+Those are our hopes; we are starting this clinical trial to investigate whether those hopes will be realised.那些就是我们的希望；我们正在开展这些临床试验以调查那些希望是否可以实现。realization
+
+...the realization of his worst fears.他最怕的事情的发生
+
+3.VERB	动词  实现;实施;实行 When someone realizes a design or an idea, they make or organize something based on that design or idea. 
+  【语法信息】：V n
+  【语域标签】：FORMAL 正式
+
+Various textile techniques will be explored to realise design possibilities...将尝试和探索纺织技巧来把这些设计变为现实。
+The kaleidoscopic quality of the book is brilliantly realised on stage.该书包罗万象、精彩纷呈的特质在舞台上得到了精彩再现。
+
+4.VERB	动词  发挥，实现（潜力） If someone or something realizes their potential, they do everything they are capable of doing, because they have been given the opportunity to do so. 
+  【语法信息】：V n
+
+The support systems to enable women to realize their potential at work are seriously inadequate...使妇女在工作中发挥潜力的支持体系严重不足。
+I think probably that the laser has not realised the potential that was expected of it in that domain.我想可能激光在那个领域并没有充分发挥其潜力。
+
+5.VERB	动词  实现（利润）；卖得… If something realizes a particular amount of money when it is sold, that amount of money is paid for it. 
+  【语法信息】：V n
+  【语域标签】：FORMAL 正式
+
+A selection of correspondence from P G Wodehouse realised £ 1,232.P.G.沃德豪斯的书信选集卖了1,232英镑。realization
+
+I have taken this course solely to assist the realisation of my assets for the benefit of all my creditors.我采取这种行动只是为了变现我的资产以偿清欠款。
+
+
+——————————————
+★☆☆   real life
+
+1.N-UNCOUNT	不可数名词  现实生活；实际生活 If something happens in real life, it actually happens and is not just in a story or in someone's imagination. 
+  【搭配模式】：usu in N
+  【搭配模式】：ADJ n
+
+In real life men like Richard Gere don't marry street girls...在现实生活中，像李察·基尔那样的男人是不会娶一个风尘女子的。
+Children use fantasy to explore worrying aspects of real life.孩子们用幻想来探索实际生活中令人不安的各种事情。Real life is also an adjective.  
+
+...a real-life horror story.现实版的恐怖故事
+
+
+——————————————
+★☆☆   reallocate
+
+1.VERB	动词  再分配，再配置（金钱或资源） When organizations reallocate money or resources, they decide to change the way they spend the money or use the resources. 
+  【语法信息】：V n
+  【语法信息】：V n to n
+
+...a cost-cutting program to reallocate people and resources within the company...为节约成本在公司内部进行的人力和资源再分配方案
+Other areas are to lose aid so that money can be reallocated to towns devastated by pit closures.将不再资助其他地区，以便资金可以重新分配给饱受矿井关闭影响的城镇。
+
+
+——————————————
+★☆☆   really ●●●●●
+
+1.ADV	副词  （表示强调）的确，确实 You can use really to emphasize a statement. 
+  【搭配模式】：usu ADV with v
+  【语用信息】：emphasis
+  【STYLE标签】：SPOKEN 口语
+
+I'm very sorry. I really am...我很抱歉。真的。
+It really is best to manage without any medication if you possibly can...如果你不服用任何药物就能挺过去的话，最好不过了。
+I really do feel that some people are being unfair...我真的觉得一些人处事不公。You know, we really ought to get another car...要知道，我们真的应该换一辆车了。I'm fine, really I'm fine.我很好，我真的很好。
+
+2.ADV	副词  （放在形容词或副词前表示强调）极其，非常 You can use really to emphasize an adjective or adverb. 
+  【搭配模式】：ADV adj/adv
+  【语用信息】：emphasis
+
+It was really good...好极了。
+They were really nice people...他们是极好的人。
+I know her really well.我和她很熟。
+
+3.ADV	副词  实际上；实在；事实上 You use really when you are discussing the real facts about something, in contrast to the ones someone wants you to believe. 
+  【搭配模式】：usu ADV with v
+
+My father didn't really love her...我父亲实际上并不爱她。
+What was really going on?...到底怎么了？
+You make them feel that it was their decision when it wasn't really.你让他们觉得那是他们的决定，可实际上并非如此。
+
+4.ADV	副词  （用于问句或否定句中引出否定回答）真的，说实在的 People use really in questions and negative statements when they want you to answer 'no'. 
+  【搭配模式】：ADV before v
+  【语用信息】：emphasis
+
+Do you really think he would be that stupid?...你真的认为他会那么蠢吗？
+You can't really expect me to believe you didn't know him.你不会真的觉得我会相信你不认识他吧。
+
+5.ADV	副词  真正地（开始） If you refer to a time when something really begins to happen, you are emphasizing that it starts to happen at that time to a much greater extent and much more seriously than before. 
+  【搭配模式】：ADV before v
+  【语用信息】：emphasis
+
+That's when the pressure really started...那就是真正开始有压力的时候。
+He only really started going out with girls at college.他上大学的时候才真正开始和女孩子约会。
+
+6.ADV	副词  （放在否定陈述句中减轻语气）真的，真正，其实 People sometimes use really to slightly reduce the force of a negative statement. 
+  【搭配模式】：ADV after neg
+  【语用信息】：vagueness
+  【STYLE标签】：SPOKEN 口语
+
+I'm not really surprised...我其实并不惊讶。
+'Did they hurt you?' — 'Not really'...“他们伤害你了吗？”“其实并没有。”
+I didn't really notice what I was eating...我其实并没有注意到自己在吃什么。I don't think that's very fair really.我其实认为那很不公平。
+
+7.ADV	副词  （放在句中表示不那么确定）真的，还是 People sometimes add really to statements in order to make them less definite and more uncertain. 
+  【搭配模式】：ADV with cl
+  【语用信息】：vagueness
+  【STYLE标签】：SPOKEN 口语
+
+She is a quiet girl really...她算得上是个蛮安静的女孩。
+I'm happy most of the time, really.我多数时候还是挺快乐的。
+
+8.ADV	副词  （表示惊讶）还真是，还真的 People use really to show that they are surprised or that the person they are speaking to may be surprised about something. 
+  【搭配模式】：ADV with cl
+  【语用信息】：feelings
+  【语域标签】：mainly BRIT 主英
+  【STYLE标签】：SPOKEN 口语
+
+Actually it was quite good really...事实上那还真的不错呢。
+I was really rather fond of Arthur.我还真的很喜欢阿瑟。
+
+9.CONVENTION	惯用语  （对某人所说的话表示怀疑或不相信）真的，是吗 You can say really to express surprise or disbelief at what someone has said. 
+  【语用信息】：feelings
+  【STYLE标签】：SPOKEN 口语
+
+'We discovered it was totally the wrong decision.' — 'Really?'...“我们发现那完全是个错误的决定。”——“真的吗？”
+'We saw a very bright shooting star.'—'Did you really?'“我们看到了一颗很明亮的流星。”——“真的吗？”
+
+10.CONVENTION	惯用语  （用在对话中表示对对方所说的内容感兴趣）是吗，真的吗 You can say 'really' in a conversation to show that you are interested in what someone is saying. 
+
+'We had a very interesting chat.' — 'Really? About what?'“我们相谈甚欢。”——“是吗？谈了些什么？”
+
+11.EXCLAM	感叹语  （表示有些恼怒或厌烦）说真的，坦白讲 Some people say really when they are slightly annoyed or offended by something. 
+  【语用信息】：feelings
+  【语域标签】：BRIT 英
+  【STYLE标签】：SPOKEN 口语
+
+Really, Mr Riss, I expected better of you.坦白讲，里斯先生，我没想到你会那样。Usage Note :
+Note that really and actually are both used to emphasize statements. You use really in conversation to emphasize something that you are saying. I really think he's sick. Note that when really is used in a negative sentence, its position in relation to the verb affects the meaning. For instance, if you say 'I really don't like Richard', with really in front of the verb, you are emphasizing how much you dislike Richard. However, if you say 'I don't really like Richard', with really coming after the negative, you are still saying that you dislike Richard, but the feeling is not particularly strong. When you use really in front of an adjective or adverb, it has a similar meaning to very. This is really serious. Actually is used to emphasize what is true or genuine in a situation, often when this is surprising, or a contrast with what has just been said. All the characters in the novel actually existed... He actually began to cry. It can also be used to be precise or to correct someone. No one was actually drunk... We couldn't actually see the garden.
+    注意，really 和 actually 在句中都表强调。really在对话中强调所陈述的事实。如，I really think he's sick（我真的以为他病了）。really用在否定句中时，放在动词前或后的位置不同，句意不同。如，I really don't like Richard（我真的不喜欢理查德）。在这个句子里really放在动词前，强调不喜欢理查德的程度。但是，如果说I don't really like Richard (我不那么喜欢理查德），在这个句子里really放在否定词之后，仍然表示不喜欢理查德，但是程度没有那么强了。当really用在句中形容词或副词前时，意思和very一样。如，This is really serious (这真的很严重）。actually用来强调某种情形下实际或真实的情况，经常是令人吃惊的，或与前面提到的形成对照。如，All the characters in the novel actually existed（小说里的所有人物都是现实存在的），He actually began to cry (他竟然哭了起来），actually也可用来确定或更正某人的话或行为。如，No one was actually drunk（没有人真的喝醉了），We couldn't actually see the garden（我们实际上并不能看到花园）。
+
+
+——————————————
+★☆☆   realm ●●○○○
+
+1.N-COUNT	可数名词  （活动、兴趣或思想的）领域，范围 You can use realm to refer to any area of activity, interest, or thought. 
+  【搭配模式】：usu with supp
+  【语域标签】：FORMAL 正式
+
+...the realm of politics...政治领域
+Students' interests are mostly limited to the academic realm.学生们的兴趣大多限于学术领域。
+
+2.N-COUNT	可数名词  王国 A realm is a country that has a king or queen. 
+  【搭配模式】：usu sing
+  【语域标签】：FORMAL 正式
+
+Defence of the realm is crucial.王国的国防至关重要。
+
+3.PHRASE	短语  可能的范围 If you say that something is not beyond the realms of possibility, you mean that it is possible. 
+  【搭配模式】：realm inflects
+
+A fall of 50 per cent or more on prices is not beyond the realms of possibility...降价50%或更多并非不可能。
+This is a target which is surely within the realm of possibility.这是一个完全有可能实现的目标。
+
+
+——————————————
+★☆☆   real property
+
+1.N-UNCOUNT	不可数名词  房地产;不动产 Real property is property in the form of land and buildings, rather than personal possessions. 
+  【语域标签】：AM 美
+
+
+——————————————
+★☆☆   real-time
+
+1.ADJ	形容词  （计算机处理数据）实时的 Real-time processing is a type of computer programming or data processing in which the information received is processed by the computer almost immediately. 
+  【搭配模式】：ADJ n
+  【FIELD标签】：COMPUTING 计算机
+
+...real-time language translations.实时语言转换
+
+
+——————————————
+★☆☆   real time
+
+1.N-UNCOUNT	不可数名词  实时 If something is done in real time, there is no noticeable delay between the action and its effect or consequence. 
+  【搭配模式】：oft in N
+
+...umpires, who have to make every decision in real time.需要即时作出每个判罚的裁判员
+
+
+——————————————
+★☆☆   Realtor
+
+1.N-COUNT	可数名词  房地产经纪人(尤指美国房地产行业工会成员) A Realtor is a person whose job is to sell houses, buildings, and land, and who is a member of the National Association of Realtors. 
+  【语域标签】：AM 美
+  【STYLE标签】：TRADEMARK 商标in BRIT, use 英国英语用 estate agent
+
+
+——————————————
+★☆☆   real world
+
+1.N-SING	单数名词  真实的世界；现实世界；现实生活 If you talk about the real world, you are referring to the world and life in general, in contrast to a particular person's own life, experience, and ideas, which may seem untypical and unrealistic. 
+  【搭配模式】：the N
+
+When they eventually leave the school they will be totally ill-equipped to deal with the real world...当他们最终离开学校的时候，他们没掌握什么实际技能，难以应对现实世界。
+I was Olympic champion but I had to go out into the real world and work for a living.我是奥运冠军，但是我不得不走进现实生活工作谋生。
+
+
+——————————————
+★☆☆   ream ●○○○○
+
+1.N-COUNT	可数名词  大量；许多 If you say that there are reams of paper or reams of writing, you mean that there are large amounts of it. 
+  【搭配模式】：usu pl
+  【语域标签】：INFORMAL 非正式
+
+Their specific task is to sort through the reams of information and try to determine what it may mean...他们的具体任务就是将大量信息分类并努力弄清它们的意思。
+Kelly spent three hours going through reams of paper.凯利花了3个小时翻阅大量文件。
+
+
+——————————————
+★☆☆   reap ●○○○○
+
+1.VERB	动词  获得；收获；得到；取得 If you reap the benefits or the rewards of something, you enjoy the good things that happen as a result of it. 
+  【语法信息】：V n
+
+You'll soon begin to reap the benefits of being fitter...你很快就会体会到身体更健康带来的好处。
+We are not in this to reap immense financial rewards.我们从事这一行不是为了获得巨大的经济回报。
+
+2.VERB	动词  收割，收获（农作物） To reap crops means to cut them down and gather them. 
+  【语法信息】：V n
+
+The painting depicted a group of peasants reaping a harvest of fruits and vegetables.这幅画描绘了一群农民收获水果和蔬菜的情景。
+
+
+——————————————
+★☆☆   reaper
+
+1.N-COUNT	可数名词 See also: Grim Reaper;  收割机 A reaper is a machine used to cut and gather crops. 
+
+
+——————————————
+★☆☆   reappear ●○○○○
+
+1.VERB	动词  重现；再现；再次发生 When people or things reappear, they return again after they have been away or out of sight for some time. 
+  【语法信息】：V
+
+Thirty seconds later she reappeared and beckoned them forward.30秒后她又出现了，示意他们往前来。
+
+
+——————————————
+★☆☆   reappearance
+
+1.N-COUNT	可数名词  重现；再现 The reappearance of someone or something is their return after they have been away or out of sight for some time. 
+  【搭配模式】：usu with poss
+
+His sudden reappearance must have been a shock.他突然再次出现一定引起了震动。
+...the reappearance of Cossack culture in Russia.哥萨克文化在俄罗斯的重现
+
+
+——————————————
+★☆☆   reappraisal
+
+1.N-VAR	可变名词  重新评价；重新评估；再评定 If there is a reappraisal of something such as an idea or plan, people think about the idea carefully and decide whether they want to change it. 
+  【语域标签】：FORMAL 正式
+
+Britain's worst jail riot will force a fundamental reappraisal of prison policy...英国最严重的监狱暴动会迫使政府对监狱政策进行彻底的重新评估。
+It is a time for quiet analysis and reappraisal.是时候进行简要分析和重新评估了。
+
+
+——————————————
+★☆☆   reappraise
+
+1.VERB	动词  重新估计；重新评价 If you reappraise something such as an idea or a plan, you think carefully about it and decide whether it needs to be changed. 
+  【语法信息】：V n
+  【语域标签】：FORMAL 正式
+
+It did not persuade them to abandon the war but it did force them to reappraise their strategy.那并没有说服他们放弃战争，但的确迫使他们重新评估了自己的战略。
+
+
+——————————————
+★☆☆   rear ●●●○○
+
+1.N-SING	单数名词  （建筑物或车辆的）后部，后面，背面 The rear of something such as a building or vehicle is the back part of it. 
+  【搭配模式】：the N
+  【搭配模式】：ADJ n
+
+He settled back in the rear of the taxi.他靠坐在出租车的后排座上。
+...a stairway in the rear of the building.大楼后面的楼梯Rear is also an adjective.  
+
+Manufacturers have been obliged to fit rear seat belts in all new cars.生产商们不得不在所有新车的后排座椅上安装安全带。
+
+2.N-SING	单数名词  （队列的）尾部，最后一个 If you are at the rear of a moving line of people, you are the last person in it. 
+  【搭配模式】：the N
+  【语域标签】：FORMAL 正式
+
+Musicians played at the front and rear of the procession...乐师们在队前和队尾表演。
+The Lord Mayor follows at the rear in his gilded coach.市长大人坐在他阔气的马车里在后面跟着。
+
+3.N-COUNT	可数名词  臀部;屁股 Your rear is the part of your body that you sit on. 
+  【搭配模式】：usu poss N
+  【语域标签】：INFORMAL 非正式
+
+I turned away from the phone to see Lewis pat a waitress on her rear.我打完电话后转过头，看见刘易斯拍了拍一个女招待的屁股。
+
+4.VERB	动词  抚养;养育;养大 If you rear children, you look after them until they are old enough to look after themselves. 
+  【语法信息】：V n
+  【语法信息】：be V-ed prep
+
+She reared sixteen children, six her own and ten her husband's...她养大了16个孩子，其中6个是她亲生的，10个是她丈夫带来的。
+I was reared in east Texas.我在得克萨斯州东部长大。
+
+5.VERB	动词  饲养（小动物） If you rear a young animal, you keep and look after it until it is old enough to be used for work or food, or until it can look after itself. 
+  【语法信息】：V n
+  【语域标签】：mainly BRIT 主英
+
+She spends a lot of time rearing animals.她花费大量时间饲养动物。in AM, usually use 美国英语通常用 raise
+
+6.VERB	动词  （马）用后腿直立，暴跳 When a horse rears, it moves the front part of its body upwards, so that its front legs are high in the air and it is standing on its back legs. 
+  【语法信息】：V
+  【语法信息】：V P
+
+The horse reared and threw off its rider.那匹马前蹄腾空向后仰，把骑手摔了下去。Rear up means the same as rear .  rear up 同 rear
+
+...an army pony that didn't rear up at the sound of gunfire.听到枪声不会仰站立起的军用小型马
+
+7.VERB	动词  高耸，耸立（在眼前） If you say that something such as a building or mountain rears above you, you mean that is very tall and close to you. 
+  【语法信息】：V prep/adv
+
+The exhibition hall reared above me behind a high fence...高高的围墙后面，展览大厅耸立在我面前。
+The mountains reared up on each side, steep and white.两边的山峦高耸入云，山势陡峭，覆盖着积雪。
+
+8.PHRASE	短语  殿后 If a person or vehicle is bringing up the rear, they are the last person or vehicle in a moving line of them. 
+  【搭配模式】：V inflects
+
+...police motorcyclists bringing up the rear of the procession.摩托骑警行进在队伍最后
+
+9.PHRASE	短语  （令人不快之物）显现，露头，显露 If something unpleasant rears its head or rears its ugly head, it becomes visible or noticeable. 
+  【搭配模式】：V and N inflect
+
+The threat of strikes reared its head again this summer...今年夏天又显现出了罢工的势头。
+The extreme right reared its ugly head in the 1980s.极右势力在20世纪80年代有所抬头。相关词组：rear up 
+
+
+——————————————
+★☆☆   Rear Admiral
+
+1.N-TITLE; N-COUNT	头衔名词；可数名词  （海军）少将 Rear Admiral is a rank in the navy. It is the rank below Vice Admiral. 
+
+...Rear Admiral Douglas Cap, commander of the USS America.海军少将道格拉斯·凯普，美国舰队的指挥官
+
+
+——————————————
+★☆☆   rear-end
+
+1.VERB	动词  （车辆）追尾 If a driver or vehicle rear-ends the vehicle in front, they crash into the back of it. 
+  【语法信息】：V n
+  【语域标签】：INFORMAL 非正式
+
+A few days earlier somebody had rear-ended him.几天之前他的车被人追尾了。
+
+
+——————————————
+★☆☆   rearguard
+
+1.N-SING	单数名词  （尤指战场上军队撤退时的）后卫部队 In a battle, the rearguard is a group of soldiers who protect the back part of an army, especially when the army is leaving the battle. 
+  【搭配模式】：the N
+
+2.PHRASE	短语  负隅顽抗;最后一搏 If someone is fighting a rearguard action or mounting a rearguard action, they are trying very hard to prevent something from happening, even though it is probably too late for them to succeed. 
+  【搭配模式】：V inflects
+  【FIELD标签】：JOURNALISM 新闻
+
+Mr Urban looks increasingly like someone fighting a rearguard action to keep their job.厄本先生越来越像为了保住工作作最后一搏的那些人。
+
+
+——————————————
+★☆☆   re-arm
+——————————————
+★☆☆   rearm
+
+1.V-ERG	及物/不及物动词  重新武装；重整军备 If a country rearms or is rearmed, it starts to build up a new stock of military weapons. 
+  【语法信息】：V
+  【语法信息】：V n
+
+They neglected to rearm in time and left Britain exposed to disaster.他们由于疏忽没有及时重整军备，结果使英国面临灾祸。
+...NATO's decision to rearm West Germany.北约重新武装西德的决定
+
+
+——————————————
+★☆☆   rearmament
+
+1.N-UNCOUNT	不可数名词  重新武装;重整军备 Rearmament is the process of building up a new stock of military weapons. 
+
+
+——————————————
+★☆☆   rearrange ●○○○○
+
+1.VERB	动词  重整；重新安排；重新排列 If you rearrange things, you change the way in which they are organized or ordered. 
+  【语法信息】：V n
+
+When she returned, she found Malcolm had rearranged all her furniture...她回家时，发现马尔科姆把她所有的家具都重新摆放了。
+A waiter was rapidly rearranging tables for the big group.一个服务生正在麻利地为这一大帮人重新布置餐桌。
+
+2.VERB	动词  重新安排（会议或约会） If you rearrange a meeting or an appointment, you arrange for it to take place at a different time to that originally intended. 
+  【语法信息】：V n
+
+You may cancel or rearrange the appointment...你可以取消约会或是重新安排约会时间。
+The meeting on 31 October is rearranged for 30 January.10月31日的会议重新安排到了1月30日。
+
+
+——————————————
+★☆☆   rearrangement
+
+1.N-VAR	可变名词  重新整理；重新安排 A rearrangement is a change in the way that something is arranged or organized. 
+
+...a rearrangement of the job structure.工作结构的重新安排
+
+
+——————————————
+★☆☆   rear up
+
+1.   →see: rear 6; 
+
+
+——————————————
+★☆☆   rear-view mirror
+
+1.N-COUNT	可数名词  （汽车内的）后视镜 Inside a car, the rear-view mirror is the mirror that enables you to see the traffic behind when you are driving. 
+
+
+——————————————
+★☆☆   rearview mirror
+
+1.N-COUNT	可数名词  （汽车内的）后视镜 Inside a car, the rear-view mirror is the mirror that enables you to see the traffic behind when you are driving. 
+
+
+——————————————
+★☆☆   rearward
+
+1.ADV	副词  向后面；朝后面 If something moves or faces rearward, it moves or faces backwards. 
+  【搭配模式】：ADV with v
+  【搭配模式】：ADJ n
+
+...a rearward facing infant carrier...后向式婴儿背带
+The centre of pressure moves rearward and the aeroplane becomes unbalanced.气压中心后移使飞机失去平衡。Rearward is also an adjective.  
+
+...the rearward window.后边的窗户
+
+
+——————————————
+★☆☆   reason ●●●●●
+
+1.N-COUNT	可数名词  原因；理由；动机 The reason for something is a fact or situation which explains why it happens or what causes it to happen. 
+  【搭配模式】：usu with supp
+
+There is a reason for every important thing that happens...每件重要事情的发生都有原因。
+Who would have a reason to want to kill her?谁会有杀她的动机呢？
+...the reason why Italian tomatoes have so much flavour...意大利番茄如此美味的原因The only reason I went was because I was told to...我去的唯一原因是我被告知要去。My parents came to Germany for business reasons...我父母因公来到德国。The exact locations are being kept secret for reasons of security.确切地点因为安全原因要保密。
+
+2.N-UNCOUNT	不可数名词  理由；确凿的证据 If you say that you have reason to believe something or to have a particular emotion, you mean that you have evidence for your belief or there is a definite cause of your feeling. 
+  【搭配模式】：usu N to-inf
+
+They had reason to believe there could be trouble...他们有理由相信可能会遇到麻烦。
+He had every reason to be upset...他完全有理由生气。
+He doesn't trust me. With good reason.他不信任我是有充分理由的。
+
+3.N-UNCOUNT	不可数名词  理性;理智 The ability that people have to think and to make sensible judgments can be referred to as reason . 
+
+...a conflict between emotion and reason...情感和理智的冲突
+Mike is my voice of reason. He thinks logically and points out where I'm going wrong.迈克帮我保持理智。他的思维很有逻辑性，可以指出我的错误。
+
+4.VERB	动词 See also: reasoned;reasoning;  推理;推论;推断 If you reason that something is true, you decide that it is true after thinking carefully about all the facts. 
+  【语法信息】：V that
+  【语法信息】：V with quote
+
+I reasoned that changing my diet would lower my cholesterol level...我推断改变自己的饮食可以降低我的胆固醇水平。
+'Listen,' I reasoned, 'it doesn't take a genius to figure out what Adam's up to.'“听着，”我分析道，“要弄清楚亚当想要干什么很容易。”
+
+5.PHRASE	短语  （常用来暗指不赞成某人的所作所为）只有自己知道为什么，出于自身的理由 If you do not know why someone did something, you can say that they did it for reasons best known to themselves. You usually use this expression when you do not agree with what they did. 
+  【搭配模式】：PHR with cl
+
+For reasons best known to himself, Algie changed his name.不知是出于什么原因，阿尔吉改了名字。
+
+6.PHRASE	短语  因为；由于；由…引起；以…为理由 If one thing happens by reason of another, it happens because of it. 
+  【搭配模式】：PHR n
+  【语域标签】：FORMAL 正式
+
+The boss retains enormous influence by reason of his position...老板由于自身的地位而一直有极大的影响力。
+He pleaded innocent by reason of insanity.他以精神不健全为由申辩无罪。
+
+7.PHRASE	短语  听从劝告;理智行事 If you try to make someone listen to reason, you try to persuade them to listen to sensible arguments and be influenced by them. 
+  【搭配模式】：V inflects
+
+The company's top executives had refused to listen to reason.公司的高层管理人员拒绝理智行事。
+
+8.PHRASE	短语  无缘无故；莫名其妙；没有理由 If you say that something happened or was done for no reason ,for no good reason, or for no reason at all, you mean that there was no obvious reason why it happened or was done. 
+  【搭配模式】：PHR with cl
+
+The guards, he said, would punch them for no reason...他说警卫会无缘无故殴打他们。
+For no reason at all the two men started to laugh.两个人莫名其妙地开始大笑。
+
+9.PHRASE	短语  活着的理由；生存的原因 If a person or thing is someone's reason for living or their reason for being, they are the most important thing in that person's life. 
+  【搭配模式】：usu poss PHR
+
+Chloe is my reason for living.克洛艾是我活着的理由。
+
+10.PHRASE	短语  不知为何;不知什么原因 If you say that something happened or is true for some reason, you mean that you know it happened or is true, but you do not know why. 
+  【搭配模式】：PHR with cl
+  【语用信息】：vagueness
+
+For some reason, the curtains were shut...不知什么原因，窗帘拉着。
+For some inexplicable reason she was attracted to Patrick.因为某些无法解释的原因，她被帕特里克所吸引。
+
+11.PHRASE	短语  正当的;合乎情理的;理智范围内的 If you say that you will do anything within reason, you mean that you will do anything that is fair or reasonable and not too extreme. 
+  【搭配模式】：PHR with cl
+
+I will take any job that comes along, within reason...我会接受任何给我的工作，只要是正当的。
+It means working, within reason, for whatever time is necessary.这意味着在合理的范围内花费所有必要的时间工作。
+
+12.   rhyme or reason→see: rhyme; to  reason→see: ; it stands to reason→see: stand; 相关词组：reason with 
+
+
+——————————————
+★☆☆   reasonable ●●●○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （人）公平的，明智的，理智的，有判断力的 If you think that someone is fair and sensible you can say that they are reasonable. 
+
+He's a reasonable sort of chap...他是个理智的家伙。
+Oh, come on, be reasonable.噢，好了，理智一点。reasonably
+
+'I'm sorry, Andrew,' she said reasonably.“我很抱歉，安德鲁，”她很懂事地说道。reasonableness
+
+'I can understand how you feel,' Desmond said with great reasonableness.“我能理解你的感受，”德斯蒙德很通情达理地说。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （决定或行动）公平的，合理的 If you say that a decision or action is reasonable, you mean that it is fair and sensible. 
+
+...a perfectly reasonable decision...完全合理的决定
+At the time, what he'd done had seemed reasonable.那时他的所作所为似乎很合理。
+
+3.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （期望或解释）合理的，有道理的 If you say that an expectation or explanation is reasonable, you mean that there are good reasons why it may be correct. 
+  【搭配模式】：oft it v-link ADJ to-inf
+
+It seems reasonable to expect rapid urban growth.似乎有理由期望城市快速发展。reasonably
+
+You can reasonably expect your goods to arrive within six to eight weeks.你有理由预期自己的货物会在6到8周内到达。
+
+4.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （价钱）合理的，公道的，不太贵的 If you say that the price of something is reasonable, you mean that it is fair and not too high. 
+
+You get an interesting meal for a reasonable price...你花不多的钱就可以吃一顿很特别的饭。
+His fees were quite reasonable.他的收费还挺合理。reasonably
+
+...reasonably priced accommodation.价钱公道的住宿
+
+5.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  还算好的;不错的 You can use reasonable to describe something that is fairly good, but not very good. 
+
+The boy answered him in reasonable French...这个男孩用还算流利的法语回答他。
+He had never been able to make a reasonable living from his writing.他一直没能靠写作过上舒适的生活。reasonably
+
+I can dance reasonably well.我跳舞还可以。
+
+6.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  较多的；相当大的 A reasonable amount of something is a fairly large amount of it. 
+
+They will need a reasonable amount of desk area and good light.他们将需要一个面积较大的摆放办公桌的地方和充足的照明。reasonably
+
+From now on events moved reasonably quickly.从此事情进展得相当快。
+
+
+——————————————
+★☆☆   reasoned ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  详尽论述的；理由充分的；有理有据的 A reasoned discussion or argument is based on sensible reasons, rather than on an appeal to people's emotions. 
+  【搭配模式】：usu ADJ n
+  【语用信息】：approval
+
+Abortion is an issue which produces little reasoned argument.对堕胎这个问题很少有理智的看法。
+
+
+——————————————
+★☆☆   reasoning ●○○○○
+
+1.N-VAR	可变名词  推理；论证 Reasoning is the process by which you reach a conclusion after thinking about all the facts. 
+
+...the reasoning behind the decision...决定背后的论证
+She was not really convinced by this line of reasoning.这样的分析论证实际上并没有让她信服。
+
+
+——————————————
+★☆☆   reason with
+
+1.PHRASAL VERB	短语动词  和…理论;和…说理;规劝 If you try to reason with someone, you try to persuade them to do or accept something by using sensible arguments. 
+  【语法信息】：V P n
+
+I have watched parents trying to reason with their children and have never seen it work.我曾经见到家长试图和他们的孩子讲道理，但是从没有见过这招奏效。
+
+
+——————————————
+★☆☆   reassemble
+
+1.VERB	动词  重组；重新整合；重新装配 If you reassemble something, you put it back together after it has been taken apart. 
+  【语法信息】：V n
+
+We will now try to reassemble pieces of the wreckage...我们现在会尽量把残骸重新组合起来。
+The table had to be taken apart and hoisted through the window before it was reassembled.桌子得被拆开，通过窗户吊进来，然后再重新组装。
+
+2.V-ERG	及物/不及物动词  重新召集；重新集合 If a group of people reassembles or if you reassemble them, they gather together again in a group. 
+  【语法信息】：V
+  【语法信息】：V n
+
+We shall reassemble in the car park in thirty minutes...我们30分钟后在停车场再碰面。
+Mr Lucas reassembled his team in September.卢卡斯先生在9月重新召集了他的队伍。
+
+
+——————————————
+★☆☆   reassert ●○○○○
+
+1.VERB	动词  重申（地位、权力等） If you reassert your control or authority, you make it clear that you are still in a position of power, or you strengthen the power that you had. 
+  【语法信息】：V n
+
+...the government's continuing effort to reassert its control in the region...政府不断努力重申其对该地区的控制权
+The adults had reasserted their old authority.大人们重申他们旧时的权威。
+
+2.VERB	动词  （想法、习惯等）再次显现，再次出现 If something such as an idea or habit reasserts itself, it becomes noticeable again. 
+  【语法信息】：V pron-refl
+
+His sense of humour was beginning to reassert itself.他的幽默感开始再次显现。
+
+
+——————————————
+★☆☆   reassess ●○○○○
+
+1.VERB	动词  重新考虑；再次决定；再次评价 If you reassess something, you think about it and decide whether you need to change your opinion about it. 
+  【语法信息】：V n
+
+I will reassess the situation when I get home...我回家的时候会再看看情形。
+Security in the area will have to be reassessed.这个地区的治安将会被重新评估。
+
+
+——————————————
+★☆☆   reassessment
+
+1.N-VAR	可变名词  重新考虑；再次决定；再次评价 If you make a reassessment of something, you think about it and decide whether you need to change your opinion about it. 
+
+...the moment when we make a reassessment of ourselves.我们重新审视自己的时刻
+
+
+——————————————
+★☆☆   reassurance ●○○○○
+
+1.N-UNCOUNT	不可数名词  安慰；慰藉 If someone needs reassurance, they are very worried and need someone to help them stop worrying by saying kind or helpful things. 
+
+She needed reassurance that she belonged somewhere...她需要一种归属感让她安心。
+'You really won't tell?' she asked, begging for reassurance.“你真的不说吗？”她问道，乞求得到安慰。
+
+2.N-COUNT	可数名词  安慰（的话语）；保证 Reassurances are things that you say to help people stop worrying about something. 
+
+...reassurances that pesticides are not harmful.杀虫剂没有危害的保证
+
+
+——————————————
+★☆☆   reassure ●●○○○
+
+1.VERB	动词  使安心;使得到保证;打消…的疑虑 If you reassure someone, you say or do things to make them stop worrying about something. 
+  【语法信息】：V n
+  【语法信息】：V n that
+  【语法信息】：Also V n about n
+
+I tried to reassure her, 'Don't worry about it. We won't let it happen again.'...我试图使她安心，“不要担心。我们不会让它再次发生了。”
+She just reassured me that everything was fine.她刚刚让我放心，说一切都好。
+
+
+——————————————
+★☆☆   reassured ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （通常指得到帮忙或建议后）放心的，安心的 If you feel reassured, you feel less worried about something, usually because you have received help or advice. 
+  【搭配模式】：usu v-link ADJ
+
+I feel much more reassured when I've been for a health check.体检之后我感到放心多了。
+
+
+——————————————
+★☆☆   reassuring ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  (语言或动作）令人放心的，令人欣慰的 If you find some-one's words or actions reassuring, they make you feel less worried about something. 
+  【搭配模式】：oft it v-link ADJ to-inf/that
+
+It was reassuring to hear John's familiar voice...听到约翰熟悉的声音让人放心。
+She gave me some reassuring news.她告诉了我一些令我欣慰的消息。reassuringly
+
+'It's okay now,' he said reassuringly.“现在好了，”他安慰说。
+
+
+——————————————
+★☆☆   reawaken
+
+1.VERB	动词  重新唤起;使再度复苏;再次引发 If something reawakens an issue, or an interest or feeling that you used to have, it makes you think about it or feel it again. 
+  【语法信息】：V n
+
+The King's stand is bound to reawaken the painful debate about abortion...国王的立场必然会再次引发关于堕胎的令人头痛的辩论。
+The food reawakens memories of dishes that their mothers once cooked.这种食物使他们再次想起母亲曾经做过的菜。reawakening
+
+...a reawakening of interest in stained glass.对彩色玻璃重新燃起兴趣
+
+
+——————————————
+★☆☆   rebadge
+
+1.VERB	动词  （给产品）重新命名，改换商标，更换标识 If a product is rebadged, it is given a new name, brand, or logo. 
+  【语法信息】：be V-ed
+  【语法信息】：Also V-ed
+  【语域标签】：BRIT 英
+
+The car was rebadged as a Vauxhall and sold in Britain.这种汽车被重新命名为沃克斯豪尔在英国出售。
+
+
+——————————————
+★☆☆   rebate ●○○○○
+
+1.N-COUNT	可数名词  退款；（税金、租金等的）退还部分 A rebate is an amount of money which is paid to you when you have paid more tax, rent, or rates than you needed to. 
+  【搭配模式】：usu with supp
+
+...a tax rebate...退税
+Customers are to benefit from a rebate on their electricity bills.顾客将从他们的电费退费中得到实惠。
+
+
+——————————————
+★☆☆   rebel ●●●●○
+The noun is pronounced /'rebəl/. The verb is pronounced /rɪ'bel/. 名词读作/'rebəl/。动词读作/rɪ'bel/。
+
+1.N-COUNT	可数名词  叛军；反叛者；叛乱者 Rebels are people who are fighting against their own country's army in order to change the political system there. 
+  【搭配模式】：usu pl
+
+...fighting between rebels and government forces.叛军和政府军之间的战争
+...rebel forces in Liberia.利比里亚的叛军
+
+2.N-COUNT	可数名词  （政党内部的）持不同政见者，反对派 Politicians who oppose some of their own party's policies can be referred to as rebels. 
+
+The rebels want another 1% cut in interest rates.反对派希望利率再降一个百分点。
+...rebel MPs.持不同政见的国会议员
+
+3.VERB	动词  （政见不同者）反抗，反对 If politicians rebel against one of their own party's policies, they show that they oppose it. 
+  【语法信息】：V against n
+  【语法信息】：V
+
+More than forty Conservative MPs rebelled against the government and voted against the bill.40多个保守党议员反对政府的主张，对法案投了反对票。
+...MPs planning to rebel over the proposed welfare cuts...打算反对削减社会福利提议的国会议员
+
+4.N-COUNT	可数名词  叛逆者;不循规蹈矩的人 You can say that someone is a rebel if you think that they behave differently from other people and have rejected the values of society or of their parents. 
+
+She had been a rebel at school.她在学校时就是个叛逆者。
+
+5.VERB	动词  表现叛逆；不守规矩 When someone rebels, they start to behave differently from other people and reject the values of society or of their parents. 
+  【语法信息】：V
+  【语法信息】：V against n
+
+The child who rebels is unlikely to be overlooked...叛逆的孩子不太容易被忽视。
+I was very young and rebelling against everything.我当时非常年轻，对一切都表现出叛逆。
+
+
+——————————————
+★☆☆   rebellion ●●○○○
+
+1.N-VAR	可变名词  谋反；叛乱；反叛 A rebellion is a violent organized action by a large group of people who are trying to change their country's political system. 
+
+The British soon put down the rebellion.英国人很快平息了叛乱。
+...the ruthless and brutal suppression of rebellion.对谋反无情、残酷的镇压
+
+2.N-VAR	可变名词  内讧；（来自政党内部的）反抗 A situation in which politicians show their opposition to their own party's policies can be referred to as a rebellion . 
+
+There was a Labour rebellion when some left-wing MPs voted against the Chancellor's tax cuts...工党内部发生内讧，一些左翼国会议员对财政大臣提出的减税政策投了反对票。
+
+
+——————————————
+★☆☆   rebellious ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  叛逆的;不听话的 If you think someone behaves in an unacceptable way and does not do what they are told, you can say they are rebellious . 
+
+...a rebellious teenager...叛逆少年
+He grew older and more rebellious.他长大了，也越发叛逆了。rebelliousness
+
+...the normal rebelliousness of youth.年轻人常见的叛逆
+
+2.ADJ	形容词  （反对现行政府体制的群体）反叛的，叛乱的 A rebellious group of people is a group involved in taking violent action against the rulers of their own country, usually in order to change the system of government there. 
+  【搭配模式】：ADJ n
+
+The rebellious officers, having seized the radio station, broadcast the news of the overthrow of the monarchy.叛乱的军官控制了电台，广播宣布推翻君主制的消息。
+
+
+——————————————
+★☆☆   rebirth ●○○○○
+
+1.N-UNCOUNT	不可数名词  复兴；重生；新生 You can refer to a change that leads to a new period of growth and improvement in something as its rebirth . 
+  【搭配模式】：oft N of n
+
+...the rebirth of democracy in Latin America...民主在拉丁美洲的复兴
+The hotel is awaiting its rebirth.饭店正在重建。
+
+
+——————————————
+★☆☆   reborn ●○○○○
+
+1.V-PASSIVE	被动动词  重生;复兴;新生 If you say that someone or something has been reborn, you mean that they have become active again after a period of being inactive. 
+  【语法信息】：be V-ed as n
+
+Shilling has been reborn as an artist...希林以艺术家的身份再次出现。
+Russia was being reborn as a great power.俄罗斯经过重生成为强国。
+
+
+——————————————
+★☆☆   rebound ●○○○○
+The verb is pronounced /rɪ'baʊnd/. The noun is pronounced /'riːbaʊnd/. 动词读作/rɪ'baʊnd/。名词读作/'riːbaʊnd/。
+
+1.VERB	动词  弹回；反弹 If something rebounds from a solid surface, it bounces or springs back from it. 
+  【语法信息】：V prep
+  【语法信息】：V
+
+His shot in the 21st minute of the game rebounded from a post...在比赛进行到第21分钟时，他的一记射门击中门柱弹了回来。
+The hot liquid splashed down on the concrete and rebounded.滚烫的液体泼在水泥地面上又溅了起来。
+
+2.VERB	动词  对…产生反作用，对…产生不良影响（尤指本欲使其发生在别人身上） If an action or situation rebounds on you, it has an unpleasant effect on you, especially when this effect was intended for someone else. 
+  【语法信息】：V on/upon n
+  【语法信息】：V
+
+Mia realised her trick had rebounded on her...米娅意识到她的把戏反而害了自己。
+The CIA was extremely wary of interfering with the foreign Press; in the past, such interference had rebounded.中央情报局对干涉国外媒体的事情十分谨慎；过去此类干涉曾经起过适得其反的作用。
+
+3.PHRASE	短语  （结束恋爱关系之后）处于反弹期，在失意之时 If you say that someone is on the rebound, you mean that they have just ended a relationship with a girlfriend or boyfriend. This often makes them do things they would not normally do. 
+  【搭配模式】：usu v-link PHR
+
+He took heroin for the first time when he was on the rebound from a broken relationship.他第一次吸食海洛因是在一次失恋之后的失意期。
+
+4.N-COUNT	可数名词  （篮球运动中的）篮板球 In basketball, a rebound is a shot which someone catches after it has hit the board behind the basket. 
+
+
+——————————————
+★☆☆   rebrand
+
+1.VERB	动词  给（产品或组织）重新命名（或包装），重塑…的形象 To rebrand a product or organization means to present it to the public in a new way, for example by changing its name or appearance. 
+  【语法信息】：V n
+  【FIELD标签】：BUSINESS 商
+
+There are plans to rebrand many Texas stores.有计划要重塑得克萨斯州诸多门店的品牌形象。
+
+
+——————————————
+★☆☆   rebranding
+
+1.N-UNCOUNT	不可数名词  重新包装;重塑形象 Rebranding is the process of giving a product or an organization a new image, in order to make it more attractive or successful. 
+  【FIELD标签】：BUSINESS 商
+
+The £85m programme will involve an extensive rebranding of the airline.这个8,500万英镑的项目将包括全面重塑该航空公司的形象。
+
+
+——————————————
+★☆☆   rebuff ●○○○○
+
+1.VERB	动词  拒绝;回绝 If you rebuff someone or rebuff a suggestion that they make, you refuse to do what they suggest. 
+  【语法信息】：V n
+  【语法信息】：Also be V-ed in n
+  【搭配模式】：usu with supp
+
+He wanted sex with Julie but she rebuffed him...他想和朱莉上床但被她拒绝了。
+His proposals have already been rebuffed by the Prime Minister.他的提议已经被首相否决了。Rebuff is also a noun.  
+
+The results of the poll dealt a humiliating rebuff to Mr Jones.民意调查的结果对琼斯先生很不利，让他颜面尽失。
+
+
+——————————————
+★☆☆   rebuild ●●○○○
+
+1.VERB	动词  重建；重修 When people rebuild something such as a building or a city, they build it again after it has been damaged or destroyed. 
+  【语法信息】：V n
+
+They say they will stay to rebuild their homes rather than retreat to refugee camps...他们说他们将留下重建家园而不是躲到难民营里。
+The castle was rebuilt by his great grandson in 1859.城堡在1859年由他的曾孙重建。
+
+2.VERB	动词  重建，重组，复原（机构、制度或生活的某些方面） When people rebuild something such as an institution, a system, or an aspect of their lives, they take action to bring it back to its previous condition. 
+  【语法信息】：V n
+  【语法信息】：V
+
+Everyone would have to work hard together to rebuild the economy...所有人都应该一起努力以重建经济。
+Jane began to rebuild her social life which had been non-existent since her marriage...简开始重新建立自己自结婚以来便陷于沉寂的社交生活。
+The agency has been rebuilding under new management.这个机构在新的管理机制下一直在进行重建。
+
+3.VERB	动词  复原，修复（身体某一部分） If doctors rebuild part of someone's body that has been damaged, they operate on that person to make them well again. 
+  【语法信息】：V n
+
+Two weeks later, surgeons carried out the operation to rebuild his face.两周后，外科医生实施了手术以复原他的面部。
+
+
+——————————————
+★☆☆   rebuke ●○○○○
+
+1.VERB	动词  指责；非难；谴责 If you rebuke someone, you speak severely to them because they have said or done something that you do not approve of. 
+  【语法信息】：V n
+  【搭配模式】：usu with supp
+  【语域标签】：FORMAL 正式
+
+The president rebuked the House and Senate for not passing those bills within 100 days.总统谴责参众两院没有在100天之内通过那些法案。Rebuke is also a noun.  
+
+UN member countries delivered a strong rebuke to both countries for persisting with nuclear testing programs...联合国成员国对两国继续进行核试验项目提出强烈谴责。'Silly little boy' was his favourite expression of rebuke to his pupils.“愚蠢的小家伙”是他最常用的斥责其学生的言辞。
+
+
+——————————————
+★☆☆   rebut
+
+1.VERB	动词  反驳，驳斥（指控或批评） If you rebut a charge or criticism that is made against you, you give reasons why it is untrue or unacceptable. 
+  【语法信息】：V n
+  【STYLE标签】：FORMAL 正式
+
+He spent most of his speech rebutting criticisms of his foreign policy.他讲演的大部分时间都在反驳对他外交政策的批评。
+
+
+——————————————
+★☆☆   rebuttal
+
+1.N-COUNT	可数名词  辩驳；反驳；回击 If you make a rebuttal of a charge or accusation that has been made against you, you make a statement which gives reasons why the accusation is untrue. 
+  【搭配模式】：oft N of/to n
+  【语域标签】：FORMAL 正式
+
+He is conducting a point-by-point rebuttal of charges from former colleagues...他正在对前同事的指责进行逐条反驳。
+Pakistan has still not issued an official rebuttal to the latest Indian statements.巴基斯坦仍然没有对最近印度发表的声明进行官方驳斥。
+
+
+——————————————
+★☆☆   recalcitrant
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  不服从命令的；顽抗的 If you describe someone or something as recalcitrant, you mean that they are unwilling to obey orders or are difficult to deal with. 
+  【搭配模式】：usu ADJ n
+  【语域标签】：FORMAL 正式
+
+The danger is that recalcitrant local authorities will reject their responsibilities...危险在于抗命不遵的地方当局将拒绝履行他们的职责。
+He had a knack for coaxing even the most recalcitrant engine to life.即使是最难摆弄的发动机他都有本事搞定。recalcitrance
+
+...the govern-ment's recalcitrance over introducing even the smallest political reform.哪怕是最小的政治改革，政府都不肯推行
+
+
+——————————————
+★☆☆   recall ●●●●○
+The verb is pronounced /rɪ'kɔːl/. The noun is pronounced /'riːkɔːl/. 动词读作/rɪ'kɔːl/。名词读作/'riːkɔːl/。
+
+1.VERB	动词  记起;回想起;回忆说 When you recall something, you remember it and tell others about it. 
+  【语法信息】：V that
+  【语法信息】：V with quote
+  【语法信息】：V wh
+  【语法信息】：V n
+  【语法信息】：V
+  【语法信息】：Also V -ing
+
+Henderson recalled that he first met Pollard during a business trip to Washington...亨德森记起他第一次见到波拉德是在一次去华盛顿出差的时候。
+Her teacher recalled: 'She was always on about modelling.'...她的老师回忆说：“她那时老是说要当模特。”
+Colleagues today recall with humor how meetings would crawl into the early morning hours...同事们现在回忆起会议总是慢吞吞地一直开到第二天凌晨的情景，都把它当作一番笑谈。I recalled the way they had been dancing together...我回忆起他们一起跳舞时的情景。I have no idea what she said, something about airline travel, I seem to recall.我记不得她说什么了，好像是坐飞机旅行什么的，如果我没记错的话。
+
+2.VERB	动词  （用于引出双方都已意识到的事）记得 You can say as I recall ,you might recall, or you will recall to someone that you are talking to when you want to mention something that you are both already aware of which is relevant to the discussion. 
+  【语法信息】：V
+  【语法信息】：V that
+
+As I recall, you're not on the board, Joe; you're only a minor shareholder...我记得你并没有进董事会，乔，你只是一个小股东而已。
+You will recall that I sent you a warning of troubled times. Well now, almost everything I forecast has come about.你还记得我警告过你时局会出现动荡吧。现在看来，几乎我预测的每件事都发生了。
+
+3.N-UNCOUNT	不可数名词  记性;记忆力 Recall is the ability to remember something that has happened in the past or the act of remembering it. 
+
+He had a good memory, and total recall of her spoken words.他记忆力很好，她当时说的话他全都记得起来。
+
+4.VERB	动词  召回;叫回 If you are recalled to your home, country, or the place where you work, you are ordered to return there. 
+  【语法信息】：V n
+
+Spain has recalled its Ambassador after a row over refugees seeking asylum at the embassy...在对难民到使馆寻求庇护一事产生严重分歧后，西班牙召回了其大使。
+Parliament was recalled from its summer recess.国会在夏季休会之后又重新开议。Recall is also a noun.  
+
+The recall of ambassador Alan Green was a public signal of America's concern.召回艾伦·格林大使是美国关注此事的一个公开信号。
+
+5.VERB	动词  召回（运动员）；使归队 In sport, if a player is recalled to a team, he or she is included in that team again after being left out. 
+  【语法信息】：V n to n
+  【语法信息】：be V-ed
+
+Dean Richards was recalled to the England squad for the match with Wales...迪安·理查兹被召回英格兰队参加对阵威尔士的比赛。
+I had done enough after being recalled against Pakistan to have got on the tour to India.在被征召入队参加与巴基斯坦的比赛后，我为前往印度的行程做了充分准备。Recall is also a noun.  
+
+It would be great to get a recall to the England squad for Sweden.若能够被召进英格兰队参加对瑞典的比赛那就太棒了。
+
+6.VERB	动词  召回（公司产品） If a company recalls a product, it asks the shops or the people who have bought that product to return it because there is something wrong with it. 
+  【语法信息】：V n
+
+The company said it was recalling one of its drugs...这个公司说正在召回他们生产的一种药。
+More than 3,000 cars were recalled yesterday because of a brake problem.3,000多辆汽车因为刹车问题昨天被召回。
+
+7.PHRASE	短语  记不起来；无法忆起；无法恢复原状；面目全非 If something is beyond recall, it is no longer possible to remember how it was or to bring it back to its original condition. 
+
+The ground has been polluted beyond recall...这片土地已被污染得面目全非。
+...the realities of operating a traditional canal boat can be readily imagined, even if the life itself is beyond recall.经营一艘传统的运河船的现实情形很容易想象，尽管那种生活本身已经无法忆起了。
+
+
+——————————————
+★☆☆   recant
+
+1.VERB	动词  公开放弃（信仰或意见） If you recant, you say publicly that you no longer hold a set of beliefs that you had in the past. 
+  【语法信息】：V
+  【语法信息】：V n
+  【语域标签】：FORMAL 正式
+
+White House officials ordered Williams to recant.白宫官员命令威廉斯公开宣布放弃自己的观点。
+...a man who had refused after torture to recant his heresy.受严刑折磨后仍拒绝放弃其异教信仰的人
+
+
+——————————————
+★☆☆   recap
+
+1.VERB	动词  概括;重述(要点)；简要回顾 You can say that you are going to recap when you want to draw people's attention to the fact that you are going to repeat the main points of an explanation, argument, or description, as a summary of it. 
+  【语法信息】：V
+  【语法信息】：V n
+
+To recap briefly, an agreement negotiated to cut the budget deficit was rejected 10 days ago...简要概括起来，一项关于削减预算赤字的协议在10天前遭到了否决。
+Can you recap the points included in the regional conference proposal?你能扼要说明一下地区会议上提案的重点吗？Recap is also a noun.  
+
+Each report starts with a recap of how we did versus our projections.每份报告开头都扼要回顾了我们的表现和我们的预期目标。
+
+
+——————————————
+★☆☆   recapitalize
+
+1.VERB	动词  改变资本结构；调整资本运行方式 If a company recapitalizes, it changes the way it manages its financial affairs, for example by borrowing money or reissuing shares. 
+  【语法信息】：V
+  【语法信息】：V n
+  【语域标签】：AM 美
+  【FIELD标签】：BUSINESS 商
+
+Mr Warnock resigned as the company abandoned a plan to recapitalize...沃诺克先生辞职了，因为公司放弃了一项资金重组计划。
+He plans to recapitalize the insurance fund.他计划对保险基金进行重组。recapitalization
+
+...a recapitalization of the company.公司的资本重组
+
+
+——————————————
+★☆☆   recapitulate
+
+1.VERB	动词  重述要点；简要回顾 You can say that you are going to recapitulate the main points of an explanation, argument, or description when you want to draw attention to the fact that you are going to repeat the most important points as a summary. 
+  【语法信息】：V n
+  【语法信息】：V
+
+Let's just recapitulate the essential points...我们再来回顾一下要点。
+It will shortly be put up for sale under the terms already communicated to you, which, to recapitulate, call for a very minimum of publicity.不久它就可以上市，按照我们与你商定的条款进行销售，重申一遍，这些条款尽量不要对外公开。recapitulation
+
+Chapter 9 provides a valuable recapitulation of the material already presented.第9章对已经讲过的内容作了很有用的扼要回顾。
+
+
+——————————————
+★☆☆   recapture ●○○○○
+
+1.VERB	动词  重新占领;重新夺回;收复 When soldiers recapture an area of land or a place, they gain control of it again from an opposing army who had taken it from them. 
+  【语法信息】：V n
+  【搭配模式】：usu n of n
+
+They said the bodies were found when rebels recaptured the area.他们说尸体是在叛军重新占领这个地区时发现的。Recapture is also a noun.  
+
+...an offensive to be launched for the recapture of the city.为了重新夺回该城而即将展开的进攻
+
+2.VERB	动词  （从竞争对手手中）重新夺回，重新拿回 When people recapture something that they have lost to a competitor, they get it back again. 
+  【语法信息】：V n
+
+I believe that he would be the best possibility to recapture the centre vote in the forthcoming election.我相信在即将来临的选举中，他最有可能重新争取到中间派的选票。
+
+3.VERB	动词  重新捕获;重新抓回 To recapture a person or animal which has escaped from somewhere means to catch them again. 
+  【语法信息】：V n
+
+Police have recaptured Alan Lord, who escaped from a police cell in Bolton.警察把艾伦·洛德抓了回来，他是从博尔顿的一个警察局拘留室逃走的。Recapture is also a noun.  
+
+...the recapture of a renegade police chief in Panama.在巴拿马将变节的警察局局长重新抓获
+
+4.VERB	动词  （使）再次体验;（使）再次体会 When you recapture something such as an experience, emotion, or a quality that you had in the past, you experience it again. When something recaptures an experience for you, it makes you remember it. 
+  【语法信息】：V n
+
+He couldn't recapture the form he'd shown in getting to the semi-final...他没能找回闯进半决赛时表现出来的状态。
+These cookies seem to recapture all the textures and flavors we remember from childhood.这些饼干似乎重新唤回了我们记忆中童年时代的那种口感和味道。
+
+
+——————————————
+★☆☆   recast
+The form recast is used in the present tense and is the past tense and past participle. recast的过去式和过去分词与原形相同。
+
+1.VERB	动词  重组;重塑;重新安排 If you recast something, you change it by organizing it in a different way. 
+  【语法信息】：V n
+
+The shake-up aims to recast IBM as a federation of flexible and competing subsidiaries.改组的目标是把IBM重组为一个灵活的、相互竞争的子公司联盟。recasting
+
+...the recasting of the political map of Europe.欧洲政治版图的重新整合
+
+2.VERB	动词  重新选择（角色扮演者）;更换（演员） To recast an actor's role means to give the role to another actor. 
+  【语法信息】：V n
+
+Stoppard had to recast four of the principal roles.斯托帕德只好更换4个主要角色的人选。
+
+
+——————————————
+★☆☆   recce
+
+1.VERB	动词  （为了熟悉某地的情况）踩点，侦察 If you recce an area, you visit that place in order to become familiar with it. People usually recce an area when they are going to return at a later time to do something there. 
+  【语法信息】：V n
+  【语域标签】：BRIT 英
+  【STYLE标签】：OLD-FASHIONED 过时
+
+The first duty of a director is to recce his location.主管的第一项任务是熟悉所在地区的情况。Recce is also a noun.  
+
+Uncle Jim took the air rifle and went on a recce to the far end of the quarry.吉姆叔叔拿起气枪一路巡查到采石场的最远处。
+
+
+——————————————
+★☆☆   recd.
+
+1.  In written English, recd. can be used as an abbreviation for (书面缩略=) received. 
+
+
+——————————————
+★☆☆   recede ●○○○○
+
+1.VERB	动词  退回;后退;远离 If something recedes from you, it moves away. 
+  【语法信息】：V prep
+  【语法信息】：V
+  【语法信息】：V-ing
+
+Luke's footsteps receded into the night...卢克在夜色中渐行渐远。
+As she receded he waved goodbye.她离开的时候他挥手告别。
+...the receding lights of the car.越来越远的汽车灯光
+
+2.VERB	动词  （质量）下降;（问题或疾病等）逐渐减弱，好转 When something such as a quality, problem, or illness recedes, it becomes weaker, smaller, or less intense. 
+  【语法信息】：V
+  【语法信息】：V-ing
+  【语法信息】：Also V prep
+
+Just as I started to think that I was never going to get well, the illness began to recede...正当我开始觉得自己永远都好不了了的时候，我的病开始好转了。
+Dealers grew concerned over the sliding dollar and receding prospects for economic recovery.交易者对美元走软和经济复苏前景渐趋暗淡渐渐担忧起来。
+
+3.VERB	动词  （前额的头发）脱落 If a man's hair starts to recede, it no longer grows on the front of his head. 
+  【语法信息】：V
+  【语法信息】：V-ing
+  【语法信息】：Also V at/from n
+
+...a youngish man with dark hair just beginning to recede...前额黑发刚开始脱落的年轻人
+The bartender had a florid face and a receding hairline.酒吧男招待面色红润，前额有点脱发。
+
+4.VERB	动词  （常指牙龈因为感染）萎缩 If your gums start to recede, they begin to cover less of your teeth, usually as the result of an infection. 
+  【语法信息】：V
+  【语法信息】：V-ing
+
+If untreated, the gums recede, become swollen and bleed...如果不进行治疗，牙龈会开始萎缩、红肿和出血。
+Receding gums can be the result of disease or simply incorrect brushing.牙龈萎缩可能是疾病导致的，也可能仅仅是错误的刷牙方式引起的。
+
+
+——————————————
+★☆☆   receipt ●●○○○
+
+1.N-COUNT	可数名词  收条；收据；购物小票（在美语里常用 sales slip） A receipt is a piece of paper that you get from someone as proof that they have received money or goods from you. In British English a receipt is a piece of paper that you get in a shop when you buy something, but in American English the more usual term for this is sales slip . 
+
+I wrote her a receipt for the money.我给她写了一张收钱的收条。
+
+2.N-PLURAL	复数名词  （商店或影院等一定时期的）收入，收益 Receipts are the amount of money received during a particular period, for example by a shop or theatre. 
+  【搭配模式】：usu with supp
+
+The film opened to healthy box office receipts before rapidly falling off...这部影片的票房收入开始的时候持续上涨，但是后来急剧下降。
+He was tallying the day's receipts.他正在清点一天的收入。
+
+3.N-UNCOUNT	不可数名词  收到；接到 The receipt of something is the act of receiving it. 
+  【语域标签】：FORMAL 正式
+
+Goods should be supplied within 28 days after the receipt of your order.应该在收到订单后28天内供货。
+
+4.PHRASE	短语  已收到；经常收到 If you are in receipt of something, you have received it or you receive it regularly. 
+  【语域标签】：FORMAL 正式
+
+We are taking action, having been in receipt of a letter from him...收到他的信之后我们正在采取行动。
+I am in receipt of a pension.我定期领取养老金。
+
+
+——————————————
+★☆☆   receive ●●●●●
+
+1.VERB	动词  收到;接到;得到 When you receive something, you get it after someone gives it to you or sends it to you. 
+  【语法信息】：V n
+
+They will receive their awards at a ceremony in Stockholm...他们会在斯德哥尔摩举行的仪式上接受颁奖。
+I received your letter of November 7.我收到了你11月7日的来信。
+
+2.VERB	动词  经受；受到 You can use receive to say that certain kinds of thing happen to someone. For example if they are injured, you can say that they received an injury. 
+  【语法信息】：V n
+
+He received more of the blame than anyone when the plan failed to work...计划失败后，他受到了比别人更多的指责。
+She was suffering from whiplash injuries received in a car crash.她在车祸中颈部扭伤。
+
+3.VERB	动词  接见；迎接；招待 When you receive a visitor or a guest, you greet them. 
+  【语法信息】：V n
+
+The following evening the duchess was again receiving guests...第二天晚上公爵夫人又在会客。
+The shop assistant received me indifferently while leaning on a counter.商店售货员靠在柜台上漫不经心地招呼我。
+
+4.VERB	动词  对…作出反应;回应 If you say that something is received in a particular way, you mean that people react to it in that way. 
+  【语法信息】：be V-ed prep/adv
+  【语法信息】：be V-ed with adv
+  【搭配模式】：usu passive
+
+The resolution had been received with great disappointment within the PLO...巴解组织内部对决议表现出极大失望。
+The proposals have been well received by many deputies.这些提议在许多代表中反响不错。
+
+5.VERB	动词  接收（信号） When a radio or television receives signals that are being transmitted, it picks them up and converts them into sound or pictures. 
+  【语法信息】：V n
+  【语法信息】：Also V
+
+The reception was a little faint but clear enough for him to receive the signal.接收到的信号有点弱，但对他来说已够清晰，可以接收到。
+
+6.VERB	动词  购买，窝藏（赃物） If someone receives stolen goods, they buy or are given things that have been stolen. 
+  【语法信息】：V n
+  【语域标签】：mainly BRIT 主英
+  【FIELD标签】：LEGAL 法律
+
+He went to prison for receiving stolen scrap iron...他因为收购偷来的废铁而入狱。
+He received the shoes when stolen, and then passed them on to the men who would sell them.他接收偷盗的鞋子，然后把它们再转给那些销赃者。in AM, use 美国英语用 handle
+
+7.PHRASE	短语  经历（不愉快的事情）；成为受害者 If you are on the receiving end or at the receiving end of something unpleasant, you are the person that it happens to. 
+
+You saw hate in their eyes and you were on the receiving end of that hate...你在他们的眼睛里看到仇恨，而且你就是他们仇恨的对象。
+Bullying can indeed be distressing and frightening for those at the receiving end.受到欺凌的人会真实地感到痛苦和害怕。
+
+
+——————————————
+★☆☆   received
+
+1.ADJ	形容词  被广为接受的；被认为是正确的 The received opinion about something or the received way of doing something is generally accepted by people as being correct. 
+  【搭配模式】：ADJ n
+  【语域标签】：FORMAL 正式
+
+He was among the first to question the received wisdom of the time...他是那个时代首先质疑当时被普遍认可的处世之道的人之一。
+The judgments expressed are largely what is called received opinion.这些看法大部分都是所谓的大家普遍接受的观点。
+
+
+——————————————
+★☆☆   Received Pronunciation
+
+1.N-UNCOUNT	不可数名词  （英国英语的）标准发音（缩略形式为 RP) Received Pronunciation is a way of pronouncing British English that is often used as a standard in the Teaching of English as a Foreign Language. The abbreviation RP is also used. The accent represented by the pronunciations in this dictionary is Received Pronunciation. 
+
+
+——————————————
+★☆☆   receiver ●●○○○
+
+1.N-COUNT	可数名词  (电话的）听筒 A telephone's receiver is the part that you hold near to your ear and speak into. 
+
+2.N-COUNT	可数名词  （收音机或电视机的）信号接收器，信号接收装置 A receiver is the part of a radio or television that picks up signals and converts them into sound or pictures. 
+
+Auto-tuning VHF receivers are now common in cars.自动调节甚高频接收器现在普遍应用于汽车。
+
+3.N-COUNT	可数名词  （法庭指定的）破产接管人 The receiver is someone who is appointed by a court of law to manage the affairs of a business, usually when it is facing financial failure. 
+  【搭配模式】：usu the N
+  【FIELD标签】：BUSINESS 商
+
+Between July and September, a total of 1,059 firms called in the receiver.7月到9月间，一共有1,059家公司破产在管。
+
+
+——————————————
+★☆☆   receivership ●○○○○
+
+1.N-VAR	可变名词  破产管理；破产在管 If a company goes into receivership, it faces financial failure and the administration of its business is handled by the receiver. 
+  【搭配模式】：oft in/into N
+  【FIELD标签】：BUSINESS 商
+
+The company has now gone into receivership with debts of several million...公司欠债数百万，现在已进入破产管理阶段。
+Accountants Touche Ross say that there were 45 receiverships among hotels and caterers.图什·罗斯会计公司称有45家饭店和餐饮企业处于破产管理阶段。
+
+
+——————————————
+★☆☆   recent ●●●●●
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  近来的；最近的；最新的 A recent event or period of time happened only a short while ago. 
+  【搭配模式】：usu ADJ n
+
+In the most recent attack one man was shot dead and two others were wounded...在最近的一次袭击中，一名男子遇袭身亡，另外两人受伤。
+Sales have fallen by more than 75 percent in recent years.近几年来销售额下降了75%以上。
+
+
+——————————————
+★☆☆   recently ●●●●○
+
+1.ADV-GRADED	副词  近来；最近 If you have done something recently or if something happened recently, it happened only a short time ago. 
+  【搭配模式】：ADV with v
+
+The bank recently opened a branch in Germany...这家银行最近在德国开设了分行。
+It is only fairly recently that historians have begun to investigate the question...只是到最近历史学家才开始探究这个问题。
+He was until very recently the most powerful banker in the city.到最近为止，他一直都是这个城市最有实力的银行家。
+
+
+——————————————
+★☆☆   receptacle
+
+1.N-COUNT	可数名词  容器 A receptacle is an object which you use to put or keep things in. 
+  【语域标签】：FORMAL 正式
+
+
+——————————————
+★☆☆   reception ●●○○○
+
+1.N-SING	单数名词  （宾馆的）前台，服务台 The reception in a hotel is the desk or office that books rooms for people and answers their questions. 
+  【搭配模式】：the N
+  【语域标签】：mainly BRIT 主英
+
+Have him bring a car round to the reception...让他把车开到前台来。
+...the hotel's reception desk.宾馆的前台in AM, use 美国英语用 front desk
+
+2.N-SING	单数名词  （办公室或医院的）接待处，服务台 The reception in an office or hospital is the place where people's appointments and questions are dealt with. 
+  【搭配模式】：the N
+  【语域标签】：mainly BRIT 主英
+
+Wait at reception for me.在接待处等我。
+
+3.N-COUNT	可数名词  招待会;欢迎会 A reception is a formal party which is given to welcome someone or to celebrate a special event. 
+
+At the reception they served smoked salmon.招待会的餐桌上有熏制鲑鱼。
+...a glittering wedding reception.风光的婚宴
+
+4.N-COUNT	可数名词  对待;待遇;反应 If someone or something has a particular kind of reception, that is the way that people react to them. 
+  【搭配模式】：usu sing
+
+Mr Mandela was given a tumultuous reception in Washington...曼德拉先生在华盛顿受到热情的款待。
+He received a cool reception to his speech.他的演讲受到了冷遇。
+
+5.N-SING	单数名词  （正式的）招待，接待，欢迎 The reception of guests is the act of formally welcoming them. 
+  【搭配模式】：the N of n
+  【语域标签】：FORMAL 正式
+
+The preparations for the reception of his Royal Highness proceeded.迎接殿下到来的准备工作在有序进行。
+
+6.N-UNCOUNT	不可数名词  （无线电或电视节目的）接收效果 If you get good reception from your radio or television, the sound or picture is clear because the signal is strong. If the reception is poor, the sound or picture is unclear because the signal is weak. 
+
+Adjust the aerial's position and direction for the best reception.调整天线的位置和方向以达到最佳接收效果。
+
+
+——————————————
+★☆☆   reception centre
+
+1.N-COUNT	可数名词  （政府开办的）收容中心，收容站 A reception centre is a place where people who have no homes or are being looked after by the government can live until somewhere else is found for them to live. 
+  【语域标签】：mainly BRIT 主英
+
+
+——————————————
+★☆☆   reception class
+
+1.N-COUNT	可数名词  学前班 A reception class is a class that children go into when they first start school at the age of four or five. 
+  【语域标签】：BRIT 英
+
+
+——————————————
+★☆☆   receptionist ●○○○○
+
+1.N-COUNT	可数名词  （宾馆前台的）接待员 In a hotel, the receptionist is the person whose job is to book rooms for people and answer their questions. 
+  【语域标签】：mainly BRIT 主英in AM, use 美国英语用 desk clerk
+
+2.N-COUNT	可数名词  （办公室或医院的）接待员，咨询处工作人员 In an office or hospital, the receptionist is the person whose job is to answer the telephone, arrange appointments, and deal with people when they first arrive. 
+
+
+——————————————
+★☆☆   reception room
+
+1.N-COUNT	可数名词  客厅；接待室 A reception room is a room in a house, for example a living room, where people can sit. This expression is often used in descriptions of houses that are for sale. 
+  【语域标签】：BRIT 英
+
+
+——————————————
+★☆☆   receptive ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （对新思想或建议）乐于接受的，能接纳的，善于听取的 Someone who is receptive to new ideas or suggestions is prepared to consider them or accept them. 
+  【搭配模式】：oft ADJ to n
+
+The voters had seemed receptive to his ideas...选民看上去很愿意接受他的想法。
+Do you think that there is any receptive audience for his remarks.你觉得有人愿意接受他的言论吗？receptiveness
+
+There was less receptiveness to liberalism in some areas.在一些地区自由主义并不怎么受欢迎。receptivity
+
+There was a lack of receptivity to the advances in science.对于科学的进步还缺少接纳能力。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （对治疗）反应良好的，能接纳的 If someone who is ill is receptive to treatment, they start to get better when they are given treatment. 
+  【搭配模式】：v-link ADJ to n
+
+...those patients who are not receptive to treatment.治疗未见效果的那些病人
+
+
+——————————————
+★☆☆   receptor ●○○○○
+
+1.N-COUNT	可数名词  （人体的）感受器，受体 Receptors are nerve endings in your body which react to changes and stimuli and make your body respond in a particular way. 
+  【FIELD标签】：TECHNICAL 术语
+
+...the information receptors in our brain.我们大脑里的信息感受器
+
+
+——————————————
+★☆☆   recess ●○○○○
+
+1.N-COUNT	可数名词  （委员会、法庭或政府等的）休会期间，休息期间 A recess is a break between the periods of work of an official body such as a committee, a court of law, or a government. 
+  【搭配模式】：also in/from N
+
+The conference broke for a recess...会议暂时休会。
+Some in Congress are concerned the war option could be adopted in November when Congress is in recess...一些议员担心战争决议会在11月议会休会期间被通过。
+Parliament returns to work today after its summer recess.国会在结束夏季休会后今天开始恢复工作。
+
+2.VERB	动词  休会;休庭 When formal meetings or court cases recess, they stop temporarily. 
+  【语法信息】：V for n
+  【语法信息】：V
+  【语域标签】：FORMAL 正式
+
+The hearings have now recessed for dinner...听证会现已休会就餐。
+Before the trial recessed today, the lawyer read her opening statement.今天庭审休庭之前，律师宣读了她的开庭陈述。
+
+3.N-COUNT	可数名词  （墙上的）凹处;壁龛 In a room, a recess is part of a wall which is built further back than the rest of the wall. Recesses are often used as a place to put furniture such as shelves. 
+
+...a discreet recess next to a fireplace.壁炉边上一个不起眼的壁龛
+
+4.N-COUNT	可数名词  暗处；隐蔽处 The recesses of something or somewhere are the parts of it which are hard to see because light does not reach them or they are hidden from view. 
+  【搭配模式】：usu pl
+
+He emerged from the dark recesses of the garage...他从车库的暗处走出来。
+From the recesses of his coat Richard produced a bottle of champagne.理查德从大衣里面掏出了一瓶香槟。
+
+5.N-COUNT	可数名词  （思想或心灵的）深处 If you refer to the recesses of someone's mind or soul, you are referring to thoughts or feelings they have which are hidden or difficult to describe. 
+  【搭配模式】：usu pl
+
+...the inner recesses of the soul...心灵最深处
+There was something in the darker recesses of his unconscious that was troubling him.在他更为隐秘的潜意识深处，有什么事情困扰着他。
+
+
+——————————————
+★☆☆   recessed
+
+1.ADJ	形容词  （门或窗）置于墙内凹陷处的，嵌进墙里的 If something such as a door or window is recessed, it is set into the wall that surrounds it. 
+
+...a wide passage, lit from one side by recessed windows.一边有凹窗、光线可以照进来的宽敞走道
+...thick glass recessed into the ceiling.天花板上嵌着的厚厚的玻璃
+
+
+——————————————
+★☆☆   recession ●●●●○
+
+1.N-VAR	可变名词  经济衰退；经济不景气 A recession is a period when the economy of a country is doing badly, for example because industry is producing less and more people are becoming unemployed. 
+
+The recession caused sales to drop off...经济不景气使销量下降。
+We should concentrate on sharply reducing interest rates to pull the economy out of recession...我们应该着力大幅下调利率以使经济走出衰退。
+The oil price increases sent Europe into deep recession.油价上涨使欧洲陷入严重的经济衰退。
+
+
+——————————————
+★☆☆   recessional
+
+1.N-SING	单数名词  (做完礼拜后的)退场赞美诗 The recessional is a religious song which is sung at the end of a church service. 
+
+2.ADJ	形容词  经济衰退的;经济不景气的 Recessional means related to an economic recession. 
+  【搭配模式】：ADJ n
+
+Many home sellers remain stuck in a recessional rut.许多房屋的卖主仍然陷在经济衰退的困境中。
+
+
+——————————————
+★☆☆   recessionary ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  经济衰退的；衰退期的；引起经济衰退的 Recessionary means relating to an economic recession or having the effect of creating a recession. 
+  【搭配模式】：ADJ n
+
+Reduced interest rates would help ease recessionary pressures in the economy.利率的下调将有助于缓解经济衰退的压力。
+
+
+——————————————
+★☆☆   recessive
+
+1.ADJ	形容词  （基因）隐性的 A recessive gene produces a particular characteristic only if a person has two of these genes, one from each parent. 
+  【搭配模式】：usu ADJ n
+  【FIELD标签】：TECHNICAL 术语
+
+Sickle-cell anaemia is passed on through a recessive gene.镰状细胞贫血通过隐性基因遗传给后代。
+
+
+——————————————
+★☆☆   recharge ●○○○○
+
+1.VERB	动词  给（电池）充电 If you recharge a battery, you put an electrical charge back into the battery by connecting it to a machine that draws power from another source of electricity such as the mains. 
+  【语法信息】：V n
+
+He is using your mains electricity to recharge his car battery.他在用你家里的电源给他的车载蓄电池充电。
+
+2.PHRASE	短语  放松；休息；补充精力 If you recharge your batteries, you take a break from activities which are tiring or difficult in order to relax and feel better when you return to these activities. 
+  【搭配模式】：V inflects
+
+He wanted to recharge his batteries and come back feeling fresh and positive.他想去放松休息一下，然后精力充沛、干劲十足地回来。
+
+
+——————————————
+★☆☆   rechargeable
+
+1.ADJ	形容词  （电池或电器）可充电的 Rechargeable batteries can be recharged and used again. Some electrical products are described as rechargeable when they contain rechargeable batteries. 
+  【搭配模式】：usu ADJ n
+
+...a rechargeable battery.充电电池
+...a rechargeable drill.充电钻孔机Rechargeable is also a noun.  
+
+It is more expensive to run a personal stereo on disposable batteries than on rechargeables.随身听使用一次性电池比用充电电池更贵。
+
+
+——————————————
+★☆☆   recherché
+——————————————
+★☆☆   recidivist
+
+1.N-COUNT	可数名词  屡教不改的罪犯;惯犯;累犯 A recidivist is someone who has committed crimes in the past and has begun to commit crimes again, for example after a period in prison. 
+  【语域标签】：FORMAL 正式
+
+Six prisoners are still at large along with four dangerous recidivists.4个危险的惯犯和其他6名犯人仍然在逃。recidivism
+
+Their basic criticism was that prisons do not reduce the crime rate, they cause recidivism.他们批评的主要着眼点是监狱没有降低犯罪率，反而造就了惯犯。
+
+
+——————————————
+★☆☆   recipe ●●○○○
+
+1.N-COUNT	可数名词  烹饪配方；食谱 A recipe is a list of ingredients and a set of instructions that tell you how to cook something. 
+
+...a traditional recipe for oatmeal biscuits.燕麦饼干的传统制作配方
+...a recipe book.食谱书
+
+2.N-SING	单数名词  原因 If you say that something is a recipe for a particular situation, you mean that it is likely to result in that situation. 
+  【搭配模式】：a N for n
+
+Large-scale inflation is a recipe for disaster.大规模的通货膨胀会造成灾难。
+
+
+——————————————
+★☆☆   recipient ●●○○○
+
+1.N-COUNT	可数名词  接受者；领受人 The recipient of something is the person who receives it. 
+  【搭配模式】：oft N of n
+  【语域标签】：FORMAL 正式
+
+...the largest recipient of American foreign aid...美国对外援助的最大受惠者
+A suppressed immune system puts a transplant recipient at risk of other infections.接受器官移植的病人免疫系统受到抑制后很可能会感染其他疾病。
+
+
+——————————————
+★☆☆   reciprocal ●○○○○
+
+1.ADJ	形容词  互相的；相应的；互惠的 A reciprocal action or agreement involves two people or groups who do the same thing to each other or agree to help each another in a similar way. 
+  【搭配模式】：usu ADJ n
+  【语域标签】：FORMAL 正式
+
+They expected a reciprocal gesture before more hostages could be freed...在更多人质获得自由之前他们期望看到对方也有相应的表示。
+The department said many countries had reciprocal agreements for health care with Britain.该部门称许多国家和英国签订了医疗卫生互惠协议。reciprocally
+
+Both sides had reciprocally observed restraints.双方都遵守了限制性规定。
+
+
+——————————————
+★☆☆   reciprocate ●○○○○
+
+1.VERB	动词  回报;报答 If your feelings or actions towards someone are reciprocated, the other person feels or behaves in the same way towards you as you have felt or behaved towards them. 
+  【语法信息】：V n
+  【语法信息】：V by -ing
+
+...he reciprocated Mr Prescott's good wishes...他对普雷斯科特先生的良好祝愿报以同样的祝福
+Their attraction to each other as friends is reciprocated...作为朋友，他们相互吸引着对方。
+He needs these people to fulfill his ambitions and reciprocates by bringing out the best in each of them.他需要这些人去实现他的雄心壮志，作为回报，他也会让他们充分施展各自的才能。reciprocation
+
+There was no reciprocation of affection.喜欢并非相互的。
+
+
+——————————————
+★☆☆   reciprocity
+
+1.N-UNCOUNT	不可数名词  互惠；互换 Reciprocity is the exchange of something between people or groups of people when each person or group gives or allows something to the other. 
+  【语域标签】：FORMAL 正式
+
+They gave assurances they would press for reciprocity with Greece in the issuing of visas.他们保证将推进本国与希腊两国间签证的互相发放。
+
+
+——————————————
+★☆☆   recital ●○○○○
+
+1.N-COUNT	可数名词  独奏会，诗歌朗诵会，个人演唱会 A recital is a performance of music or poetry, usually given by one person. 
+  【搭配模式】：oft with supp
+
+...a solo recital by the harpsichordist Maggie Cole.大键琴演奏家玛吉·科尔的个人独奏会
+
+2.N-COUNT	可数名词  （乏味的）叙说;唠叨;老生常谈 If someone speaks for a long time, or says something that is boring or that has been heard many times before, you can describe it as a recital. 
+  【搭配模式】：usu with supp
+  【FIELD标签】：WRITTEN 笔语
+
+Before long we all grew bored with his frequent recital of the foods he couldn't eat...他总是唠叨自己不能吃的那些食物，不久我们所有人都听烦了。
+I had their total attention during the thirty-five minutes that my recital took.在我叙述的35分钟内，他们完全被我吸引了。
+
+
+——————————————
+★☆☆   recitation
+
+1.N-VAR	可变名词  （大声）朗诵，背诵 When someone does a recitation, they say aloud a piece of poetry or other writing that they have learned. 
+
+The transmission began with a recitation from the Koran.节目一开始是一段《古兰经》朗诵。
+
+2.N-COUNT	可数名词  声明；陈述 A recitation of something is a statement of it. 
+  【搭配模式】：oft N of n
+  【FIELD标签】：WRITTEN 笔语
+
+The letter was short — a simple recitation of their problem.信写得很短——只是简单地说了一下他们的问题。
+
+
+——————————————
+★☆☆   recite ●○○○○
+
+1.VERB	动词  朗诵;背诵;朗读 When someone recites a poem or other piece of writing, they say it aloud after they have learned it. 
+  【语法信息】：V n
+  【语法信息】：Also V
+
+They recited poetry to one another.他们互相朗诵诗歌。
+
+2.VERB	动词  （大声）说出，细数，列举 If you recite something such as a list, you say it aloud. 
+  【语法信息】：V n
+
+All he could do was recite a list of Government failings...他能做的只是列举政府的种种不是。
+She suddenly realized that Wim was reciting Kirk's telephone number.她突然意识到威姆正在念的是柯克的电话号码。
+
+
+——————————————
+★☆☆   reckless ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  轻率的;不计后果的;鲁莽的;无所顾忌的 If you say that someone is reckless, you mean that they act in a way which shows that they do not care about danger or the effect their behaviour will have on other people. 
+
+She loved to ride; on horseback, she was reckless and utterly without fear...她喜欢骑马；在马背上，她纵横驰骋，毫无畏惧。
+He is charged with causing death by reckless driving.他被控危险驾驶致人死亡。recklessly
+
+He was leaning recklessly out of the unshuttered window...他冒冒失失地从没有遮拦的窗户探出身去。
+A congressional report charges that federal safety laws were recklessly violated.一份国会报告指责联邦安全法被公然违反。recklessness
+
+He felt a surge of recklessness...他感觉到一阵不顾一切的冲动。
+The headstrong recklessness of youth may be fine in some areas, but not behind the wheel of a car.年轻人在一些方面任性鲁莽一点也许没什么大不了，但是在驾车时可不行。
+
+
+——————————————
+★☆☆   reckon ●●●○○
+
+1.VERB	动词  料想;估计;认为 If you reckon that something is true, you think that it is true. 
+  【语法信息】：V that
+  【语域标签】：INFORMAL 非正式
+
+Toni reckoned that it must be about three o'clock...托妮估计当时肯定是3点钟左右。
+He reckoned he was still fond of her.他认为自己还喜欢着她。
+
+2.VERB	动词  认为…；把…当作 If you say that something is reckoned to be true, you mean that people think that it is true. 
+  【语法信息】：be V-ed to-inf
+  【搭配模式】：usu passive
+  【语域标签】：INFORMAL 非正式
+
+The sale has been held up because the price is reckoned to be too high.销售陷入停滞，因为大家认为价格太高了。
+
+3.VERB	动词  预计；料想；期望 If you say that someone reckons to do something, you mean that they expect to do it. 
+  【语法信息】：V to-inf
+  【语域标签】：INFORMAL 非正式
+
+The merged banks reckon to raise 4 billion dollars of new equity next year...几家银行合并后明年有望增发40亿美元的新股。
+Police officers on the case are reckoning to charge someone very shortly.调查这个案子的警官正在考虑尽快起诉嫌疑人。
+
+4.VERB	动词  估算;估计 If something is reckoned to be a particular figure, it is calculated to be roughly that amount. 
+  【语法信息】：be V-ed to-inf
+  【语法信息】：be V-ed at n
+  【搭配模式】：usu passive
+
+The star's surface temperature is reckoned to be minus 75 degrees Celsius...这颗恒星的表面温度估计在零下75摄氏度左右。
+There was a proportion of research, which I reckoned at not more than 30 percent, that was basic research.我估计基础研究的比例最多只占30％。相关词组：reckon on reckon with reckon without 
+
+
+——————————————
+★☆☆   reckoning ●○○○○
+
+1.N-VAR	可变名词  （尤指并不十分准确的）预计，估计，估算 Some-one's reckoning is a calculation they make about something, especially a calculation that is not very exact. 
+  【搭配模式】：usu poss N
+
+By my reckoning we were seven or eight kilometres from Borj Mechaab.据我估计我们离梅卡巴堡有七八公里远。
+
+2.N-COUNT	可数名词 See also: day of reckoning;  报应;清算 If you say that you will have a reckoning with someone, you mean that you will face them at some time in the future and punish them for something they have done. 
+  【搭配模式】：usu sing
+
+She knew their truce would not last. There would be a reckoning. There would be another fight.她早知道他们之间的休战持续不了多长时间。他们之间的账迟早要清算。还将会有一场争斗。
+
+
+——————————————
+★☆☆   reckon on
+
+1.PHRASAL VERB	短语动词  指望，依赖（某事的发生） If you reckon on something, you feel certain that it will happen and are therefore prepared for it. 
+  【语法信息】：V P n/-ing (not pron)
+
+They are typical of couples who plan a family without reckoning on the small fortune it will cost...他们是那种典型的想要孩子但不考虑花销有多大的夫妻。
+He reckons on being world heavyweight champion.他相信自己能成为世界重量级冠军。
+
+
+——————————————
+★☆☆   reckon with
+
+1.PHRASAL VERB	短语动词  估计到;预期;预料 If you say that you had not reckoned with something, you mean that you had not expected it and so were not prepared for it. 
+  【语法信息】：V P n
+  【搭配模式】：with brd-neg
+
+Giles had not reckoned with the strength of Sally's feelings for him.贾尔思没有料想到萨利对他的感情如此强烈。
+
+2.PHRASE	短语  需要处理；需要解决 If you say that there is someone or something to be reckoned with, you mean that they must be dealt with and it will be difficult. 
+  【搭配模式】：n PHR
+
+This act was a signal to his victim's friends that he was someone to be reckoned with...此举等于告诉其受害者的朋友们他不好对付。
+He will have to demonstrate that his Movement for Democracy is really a force to be reckoned with in Algerian politics.他得证明他的民主运动在阿尔及利亚政坛确实是一股不可忽视的力量。
+
+
+——————————————
+★☆☆   reckon without
+
+1.PHRASAL VERB	短语动词  没有考虑到…；没把…算在内 If you say that you had reckoned without something, you mean that you had not expected it and so were not prepared for it. 
+  【语法信息】：V P n
+
+I thought that it would take only a day of hard driving to reach Chengdu. But I had reckoned without the landslides.我原以为只要辛苦点儿，驾车一天就可以到达成都。但是我没有考虑到山体滑坡。
+
+
+——————————————
+★☆☆   reclaim ●○○○○
+
+1.VERB	动词  要求归还（或恢复）；收回 If you reclaim something that you have lost or that has been taken away from you, you succeed in getting it back. 
+  【语法信息】：V n
+
+In 1986, they got the right to reclaim South African citizenship...1986年，他们取得了恢复南非公民身份的权利。
+'I've come to reclaim my property,' she announced to the desk clerk.“我来要求归还我的房产，”她向接待人员宣布。
+
+2.VERB	动词  收回;拿回;申请退（税） If you reclaim an amount of money, for example tax that you have paid, you claim it back. 
+  【语法信息】：V n
+
+There are an estimated eight million people currently thought to be eligible to reclaim income tax.估计现在有800万人有资格申请所得税退税。
+
+3.VERB	动词  开垦（荒地）；开拓（耕地或建筑用地） When people reclaim land, they make it suitable for a purpose such as farming or building, for example by draining it or by building a barrier against the sea. 
+  【语法信息】：V n
+  【语法信息】：V-ed
+
+The Netherlands has been reclaiming farmland from water.荷兰人一直在围海造地。
+...a scheme to build a residential development on 1,100 acres of reclaimed land in Tokyo Bay.在东京湾通过围海造地开拓的1,100英亩土地上建造住宅区的计划
+
+4.VERB	动词  使（农田、建筑用地）重新变成（沙漠、森林或海洋） If a piece of land that was used for farming or building is reclaimed by a desert, forest, or the sea, it turns back into desert, forest, or sea. 
+  【语法信息】：be V-ed by n
+  【搭配模式】：usu passive
+
+The diamond towns are gradually being reclaimed by the desert...这些钻石城镇正逐渐重归沙漠。
+This method of spraying would allow the land to be reclaimed by the rain forests.这种喷洒法可以使土地重新变成雨林。
+
+5.VERB	动词  挽救;感化 If you reclaim a person who has been involved in bad or criminal behaviour, you cause them to stop acting in that way. 
+  【语法信息】：V n
+
+He set out to fight the drug infestation of Omaha by reclaiming a youth from the local gangs.他从挽救当地帮派的一个年轻人入手着力消除奥马哈的毒品泛滥问题。
+
+
+——————————————
+★☆☆   reclamation
+
+1.N-UNCOUNT	不可数名词  （荒地等的）开垦，改造 Reclamation is the process of changing land that is unsuitable for farming or building into land that can be used. 
+
+...centuries of sea-wall construction and the reclamation of dry land from the marshes...几个世纪以来建造海堤并将沼泽地改造成为良田的行动
+The area is needed for a land reclamation project.一个土地开垦项目要在这一地区进行。
+
+
+——————————————
+★☆☆   recline ●○○○○
+
+1.VERB	动词  靠;躺;斜倚 If you recline on something, you sit or lie on it with the upper part of your body supported at an angle. 
+  【语法信息】：V prep
+  【语法信息】：V-ing
+  【语法信息】：Also V n
+
+She proceeded to recline on a chaise longue...她接着躺在了一个躺椅上。
+Move to a reclining position on the mattress and rest for 15 minutes.靠在垫子上休息15分钟。
+
+2.V-ERG	及物/不及物动词  向后倾斜（坐椅）；(使)（坐椅）椅背后仰 When a seat reclines or when you recline it, you lower the back so that it is more comfortable to sit in. 
+  【语法信息】：V
+  【语法信息】：V n
+  【语法信息】：V-ing
+
+Air France first-class seats recline almost like beds...法国航空公司头等舱的坐椅可以调低成几乎像床一样。
+Ramesh had reclined his seat and was lying back smoking...拉梅什把椅背调低，倚在上面吸烟。
+He was comfortably seated in a soft reclining chair.他舒舒服服地坐在柔软的躺椅上。
+
+
+——————————————
+★☆☆   recliner
+
+1.N-COUNT	可数名词  可调式扶手椅 A recliner is a type of armchair with a back that can be adjusted to slope at different angles. 
+
+
+——————————————
+★☆☆   recluse
+
+1.N-COUNT	可数名词  隐居者；隐士 A recluse is a person who lives alone and deliberately avoids other people. 
+  【搭配模式】：usu sing
+
+His widow became a virtual recluse for the remainder of her life.他的寡妻孤寂地度过了余生。
+
+
+——————————————
+★☆☆   reclusive
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  独居的;隐居的;遁世的 A reclusive person or animal lives alone and deliberately avoids the company of others. 
+
+She had been living a reclusive life in Los Angeles since her marriage broke up.自从离婚后她一直在洛杉矶过着独居的生活。
+She had become increasingly ill and reclusive.她病得越来越重，越来越孤僻。
+
+
+——————————————
+★☆☆   recognition ●●●○○
+
+1.N-UNCOUNT	不可数名词  认识;识别;认出 Recognition is the act of recognizing someone or identifying something when you see it. 
+
+George said, 'Ida, how are you?' She frowned for a moment and then recognition dawned. 'George Black. Well, I never.'...乔治说：“艾达，你好吗？”她皱了一会儿眉头，然后才认出他。“乔治·布莱克，噢，我一直都不好。”
+He searched for a sign of recognition on her face, but there was none.他试图在她的脸上找出一丝认出他的神情，但是根本没有。
+
+2.N-UNCOUNT	不可数名词  承认;接受;理解 Recognition of something is an understanding and acceptance of it. 
+  【搭配模式】：with supp
+
+The CBI welcomed the Chancellor's recognition of the recession and hoped for a reduction in interest rates.英国工业联合会对财政大臣承认经济出现衰退表示欢迎，并希望能出台降低利率的政策。
+
+3.N-UNCOUNT	不可数名词  （政府对他国的）外交认可，正式承认 When a government gives diplomatic recognition to another country, they officially accept that its status is valid. 
+  【搭配模式】：with supp
+
+South Africa gave diplomatic recognition to Rwanda's new government on September 15...南非于9月15日正式承认了卢旺达的新政府。
+His government did not receive full recognition by Britain until July.他的政府直到7月份才得到英国的正式承认。
+
+4.N-UNCOUNT	不可数名词  赞赏;好评;认可 When a person receives recognition for the things that they have done, people acknowledge the value or skill of their work. 
+  【搭配模式】：with supp
+
+At last, her father's work has received popular recognition...最后，她父亲的工作得到了大众的认可。
+He is an outstanding goalscorer who doesn't get the recognition he deserves.他是一个出色的射手，但并没有获得应有的认可。
+
+5.PHRASE	短语  面目全非;认不出来;无法辨认 If you say that someone or something has changed beyond recognition or out of all recognition, you mean that person or thing has changed so much that you can no longer recognize them. 
+  【搭配模式】：PHR after v
+  【语用信息】：emphasis
+
+The bodies were mutilated beyond recognition...尸体都残缺不全，无法辨认了。
+The facilities have improved beyond all recognition...这些设备经过大幅度的改良，都让人认不出来了。
+The situation in Eastern Europe has changed out of all recognition.东欧的形势经历了巨变。
+
+6.PREP-PHRASE	短语介词  获官方认可;正式承认 If something is done in recognition of someone's achievements, it is done as a way of showing official appreciation of them. 
+
+Brazil normalised its diplomatic relations with South Africa in recognition of the steps taken to end apartheid...巴西恢复了与南非的外交关系，以示对其采取措施结束种族隔离的正式认可。
+He had just received a doctorate in recognition of his contributions to seismology.他刚被授予了博士头衔以表彰他对地震学作出的贡献。
+
+
+——————————————
+★☆☆   recognizable ●○○○○
+in BRIT, also use 英国英语亦用 recognisable
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  可辨认的;可认出的 If something can be easily recognized or identified, you can say that it is easily recognizable . 
+  【搭配模式】：oft adv ADJ
+
+The body was found to be well preserved, his features easily recognizable...尸体保存完好，他的容貌特征清晰可辨。
+This tree is always recognizable by its extremely beautiful silvery bark.这种树很容易辨认，因为它有着非常漂亮的银色树皮。
+...the world's most recognizable athlete.世界上最受瞩目的运动员recognizably
+
+The request, naturally, is politely phrased but is still recognizably a command...无疑，这个请求措辞委婉，但显然还是一个命令。
+At seven weeks, an embryo is about three-fourths of an inch long and recognizably human.在第7周的时候，胚胎有3/4英寸长，人形已清晰可辨。
+
+
+——————————————
+★☆☆   recognize ●●●●○
+in BRIT, also use 英国英语亦用 recognise
+
+1.VERB	动词  认识;认出 If you recognize someone or something, you know who that person is or what that thing is. 
+  【语法信息】：V n
+  【语法信息】：V n as n
+  【搭配模式】：no cont
+
+The receptionist recognized him at once...接待员一眼就认出他了。
+He did not think she could recognize his car in the snow...他觉得她在雪天里认不出他的车子。
+A man I easily recognized as Luke's father sat with a newspaper on his lap.我一眼就认出那人是卢克的父亲，他坐在那里，膝盖上放着一份报纸。
+
+2.VERB	动词  认可；承认 If someone says that they recognize something, they acknowledge that it exists or that it is true. 
+  【语法信息】：V n
+  【语法信息】：V that
+  【搭配模式】：no cont
+
+I recognize my own shortcomings...我承认自己的缺点。
+Well, of course I recognize that evil exists.嗯，我当然承认邪恶的存在。
+
+3.VERB	动词  正式认可;承认;正式接受;赞成 If people or organizations recognize something as valid, they officially accept it or approve of it. 
+  【语法信息】：V n as n
+  【语法信息】：V n
+  【语法信息】：V-ed
+  【语法信息】：Also V that
+
+Most doctors appear to recognize homeopathy as a legitimate form of medicine...大多数医生似乎都接受顺势疗法是一种合理的医疗手段。
+France is on the point of recognizing the independence of the Baltic States.法国即将承认波罗的海诸国的独立。
+...a nationally recognized expert on psychology.全国公认的心理学专家
+
+4.VERB	动词  赞赏，认可（某人的所作所为） When people recognize the work that someone has done, they show their appreciation of it, often by giving that person an award of some kind. 
+  【语法信息】：V n as n
+  【语法信息】：V n
+
+The RAF recognized him as an outstandingly able engineer...英国皇家空军表彰他是一名非常能干的机械师。
+He had the insight to recognize their talents...他很有眼力，慧眼识英才。
+Nichols was recognized by the Hall of Fame in 1949.尼科尔斯在1949年正式入选名人堂。
+
+
+——————————————
+★☆☆   recoil ●○○○○
+The verb is pronounced /rɪ'kɔɪl/. The noun is pronounced /'riːkɔɪl/. 动词读作/rɪ'kɔɪl/。名词读作/'riːkɔɪl/。
+
+1.VERB	动词  退缩;后退 If something makes you recoil, you move your body quickly away from it because it frightens, offends, or hurts you. 
+  【语法信息】：V
+  【语法信息】：V from n
+
+For a moment I thought he was going to kiss me. I recoiled in horror...我当时以为他要亲我，所以吓得直往后退。
+We are attracted by nice smells and recoil from nasty ones.我们会被好闻的味道吸引，难闻的味道则会让我们退避三舍。Recoil is also a noun.  
+
+His reaction was as much of a rebuff as a physical recoil.他的反应既是身体的退缩，也是一种断然的拒绝。...his small body jerking in recoil from the volume of his shouting.他的小身板儿被他的喊叫声吓得猛地一缩
+
+2.VERB	动词  （因为不喜欢而）拒绝，回绝，退避 If you recoil from doing something or recoil at the idea of something, you refuse to do it or accept it because you dislike it so much. 
+  【语法信息】：V from n
+  【语法信息】：V at n
+
+People used to recoil from the idea of getting into debt...过去人们不能接受欠债这种事情。
+She recoiled at the number of young girls who had to live by selling their bodies.那么多年轻的女孩不得不靠出卖肉体谋生，她觉得难以接受。
+
+3.N-SING	单数名词  （枪炮的）反冲 The recoil of a gun is the quick backward movement that it makes when it is fired. 
+  【搭配模式】：also no det
+
+The policeman fires again, tensed against the recoil, unleashing round after round at his assailant...警察再次开火，紧抵着反冲机构，不断向袭击他的人射击。
+I assembled the weapon, checked the firing and recoil mechanism and loaded it.我把家伙组装起来，检查了一下击发和反冲机构，装上子弹。
+
+
+——————————————
+★☆☆   recollect
+
+1.VERB	动词  想起；记起 If you recollect something, you remember it. 
+  【语法信息】：V n
+  【语法信息】：V that
+  【语法信息】：Also V
+
+Ramona spoke with warmth when she recollected the doctor who used to be at the county hospital...拉蒙纳回忆起曾在乡村医院工作的那位医生时，言语中透着温情。
+His efforts, the Duke recollected many years later, were distinctly half-hearted.据公爵许多年之后的回忆，他当时明显只是敷衍了事。
+
+
+——————————————
+★☆☆   recollection ●○○○○
+
+1.N-VAR	可变名词  记忆；回忆 If you have a recollection of something, you remember it. 
+
+Pat has vivid recollections of the trip...帕特清清楚楚地记得那次旅行。
+He had no recollection of the crash...那次车祸他一点也不记得了。
+Suddenly his mind filled with the recollection of a song she used to sing...突然，他记起了一首她过去经常唱的歌。She had a sudden burst of recollection and had to share it with me.她突然记起了很多事情，要与我分享。
+
+
+——————————————
+★☆☆   recommence
+
+1.V-ERG	及物/不及物动词  （使）重新开始，（使）继续 If you recommence something or if it recommences, it begins again after having stopped. 
+  【语法信息】：V n
+  【语法信息】：V
+  【FIELD标签】：WRITTEN 笔语
+
+He recommenced work on his novel...他继续写他的小说。
+His course at Sheffield University will not recommence until next year.他在谢菲尔德大学的课程要到明年才能继续。
+
+
+——————————————
+★☆☆   recommend ●●●●○
+
+1.VERB	动词  推荐;介绍 If someone recommends a person or thing to you, they suggest that you would find that person or thing good or useful. 
+  【语法信息】：V n to/for/as n
+  【语法信息】：V n
+
+I have just spent a holiday there and would recommend it to anyone...我刚刚在那里度过假，很想把它推荐给每一个人。
+'You're a good worker, boy,' he told him. 'I'll recommend you for a promotion.'...“你是个好员工，孩子，”他告诉他，“我将推荐你升职。”
+Ask your doctor to recommend a suitable therapist.让你的医生给你推荐一个合适的治疗专家。recommended
+
+Though ten years old, this book is highly recommended.尽管是10年前出版的，这本书仍值得大力推荐。
+
+2.VERB	动词  建议;劝说（做…) If you recommend that something is done, you suggest that it should be done. 
+  【语法信息】：V that
+  【语法信息】：V n/-ing
+  【语法信息】：it be V-ed that
+  【语法信息】：V-ed
+  【语法信息】：V against n/-ing
+  【语法信息】：Also V n to-inf
+
+The judge recommended that he serve 20 years in prison...法官建议判处他20年监禁。
+We strongly recommend reporting the incident to the police...我们强烈建议报警。
+It is recommended that you should consult your doctor...建议你去咨询医生。The recommended daily dose is 12 to 24 grams...建议每天的服用剂量为12到24克。Many financial planners now recommend against ever fully paying off your home loan.现在许多理财专家不建议人们把住房贷款全部还清。
+
+3.VERB	动词  使受欢迎;使有优势 If something or someone has a particular quality to recommend them, that quality makes them attractive or gives them an advantage over similar things or people. 
+  【语法信息】：V n
+  【语法信息】：V n to n
+
+La Noblesse restaurant has much to recommend it...“贵族”餐馆有很多值得称道之处。
+He had little but his enthusiasm to recommend him...他拥有的优势只有他的热情。
+These qualities recommended him to Olivier.这些品质让他受到奥利维尔的青睐。Usage Note :
+Be careful with the spelling of this word.注意该词的拼写。
+
+
+——————————————
+★☆☆   recommendation ●●●○○
+
+1.N-VAR	可变名词  建议;提议;劝告 The recommendations of a person or a committee are their suggestions or advice on what is the best thing to do. 
+  【搭配模式】：oft with poss
+
+The committee's recommendations are unlikely to be made public...委员会的建议不大可能公开。
+Lord Justice Woolf will make recommendations for reform in his report...上诉法院法官伍尔夫将在他的报告中提出改革建议。
+The decision was made on the recommendation of the Interior Minister.决议是根据内政部部长的提议作出的。
+
+2.N-VAR	可变名词  推荐；介绍 A recommendation of something is the suggestion that someone should have or use it because it is good. 
+
+On O'Leary's recommendation, they started with tortellini...在奥利里的推荐下，他们首先点了意大利饺子。
+The best way of finding a solicitor is through personal recommendation.找律师的最好方式是通过熟人介绍。
+
+
+——————————————
+★☆☆   recompense
+
+1.N-UNCOUNT	不可数名词  酬金;酬劳;奖赏;赔偿 If you are given something, usually money, in recompense, you are given it as a reward or because you have suffered. 
+  【搭配模式】：oft N for n
+  【语域标签】：FORMAL 正式
+
+He demands no financial recompense for his troubles...他没有对自己遭遇的麻烦要求经济赔偿。
+Substantial damages were paid in recompense.巨额损失得到了赔偿。
+
+2.VERB	动词  （常以金钱形式）偿付，赔偿，报答 If you recompense someone for their efforts or their loss, you give them something, usually money, as a payment or reward. 
+  【语法信息】：V n for n
+  【语域标签】：FORMAL 正式
+
+The fees offered by the NHS do not recompense dental surgeons for their professional time...国民医疗保健系统所支付的费用中不涵盖牙科诊疗费用。
+If they succeed in court, they will be fully recompensed for their loss.如果他们能在法庭上胜诉，他们的损失将会得到全额赔偿。
+
+
+——————————————
+★☆☆   reconcile ●●○○○
+
+1.VERB	动词  调和，协调（两种信仰、事实或要求） If you reconcile two beliefs, facts, or demands that seem to be opposed or completely different, you find a way in which they can both be true or both be successful. 
+  【语法信息】：V pl-n
+  【语法信息】：V n with n
+
+It's difficult to reconcile the demands of my job and the desire to be a good father...我很难做到既兼顾工作，又达成做个好父亲的愿望。
+We suggest that it is possible to reconcile these apparently opposing perspectives...我们认为这两个看似对立的观点是可以调和的。
+Negotiators must now work out how to reconcile these demands with American demands for access.谈判人员现在必须想办法调和这些要求和美国人想要参与的要求。
+
+2.V-RECIP-PASSIVE	被动相互动词  使和好;使和解 If you are reconciled with someone, you become friendly with them again after a quarrel or disagreement. 
+  【语法信息】：pl-n be V-ed
+  【语法信息】：be V-ed with n
+
+He never believed he and Susan would be reconciled...他从来没想过自己和苏珊会和解。
+Devlin was reconciled with the Catholic Church in his last few days.德夫林在生命的最后几天与天主教会达成和解。
+
+3.VERB	动词  使和好如初 If you reconcile two people, you make them become friends again after a quarrel or disagreement. 
+  【语法信息】：V n with n
+
+...my attempt to reconcile him with Toby.我想使他与托比和好的努力
+
+4.VERB	动词  顺从;接受;将就 If you reconcile yourself to an unpleasant situation, you accept it, although it does not make you happy to do so. 
+  【语法信息】：V pron-refl to n/-ing
+
+She had reconciled herself to never seeing him again.她说服了自己永远不再和他见面。reconciled
+
+She felt a little more reconciled to her lot.她感到对自己的命运多少接受一些了。
+
+
+——————————————
+★☆☆   reconciliation ●●○○○
+
+1.N-VAR	可变名词  和解;调和;调解 Reconciliation between two people or countries who have quarrelled is the process of their becoming friends again. A reconciliation is an instance of this. 
+  【搭配模式】：oft N between/with/of n
+
+...an appeal for reconciliation between Catholics and Protestants...天主教徒和新教徒之间达成和解的诉求
+The couple have separated but he wants a reconciliation...夫妇俩已经分居了，但是他想要和解。
+Their handshake appeared to be a gesture of reconciliation.他们的握手似乎是和解的表示。
+
+2.N-SING	单数名词  （两种貌似对立的信仰、事实或要求的）和谐，调和，一致 The reconciliation of two beliefs, facts, or demands that seem to be opposed is the process of finding a way in which they can both be true or both be successful. 
+  【搭配模式】：N between/of/with n
+
+...the ideal of democracy based upon a reconciliation of the values of equality and liberty.建立在平等和自由两种价值观和谐统一基础上的民主理想
+
+
+——————————————
+★☆☆   recondite
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （知识或学问）深奥的，艰涩的，艰深的 Recondite areas of knowledge or learning are difficult to understand, and not many people know about them. 
+  【搭配模式】：usu ADJ n
+  【STYLE标签】：FORMAL 正式
+
+Her poems are modishly experimental in style and recondite in subject-matter.她的诗在风格上是时髦的实验派，主题艰深难懂。
+
+
+——————————————
+★☆☆   recondition
+
+1.VERB	动词  修理;修复;翻新 To recondition a machine or piece of equipment means to repair or replace all the parts that are damaged or broken. 
+  【语法信息】：V n
+  【语法信息】：V-ed
+
+He made contact with someone with an idea for reconditioning laser copiers...他联系了一个会修理激光复印机的人。
+They sell used and reconditioned motorcycle parts.他们出售二手的和翻新的摩托车零件。
+
+
+——————————————
+★☆☆   reconfirm
+
+1.VERB	动词  同 confirm Reconfirm means the same as confirm . 
+
+
+——————————————
+★☆☆   reconnaissance ●○○○○
+
+1.N-UNCOUNT	不可数名词  （派士兵或飞机）侦察；（用卫星）搜索，勘测 Reconnaissance is the activity of obtaining military information about a place by sending soldiers or planes there, or by the use of satellites. 
+  【搭配模式】：oft N n
+
+The helicopter was returning from a reconnaissance mission...直升机完成侦察任务后正在返航。
+The aircraft will be used for reconnaissance rather than combat.这架飞机将用于执行侦察任务而不是战斗任务。
+
+
+——————————————
+★☆☆   reconnect
+
+1.VERB	动词  重新接通;重新提供 If a company reconnects your electricity, water, gas, or telephone after it has been stopped, they provide you with it once again. 
+  【语法信息】：V n
+
+They charge a £66.10 fee for reconnecting cut-off customers...他们向申请重新接通服务的用户收取66.10英镑的费用。
+Local electricity companies say some homes won't be reconnected until the end of the week.当地电力公司称一些住户要到周末才能恢复供电。reconnection
+
+The cost of reconnection after supplies are cut off is high.供应切断之后再恢复的代价很高。
+
+
+——————————————
+★☆☆   reconnoitre
+in AM, use 美国英语用 reconnoiter
+
+1.VERB	动词  侦察;勘测 To reconnoitre an area means to obtain information about its geographical features or about the size and position of an army there. 
+  【语法信息】：V n
+  【语法信息】：V
+
+He was sent to Eritrea to reconnoitre the enemy position...他被派往厄立特里亚侦察敌军位置。
+I left a sergeant in command and rode forward to reconnoitre.我留下一名中士指挥，自己策马前去侦察敌情。
+
+
+——————————————
+★☆☆   reconquer
+
+1.VERB	动词  夺回；再征服 If an army reconquers a country or territory after having lost it, they win control over it again. 
+
+
+——————————————
+★☆☆   reconsider ●○○○○
+
+1.VERB	动词  重新考虑;重新斟酌 If you reconsider a decision or opinion, you think about it and try to decide whether it should be changed. 
+  【语法信息】：V n
+  【语法信息】：V
+
+We want you to reconsider your decision to resign from the board...我们希望你重新考虑辞去董事会职务的决定。
+This has forced the United States to seriously reconsider its position...这迫使美国重新认真考虑自己的立场。
+If at the end of two years you still feel the same, we will reconsider.如果两年后你还是同样的感觉，我们会重新考虑。reconsideration
+
+The report urges reconsideration of the decision.这个报告强烈要求重新考虑这一决定。
+
+
+——————————————
+★☆☆   reconstitute ●○○○○
+
+1.VERB	动词  重新组建，重新构建，改组（组织或国家） If an organization or state is reconstituted, it is formed again in a different way. 
+  【语法信息】：be V-ed
+  【语法信息】：V-ed
+  【搭配模式】：usu passive
+
+Slowly Jewish communities were reconstituted and Jewish life began anew.渐渐地，犹太社区得到重建，犹太人的生活重新开始。
+...the reconstituted Communist Party, now called the Party of Democratic Socialism.共产党改组后，现称民主社会党reconstitution
+
+The report recommended suspension and reconstitution of the district party under redrafted rules.报告建议按新起草的规章暂时中断地区政党的活动并对其进行改组。
+
+2.VERB	动词  使（脱水食物）复原;泡开 To reconstitute dried food means to add water to it so that it can be eaten. 
+  【语法信息】：V n
+  【语法信息】：V-ed
+
+To reconstitute dried tomatoes, simmer in plain water until they are tender...要泡开西红柿干，需要将其放在清水中用文火炖，直到它们变软。
+Try eating reconstituted dried prunes, figs or apricots.试着吃些用水泡过的西梅干、无花果干或杏干。
+
+
+——————————————
+★☆☆   reconstruct ●○○○○
+
+1.VERB	动词  重建;重造;修复 If you reconstruct something that has been destroyed or badly damaged, you build it and make it work again. 
+  【语法信息】：V n
+
+The government must reconstruct the shattered economy...政府必须重建支离破碎的经济。
+He had plastic surgery to help reconstruct his badly damaged face...他做了整形手术以修复其严重受伤的面部。
+Although this part of Normandy was badly bombed during the war it has been completely reconstructed.尽管诺曼底的这个区域在战争中遭受了狂轰滥炸，但之后它已经被彻底重建了。
+
+2.VERB	动词  改造;改组 To reconstruct a system or policy means to change it so that it works in a different way. 
+  【语法信息】：V n
+
+She actually wanted to reconstruct the state and transform society...她实际上想要重建国家，改造社会。
+It is important to think about how these institutions might be reconstructed in our own societies.重要的是，要想想在我们自己的社会里如何对这些机构进行改造。
+
+3.VERB	动词  使（过去的事件）重现，使再现 If you reconstruct an event that happened in the past, you try to get a complete understanding of it by combining a lot of small pieces of information. 
+  【语法信息】：V n
+  【语法信息】：V wh
+
+He began to reconstruct the events of 21 December 1988, when flight 103 disappeared...他开始再现1988年12月21日的103次航班失踪事件。
+Elaborate efforts were made to reconstruct what had happened.为重现当时的情景，他们做了大量细致的工作。
+
+
+——————————————
+★☆☆   reconstruction ●●○○○
+
+1.N-UNCOUNT	不可数名词  （战后的）重建 Reconstruction is the process of making a country normal again after a war, for example by making the economy stronger and by replacing buildings that have been damaged. 
+
+...America's part in the post-war reconstruction of Germany.美国在战后德国重建中的作用
+
+2.N-UNCOUNT	不可数名词  （建筑物或道路的）重新修建 The reconstruction of a building, structure, or road is the activity of building it again, because it has been damaged. 
+
+Work began on the reconstruction of the road.道路的重建工作开始了。
+
+3.N-COUNT	可数名词  （犯罪现场的）重现 The reconstruction of a crime or event is when people try to understand or show exactly what happened, often by acting it out. 
+  【搭配模式】：usu with supp
+
+Mrs Kerr was too upset to take part in a reconstruction of her ordeal.克尔夫人受惊过度，不堪再参与自己所受折磨的场景重现。
+
+
+——————————————
+★☆☆   reconstructive
+
+1.ADJ	形容词  重建的;复原的 Reconstructive surgery or treatment involves rebuilding a part of someone's body because it has been badly damaged, or because the person wants to change its shape. 
+  【搭配模式】：ADJ n
+
+I needed reconstructive surgery to give me a new nose.我需要接受修复手术重塑一个鼻子。
+
+
+——————————————
+★☆☆   reconvene ●○○○○
+
+1.V-ERG	及物/不及物动词  重新召集;重新召开 If a parliament, court, or conference reconvenes or if someone reconvenes it, it meets again after a break. 
+  【语法信息】：V
+  【语法信息】：V n
+
+The conference might reconvene after its opening session...大会在开幕式结束后可能要再开会。
+It was certainly serious enough for him to reconvene Parliament...他重新召集国会当然是件非常重大的事了。
+He insisted that the security council be reconvened that night to authorise the rapid reaction force.他坚持安理会连夜再次召开会议以授权快速反应部队介入。
+
+
+——————————————
+★☆☆   record ●●●●●
+The noun is pronounced /'rekɔːd, am  -kərd/. The verb is pronounced /rɪ'kɔːd/. 名词读作/'rekɔːd, 美 -kərd/。动词读作/rɪ'kɔːd/。
+
+1.N-COUNT	可数名词  （文字或影像）记录，记载 If you keep a record of something, you keep a written account or photographs of it so that it can be referred to later. 
+
+Keep a record of all the payments...所有付款都要作记录。
+There's no record of any marriage or children...没有任何有关婚姻或子女的记载。
+The result will go on your medical records.结果将记入你的病历。
+
+2.VERB	动词  （用文字、照片或电脑）记录，记载 If you record a piece of information or an event, you write it down, photograph it, or put it into a computer so that in the future people can refer to it. 
+  【语法信息】：V n
+  【语法信息】：V-ed
+
+...software packages which record the details of your photographs.记录你的照片的各种细节的软件包
+...a place which has rarely suffered a famine in its recorded history.在历史记载中很少发生饥荒的地方
+
+3.VERB	动词  （用磁带或胶片）记录，录制，记下 If you record something such as a speech or performance, you put it on tape or film so that it can be heard or seen again later. 
+  【语法信息】：V n
+  【语法信息】：V-ed
+
+There is nothing to stop viewers recording the films on videotape...没有什么办法可以阻止观众用录像机把电影录下来。
+The call was answered by a recorded message saying the company had closed early.电话被转入录音信息，称公司早些时候已经下班。
+
+4.VERB	动词  录制（音乐、电视或广播节目） If a musician or performer records a piece of music or a television or radio show, they perform it so that it can be put onto CD, tape, or film. 
+  【语法信息】：V n
+
+It took the musicians two and a half days to record their soundtrack for the film...乐师们花了两天半的时间为电影录制配乐。
+She has recently recorded a programme for television.她最近录制了一档电视节目。
+
+5.N-COUNT	可数名词  （音乐）唱片 A record is a round, flat piece of black plastic on which sound, especially music, is stored, and which can be played on a record player. You can also refer to the music stored on this piece of plastic as a record. 
+
+This is one of my favourite records.这是我最喜欢的唱片之一。
+...the biggest and best-known record company in England.英格兰最大、最知名的唱片公司
+
+6.VERB	动词  记录，表明（某种测量结果或数值） If a dial or other measuring device records a certain measurement or value, it shows that measurement or value. 
+  【语法信息】：V n
+
+The test records the electrical activity of the brain...试验记录下了脑电活动。
+The index of the performance of leading shares recorded a 16 per cent fall.龙头股指数录得16个百分点的跌幅。
+
+7.N-COUNT	可数名词  （体育运动或活动的）纪录，最好成绩 A record is the best result that has ever been achieved in a particular sport or activity, for example the fastest time, the furthest distance, or the greatest number of victories. 
+
+Roger Kingdom set the world record of 12.92 seconds...罗杰·金德姆创造了12.92秒的世界纪录。
+The painting was sold for £665,000 — a record for the artist.这幅画卖了665,000英镑，是这个艺术家最贵的一幅了。
+...the 800 metres, where she is the world record holder.女子800米，她是该项目的世界纪录保持者
+
+8.ADJ	形容词  创纪录的 You use record to say that something is higher, lower, better, or worse than has ever been achieved before. 
+  【搭配模式】：ADJ n
+
+Profits were at record levels...利润创下新高。
+She won the race in record time.她以破纪录的成绩赢得了这场比赛。
+
+9.N-COUNT	可数名词  经历;履历 Someone's record is the facts that are known about their achievements or character. 
+  【搭配模式】：with supp
+
+His record reveals a tough streak...他的履历显示他性格强悍。
+He had a distinguished record as a chaplain...作为一个牧师他成就卓著。
+His country is making a big effort to improve its human rights record.他的国家正在努力改善其人权记录。
+
+10.N-COUNT	可数名词  案底;犯罪记录 If someone has a criminal record, it is officially known that they have committed crimes in the past. 
+
+...a heroin addict with a criminal record going back 15 years...15年前留有案底的海洛因瘾君子
+Where the accused has a record of violence, they should always be kept in custody.要是被告有暴力犯罪记录，必须予以拘留。
+
+11. See also: recording;track record;   
+
+12.PHRASE	短语  供记录（表示将公开申明某事） If you say that what you are going to say next is for the record, you mean that you are saying it publicly and officially and you want it to be written down and remembered. 
+
+We're willing to state for the record that it has enormous value.我们愿意郑重声明那是有极大价值的。
+
+13.PHRASE	短语  供记录在案；作为记录（备用） If you give some information for the record, you give it in case people might find it useful at a later time, although it is not a very important part of what you are talking about. 
+
+For the record, most Moscow girls leave school at about 18...需要指出的是，多数莫斯科女孩18岁从学校毕业。
+Perhaps you'd like to tell me what you were doing Monday. Just for the record.也许你不介意告诉我你周一在做些什么。只是顺便问问。
+
+14.PHRASE	短语  非正式的;不得发表的 If something that you say is off the record, you do not intend it to be considered as official, or published with your name attached to it. 
+  【搭配模式】：usu PHR after v
+
+May I speak off the record?...我可以私下说说吗，不要发表？
+At the end of the lunch, I said I had some off-the-record comments.午餐快结束的时候，我说我有一些想私下谈的看法。
+
+15.PHRASE	短语  公开宣布的；记录在案的 If you are on record as saying something, you have said it publicly and officially and it has been written down. 
+
+The Chancellor is on record as saying that the increase in unemployment is 'a price worth paying' to keep inflation down.财政大臣公开宣称失业率上升是遏制通货膨胀“值得付出的代价”。
+
+16.PHRASE	短语  记录下来;记录在案 If you keep information on record, you write it down or store it in a computer so that it can be used later. 
+
+The practice is to keep on record any analysis of samples.习惯上要把所有的样品分析记录在案。
+
+17.PHRASE	短语  有记录的;有记载的 If something is the best, worst, or biggest on record, it is the best, worst, or biggest thing of its kind that has been noticed and written down. 
+
+It's the shortest election campaign on record...这是史上为期最短的一次竞选活动。
+The 1980s were the hottest decade on record.20世纪80年代是有史以来最热的十年。
+
+18.PHRASE	短语  纠正记载；改正记录 If you set the record straight or put the record straight, you show that something which has been regarded as true is in fact not true. 
+
+Let me set the record straight on the misconceptions contained in your article.我来纠正一下你文章里的错误认识。
+
+
+——————————————
+★☆☆   recordable
+
+1.ADJ	形容词  可记录的;可刻录的 A recordable CD or DVD is a CD or DVD that you can record onto. 
+
+...recordable cds.可刻录光盘
+
+
+——————————————
+★☆☆   record breaker
+——————————————
+★☆☆   record-breaker
+
+1.N-COUNT	可数名词  打破纪录者 A record-breaker is someone or something that beats the previous best result in a sport or other activity. 
+
+The movie became a box-office record breaker.这部电影打破了先前的票房纪录。
+
+
+——————————————
+★☆☆   record-breaking ●○○○○
+
+1.ADJ	形容词  （成功、结果或表现）创纪录的，空前的 A record-breaking success, result, or performance is one that beats the previous best success, result, or performance. 
+  【搭配模式】：ADJ n
+
+Australia's rugby union side enjoyed a record-breaking win over France.澳大利亚的英式橄榄球联盟队创纪录地赢了法国队。
+
+
+——————————————
+★☆☆   recorded delivery
+
+1.N-UNCOUNT	不可数名词  挂号邮寄 If you send a letter or parcel recorded delivery, you send it using a Post Office service which gives you an official record of the fact that it has been posted and delivered. 
+  【语域标签】：BRIT 英
+
+Use recorded delivery for large cheques or money orders.对于大额的支票和汇款单要使用挂号邮寄。in AM, usually use 美国英语通常用 registered mail
+
+
+——————————————
+★☆☆   recorder ●●○○○
+
+1.N-COUNT	可数名词 See also: cassette recorder;tape recorder;video recorder;  （卡式或磁带）录音机;录像机 You can refer to a cassette recorder, a tape recorder, or a video recorder as a recorder. 
+
+Rodney put the recorder on the desk top and pushed the play button.罗德尼把录音机放在桌面上，按下了播放键。
+
+2.N-VAR	可变名词  直笛；竖笛 A recorder is a wooden or plastic musical instrument in the shape of a pipe. You play the recorder by blowing into the top of it and covering and uncovering the holes with your fingers. 
+  【搭配模式】：oft the N
+
+3.N-COUNT; N-TITLE	可数名词；头衔名词  刑事法院兼职法官（英格兰和威尔士的法律体制下被任命在刑事法庭兼任法官的律师） In the legal system of England and Wales, a recorder is a lawyer who is appointed as a part-time judge in the Crown Court. 
+
+4.N-COUNT	可数名词 See also: flight recorder;  记录装置;记录器 A recorder is a machine or instrument that keeps a record of something, for example in an experiment or on a vehicle. 
+
+Data recorders also pinpoint mechanical faults rapidly, reducing repair times.数据记录仪还能迅速查明机械故障，减少维修次数。
+
+
+——————————————
+★☆☆   record holder
+
+1.N-COUNT	可数名词  纪录保持者 The record holder in a particular sport or activity is the person or team that holds the record for doing it fastest or best. 
+  【搭配模式】：usu the N
+
+...the British record holder for the 200m backstroke.英国200米仰泳纪录保持者
+
+
+——————————————
+★☆☆   recording ●●●○○
+
+1.N-COUNT	可数名词  唱片；录音带；录像带 A recording of something is a record, CD, tape, or video of it. 
+
+...a video recording of a police interview.警方讯问的录像带
+
+2.N-UNCOUNT	不可数名词  录制 Recording is the process of making records, CDs, tapes, or videos. 
+  【搭配模式】：usu N n
+
+...the recording industry.音像业
+
+
+——————————————
+★☆☆   record player
+
+1.N-COUNT	可数名词  唱机;留声机 A record player is a machine on which you can play a record in order to listen to the music or other sounds on it. 
+
+
+——————————————
+★☆☆   record-player
+——————————————
+★☆☆   recount ●○○○○
+The verb is pronounced /rɪ'kaʊnt/. The noun is pronounced /'riːkaʊnt/. 动词读作/rɪ'kaʊnt/。名词读作/'riːkaʊnt/。
+
+1.VERB	动词  讲述;描述;描绘 If you recount a story or event, you tell or describe it to people. 
+  【语法信息】：V n
+  【语法信息】：V wh
+  【语法信息】：Also V that
+  【语域标签】：FORMAL 正式
+
+He then recounted the story of the interview for his first job...他接着讲述了自己第一次找工作时面试的情形。
+He recounted how heavily armed soldiers forced him from the presidential palace.他讲述了自己是怎样被全副武装的士兵从总统官邸里赶出来的。
+
+2.N-COUNT	可数名词  （选举中的）重新计票，重新点票 A recount is a second count of votes in an election when the result is very close. 
+
+She wanted a recount. She couldn't believe that I had got more votes than her.她想要重新计票。她不相信我比她得票多。
+
+
+——————————————
+★☆☆   recoup ●○○○○
+
+1.VERB	动词  重新获得;重新拿回;收回;弥补 If you recoup a sum of money that you have spent or lost, you get it back. 
+  【语法信息】：V n
+
+Insurance companies are trying to recoup their losses by increasing premiums.保险公司正试图通过提高保费来弥补损失。
+
+
+——————————————
+★☆☆   recourse ●○○○○
+
+1.N-UNCOUNT	不可数名词  依靠;求援;诉诸 If you achieve something without recourse to a particular course of action, you succeed without carrying out that action. To have recourse to a particular course of action means to have to do that action in order to achieve something. 
+  【搭配模式】：usu N to n
+  【语域标签】：FORMAL 正式
+
+It enabled its members to settle their differences without recourse to war...这样，其成员就可以不必诉诸战争来解决分歧。
+The public believes its only recourse is to take to the streets.公众认为唯一的办法就是上街游行。
+
+
+——————————————
+★☆☆   recover ●●●○○
+
+1.VERB	动词  恢复健康；复原 When you recover from an illness or an injury, you become well again. 
+  【语法信息】：V from n/-ing
+  【语法信息】：V
+  【语法信息】：V-ed
+
+He is recovering from a knee injury...他的膝伤正在康复。
+A policeman was recovering in hospital last night after being stabbed...一名警员昨夜被刺伤之后入院进行康复治疗。
+He is fully recovered from the virus.感染病毒的他已彻底康复了。Usage Note :
+Recover is a fairly formal word. In conversation, you usually say that someone gets better. Qualified nurses help patients get better more quickly. 
+    recover 是一个比较正式的词。在日常对话中，常常使用get better（好转；恢复健康）表达同样的意思。如，Qualified nurses help patients get better more quickly（称职的护士会帮助病人更快地康复）。
+
+2.VERB	动词  （从不开心或不愉快的经历中）恢复，复原 If you recover from an unhappy or unpleasant experience, you stop being upset by it. 
+  【语法信息】：V from n
+  【语法信息】：V
+
+...a tragedy from which he never fully recovered...他一直未能完全从中走出的悲剧
+Her plane broke down and it was 18 hours before she got there. It took her three days to recover.她乘坐的飞机出了故障，18个小时后她才到达那里。之后她花了3天时间才完全恢复过来。
+
+3.VERB	动词  （从弱势或困境中）好转，扭转，恢复 If something recovers from a period of weakness or difficulty, it improves or gets stronger again. 
+  【语法信息】：V from n
+  【语法信息】：V
+
+He recovered from a 4-2 deficit to reach the quarter-finals...他在2比4落后的情况下实现逆转闯进1/4决赛。
+The stock-market index fell by 80% before it began to recover.股市指数下跌了80%后才开始反弹。
+
+4.VERB	动词  重新找到;重新拿回 If you recover something that has been lost or stolen, you find it or get it back. 
+  【语法信息】：V n
+
+Police raided five houses in south-east London and recovered stolen goods...警方突击搜查了伦敦东南区的5幢房屋，找到了失窃物品。
+Rescue teams recovered more bodies from the rubble.救援队从瓦砾中挖出了更多尸体。
+
+5.VERB	动词  恢复（意识、神志或身体状态） If you recover a mental or physical state, it comes back again. For example, if you recover consciousness, you become conscious again. 
+  【语法信息】：V n
+
+For a minute he looked uncertain, and then recovered his composure...有一小会儿他看上去有些迟疑不定，之后又恢复了镇定。
+She had a severe attack of asthma and it took an hour to recover her breath...她的哮喘病严重发作，一个小时后呼吸才恢复正常。
+She never recovered consciousness.她再也没能恢复意识。
+
+6.VERB	动词  收回（花掉、投资或借出的钱） If you recover money that you have spent, invested, or lent to someone, you get the same amount back. 
+  【语法信息】：V n
+
+Legal action is being taken to try to recover the money...正在进行诉讼以收回那笔钱。
+The British market alone was not large enough to recover their costs of production.单是英国的市场还不足以让他们收回生产成本。
+
+
+——————————————
+★☆☆   recoverable
+
+1.ADJ	形容词  可收回的；可取回的 If something is recoverable, it is possible for you to get it back. 
+
+If you decide not to buy, the money you have spent on the survey is not recoverable.如果你决定不买，你在调查上花的钱是收不回来的。
+
+
+——————————————
+★☆☆   recovery ●●●○○
+
+1.N-VAR	可变名词  （身体的）恢复，康复 If a sick person makes a recovery, he or she becomes well again. 
+
+He made a remarkable recovery from a shin injury...他的胫骨伤恢复得相当不错。
+He had been given less than a one in 500 chance of recovery by his doctors.他的医生们认为他康复的几率不足1/500。
+
+2.N-VAR	可变名词  （经济的）复苏，好转 When there is a recovery in a country's economy, it improves. 
+
+Interest-rate cuts have failed to bring about economic recovery...利率下调没有带来经济复苏。
+In many sectors of the economy the recovery has started.许多经济领域已经开始复苏。
+
+3.N-UNCOUNT	不可数名词  收回；取回；失而复得 You talk about the recovery of something when you get it back after it has been lost or stolen. 
+  【搭配模式】：usu N of n
+
+A substantial reward is being offered for the recovery of a painting by Turner...为追回特纳的一幅画，已发布了重金悬赏令。
+She has a reasonable prospect of recovery from the insurer.她有望从保险公司拿到赔偿。
+
+4.N-UNCOUNT	不可数名词  （身体或精神状态的）恢复 You talk about the recovery of someone's physical or mental state when they return to this state. 
+  【搭配模式】：N of n
+
+...the abrupt loss and recovery of consciousness.意识的突然丧失和恢复
+
+5.PHRASE	短语  在恢复当中；正在好转 If someone is in recovery, they are being given a course of treatment to help them recover from something such as a drug habit or mental illness. 
+
+...Carole, a compulsive pot smoker and alcoholic in recovery.卡萝尔，一位正在戒断康复当中的大麻吸食者和酗酒者
+
+
+——————————————
+★☆☆   recreate ●○○○○
+
+1.VERB	动词  重现;重建;再创造 If you recreate something, you succeed in making it exist or seem to exist in a different time or place to its original time or place. 
+  【语法信息】：V n
+
+The rooms are furnished and recreate the atmosphere of the castle's medieval heyday...房间都进行了布置，重新营造出该城堡中世纪全盛时期的氛围。
+I am trying to recreate family life far from home.我正试图在远离家园的地方重建家庭生活。
+
+
+——————————————
+★☆☆   recreation ●●○○○
+Pronounced /ˌrekri'eɪʃən/ for meaning 1. Pronounced /ˌriːkri'eɪʃən/ and hyphenated re|crea|tion for meaning 2. 义项1读作/ˌrekri-'eɪʃən/，义项2读作/ˌriːkri'eɪʃən/，分音节形式为re|crea|tion。
+
+1.N-VAR	可变名词  休闲；娱乐 Recreation consists of things that you do in your spare time to relax. 
+
+Saturday afternoon is for recreation and outings...周六午后是休闲和外出游玩的时间。
+All the family members need to have their own interests and recreations.所有的家庭成员都需要有自己的兴趣和休闲方式。
+
+2.N-COUNT	可数名词  重现；重建 A recreation of something is the process of making it exist or seem to exist again in a different time or place. 
+
+They are seeking to build a faithful recreation of the original Elizabethan theatre.他们正在试图如实再现伊丽莎白时期剧院的原貌。
+
+
+——————————————
+★☆☆   recreational ●○○○○
+
+1.ADJ	形容词  休闲的；娱乐的 Recreational means relating to things people do in their spare time to relax. 
+  【搭配模式】：usu ADJ n
+
+...parks and other recreational facilities.公园和其他休闲设施
+...recreational use of alcohol.饮酒怡情
+
+
+——————————————
+★☆☆   recreational drug
+
+1.N-COUNT	可数名词  （尤指人们社交时服用的）消遣性毒品 Recreational drugs are drugs that people take occasionally for enjoyment, especially when they are spending time socially with other people. 
+  【搭配模式】：oft N n
+
+Society largely turns a blind eye to recreational drug use.社会基本上对消遣性毒品的吸食现象视而不见。
+...recreational drugs, such as marijuana or cocaine.像大麻和可卡因这样的消遣性毒品
+
+
+——————————————
+★☆☆   recreational vehicle
+
+1.N-COUNT	可数名词  游乐车;休闲车（缩略形式为RV） A recreational vehicle is a large vehicle that you can live in. The abbreviation RV is also used. 
+  【语域标签】：mainly AM 主美
+
+

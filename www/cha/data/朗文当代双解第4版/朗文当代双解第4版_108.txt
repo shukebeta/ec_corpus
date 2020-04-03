@@ -1,0 +1,2561 @@
+﻿————————————
+★☆☆   netspeak
+   net·speak / ˈnɛtˌspik ;  ˈnetspi:k / 
+→noun [U] 
+1. the expressions, technical words, SLANG etc commonly used on the Internet  网络语言:
+a glossary of netspeak terms  网络术语词汇表
+
+
+
+————————————
+★☆☆   nett
+   nett / nɛt ;  net / 
+→adjective1. a British spelling of NET²  net² 的英式拼法
+
+
+
+————————————
+★☆☆   netting
+   net·ting / ˈnɛtɪŋ ;  ˈnetɪŋ / 
+→noun [U] 
+1. material consisting of string, wire etc that has been woven into a net  网; 网状物;
+⇨ mesh : 
+a fence of wire netting  铁丝网围栏
+
+
+
+————————————
+★☆☆   nettle
+   net·tle¹ / ˈnɛtl ;  ˈnetl / 
+ also stinging nettle 
+→noun [C] 
+1. a wild plant with rough leaves that sting you  荨麻
+⇨ grasp the nettle at GRASP ¹ (4)
+⇨ STINGING NETTLE 
+   nettle² 
+→verb1. be nettled (by sth), [informal] to be annoyed by what someone says or does  被（某事物）惹怒:
+She was nettled by Holman's remark.  她被霍尔曼的话激怒了。
+
+
+
+————————————
+★☆☆   nettle rash
+   'nettle rash 
+→noun [C,U] [BrE] 
+1. a medical condition that causes areas of red spots on your skin  荨麻疹
+
+
+
+————————————
+★☆☆   network
+   net·work¹ / ˈnɛtˌwɚk ;  ˈnetwɜ:k / 
+→noun [C] 
+1. a system of lines, tubes, wires, roads etc that cross each other and are connected to each other  网络，网状系统:
+Hungary's telephone network   匈牙利的电话网
+a high-speed European rail network   欧洲的高速铁路网
+  ▪ [+ of ]
+an elaborate network of canals  四通八达的运河网
+the network of blood vessels in the body  人体内的血管网
+2. a group of radio or television stations, which broadcast many of the same programmes, but in different parts of the same country  广播网; 电视网:
+the four biggest TV networks   四大电视网
+You're listening to the American Armed Forces Network.  您正在收听的是美军广播网。
+3. a set of computers that are connected to each other so that they can share information  计算机网络
+4. a group of people, organizations etc that are connected or that work together  人际关系网，联络网:
+  ▪ [+ of ]
+It's important to build up a network of professional contacts.  建立一个专业人脉网是很重要的。
+⇨ the old-boy network at OLD BOY (2)
+   network² 
+→verb1. [I,T] to connect several computers together so that they can share information  （使）〔计算机〕联网
+2. [I] to meet and talk with people who have similar jobs to yours, especially because they may be useful for your work  建立人际关系网
+3. [I,T] to broadcast a radio or television programme on several different CHANNELS at the same time  通过（电台或电视）网络播出
+
+
+
+————————————
+★☆☆   network adapter
+   'network aˌdapter 
+→noun [C] 
+1. a piece of equipment in a PC that allows the PC to be connected to a NETWORK  网络适配器
+
+
+
+————————————
+★☆☆   networking
+   net·work·ing / ˈnɛtˌwɚkɪŋ ;  ˈnetwɜ:kɪŋ / 
+→noun [U] 
+1. the practice of meeting other people involved in the same kind of work, to share information, support each other etc  建立人际关系网:
+I'm hoping to do some networking at the conference next week in London.  我希望下周在伦敦召开的会议上能结交一些同行。
+
+
+
+————————————
+★☆☆   neural
+   neu·ral / ˈnurəl ;  ˈnjʊərəl / 
+→adjective [technical] 
+1. relating to a nerve or the NERVOUS SYSTEM  神经的，神经系统的:
+signs of neural activity   神经活动的迹象
+
+
+
+————————————
+★☆☆   neural computer
+   ˌneural com'puter 
+→noun [C] 
+1. a computer that is designed to operate in a way similar to the human brain
+  〔运作方式与人脑相似的〕神经计算机
+—neural computing noun [U] 
+
+
+
+————————————
+★☆☆   neuralgia
+   neu·ral·gia / nuˈrældʒə ;  njʊˈrældʒə / 
+→noun [U] [medical] 
+1. a sharp pain along the length of a nerve  神经痛
+—neuralgic adj.
+
+
+
+————————————
+★☆☆   neural network
+   ˌneural 'network 
+ also ˌneural 'net noun əɔ] 1. a set of computers that are connected to each other, which share information and operate in a way that is supposed to be similar to the human brain  神经网络计算机:
+By 1989, they were using neural networks to assess credit risks.  到 1989 年，他们已在运用神经网络计算机评估信用风险了。
+
+
+
+————————————
+★☆☆   neuro-
+   neuro- / ˈnuro ;  ˈnjʊərəʊ / 
+→prefix also ♦neur- / nur ;  njʊər / [technical] 
+1. relating to the nerves  （关于）神经的:
+a neurosurgeon  神经外科医生
+
+
+
+————————————
+★☆☆   neuroinformatics
+   neu·ro·in·for·mat·ics / ˌnuroɪnfəˈmætɪks ;  ˌnjʊərəʊɪnfəˈmætɪks / 
+→noun [U] 
+1. a scientific study which combines NEUROSCIENCE (=the study of the brain) and INFORMATION SCIENCE (=the collecting, storing, and arranging of information, especially using powerful computers)  神经信息学
+
+
+
+————————————
+★☆☆   neurology
+   neu·rol·o·gy / nuˈrɑlədʒɪ ;  njʊˈrɔlədʒi / 
+→noun [U] [medical] 
+1. the scientific study of the NERVOUS SYSTEM and its diseases  神经（病）学
+—neurologist noun [C] 
+—neurological / ˌnurəˈlɑdʒɪkl ;  ˌnjʊərəˈlɔdʒɪkəl / adj:
+a neurological disease  神经系统疾病
+
+
+
+————————————
+★☆☆   neuron
+   neu·ron / ˈnurɑn ;  ˈnjʊərɔn / 
+ also neu·rone / -ron ;  -rəʊn / 
+→noun [C] 
+1. a type of cell that makes up the NERVOUS SYSTEM and sends messages to other parts of the body or the brain  神经元，神经细胞;
+   SYN nerve cell 
+
+
+
+————————————
+★☆☆   neuroscience
+   'neu·ro·science / ˈnuroˌsaɪəns ;  ˈnjʊərəʊˌsaɪəns / 
+→noun [U] 
+1. the scientific study of the brain
+  〔研究大脑的〕神经科学
+
+
+
+————————————
+★☆☆   neurosis
+   neu·ro·sis / nuˈrosɪs ;  njʊˈrəʊsəs / 
+→noun (plural neuroses) /  -siz ;  -si:z / [C,U] [medical] 
+1. a mental illness that makes someone unreasonably worried or frightened  神经机能病; 神经官能症
+
+
+
+————————————
+★☆☆   neurotheology
+   neu·ro·the·ol·o·gy / ˌnuroθɪˈɑlədʒɪ ;  ˌnjʊərəʊθiˈɔlədʒi / 
+→noun [U] 
+1. the study of how brain chemistry and structure affect religious beliefs and feelings  神经神学
+
+
+
+————————————
+★☆☆   neurotic
+   neu·rot·ic / nuˈrɑtɪk ;  njʊˈrɔtɪk / 
+→adjective1. unreasonably anxious or afraid  神经质的，神经过敏的; 极度害怕的:
+He seemed a neurotic, self-obsessed man.  他似乎是个神经过敏而又自恋的人。
+2. [technical] relating to or affected by neurosis  神经官能症的:
+neurotic disorders  神经机能失调
+—neurotic noun [C] 
+She accused him of being a neurotic.  她指责他神经质。
+—neurotically / -klɪ ;  -kli / adv.
+
+
+
+————————————
+★☆☆   neuter
+   neu·ter¹ / ˈnutə ;  ˈnju:tə / 
+→adjective [technical] 
+1. a neuter noun, PRONOUN etc belongs to a class of words that have different INFLECTIONS from MASCULINE or FEMININE words
+  〔名词、代词等〕中性的;
+⇨ gender 
+   neuter² 
+→verb [T] 
+1. to remove part of the sex organs of an animal so that it cannot produce babies  阉割〔动物〕;
+⇨ spay : 
+a neutered tomcat  被阉割的公猫
+2. to remove power from something or to stop something from being effective – used to show disapproval  使失去作用〔含贬义〕:
+Plans to reform local government are designed to neuter local democracy.  改革地方政府的计划旨在压制地方民主。
+
+
+
+————————————
+★☆☆   neutral
+   neu·tral¹ / ˈnutrəl ;  ˈnju:trəl / 
+→adjective1. IN AN ARGUMENT ETC 在争吵中等, not supporting any of the people or groups involved in an argument or disagreement  中立的，不偏不倚的:
+I always tried to remain neutral when they started arguing.  他们争论起来的时候我总是努力保持中立。
+Clive decided to adopt a neutral position.  克莱夫决定采取中立立场。
+The British government acted as a neutral observer during the talks.  英国政府在会谈中扮演了中立观察员的角色。
+2. IN A WAR 在战争中, a country that is neutral does not support any of the countries involved in a war
+  〔国家在战时〕中立的:
+During World War II, Sweden was neutral.  在第二次世界大战期间，瑞典是中立国。
+   neutral territory / waters ( = land or sea that is not controlled by any of the countries involved in a war )
+   中立国的领土/水域
+3. on neutral ground / territory, in a place that is not connected with either of the people, groups, or countries that are involved in a discussion, argument, war, or competition  在中立地区; 在第三方领土:
+The talks will be held on neutral ground.  会谈将在第三方领土上举行。
+4. LANGUAGE 语言, language, words etc that are neutral are deliberately chosen to avoid expressing any strong opinion or feeling  中性的; 不带感情色彩的:
+the neutral language of an official news report  官方新闻报道采用的中性语言
+5. VOICE / EXPRESSION 声音/表情, if someone says something in a neutral voice, or if they have a neutral expression on their face, they do not show how they are feeling  不带感情色彩的:
+Bragg said in a neutral voice, 'The investigation has been closed down.'  布拉格平静地说 “调查结束了。”
+6. COLOUR 色彩, a neutral colour is a colour such as grey, light brown, or cream  暗淡的，不鲜艳的; 素净的〔如灰色、浅棕色或淡黄色〕:
+Neutral tones give the room a feeling of space.  素净的色调让房间感觉很宽敞。
+7. WIRE 电线, a neutral wire, for example in a PLUG , has no electrical CHARGE¹ (7)  不带电的
+8. CHEMICAL 化学品, a neutral substance is neither acid nor ALKALINE  中性的:
+The plant prefers a neutral or slightly acidic soil.  这种植物更喜欢中性或略带酸性的土壤。
+a neutral pH of 7.0  中性的 pH 值 7
+—neutrally adv.
+   neutral² 
+→noun1. [U] the position of the GEARS of a car or machine when no power is being sent from the engine to the wheels or other moving parts
+  〔汽车或机器的〕空挡位置:
+   in / into neutral
+When you start the engine, make sure the car's in neutral.  发动引擎时，一定要让汽车处于空挡。
+Put the car into neutral.  将汽车排挡置于空挡位。
+2. [C] a country, person, or group that is not involved in an argument or disagreement  中立国; 中立者
+3. [C usually plural] a neutral colour  素净色; 中和色
+
+
+
+————————————
+★☆☆   neutrality
+   neu·tral·i·ty / nuˈtrælətɪ ;  nju:ˈtræləti / 
+→noun [U] 
+1. the state of not supporting either side in an argument or war  中立; 中立地位
+—neutralist / ˈnutrəlɪst ;  ˈnju:trələst / adj, n [C] 
+
+
+
+————————————
+★☆☆   neutralize
+   neu·tral·ize / ˈnutrəlˌaɪz ;  ˈnju:trəlaɪz / 
+→verb [T] also -ise [BrE] 
+1. to prevent something from having any effect  使失效，抵消:
+Rising prices neutralize increased wages.  不断上涨的物价会抵消工资的增长。
+2. [technical] to make a substance chemically NEUTRAL  （使）中和:
+a medicine that neutralizes the acid in the stomach  能中和胃酸的药
+3. to make an area NEUTRAL in a war
+  〔在战争期间〕使中立
+4. to destroy something that is dangerous to you during a war
+  〔在战争期间〕消灭，摧毁
+—neutralization / ˌnutrələˈzeʃən ;  ˌnju:trəlaɪˈzeɪʃən / noun [U] 
+
+
+
+————————————
+★☆☆   neutrino
+   neu·tri·no / nuˈtrino ;  nju:ˈtri:nəʊ / 
+→noun (plural neutrinos) [C] [technical] 
+1. something that is smaller than an atom and has no electrical charge  中微子
+
+
+
+————————————
+★☆☆   neutron
+   neu·tron / ˈnutrɑn ;  ˈnju:trɔn / 
+→noun [C] [technical] 
+1. a part of an atom that has no electrical charge  中子
+
+
+
+————————————
+★☆☆   neutron bomb
+   'neutron ˌbomb 
+→noun [C] 
+1. a type of NUCLEAR bomb that kills people but is not intended to cause much damage to buildings, roads etc  中子弹〔一种杀人核武器〕
+
+
+
+————————————
+★☆☆   never
+   nev·er / ˈnɛvə ;  ˈnevə / 
+→adverb1. not at any time, or not once  决不，永不; 从来没有:
+He's never been to Australia.  他从未去过澳大利亚。
+I'm never going back there again, not as long as I live.  只要我活着，我再也不会回到那儿去。
+It is never too late to give up smoking.  戒烟不言晚。
+   Never had / did / was etc
+Never had she been so confused.  她从未如此困惑。
+   never ever ( = used to emphasize what you are saying )
+   永不，决不
+I'll never ever forgive him for leaving me.  我永远不会原谅他离开我。
+Never again (=never after a particular time) would he return to Naples.  他再也不会回到那布勒斯。
+   never in all my life ( = used to emphasize how bad something was )
+   我这辈子从没
+Never in all my life have I felt so humiliated.  我这辈子从未感到如此羞辱。
+   never for one moment ( = used to emphasize that you never thought something )
+   一刻都没有
+She had never for one moment imagined that it could happen to her.  她从未想过这事会发生在她身上。
+   sb / sth has never been known to do sth ( = used to say that something is strange because it has never happened before )
+   从未听说某人/某物做某事
+Max had never been known to leave home without telling anyone.  从未听说过马克斯不跟人说一声就出家门。
+ ► Do not use another negative word (e.g. 'not') with never . Use ever with not . never 不和另外一个否定词（如 not）连用。 ever 和 not 一起使用: 
+I've never seen her.  我从未见过她。
+I haven't ever seen her.  我从未见过她。
+2. you never know, [spoken] used to say that something which seems unlikely may happen  说不定:
+Try it! You never know, you might be lucky.  试试看！说不定你会有好运。
+3. I never knew (that), [spoken] used to mean that you did not know something until now  以前我一直不知道:
+I never knew you played the guitar!  我一直都不知道你会弹吉他！
+4. never so much as, used to emphasize that someone did not do something, especially when this seems surprising  甚至没有:
+I do everything for him, and he's never so much as made me a cup of coffee.  我为他什么都做，而他连一杯咖啡也没有给我煮过。
+5. that would / will never do, [spoken] used to say that you would not want something to happen  那绝对不行:
+Someone might discover our secret and that would never do.  也许会有人发现我们的秘密，那绝对不行。
+6. never!, [BrE spoken] used when you are very surprised by something  不可能！ 不会吧！:
+'They're getting married next month.' 'Never!'  “他们下个月要结婚了。”“不可能吧！”
+He's never going to cycle all the way to Manchester!  他决不可能一路骑自行车去曼彻斯特！
+Well, I never! I wouldn't have thought she was that old!  啊，不会吧！ 我没想到她有那么大年纪了！
+7. (no) I never!, [BrE spoken] used to say that you did not do something bad that someone has said you did. Many teachers think this is not correct English  我没干过〔许多教师认为这是不正确的英语〕:
+'You cheated, didn't you?' 'No, I never.'  “你作弊了，是吗？”“不，我没有。”
+8. never say never, [informal] used to say that you should not say that you will never do something, because there is always a small possibility that you might do it  别轻易说决不
+9. never say die, used to encourage someone not to give up  别放弃，别轻言放弃
+10. never fear, [spoken old-fashioned] used to tell someone not to worry  别怕，别担心:
+She'll be back, never fear.  别担心，她会回来的。
+⇨ never the twain shall meet at TWAIN (2)
+
+
+
+————————————
+★☆☆   never-ending
+   ˌnever-'ending 
+→adjective1. seeming to continue for a very long time  永远不会完结的; 不断的;
+   SYN endless 
+Keeping the house neat and clean is a never-ending battle.  让家里保持干净整洁是一场打不完的仗。
+
+
+
+————————————
+★☆☆   nevermore
+   nev·er·more / ˌnɛvəˈmɔr ;  ˌnevəˈmɔ: / 
+→adverb [literary] 
+1. never again  永不再，决不再
+
+
+
+————————————
+★☆☆   never-never
+   ˌnever-'never 
+→noun1. on the never-never, [BrE old-fashioned informal] if you buy something on the never-never, you buy it by making small regular payments over a long period  以分期付款方式（购买）;
+   SYN on hire purchase 
+
+
+
+————————————
+★☆☆   never-never land
+   ˌnever-'never land 
+→noun [U] 
+1. an imaginary place where everything is perfect
+  〔想象中的〕世外桃源，理想乐土
+
+
+
+————————————
+★☆☆   nevertheless
+   nev·er·the·less / ˌnɛvəðəˈlɛs ;  ˌnevəðəˈles / 
+→adverb [formal] 
+1. in spite of a fact that you have just mentioned  然而，不过; 尽管如此;
+   SYN nonetheless 
+What you said was true. It was, nevertheless, a little unkind.  你说的都是实话，只不过有点刻薄。
+
+
+
+————————————
+★☆☆   new
+   new / nu ;  nju: / 
+→adjective1. RECENTLY MADE 新造的recently made, built, invented, written, designed etc  新造的; 新建的; 新发明[创作，设计]的;
+   OPP old 
+the city's new hospital  市里新建的医院
+the new issue of 'Time' magazine  新一期《时代周刊》
+new products on the market  市场上的新产品
+The hardest part of this job is understanding the new technology.  这项工作最难的部分是理解新技术。
+a new range of drugs  一系列新药
+2. RECENTLY BOUGHT 新买的recently bought  新买的:
+Do you like my new dress?  你喜欢我新买的连衣裙吗？
+They've just moved into their new home.  他们刚刚搬进新家。
+3. NOT THERE BEFORE 以前没有的having just developed  新出现的:
+new leaves on the trees  树上的嫩叶
+a young man with new ideas  一个有新主意的年轻人
+a new generation of women writers  新一代女作家
+new hope/confidence/optimism etc (=hope etc that you have only just started to feel)  新的希望/信心/乐观态度等
+a medical breakthrough that offers new hope to cancer patients  给癌症患者带来新希望的医学突破
+4. NOT USED BEFORE 从未用过的not used or owned by anyone before  未用过的，崭新的;
+   OPP used , second hand: 
+New and second hand books for sale.  出售新书及二手书。
+I got a used video camera for ￡300 – it would have cost ￡1000 if I'd bought it new .  我花 300 英镑买了一台二手摄像机，如果买新的要花 1000 英镑。
+Jake arrived in his brand new (=completely new) car.  杰克开着他崭新的车到了。
+a spanking new (=completely new) conference centre  一座全新的会议中心
+5. like new/as good as new in excellent condition  跟新的一样:
+Your watch just needs cleaning and it'll be as good as new.  你的手表只要清洁一下就会跟新的一样。
+6. UNFAMILIAR 不熟悉的not experienced before  不认识的; 未体验过的:
+Learning a new language is always a challenge.  学习一门新的语言总是一项挑战。
+Living in the city was a new experience for Philip.  在城市里生活对菲利普来说是一种新的经历。
+[+ to ] This idea was new to him.  这个想法对他来说很新鲜。
+that's a new one on me spoken (=used to say that you have never heard something before)  我第一次听说这事
+'The office is going to be closed for six weeks this summer.' 'Really? That's a new one on me.'  “那个办事处今年夏天要关闭六个星期。”“是吗？我还是头一次听说这事。”
+7. RECENTLY ARRIVED 新到的having recently arrived in a place, joined an organization, or started a new job  新来的; 新加入的; 刚开始的:
+You're new here, aren't you?  你是新来的，是吗？
+[+ to/at ] Don't worry if you make mistakes. You're still new to the job.  别怕犯错，你才刚刚开始干这份工作呢。
+new member/employee/student etc training for new employees  对新员工的培训
+new kid on the block informal (=the newest person in a job, school etc)  新手; 新生
+It's not always easy being the new kid on the block.  当新手并非总是件轻松的事。
+the new boy/girl BrE (=the newest person in a job, organization etc – used humorously)  新雇员; 新成员〔幽默用法〕
+8. RECENTLY CHANGED 新换的recently replaced or different from the previous one  新换的;
+   OPP old 
+Have you met Keith's new girlfriend?  你见过基思的新女朋友吗？
+I'll let you have my new phone number.  我会告诉你我新的电话号码。
+Under the new regime, a severe cost-cutting exercise was started.  在新政权的领导下，一场严厉的成本削减运动开始了。
+9. RECENTLY DISCOVERED 新近发现的recently discovered  新发现的:
+the discovery of a new planet  一颗新行星的发现
+new oilfields in Alaska  阿拉斯加的新油田
+important new evidence that may prove her innocence  可能证明她清白的重要新证据
+10. MODERN 现代的modern  现代的:
+the new breed of politicians  新型的政治家
+11. VEGETABLES 蔬菜[only before noun 仅用于名词前] new potatoes, CARROTS etc are grown early in the season and eaten when young  时鲜的
+12. new life/day/era a period that is just beginning, especially one that seems to offer better opportunities  新的生活/一天/纪元:
+They went to Australia to start a new life there.  他们去澳大利亚开始新的生活。
+13. be/feel like a new man/woman to feel much healthier and have a lot more energy than before, or to have a different attitude  感到自己焕然一新:
+I lost 19 pounds and felt like a new man.  我体重减了 19 磅，感到自己像换了一个人。
+14. new arrival
+  a. someone who has recently arrived or started work somewhere  新到的人; 新成员
+b) a new baby  新生儿:
+The children are thrilled with the new arrival.  刚出生的宝宝让孩子们非常兴奋。
+15. new blood new members of a group or organization who will bring new ideas and be full of energy
+  〔团体或组织中的〕新鲜血液，新成员，新生力量:
+What we need in this company is some new blood.  我们这家公司需要的是新生力量。
+16. new broom someone who has just started work in a high position in an organization and who is expected to make a lot of changes
+  〔期待带来诸多变革的〕新上任官员:
+The company seems set to make a fresh start under a new broom.  该公司在新领导的带领下似乎会有一个新的开始。
+17. what's new? spoken especially AmE used as a friendly greeting to mean 'how are you?'
+  〔招呼语〕怎么样？ 你好吗？
+18. the new new ideas, styles etc  新观念; 新式样:
+This charming hotel is a delightful blend of the old and the new.  这家漂亮的宾馆把新老（建筑）风格融合为一体。
+19. sth is the new … BrE used to say that something is thought to be the new fashion that will replace an existing thing  某物是新潮的〔替代物〕:
+Don't you know that vodka is the new water, my dear?  你难道不知道伏特加是一种新的“水”吗，亲爱的？
+20. new-made/new-formed/new-laid etc recently made, formed etc  新造的/新建立的/新提出的等
+⇨ a new lease of life at LEASE ¹ (2)
+⇨ turn over a new leaf at LEAF ¹ (3)
+ — newness n [U]
+
+
+
+————————————
+★☆☆   New Age
+   New Age² 
+→noun1. (the) New Age, New Age beliefs and ways of living  新潮生活，新时代生活方式
+
+
+
+————————————
+★☆☆   NewAge
+   ˌŋew'æge¹ 
+→adjective1. relating to SPIRITUAL beliefs, types of medicine, and ways of living that are not traditional Western ones  新潮的，新时代的〔一种取代西方传统价值观的另类精神信仰、医疗和生活方式〕:
+the New Age movement  新时代生活运动
+
+
+
+————————————
+★☆☆   New Age traveller
+   ˌŋew æge 'traveller 
+→noun [C usually plural] 
+1. a member of a group of people in Britain who refuse to live the way other people live in ordinary society, and go from place to place living in vehicles
+  〔英国以车为家四处漫游的〕新潮一族，新时代旅行者
+
+
+
+————————————
+★☆☆   newbie
+   new·bie / ˈnubɪ ;  ˈnju:bi / 
+→noun [C] [informal] 
+1. someone who has just started doing something, especially using the Internet or computers  新手〔尤指使用网络或计算机的新手〕
+
+
+
+————————————
+★☆☆   newborn
+   new·born / ˈnuˌbɔrn ;  ˈnju:bɔ:n / 
+→adjective1. newborn child / baby / son etc, a child that has just been born  新生儿/婴儿/儿子等
+—newborn noun [C] 
+
+
+
+————————————
+★☆☆   newbuild, new-build
+   new·build, new-build / ˈnubɪld ;  ˈnju:bɪld / 
+→noun [sing.] 
+1. a house or houses that are being built, or that have been built very recently  正在建造（刚刚建成）的房子
+
+
+
+————————————
+★☆☆   newcomer
+   new·com·er / ˈnukʌmə ;  ˈnju:kʌmə / 
+→noun [C] 
+1. someone who has only recently arrived somewhere or only recently started a particular activity  新来的人; 新手;
+⇨ novice : 
+  ▪ [+ to ]
+I'm a relative newcomer to the retail business.  我在零售行业相对来说还是个新手。
+a special award for the most promising newcomer  颁发给最有前途新人的特殊奖项
+2. something that did not exist before  新近出现的事物:
+  ▪ [+ to ]
+The most glamorous newcomer to the Volkswagen Golf range is the revamped GTi 16 valve.  大众高尔夫系列最具魅力的新车型是经改良的 GTi 16 缸气门。
+
+
+
+————————————
+★☆☆   new economy
+   ˌnew e'conomy 
+→noun [sing.] 
+1. an economic system that is based on computers and modern technology, and is therefore dependent on educated workers
+  〔依赖计算机、现代科技和高素质员工的〕新经济:
+As we move into a new economy, trade unions will have to reinvent themselves to stay relevant.  我们向新经济转型时，工会也必须改变形象以免落伍。
+—new economy adj: 
+new economy methods  新经济措施
+
+
+
+————————————
+★☆☆   newfangled
+   new·fan·gled / ˌnuˈfæŋgld ;  ˌnju:ˈfæŋgəld / 
+→adjective [only before noun] 
+1. recently designed or produced – usually used to show disapproval or distrust  新设计的，新生产的〔一般含贬义或表示不信任〕:
+newfangled ideas about children's education  关于儿童教育的新奇想法
+
+
+
+————————————
+★☆☆   new-found
+   'new-found 
+→adjective [only before noun] 
+1. recently obtained, found, or achieved  新获得（发现，实现）的:
+He enjoyed his new-found freedom.  他很享受才获得的自由。
+the children's new-found friends  孩子们新结识的朋友
+
+
+
+————————————
+★☆☆   new-look
+   'new-look 
+→adjective [only before noun] 
+1. different from before, especially more modern or more attractive  新面孔的，新面貌的:
+the new-look Labour party  以新面貌出现的工党
+the new-look football team  面貌焕然一新的足球队
+
+
+
+————————————
+★☆☆   newly
+   new·ly / ˈnulɪ ;  ˈnju:li / 
+→adverb1. newly elected / formed / arrived etc, elected etc very recently  新当选的/新成立的/刚到的等:
+the newly appointed director  新任命的董事
+newly fallen snow  刚下的雪
+
+
+
+————————————
+★☆☆   newlyweds
+   new·ly·weds / ˈnulɪˌwɛdz ;  ˈnju:liwedz / 
+→noun [pl.] 
+1. a man and a woman who have recently married  新婚夫妇，〔一对〕新人
+—newlywed adj.
+
+
+
+————————————
+★☆☆   NewMan
+   ˌŋew'Man 
+→noun (plural New Men) [C] 
+1. a man who is considered to be very modern because he shares the work of looking after his children, cooking, cleaning the home etc
+  〔分担家务及照料子女的〕新派男子
+
+
+
+————————————
+★☆☆   new media
+   ˌnew 'media 
+→noun [U] 
+1. things such as the Internet, DVD s etc that use very modern technology  新电子媒体
+
+
+
+————————————
+★☆☆   new money
+   ˌnew 'money 
+→noun [U] 
+1. people who have become rich by working, rather than by getting money from their families  暴富者，新贵
+2. money that makes someone rich and that is recently earned, rather than from their families  暴富之财
+
+
+
+————————————
+★☆☆   new moon
+   ˌnew 'moon 
+→noun1. [C usually singular] the moon when it first appears in the sky as a thin CRESCENT  新月
+2. [U] the time of the month at which the moon is first seen  新月出现的时候
+⇨ full moon , half moon 
+
+
+
+————————————
+★☆☆   new potato
+   ˌnew po'tato 
+→noun (plural new potatoes) [C] 
+1. a small potato that is taken from the ground early, and that has a very good taste  新土豆
+
+
+
+————————————
+★☆☆   new rich
+   ˌnew 'rich 
+→noun the new rich [pl.] [AmE] 
+1. people who have recently become very rich, as opposed to people whose families have always been rich  新贵; 暴富者
+—new rich adj.
+
+
+
+————————————
+★☆☆   news
+   news /  nuz ;  nju:z / 
+→noun [U] 
+1. information about something that has happened recently  消息
+   good / bad news
+   好/坏消息
+   great / wonderful / terrible etc news
+   非常好的/极好的/很糟的等消息
+   news that
+   …的消息
+   welcome news ( = good news )
+   好消息
+   the latest news
+   最新消息
+   a piece / bit of news
+   一条消息/一则新闻
+   have some news (for sb)
+   （给某人）带来一些消息
+   tell sb some news
+   告诉某人一些消息
+   hear some news
+   听说一些情况
+   break the news (to sb) ( = tell someone about something for the first time )
+   透露消息（给某人）
+   welcome the news ( = be happy about something )
+   欣然接受某项消息
+   greet the news with sth
+   以某种态度对消息作出反应
+   news spreads
+   消息传播
+I'm not sure how he's going to react to the news.  我不能肯定他对此消息会作何反应。
+The good news is that tomorrow will be fine and sunny.  好消息是明天天晴，有太阳。
+You seem upset – not bad news , I hope?  你看上去很不安，但愿没有什么坏消息吧？
+We are delighted at the news that our daughter is expecting a baby.  听到我们的女儿就要生宝宝的消息，我们很高兴。
+The fall in house prices will be welcome news for first time buyers.  房价下跌对首次购房者来说是个福音。
+  ▪ [+ on ]
+What's the latest news on your university application?  你的大学申请有什么最新消息吗？
+David's just told me an interesting piece of news .  戴维刚刚告诉我一条有趣的消息。
+Do you have any news for me?  你有什么消息要告诉我吗？
+  ▪ [+ of / about ]
+Everyone is shocked by the news of the arrests.  每个人都被逮捕的消息震惊了。
+Sit down and tell me all your news .  坐下把你所有的情况都告诉我。
+Have you heard the news ? We're going to get married.  你听说了吗？我们要结婚了。
+How would he break the news to Mary that he'd been lying to her?  他会怎么开口告诉玛丽，他一直在对她说谎？
+People living near a disused factory have welcomed the news that it is to be demolished.  听说要拆除废弃工厂，住在附近的人都很高兴。
+Friday's news was greeted with enthusiasm in Denmark.  星期五的消息在丹麦受到热烈欢迎。
+News of the tragedy spread quickly around the town.  这场悲剧的消息在镇上很快就传开了。
+2. reports of recent events in the newspapers or on the radio or television  新闻（报道）:
+a late evening news broadcast  晚间新闻广播
+We've got the news headlines coming up at half past twelve.  十二点半我们将播报新闻提要。
+a news and current affairs programme  新闻时事节目
+Here's the sports news from Jane Murray.  这里是简·默里主持的体育新闻。
+the latest news from the Olympic stadium  从奥林匹克体育场传来的最新消息
+  ▪ [+ about / on / of ]
+news on the latest developments in the talks  关于会谈最新进展的新闻
+   news that
+Several evening papers carried the news that a cabinet minister was about to resign.  好几家晚报报道了一名内阁部长将要辞职的消息。
+   local / regional / national / international news
+   当地/地区/国内/国际新闻
+Twenty years ago environmental issues rarely made the news (=were considered important enough to be in the news) .  二十年前，环境问题很少被传媒报道。
+   be in the news
+Hong Kong is in the news this morning.  今天上午新闻中报道了香港。
+His resignation was front page news (=was important news) .  他的辞职成了头版新闻。
+   news story / report / item
+Never before has a news story triggered such sensational sales of the newspaper.  从来没有一则新闻报道能给这份报纸带来如此巨大的销量。
+3. the news, a regular television or radio programme that gives you reports of recent events
+  〔电视或电台的〕新闻报道，新闻节目:
+the ten o'clock news  十点新闻
+Let's watch the news .  我们看看新闻节目吧。
+Be quiet. I want to listen to the news .  安静点，我要听听新闻。
+   on the news
+It must be true – I heard it on the news last night.  这肯定是真的，我昨晚在新闻节目中听到的。
+   switch / turn / put on the news ( = turn the television or radio on for the news )
+   打开电视（广播）收看（收听）新闻
+4. be good / bad news for sb, if the facts about something are good or bad news for someone, they are likely to make life better or worse for them  对某人是个好/坏消息:
+There is no legal market for African ivory, which is good news for the elephants.  非洲象牙没有合法的交易市场，这对大象来说是个福音。
+5. he's / she's bad news, [informal] used to say that someone is likely to cause trouble  他/她是个祸星〔指某人可能会带来麻烦〕:
+Stay away from that guy, he's bad news.  离那家伙远一点，他不是个好东西。
+6. be news, if someone or something is news, people are interested in them at the moment and want to know about them  热门:
+European fashions are big news right now in the States.  欧洲时装目前正风靡美国。
+7. that's news to me!, [spoken] used when you are surprised or annoyed because you have not been told something earlier  我一点都不知道！:
+'The meeting's been cancelled.' 'That's news to me!'  “会议取消了。”“我一点都不知道！”
+8. I've got news for you, [spoken] used to say that you are going to tell someone the facts about something, which they will probably not like to hear  我有消息要告诉你〔可能是对方不愿意听的消息〕:
+You may think I'm finished, but I've got news for you – I'll be back.  你可能认为我完蛋了 — 不过告诉你，我会回来的。
+9. no news is good news, [spoken] used when you have not received any news about someone and you hope this means that nothing bad has happened  没有消息就是好消息，不闻凶讯便是吉
+ ► News is an uncountable noun. Use singular forms with it, not plural. news 是不可数名词，和它连用的词要用单数形式，而不用复数形式: 
+The news was good (NOT were good).  这是个好消息。
+I was surprised by this news (NOT these news).  我对这消息感到很吃惊。
+
+
+
+————————————
+★☆☆   news agency
+   'news ˌagency 
+→noun [C] 
+1. an organization that collects news stories and supplies them to newspapers, radio, and television  新闻社，通讯社
+
+
+
+————————————
+★☆☆   newsagent
+   news·a·gent / ˈnuzˌedʒənt ;  ˈnju:zˌeɪdʒənt / 
+→noun [C] [BrE] 
+1. someone who owns or works in a shop that sells newspapers, magazines, sweets and cigarettes  报刊经销人
+2. newsagent's, a shop which sells newspapers, magazines, sweets and cigarettes  报刊经销店; 书报亭
+
+
+
+————————————
+★☆☆   news blackout
+   'news ˌblackout 
+→noun [C] 
+1. a period of time when news about a particular event is not allowed to be reported  新闻封锁:
+The Indian government has imposed a news blackout .  印度政府实施了一次新闻封锁。
+
+
+
+————————————
+★☆☆   news bulletin
+   'news ˌbulletin 
+→noun [C] 
+1. [BrE] a short news programme on radio or television, reporting only the most important information
+  〔电台或电视的〕新闻简报
+2. [AmE] a very short news programme on radio or television, broadcast suddenly in the middle of another programme when something very important has happened  新闻快讯〔指插在电台或电视其他节目中播出的重要新闻〕;
+   SYN newsflash [BrE] 
+
+
+
+————————————
+★☆☆   newscast
+   news·cast / ˈnuzˌkæst ;  ˈnju:zkɑ:st / 
+→noun [C] [AmE] 
+1. a news programme on radio or television
+  〔电台或电视的〕新闻广播（报道）
+
+
+
+————————————
+★☆☆   newscaster
+   news·cast·er / ˈnuzˌkæstə ;  ˈnju:zˌkɑ:stə / 
+→noun [C] [especially AmE] 
+1. someone who reads the news on radio or television
+  〔电台或电视的〕新闻播音员;
+   SYN newsreader [BrE] 
+
+
+
+————————————
+★☆☆   new school, new-school
+   'new school, new-school 
+→adjective [only before noun] [informal] 
+1. using new ideas in a type of music or art  新派的:
+new school hip hop artists  新派嘻哈乐艺人
+
+
+
+————————————
+★☆☆   news conference
+   'news ˌconference 
+→noun [C] 
+1. a meeting at which someone, especially someone famous or important, speaks to people who work for newspapers or news programmes  记者招待会，新闻发布会;
+   SYN press conference 
+The chairman told a news conference that some members of staff would lose their jobs.  董事长在一次新闻发布会上宣布将要裁员。
+   at / in a news conference
+At a news conference yesterday, the two men described their ordeal.  在昨天的记者招待会上，那两名男子描述了他们的可怕经历。
+
+
+
+————————————
+★☆☆   newsflash
+   news·flash / ˈnuzˌflæʃ ;  ˈnju:zflæʃ / 
+→noun [C] [especially BrE] 
+1. a very short news programme on radio or television, broadcast suddenly in the middle of another programme when something very important has happened  新闻快讯〔指插在电台或电视其他节目中播出的重要新闻〕;
+   SYN news bulletin [AmE] : 
+We interrupt this programme to bring you a newsflash.  我们暂时中断本节目，向大家插播一条新闻快讯。
+
+
+
+————————————
+★☆☆   newsgroup
+   news·group / ˈnuzgrup ;  ˈnju:zgru:p / 
+→noun [C] 
+1. a discussion group on the Internet, with a place where people with a shared interest can exchange messages
+  〔网上兴趣相投的人交换信息的〕新闻组，专题讨论组
+
+
+
+————————————
+★☆☆   newshound
+   news·hound / ˈnuzˌhaund ;  ˈnju:zhaʊnd / 
+→noun [C] [informal] 
+1. someone who collects information for a newspaper or news programme  新闻记者;
+⇨ journalist 
+
+
+
+————————————
+★☆☆   newsletter
+   news·let·ter / ˈnuzˌlɛtə ;  ˈnju:zˌletə / 
+→noun [C] 
+1. a short written report of news about a club, organization etc that is sent regularly to people who are interested
+  〔俱乐部、团体等给特定读者定期寄发的〕通讯，简报:
+The society publishes a newsletter twice a year.  该社团一年出版两次简报。
+
+
+
+————————————
+★☆☆   newsman
+   news·man / ˈnuzˌmæn ;  ˈnju:zmæn / 
+→noun (plural newsmen) / -mɛn ;  -men / [C] 
+1. someone who writes or reports news for a newspaper, radio, or television  新闻记者
+
+
+
+————————————
+★☆☆   newspaper
+   news·pa·per / ˈnuzˌpepə ;  ˈnju:sˌpeɪpə / 
+→noun1. [C] a set of large folded sheets of printed paper containing news, articles, pictures, advertisements etc which is sold daily or weekly  报（纸）;
+   SYN paper 
+   in the newspaper
+   在报纸上
+   local / national newspaper
+   地方性/全国性报纸
+   daily / weekly / Sunday newspaper
+   日报/周报/星期日报纸
+   newspaper article / report
+   报纸上的文章/新闻报道
+   newspaper reporter / editor / columnist
+   报社记者/编辑/专栏作家
+   newspaper cutting / clipping ( = an article that has been cut out of a newspaper )
+   剪报
+She had read about it in the newspapers .  关于这件事她已经在报纸上看到了。
+I saw an interesting article in the local newspaper .  我在地方报纸上看到一篇有趣的文章。
+I always buy a daily newspaper .  我总是买日报。
+a series of newspaper articles about life in Cuba  刊登在报纸上的一系列关于古巴生活的文章
+The case attracted newspaper reporters from all over the world.  这件事吸引了世界各地报社记者的注意。
+He was looking through a pile of old newspaper clippings .  他在浏览一堆旧剪报。
+2. [U] sheets of paper from old newspapers  （旧）报纸:
+Wrap the plates in newspaper to stop them from breaking.  用旧报纸把盘子包起来，免得打碎。
+Bella laid the flowers out carefully on a sheet of newspaper .  贝拉小心地把花摊开放在一张报纸上。
+3. [C] a company that produces a newspaper  报社:
+He works for a local newspaper.  他在本地的一家报社工作。
+ FOCUS 
+NEWSPAPER
+▪ the press newspapers in general  报刊
+▪ the media newspaper, TV, and radio  媒体
+▪ tabloid a newspaper that does not contain much serious news, and mainly has short articles and photographs  小报
+▪ broadsheet [BrE] / quality paper [AmE] a newspaper that mostly contains reports about serious news  〔内容严肃的〕大幅报纸
+ journalist / reporter someone whose job is writing articles for newspapers  记者
+▪ headline the title of a newspaper report, written in big letters  大字标题
+▪ article a piece of writing about something in a newspaper  〔报纸上的〕文章
+▪ column an article that appears regularly in a newspaper, in which someone writes about their opinions  专栏
+▪ editorial a piece of writing in which the newspaper gives its comments on recent events  社论
+▪ the front page (which has the main news stories)  头版
+▪ the back page (which has the less important news, and news about sport)  末版
+   the sports / television / fashion / arts etc page
+   体育版/电视版/时尚版/艺术版等
+
+
+
+————————————
+★☆☆   newspaperman
+   news·pa·per·man / ˈnuzpepəˌmæn ;  ˈnju:speɪpəˌmæn / 
+→noun (plural newspapermen) / -mɛn ;  -men / [C] 
+1. someone who writes or reports news for a newspaper  报社记者
+
+
+
+————————————
+★☆☆   newspaper stand
+   'newspaper ˌstand 
+→noun [C] 
+1. a NEWSSTAND  书报摊，报刊亭
+
+
+
+————————————
+★☆☆   newsprint
+   news·print / ˈnuzˌprɪnt ;  ˈnju:zˌprɪnt / 
+→noun [U] 
+1. cheap paper used mostly for printing newspapers on  新闻纸，白报纸
+
+
+
+————————————
+★☆☆   newsreader
+   news·read·er / ˈnuzˌridə ;  ˈnju:zˌri:də / 
+→noun [C] [BrE] 
+1. someone who reads the news on television or radio
+  〔电视或电台的〕新闻播音员
+
+
+
+————————————
+★☆☆   newsreel
+   news·reel / ˈnuzˌril ;  ˈnju:zri:l / 
+→noun [C] 
+1. a short film of news that was shown in cinemas in the past
+  〔旧时在电影院播放的〕新闻短片
+
+
+
+————————————
+★☆☆   news release
+   'news reˌlease 
+→noun [C] 
+1. an official statement giving information to the newspapers, radio, and television  新闻稿;
+   SYN press release 
+The University has issued a news release announcing the results of their experiments.  该大学发表了一篇新闻稿公布他们的实验结果。
+
+
+
+————————————
+★☆☆   newsroom
+   news·room / ˈnuzrum ;  ˈnju:zrʊm / 
+→noun [C] 
+1. the office in a newspaper or broadcasting company where news is received and news reports are written
+  〔报社或广播公司的〕新闻编辑室
+
+
+
+————————————
+★☆☆   news-sheet
+   'news-sheet 
+→noun [C] 
+1. a small newspaper with only a few pages
+  〔只有几页的〕小报
+
+
+
+————————————
+★☆☆   newsstand
+   news·stand / ˈnuzˌstænd ;  ˈnju:zstænd / 
+→noun [C] 
+1. a place on a street where newspapers and magazines are sold  书报摊，报刊亭
+
+
+
+————————————
+★☆☆   newswoman
+   news·wom·an / ˈnuzˌwumən ; ˈnju:zˌwʊmən / 
+→noun (plural newswomen) / -ˌwɪmɪn ;  -ˌwɪmɪn / [C] 
+1. a woman who writes or reports for a newspaper, radio, or television  女新闻记者
+
+
+
+————————————
+★☆☆   newsworthy
+   news·wor·thy / ˈnuzˌwɚðɪ ;  ˈnju:zˌwɜ:ði / 
+→adjective1. important or interesting enough to be reported in newspapers, on the radio, or on television  有新闻价值的，值得报道的:
+newsworthy events  值得报道的事件
+
+
+
+————————————
+★☆☆   newsy
+   news·y / ˈnuzɪ ;  ˈnju:zi / 
+→adjective [informal] 
+1. a newsy letter is from a friend or relative and contains a lot of interesting news
+  〔信件〕趣闻多的
+
+
+
+————————————
+★☆☆   newt
+   newt /  nut ;  nju:t / 
+→noun [C] 
+1. a small animal with a long body, short legs, and a tail, which lives partly in water and partly on land  蝾螈
+
+
+
+————————————
+★☆☆   NewTestament
+   ˌŋew'ðestament 
+→noun1. the New Testament, the part of the Bible which describes the life of Jesus Christ and what he taught, and the life of the first Christians
+  〔《圣经》的〕《新约全书》〔其中包括四部福音书，讲述耶稣基督的生平与传教的内容等〕;
+⇨ Gospel , Old Testament 
+
+
+
+————————————
+★☆☆   Newtonian
+   New·toni·an / nuˈtoniən ;  nju:ˈtəʊniən / 
+→adjective1. relating to the laws of physics that were discovered by the scientist Isaac Newton  牛顿学说的:
+Newtonian mechanics  牛顿力学
+
+
+
+————————————
+★☆☆   new town
+   'new town 
+→noun [C] 
+1. one of several complete towns built in Britain since  1946〔英国自 1946 年以来建立的〕新市镇
+
+
+
+————————————
+★☆☆   new variant CJD
+   ˌnew variant ɔʊ'D 
+→noun [U] 
+1. a brain disease that kills people, which may be caused by eating BEEF that is affected by BSE  新变异型克－雅氏病;
+⇨ mad cow disease 
+
+
+
+————————————
+★☆☆   new wave
+   ˌnew 'wave 
+→noun1. [C] a group of people who try to introduce new ideas in music, films, art, politics etc
+  〔在音乐、电影、艺术、政治等方面引入新观念的〕新浪潮（派）:
+  ▪ [+ of ]
+a new wave of feminism in the sixties and early seventies  （20 世纪）60 年代和 70 年代早期的一轮女权主义新浪潮
+2. [U] also New Wave a type of music that was popular in the 1970s and early 1980s, which uses SYNTHESIZERS and a strong beat, and in which the words are sung without much emotion
+  〔流行于 20 世纪 70 年代和 80 年代初期的〕新浪潮音乐
+
+
+
+————————————
+★☆☆   NewWorld
+   ˌŋew'θorld 
+→noun1. the New World
+  a. North, Central, and South America  新大陆，新世界〔指美洲〕;
+⇨ Old World : 
+Christopher Columbus's voyage of discovery to the New World  克里斯托弗·哥伦布发现新大陆的航程
+  b. wines from the New World are from non-European countries such as South Africa, New Zealand, and the United States  新世界的酒〔产自非欧洲国家，例如南非、新西兰和美国〕
+—New World adj.
+
+
+
+————————————
+★☆☆   New Year, new year
+   ˌŋew 'Year, new year 
+→noun [U] 
+1. also the New Year the time when people celebrate the beginning of a new year  新年:
+We're going to spend Christmas and the New Year with my parents.  我们打算和父母一起过圣诞节和新年。
+The business will be closed over New Year.  新年期间公司不营业。
+   Happy New Year ( = used as a greeting )
+   新年快乐
+Our neighbours invited us round to see in the new year (=celebrate the beginning of the year) .  邻居邀请我们去他们家迎新年。
+2. the new year, the first few weeks of the year  新年伊始:
+Prices are expected to go up in the new year.  预计新年伊始物价会上涨。
+
+
+
+————————————
+★☆☆   New Year resolution,New Year's resolution
+   ˌŋew Year reso'lution,ˌŋew Year's reso'lution 
+→noun [C] 
+1. a decision to do something better or to stop doing something bad in the new year  新年的决心（计划）:
+I haven't made any New Year resolutions – I never stick to them anyway.  我还没有下新年决心 — 反正我从来都坚持不了。
+
+
+
+————————————
+★☆☆   New Year'sDay
+   New Year's'Day 
+→noun [sing., U] 
+1. 1st January, the first day of the year  元旦
+
+
+
+————————————
+★☆☆   New Year'sEve
+   ˌŋew Year's'əve 
+→noun [sing., U] 
+1. 31st December, the last day of the year  除夕
+
+
+
+————————————
+★☆☆   New Zealand
+   New Zea·land / nu ˈzilənd ;  nju: ˈzi:lənd / 
+→adjective1. relating to New Zealand or its people  新西兰的; 新西兰人的
+
+
+
+————————————
+★☆☆   New Zealander
+   New Zea·land·er / nu ˈziləndə ;  nju: ˈzi:ləndə / 
+→noun [C] 
+1. someone from New Zealand  新西兰人
+
+
+
+————————————
+★☆☆   next
+   next¹ / nɛkst ;  nekst / 
+→determiner & adj1. the next event, day, time etc is the one that happens after the present one, or the previous one
+  〔时间〕紧接着来到的; 下次的:
+I just missed my flight to Chicago. When's the next one?  我刚错过去芝加哥的航班。 下一班是几点钟？
+We'll look at the proposals at the next meeting.  下一次会议我们要研究一下这些提议。
+Over the next couple of months, try to relax more and get more exercise.  接下来的几个月里，要尽量多放松、多运动。
+   next week / year / Monday etc
+We're hoping to open the factory some time next year.  我们希望工厂能在明年某个时候开工。
+   the next day / week etc ( = on or during the following day, week etc )
+   第二天/下一周等
+She called me and we arranged to meet the next day.  她给我打了电话，我们约好第二天见面。
+   (the) next time
+Next time I go skiing, I'll wear warmer clothes.  下一次去滑雪的时候，我要穿得暖和一点。
+2. the next house, room, place etc is the one that is nearest to where you are now
+  〔位置〕离得最近的:
+Turn left at the next corner.  下一个拐角向左转。
+We could hear them arguing in the next room.  我们听到他们在隔壁房间里争论。
+⇨ NEXT TO 
+3. the next person or thing in a list, series etc comes after the one that you are dealing with now
+  〔次序〕下一个的:
+Read the next two chapters before Friday.  星期五之前看完下两章。
+Do they have the next size up (=a slightly bigger size) ?  他们有没有大一号的？
+4. next biggest / most common etc, almost as big, more common etc than the one you are talking about  第二大的/常见的等:
+Cancer-related diseases are the next biggest killers.  与癌症相关的疾病是第二大杀手。
+5. the next best thing, the thing or situation that is almost as good as the one you really want  仅次于…的东西（事物）:
+If I can't be home for Christmas, phoning you on the day is the next best thing.  如果圣诞节我回不了家，就退而求其次当天给你打个电话。
+6. the next thing I / she etc knew, [informal] used when something surprising happens very suddenly
+  〔意外发生时〕我/她等只知道:
+The next thing I knew, I was lying face down on the pavement.  当时我只知道自己趴在人行道上。
+7. as the next man / person, as any other man or person  像其他人一样:
+I am as keen to do well as the next man.  我像别人一样渴望自己能干得出色。
+   next² 
+→adverb1. immediately afterwards  紧接下来; 下一步; 然后:
+With John here, you never know what will happen next.  有约翰在这里，你永远都不知道接下来会发生什么事。
+Next, put it in the oven for 20 minutes.  然后把它放到烤箱里烤 20 分钟。
+2. the next time  下次，再次:
+When I next saw her she completely ignored me.  我再次见到她时，她压根儿没有理我。
+   next³ 
+→pronoun1. the person or thing in a list, series etc that comes after the person or thing you are dealing with now  下一个〔人或事物〕:
+What's next on the shopping list?  购物单上的下一项是什么？
+   the next to do sth
+Who will be the next to go?  谁是下一个要走的人？
+2. the day / week etc after next, the day, week etc that follows the next one  后天/下下个星期等:
+Have you remembered it's Susie's birthday the week after next?  你还记得下下个星期是苏茜的生日吗？
+3. the next to last, the one before the last one  倒数第二:
+the next to last day of their visit  他们来访结束前的一天
+4. next (please), used to tell someone that it is now their turn to speak or their turn to do something  下一位（请）
+5. be next in line, to be the next person, especially to have a job or position
+  〔尤指工作或职位的〕继任者
+
+
+
+————————————
+★☆☆   next door
+   next door² 
+→noun [U] [BrE informal] 
+1. the people living in the house or apartment next to yours  隔壁邻居;
+   SYN neighbour 
+Have you seen next door's new car?  你看到隔壁邻居的新车了吗？
+   ˌnext 'door¹ 
+→adverb1. in the house, room etc next to yours or someone else's  在隔壁:
+the boy next door  隔壁的男孩
+Her office is just next door.  她的办公室就在隔壁。
+2. next door to sth, next to another building, room etc  在…的隔壁:
+They live next door to the shop.  他们住在商店的隔壁。
+
+
+
+————————————
+★☆☆   next-door
+   'next-door 
+→adjective [only before noun] 
+1. next-door neigh-bour, the person who lives in the house or apartment next to yours  隔壁邻居
+2. next-door apartment / office etc, the apartment etc that is next to yours  隔壁公寓/办公室等
+
+
+
+————————————
+★☆☆   next of kin
+   ˌnext of 'kin 
+→noun [pl., U] 
+1. your closest living relative or relatives  直系亲属，最近亲:
+May I have your name, address and next of kin, please?  请问您的姓名、住址和直系亲属？
+
+
+
+————————————
+★☆☆   next to
+   'next to 
+→preposition1. very close to someone or something, with nothing in between  紧挨着，紧靠着;
+   SYN beside 
+There was a little girl sitting next to him.  有个小女孩坐在他旁边。
+2. next to nothing, very little  几乎没有，极少:
+He knows next to nothing about antiques.  他对古董几乎一窍不通。
+3. used to give a list of things you like, hate etc in order to say what is first on the list  仅次于，在…之后:
+Next to soccer, I like playing tennis best.  我最喜欢踢足球，其次是打网球。
+4. in comparison with someone or something  与…相比:
+Next to her, I'm a very poor cook.  和她比起来，我的厨艺太差了。
+5. the next to last, the one before the last one  倒数第二:
+We'll need to buy some more wine. This is the next to last bottle.  我们要再买些酒，这是最后第二瓶了。
+6. next to impossible / useless etc, almost impossible, useless etc  几乎不可能/几乎没有用等:
+This crossword puzzle is next to impossible.  这个纵横字谜几乎不可能做出来。
+
+
+
+————————————
+★☆☆   nexus
+   nex·us / ˈnɛksəs ;  ˈneksəs / 
+→noun [sing.] [formal] 
+1. a connection or network of connections between a number of people, things, or ideas
+  〔人、事物或思想之间的〕关系，关联，联系，连结:
+  ▪ [+ of ]
+a nexus of social relationships  社会关系的错综复杂
+
+
+
+————————————
+★☆☆   NGO
+   NGO / ˌɛn dʒi ˈo ;  ˌen dʒi: ˈəʊ / 
+→noun [C] 
+1. non-governmental organization an organization which helps people, protects the environment etc and which is not run by a government  非政府组织
+
+
+
+————————————
+★☆☆   NHS
+   NHS / ˌɛn etʃ ˈɛs ;  ˌen eɪtʃ ˈes / 
+→noun1. the NHS, the National Health Servicethe British system that provides free medical treatment for everyone, and is paid for by taxes  国民保健制度〔英国的一种免费医疗制度〕:
+NHS hospitals  国民保健制度所属的医院
+   on the NHS ( = free from the NHS )
+   由国民保健制度支付
+Can I get my glasses on the NHS?  我配眼镜可以由国民医疗保健制度支付吗？
+
+
+
+————————————
+★☆☆   niacin
+   ni·a·cin / ˈnaɪəsən ; ˈnaɪəsən / 
+→noun [U] 
+1. a type of VITAMIN that is good for your skin and your NERVOUS SYSTEM  烟酸，尼克酸〔一种有益于皮肤和神经系统的维生素〕
+
+
+
+————————————
+★☆☆   nib
+   nib / nɪb ;  nɪb / 
+→noun [C] 
+1. the pointed metal part at the end of a pen  钢笔尖
+⇨ picture at TIP ¹ 
+2. his / her nibs, [old-fashioned informal] someone in authority or someone who thinks they are important  上司; 要人; 自以为了不起的人:
+And how's his nibs this morning?  那么这位大人物今天上午怎样了？
+
+
+
+————————————
+★☆☆   nibble
+   nib·ble¹ / ˈnɪbl ;  ˈnɪbəl / 
+→verb1. [I,T] to eat small amounts of food by taking very small bites  啃; 一点一点地咬（吃）:
+He nibbled the biscuit cautiously.  他小心地啃着饼干。
+  ▪ [+ at ]
+There's a fish nibbling at my bait.  有条鱼正在咬我的鱼饵。
+  ▪ [+ on ]
+He nibbled on a piece of raw carrot.  他啃着一根生胡萝卜。
+⇨ picture at BITE ¹ 
+2. [T] to gently bite someone in a loving way  轻咬:
+He began to nibble her ear affectionately.  他开始深情地轻咬她的耳朵。
+ PHRASAL VERBS 
+▪ nibble away at sth 
+   to take away small amounts of something so that the total amount is gradually reduced  慢慢地削弱; 蚕食:
+All these expenses are nibbling away at our savings.  所有这些开支在一点一点地耗掉我们的积蓄。
+The Scottish National Party is beginning to nibble away at Labour's majority.  苏格兰民族党正开始一步步削弱工党多数派的力量。
+   nibble² 
+→noun [C] 
+1. a small bite of something  一小口:
+  ▪ [+ of ]
+She took a nibble of her cookie.  她咬了一小口曲奇。
+2. nibbles, [pl.] [informal] small things to eat, like CRISPS and PEANUTS , especially at a party  少量食品;〔尤指聚会上的〕小吃
+3. a small amount of interest in something  对某事略微的兴趣:
+We've had the house on the market for a month and not even had a nibble yet.  我们的房子挂牌出售已有一个月了，但至今连稍感兴趣的人都没有。
+
+
+
+————————————
+★☆☆   NiCad
+   NiCad / ˈnaɪkæd ;  ˈnaɪkæd / 
+→noun [C] [trademark] 
+1. nickel-cadmium a type of BATTERY that can be RECHARGED , and that is used in cameras and small electronic equipment  镍铬电池
+
+
+
+————————————
+★☆☆   nice
+   nice / naɪs ;  naɪs / 
+→adjective1. GOOD 好的, pleasant, attractive, or enjoyable  令人愉快的; 吸引人的，美好的:
+They've got a very nice house.  他们的房子真漂亮。
+Did you have a nice time ?  你们过得开心吗？
+It's such a nice day (=good weather), why not go for a swim?  天真好，为什么不去游泳呢？
+What a nice surprise !  真是个惊喜！
+   look / taste / smell nice
+You look nice in that suit.  你穿那套西装看上去不错。
+Mm, something smells nice!  嗯，什么东西那么好闻！
+   nice big / new / long etc
+a nice long holiday  悠长的假期
+a nice new car  漂亮的新车
+   nice and warm / clean / easy / quiet etc
+The house seemed nice and tidy.  这房子看上去非常整洁。
+One of the nice things about Christmas is having all the family together.  圣诞节的一个好处是全家可以团聚在一起。
+ ► You can use nice and followed by another adjective after be . 在 be 之后可以跟 nice and 和另一个形容词: 
+The weather was nice and warm.  天气暖洋洋的。
+But before a noun you must leave out 'and'. 但是用在名词之前则 and 必须省略:
+a nice hot (NOT nice and hot) drink  一杯热腾腾的饮料
+2. FRIENDLY 友好的, friendly, kind, or polite  友好的，友善的，礼貌的:
+Dave's a really nice guy.  戴夫是个很友善的人。
+That's not a very nice thing to say about your sister!  这么说你姐姐不太好！
+  ▪ [+ about ]
+Tim spilt wine all over the sofa, but Martha was very nice about it.  蒂姆把酒洒了一沙发，不过玛莎对此很宽容。
+  ▪ [+ to ]
+They were very nice to me while I was ill.  我生病的时候他们对我可好了。
+   it is nice of sb (to do sth)
+It was nice of you to help.  你帮了忙，真好。
+He told me, in the nicest possible way , that I was interfering too much.  他尽可能客气地告诉我，我干涉得太多了。
+3. STH YOU WANT 你想要的东西, used to say what you like or what you think would be good or useful  有用的，好的:
+It's quite nice to live so close to work.  住得离上班地点那么近真是件好事。
+   it is nice to do sth
+It would be nice to have a break.  要是能休息一下就好了。
+   that'd be nice ( = used to accept an offer or agree with a suggestion )
+   太好了〔用于接受别人的提议〕'
+Would you like a cup of coffee?' 'Yes, that'd be nice.'  “要喝杯咖啡吗？”“是的，太好了。”
+I thought it would be a nice idea to send them some flowers.  我觉得给他们送些花是个好主意。
+It would be nice if you could let us know in advance.  如果你能事先通知我们，那就好了。
+ SPOKEN PHRASES 
+4. it's nice to know (that) used to mean that you feel happier when you know something 知道…真好: 
+I still haven't heard any news – it would be nice to know what's happening.  我还是没有得到任何消息，要是能知道发生了什么事就好了。
+It's nice to know that there's someone nearby if she needs help.  知道当她需要帮助的时候有人在她身边就放心了。
+5. have a nice day!, [AmE] used to say goodbye to someone, especially to customers in shops and restaurants when they are leaving  谢谢光临！ 再见！〔尤用作商店店员、餐厅侍应生向顾客告别时的用语〕
+6. nice to meet you, used as a friendly greeting when you meet someone for the first time  很高兴认识你〔初次见面时的礼貌用语〕:
+Hello. It's nice to meet you at last.  你好。 终于见到你，我真高兴。
+7. (it's been) nice meeting / talking to you, used when you say goodbye to someone you have met for the first time  能认识你真高兴〔初次见面后的告别用语〕
+8. NOT NICE 不好的, [BrE] used in a humorous or angry way when you really think that something or someone is not at all good or pleasant  坏的，令人不愉快的:
+That's a nice way to treat a friend, I must say!  我得说，你这样对待朋友太不像话了！
+Well, we're in a nice mess now.  哎呀，我们现在搞得一团糟。
+9. nice try, used when someone has made a guess or suggestion, or has attempted to do something, to say that it is good, but not quite correct or successful  好但是行不通的建议:
+'We could phone Mark to come and pick us up.' 'Nice try, Clive, but we haven't got his number.'  “我们可以给马克打电话让他来接我们。”“这主意好是好，克莱夫，不过我们没有他的电话号码。”
+10. nice one!, [BrE] used when someone has just said or done something clever, amusing, or helpful  真聪明！ 真好笑！ 好极了！:
+'Dad said he'd help pay for it.' 'Nice one!'  “爸爸说他会帮我们付账。”“太好了！”
+11. be (as) nice as pie, [BrE] if someone is as nice as pie, they are not angry with you when you were expecting them to be  非常友好，〔出乎意料地〕没有生气
+12. nice work if you can get it, [BrE] used humorously to say that someone has a very easy or enjoyable job, especially one which you would like to do
+  〔认为对方的工作轻松有趣〕能有这样的好事就好了〔幽默用法〕
+13. DETAIL 细节, [formal] involving a very small difference or detail  细微的; 微妙的:
+a nice point of law  法律上的微妙难断之处
+14. RESPECTABLE 正派的, [old-fashioned] having high standards of moral and social behaviour  高尚的; 正派的:
+What's a nice girl like you doing in a place like this?  你一个正派姑娘在这种地方干什么？
+15. nice … shame about the …, [BrE] used when saying that part of something is good or well done, but a more important part is bad or badly done
+  〔一部分〕是好的，不过〔更重要的那部分〕不好:
+Nice video, shame about the song.  录像倒是不错，不过歌曲一点也不好。
+—niceness noun [U] 
+The first thing you noticed about him was his niceness.  你对他的第一印象是他为人和善。
+⇨ no more Mr Nice Guy! at GUY (5)
+ FOCUS 
+NICE 
+   person  人:
+ lovely , pleasant , charming , sweet , adorable 
+   thing / place / activity / time  事物/地方/活动/时间:
+ lovely , pleasant , delightful 
+
+
+
+————————————
+★☆☆   nice-looking
+   ˌnice-'looking 
+→adjective1. attractive  美丽的，漂亮的; 英俊的;
+⇨ good-looking : 
+a nice-looking young man  英俊的小伙子
+a nice-looking car  漂亮的汽车
+
+
+
+————————————
+★☆☆   nicely
+   nice·ly / ˈnaɪslɪ ;  ˈnaɪsli / 
+→adverb1. WELL 很好地, in a satisfactory, pleasant, or attractive way  令人满意地; 令人愉快地:
+He was handsome and nicely dressed.  他相貌英俊，衣着考究。
+The table fits in nicely with the rest of the furniture.  桌子和其他家具非常搭配。
+The wound healed up nicely.  伤口愈合得很好。
+The garden's coming along very nicely now (=it is growing well) .  花园里的花草现在长得很好。
+2. IN A FRIENDLY / PLEASANT WAY 友好地/适宜地, in a pleasant, polite, or friendly way  适宜地; 礼貌地; 友好地:
+I'm sure he'll help if you ask him nicely.  我敢肯定如果你好好求他，他会帮忙的。
+3. be doing nicely, [BrE] to be successful and be earning a lot of money  干得很出色; 赚很多钱:
+The business is doing quite nicely.  生意很红火。
+Ed's doing very nicely for himself out in Japan.  埃德在日本干得很好。
+4. that will do nicely, [BrE spoken] used when saying that something is very suitable and is just what you want  非常合适:
+'Will cheese sandwiches be okay?' 'Yes, that'll do nicely.'  “奶酪三明治行不行？”“好，正合适。”
+5. EXACTLY 确切地, [formal] exactly or carefully  精确地; 仔细地:
+a nicely calculated distance  精确计算出的距离
+
+
+
+————————————
+★☆☆   nicety
+   ni·ce·ty / ˈnaɪsətɪ ;  ˈnaɪsəti / 
+→noun (plural niceties) 
+1. [C usually plural] a small detail or point of difference, especially one that is usually considered to be part of the correct way of doing something  细微区别; 细微之处; 细节:
+social niceties  社交上的细节
+legal niceties  法律细节
+  ▪ [+ of ]
+the niceties of political diplomacy  政治外交方面的细微之处
+2. to a nicety, [formal] exactly  精确地，精细入微地
+
+
+
+————————————
+★☆☆   niche
+   niche¹ / nɪtʃ ;  nɪtʃ / 
+→noun1. [C] if you find your niche, you find a job or activity that is very suitable for you  合适（称心）的工作（活动）:
+Amanda soon found her niche at the club.  阿曼达很快就在俱乐部里找到了一份理想的工作。
+He's managed to create a niche for himself in local politics.  他终于在当地政界为自己谋到一份称心的差事。
+2. [sing.] an opportunity to sell a product or service to a particular group of people who have similar needs, interests etc
+  〔产品或服务的〕商机; 市场定位:
+  ▪ [+ in ]
+He spotted a niche in the market .  他发现了市场中的一个商机。
+3. [C] a hollow place in a wall, often made to hold a STATUE
+  〔用来放雕像的〕壁龛
+   niche² 
+→adjective [only before noun] 
+1. relating to selling goods to a particular small group of people who have similar needs, interests etc
+  〔产品〕针对特定小群体的:
+niche marketing  针对特定群体的市场营销
+a niche market  有利可图的市场
+a niche product  针对特定群体的产品
+
+
+
+————————————
+★☆☆   nick
+   nick¹ / nɪk ;  nɪk / 
+→noun1. in the nick of time, just before it is too late, or just before something bad happens  在紧要关头; 正是时候:
+Luckily, help arrived in the nick of time.  幸运的是援兵及时来了。
+2. in good nick / in bad nick etc, [BrE informal] in good condition or in bad condition  状态良好/不好等:
+It's an old car but it's still in good nick.  这是辆旧车，但性能仍然不错。
+3. [C] a very small cut made on the edge or surface of something  刻痕; 裂口
+4. the nick, [BrE informal] a POLICE STATION  警察局，派出所，警署
+   nick² 
+→verb [T] 
+1. [BrE informal] to steal something  偷;
+   SYN pinch , steal : 
+Someone's nicked my wallet.  有人偷了我的钱包。
+   nick sth from sb / sth
+You nicked those pens from my desk.  你从我的书桌上偷走了那些钢笔。
+2. to make a small cut in the surface or edge of something, usually by accident
+  〔意外地〕刻痕于; 擦伤:
+He nicked his hand on some broken glass.  他被一些碎玻璃割破了手。
+3. [BrE informal] if the police nick you, they catch you and charge you with a crime  抓获，逮捕，拘捕;
+   SYN arrest 
+You're nicked!  你被捕了！
+
+
+
+————————————
+★☆☆   nickel
+   nick·el / ˈnɪkl ;  ˈnɪkəl / 
+→noun1. [U] a hard silver-white metal that is often combined with other metals, for example to make steel. It is a chemical ELEMENT : symbol Ni  镍〔一种化学元素，符号为 Ni〕
+2. [C] a coin in the US or Canada that is worth five cents
+  〔美国或加拿大的〕五分硬币
+
+
+
+————————————
+★☆☆   nickel-and-dime
+   nickel-and-dime² 
+→adjective [only before noun] [AmE] 
+1. unimportant or involving little money  不重要的; 只涉及小钱的
+   ˌnickel-and-'dime¹ 
+→verb [T] [AmE informal] 
+1. to not give enough attention or money to something, with the result that it is not dealt with effectively  斤斤计较地对待
+
+
+
+————————————
+★☆☆   nickname
+   nick·name / ˈnɪkˌnem ;  ˈnɪkneɪm / 
+→noun [C] 
+1. a name given to someone, especially by their friends or family, that is not their real name and is often connected with what they look like or something they have done
+  〔尤指给朋友或家人取的〕绰号，外号; 诨名:
+  ▪ [+ for ]
+We had nicknames for all the teachers.  我们给所有老师都起了外号。
+Stephen earned himself the nickname Hawkeye.  斯蒂芬得了个“鹰眼”的绰号。
+—nickname verb [T] 
+She was nicknamed Sunny because of her happy nature.  她因生性快乐而被人叫作“开心果”。
+
+
+
+————————————
+★☆☆   nicotine
+   nic·o·tine / ˈnɪkəˌtin ;  ˈnɪkəti:n / 
+→noun [U] 
+1. a substance in tobacco which makes it difficult for people to stop smoking  尼古丁，烟碱
+
+
+
+————————————
+★☆☆   nicotine patch
+   'nicotine ˌpatch 
+→noun [C] 
+1. a small piece of material containing nicotine which you stick on your skin to help you stop smoking
+  〔贴在皮肤上帮助戒烟的〕尼古丁贴片，戒烟贴
+
+
+
+————————————
+★☆☆   nicotine replacement therapy
+   ˌnicotine re'placement ˌtherapy 
+→noun [C,U] 
+1. NRT, the use of products that contain a small amount of NICOTINE , for example NICOTINE PATCHES , to help people stop smoking
+  〔帮助戒烟的〕尼古丁替代疗法
+
+
+
+————————————
+★☆☆   niece
+   niece /  nis ;  ni:s / 
+→noun [C] 
+1. the daughter of your brother or sister, or the daughter of your wife's or husband's brother or sister  侄女; 外甥女;
+⇨ nephew , aunt , uncle 
+
+
+
+————————————
+★☆☆   nifty
+   nif·ty / ˈnɪftɪ ;  ˈnɪfti / 
+→adjective [informal] 
+1. something that is nifty is good because it is clever, skilful, or effective  精巧的; 有技巧的; 有效的:
+a nifty little gadget for squeezing oranges  一个榨橙汁的精巧小玩意儿
+
+
+
+————————————
+★☆☆   niggardly
+   nig·gard·ly / ˈnɪgədlɪ ;  ˈnɪgədli / 
+→adjective [old-fashioned] 
+1. a niggardly gift, amount, salary etc is much too small and is given unwillingly  很少的，勉强给的:
+niggardly wages  微薄的工资
+a niggardly 2% increase  仅仅 2% 的增长
+2. unwilling to spend money or be generous  小气的，吝啬的;
+   SYN stingy 
+a niggardly person  吝啬的人
+
+
+
+————————————
+★☆☆   nigger
+   nig·ger / ˈnɪgə ;  ˈnɪgə / 
+→noun [C] [taboo] 
+1. a very offensive word for a black person. Do not use this word.  黑鬼
+
+
+
+————————————
+★☆☆   niggle
+   nig·gle¹ / ˈnɪgl ;  ˈnɪgəl / 
+→verb1. [T] if something niggles you, you keep worrying about it or feeling annoyed about it and you cannot forget it  惹恼，烦扰;
+⇨ bug : 
+Something's been niggling her all day.  有什么事一整天都让她很烦心。
+It niggles me that we can't go home yet and get warm.  我们还不能回家取暖，这让我心烦。
+2. [I] to argue or make criticisms about small unimportant details  吹毛求疵，挑剔:
+She niggled over every detail of the bill.  她对账单处处挑毛病。
+   niggle² 
+→noun [C] 
+1. a slight feeling  轻微的感觉:
+a niggle of doubt  一丝疑虑
+2. a slight criticism or complaint  轻微的批评; 小牢骚
+3. a slight physical pain  轻微疼痛:
+a niggle in his knee  他膝盖上轻微的疼痛
+
+
+
+————————————
+★☆☆   niggling
+   nig·gling / ˈnɪglɪŋ ;  ˈnɪgəlɪŋ / 
+→adjective1. niggling doubt / worry / suspicion etc, a slight doubt etc that you cannot stop thinking about  使人心烦的疑虑/担心/怀疑等;
+   SYN nagging 
+2. a niggling injury or problem is a slight one that does not go away
+  〔伤害或问题不严重却不断〕烦人的，隐隐不去的
+
+
+
+————————————
+★☆☆   nigh
+   nigh / naɪ ;  naɪ / 
+→adverb1. nigh on, [old-fashioned] almost  几乎:
+There were nigh on 40 people there.  那里有近 40 个人。
+2. [literary] near or soon  接近; 临近:
+Winter draws nigh (=will start soon) .  冬天即将来临。
+⇨ WELL-NIGH 
+
+
+
+————————————
+★☆☆   night
+   night / naɪt ;  naɪt / 
+→noun [C,U] 
+1. WHEN IT IS DARK 天黑时, the dark part of each 24-hour period when the sun cannot be seen and when most people sleep  夜晚，夜间;
+   OPP day 
+   last night
+   昨晚
+   at night ( = when it is night )
+   （在）夜里
+   in / during the night ( = at a particular point in the night )
+   在晚上
+   in the middle of the night
+   在半夜
+   all night (long)
+   整夜
+   by night ( = at night, rather than in the day )
+   在夜里〔与白天相对〕
+   at this time of night ( = used when you are surprised )
+   这么晚〔表示吃惊〕
+   in / at the dead of night [literary] ( = in the middle of the night when it is quiet )
+   夜深人静时
+   spend / stay a night somewhere
+   在某处过夜
+   stay the night ( = sleep at the house of someone you are visiting )
+   借宿
+   night train / bus / flight
+   夜班火车/公共汽车/航班
+   night falls [written] ( = it starts to become dark )
+   夜幕降临
+   the night air
+   夜晚的空气
+   the night sky
+   夜空
+It was a cold moonlit night.  那是个寒冷的月夜。
+I didn't sleep too well last night .  我昨晚睡得不太好。
+At night the temperature drops below zero.  夜间气温降至零下。
+He woke up twice during the night .  他夜里醒了两次。
+The party went on all night .  聚会持续了一整夜。
+Many animals hunt by night .  许多动物夜间出来猎食。
+Who could be calling at this time of night ?  谁会这么晚了还打电话来？
+an attack in the dead of night   深夜袭击
+We spent the first two nights of our vacation in a cheap motel.  假期的头两个晚上我们住在一家便宜的汽车旅馆里。
+If you miss the last bus home, you can always stay the night .  如果错过回家的最后一班车，你可以随时来借宿。
+We took the night train to Glasgow.  我们坐夜班火车去格拉斯哥。
+Night was beginning to fall .  夜幕开始降临。
+the cold night air   夜间寒冷的空气
+2. EVENING 傍晚, the time during the evening until you go to bed  傍晚，黄昏; 晚上:
+We had a really good meal last night .  昨晚我们吃了一顿非常美味的晚餐。
+They stay in and watch television every night .  他们每天晚上呆在家里看电视。
+She recognised him from the night before (=the previous evening) .  她前一天晚上就认出他了。
+My parents are coming for dinner tomorrow night .  我父母明晚要过来吃晚饭。
+   Friday / Saturday etc night
+There's a party at Ben's place on Saturday night.  星期六晚上本的家里有个聚会。
+We were on our way back from a night out (=an evening when you go to a party, restaurant, theatre etc) at the theatre.  在剧场看了一晚上戏后，我们踏上了回家的路。
+Anna doesn't like him walking home late at night .  安娜不想让他深夜走路回家。
+   quiz night / student night etc ( = an evening when a particular event happens, especially at a bar, club etc )
+   知识竞赛夜/学生夜等〔尤指在酒吧、俱乐部等举办的活动〕
+3. nights, if you do something nights, you do it regularly or often at night  每晚; 晚上经常:
+I work nights , so I'm usually asleep during the day.  我上夜班，因此我通常白天睡觉。
+4. night!, [spoken] used to say goodbye to someone when it is late in the evening or when they are going to bed  晚安！;
+   SYN good night 
+Night! See you tomorrow!  晚安！明天见！
+5. night night!, [spoken] used to say goodbye to someone, especially a child, when they are going to bed  晚安！〔尤用于对儿童说〕
+6. night and day / day and night, all the time  夜以继日地，日夜不停地:
+The store is guarded day and night.  这家商店日夜都有人看守。
+We had to work night and day to get it finished.  为了完成那项任务，我们夜以继日地干。
+7. night or day / day or night, at any time  随时:
+You can call me any time, night or day.  你可以随时给我打电话。
+8. night after night, every night for a long period
+  〔长期以来〕每晚，一夜又一夜地:
+He's out drinking night after night.  他每天晚上都出去喝酒。
+9. first night / opening night, the first performance of a play or show  首场演出，首映;
+⇨ premiere : 
+We saw 'Riverdance' on its opening night.  我们看了《大河之舞》的首场演出。
+10. spend the night with sb / spend the night together, to sleep with someone and have sex with them  和某人过夜〔并发生性关系〕:
+And you thought we spent the night together?  那么你认为我们在一起过夜了？
+11. a good night's sleep, a night when you sleep well  一夜好觉:
+You'll feel better after a good night's sleep.  好好睡上一晚后你会感觉好一些。
+12. (have
+  a. late / early night, to go to bed later or earlier than usual〔比平常〕晚/早睡觉:
+I think I'll have an early night.  我想我要早点睡觉。
+⇨ LATE-NIGHT 
+13. last thing at night, at the end of the day, just before you go to bed  临睡之前:
+You should water plants either first thing in the morning or last thing at night.  你要么早上起来给花草浇水，要么临睡之前浇。
+NIGHTLY
+
+
+
+————————————
+★☆☆   nightcap
+   night·cap / ˈnaɪtˌkæp ;  ˈnaɪtkæp / 
+→noun [C] 
+1. an alcoholic drink that you have at the end of the evening, just before you go to bed  临睡前喝的酒
+2. a soft hat that people used to wear in bed
+  〔旧时的〕睡帽
+
+
+
+————————————
+★☆☆   night class
+   'night class 
+→noun [C] 
+1. a class which takes place during the evening for people who work during the day  夜课
+
+
+
+————————————
+★☆☆   nightclothes
+   night·clothes / ˈnaɪtˌkloðz ;  ˈnaɪtkləʊðz / 
+→noun [pl.] 
+1. clothes hat you wear in bed  睡衣
+
+
+
+————————————
+★☆☆   nightclub
+   night·club / ˈnaɪtˌklʌb ;  ˈnaɪtklʌb / 
+→noun [C] 
+1. a place where people go to dance and drink which is open late at night  夜总会
+
+
+
+————————————
+★☆☆   night depository
+   'night deˌpository 
+→noun [C] [AmE] 
+1. a special hole in the outside wall of a bank into which a customer can put money or documents safely when the bank is closed  夜用保险箱〔银行关门后，外墙上供顾客存放钱物的安全存放器〕;
+   SYN night safe [BrE] 
+
+
+
+————————————
+★☆☆   nightdress
+   night·dress / ˈnaɪtˌdrɛs ;  ˈnaɪtdres / 
+→noun [C] 
+1. a piece of clothing, like a thin dress, that a woman wears in bed  女睡袍
+
+
+
+————————————
+★☆☆   night duty
+   'night ˌduty 
+→noun [U] 
+1. work that is done during the night  夜班:
+   on night duty
+She is on night duty at the hospital.  她在医院值夜班。
+
+
+
+————————————
+★☆☆   nightfall
+   night·fall / ˈnaɪtˌfɔl ;  ˈnaɪtfɔ:l / 
+→noun [U] [old-fashioned] 
+1. the time when it begins to get dark in the evening  黄昏，傍晚;
+   SYN dusk 
+Don't worry, we'll be back by nightfall.  别担心，我们傍晚之前会回来的。
+
+
+
+————————————
+★☆☆   nightgown
+   night·gown / ˈnaɪtˌgaun ;  ˈnaɪtgaʊn / 
+→noun [C] [old-fashioned] 
+1. a nightdress  女睡袍
+
+
+
+————————————
+★☆☆   nighthawk
+   night·hawk / ˈnaɪtˌhɔk ;  ˈnaɪthɔ:k / 
+→noun [C] [AmE informal] 
+1. someone who enjoys staying awake all night  夜猫子，喜欢熬夜的人;
+   SYN night owl 
+
+
+
+————————————
+★☆☆   nightie
+   night·ie / ˈnaɪtɪ ;  ˈnaɪti / 
+→noun [C] [informal] 
+1. a NIGHTDRESS  女睡袍
+
+
+
+————————————
+★☆☆   nightingale
+   nigh·tin·gale / ˈnaɪtɪŋˌgel ;  ˈnaɪtɪŋgeɪl / 
+→noun [C] 
+1. a small bird that sings very beautifully, especially at night  夜莺
+
+
+
+————————————
+★☆☆   nightlife
+   night·life / ˈnaɪtlaɪf ;  ˈnaɪtlaɪf / 
+→noun [U] 
+1. entertainment in the evening  夜生活，夜间娱乐活动:
+The hotel is only a five minute walk from both the beach and the nightlife.  这家宾馆距离海滩和夜生活区步行都只要五分钟。
+
+
+
+————————————
+★☆☆   nightlight
+   night·light / ˈnaɪtlaɪt ;  ˈnaɪtlaɪt / 
+→noun [C] 
+1. a small electric light that you put in a child's room at night
+  〔儿童房中的〕小夜灯
+
+
+
+————————————
+★☆☆   nightly
+   night·ly / ˈnaɪtlɪ ;  ˈnaɪtli / 
+→adjective1. happening every night  每晚的，每夜的:
+the nightly talk show  每晚播出的谈话节目
+—nightly adv: 
+The band plays twice nightly in the bar.  那支乐队在该酒吧每晚表演两场。
+
+
+
+————————————
+★☆☆   nightmare
+   night·mare / ˈnaɪtˌmɛr ;  ˈnaɪtmeə / 
+→noun [C] 
+1. a very frightening dream  噩梦，梦魇:
+  ▪ [+ about ]
+Years after the accident I still have nightmares about it.  事故发生很多年后，我依然做噩梦。
+a recurring nightmare (=one which you have again and again)  一再出现的噩梦
+2. [usually singular] a very difficult, unpleasant, or frightening experience or situation  棘手的（不愉快的，可怕的）经历（事情）:
+Traffic was a nightmare.  交通状况糟糕透顶。
+  ▪ [+ for ]
+This has been an absolute nightmare for me and my family.  这对我和我的家庭来说一直都是件非常可怕的事。
+   nightmare of (doing) sth
+the nightmare of going through divorce  经历离婚过程的痛苦
+It was every teacher's worst nightmare (=the worst thing which could have happened) .  对每位老师来说，那都是一场最可怕的梦魇。
+a nightmare journey  糟糕的旅程
+3. something terrible that you fear may happen in the future  可能发生的恐怖事件:
+  ▪ [+ of ]
+the nightmare of a nuclear war  核战争的恐怖
+   nightmare scenario ( = the worst or most frightening situation that you can imagine )
+   最坏（恐怖）的设想
+—nightmarish adj.
+
+
+
+————————————
+★☆☆   night owl
+   'night owl 
+→noun [C] [informal] 
+1. someone who enjoys staying awake all night  夜猫子，喜欢熬夜的人
+
+
+
+————————————
+★☆☆   night porter
+   'night ˌporter 
+→noun [C] [BrE] 
+1. someone who works at the main entrance of a hotel during the night
+  〔旅馆门口的〕夜班服务员
+
+
+
+————————————
+★☆☆   night safe
+   'night safe 
+→noun [C] [BrE] 
+1. a special hole in the outside wall of a bank into which a customer can put money or documents safely when the bank is closed  夜用保险箱〔银行关门后，外墙上供顾客存放钱物的安全存放器〕;
+   SYN night depository [AmE] 
+
+
+
+————————————
+★☆☆   night school
+   'night school 
+→noun [U] 
+1. classes that take place in the evening for people who work during the day  夜校
+
+
+
+————————————
+★☆☆   night shift
+   'night shift 
+→noun [C] 
+1. a period of time at night when people regularly work, especially in a factory
+  〔尤指工厂的〕夜班:
+   on the night shift
+She's on the night shift this week.  她这星期上夜班。
+2. the group of people who work on the night shift  上夜班的人:
+The night shift was just arriving.  上夜班的人正在陆续到来。
+
+
+
+————————————
+★☆☆   nightshirt
+   night·shirt / ˈnaɪtˌʃɚt ;  ˈnaɪt-ʃɜ:t / 
+→noun [C] 
+1. a long loose shirt that someone, especially a man, wears in bed
+  〔男用〕衬衫式长睡衣
+
+
+
+————————————
+★☆☆   night spot
+   'night spot 
+→noun [C] 
+1. a place people go to at night for entertainment  夜间娱乐场所; 夜总会:
+my favourite New York night spot  我最喜欢的纽约的夜间娱乐场所
+
+
+
+————————————
+★☆☆   nightstand
+   night·stand / ˈnaɪtˌstænd ;  ˈnaɪtstænd / 
+→noun [C] [AmE] 
+1. a small table beside a bed  床头柜;
+   SYN bedside table [BrE] 
+
+
+
+————————————
+★☆☆   nightstick
+   night·stick / ˈnaɪtˌstɪk ;  ˈnaɪtˌstɪk / 
+→noun [C] [AmE] 
+1. a short thick stick carried as a weapon by police officers  警棍;
+   SYN truncheon [BrE] 
+
+
+
+————————————
+★☆☆   nighttime
+   night·time / ˈnaɪtˌtaɪm ;  ˈnaɪt-taɪm / 
+→noun [U] 
+1. the time during the night  夜间;
+   OPP daytime 
+   at nighttime
+animals that hunt at nighttime  夜间猎食的动物
+
+
+
+————————————
+★☆☆   night watchman
+   ˌnight 'watchman 
+→noun [C] 
+1. someone whose job is to guard a building at night
+  〔大楼的〕夜间守卫
+—night watch noun [U] 
+
+
+
+————————————
+★☆☆   nightwear
+   night·wear / ˈnaɪtˌwɛr ;  ˈnaɪtweə / 
+→noun [U] 
+1. clothes that you wear in bed at night  睡衣
+
+
+
+————————————
+★☆☆   nignog
+   nig·nog / ˈnɪg ˌnɑg ;  ˈnɪg nɔg / 
+→noun [C] [BrE taboo old-fashioned] 
+1. a very offensive word for a black person. Do not use this word.  黑鬼〔对黑人的冒犯性用语〕
+
+
+
+————————————
+★☆☆   nihilism
+   ni·hil·is·m / ˈnaɪəlˌɪzəm ;  ˈnaɪəlɪzəm / 
+→noun [U] 
+1. the belief that nothing has any meaning or value  虚无主义〔认为一切都没有意义或价值〕
+2. the idea that all social and political institutions should be destroyed  政治虚无主义〔主张摧毁一切社会和政治机构的思想〕
+—nihilist noun [C] 
+—nihilistic / ˌnaɪəˈlɪstɪk ;  ˌnaɪəˈlɪstɪk / adj
+
+
+
+————————————
+★☆☆   -nik
+   -nik / nɪk ;  nɪk / 
+→suffix [in nouns] 
+1. someone who is connected with a particular activity or set of beliefs  与〔某活动或信仰〕有关的人; 爱好…的人:
+a peacenik (=someone who supports peace)  和平爱好者
+
+
+
+————————————
+★☆☆   nil
+   nil / nɪl ;  nɪl / 
+→noun [U] 
+1. nothing  无; 零;
+   SYN zero 
+The new machine reduced labour costs to almost nil.  新机器把劳动成本几乎降到零。
+2. [BrE] the number zero, used in sports results
+  〔体育比赛比分中的〕零:
+Our team won by two goals to nil.  我们队以二比零获胜。
+
+
+
+————————————
+★☆☆   nimble
+   nim·ble / ˈnɪmbl ;  ˈnɪmbəl / 
+→adjective1. able to move quickly and easily with light neat movements  敏捷的，灵活的;
+   SYN agile 
+nimble fingers  灵巧的手指
+a nimble climber  敏捷的攀登者
+2. a nimble mind / brain / wit, an ability to think quickly or understand things easily  敏捷的思维/头脑/才智
+—nimbly adv. 
+—nimbleness noun [U] 
+
+
+
+————————————
+★☆☆   nimbus
+   nim·bus / ˈnɪmbəs ;  ˈnɪmbəs / 
+→noun (plural nimbuses or nimbi) / -baɪ ;  -baɪ / 
+1. [C,U] [technical] a dark cloud that may bring rain or snow  雨云
+2. [C] a HALO
+  〔神像头上的〕光轮; 晕，晕圈
+
+
+
+————————————
+★☆☆   nimby
+   nim·by / ˈnɪmbɪ ;  ˈnɪmbi / 
+→noun (plural nimbies) [C] 
+1. not in my backyard someone who does not want a particular activity or building near their home – used to show disapproval  反对自家附近有某种活动（建筑）的人〔含贬义〕
+—nimby adj.
+
+
+
+————————————
+★☆☆   NiMH
+   NiMH / nɪm ;  nɪm / 
+→noun [C] 
+1. nickel-metal hydride a type of BATTERY that can be RECHARGED and that is used in cameras and small electronic equipment  镍氢电池
+
+
+
+————————————
+★☆☆   nimrod
+   nim·rod / ˈnɪmrɑd ;  ˈnɪmrɔd / 
+→noun [C] [AmE informal] 
+1. an insulting word for someone who is stupid or not good at doing something  傻瓜〔侮辱性用语〕
+
+
+
+————————————
+★☆☆   nincompoop
+   nin·com·poop / ˈnɪŋkəmˌpup ;  ˈnɪŋkəmpu:p / 
+→noun [C] [old-fashioned] 
+1. a stupid person  笨人，傻瓜
+
+
+
+————————————
+★☆☆   nine
+   nine / naɪn ;  naɪn / 
+→number1. the number  9 九:
+He's only been in this job for nine months.  他干这份工作才九个月。
+We open at nine (=nine o'clock) .  我们九点开始营业。
+Kay was taught by her mother till she was nine (=nine years old) .  凯一直由妈妈教到九岁。
+2. nine times out of ten, almost always  十之八九，几乎总是，几乎每次:
+Nine times out of ten we can solve the problem over the phone.  我们基本上都可以通过电话来解决问题。
+3. a nine days' wonder, a thing or event that makes people very excited for a short time  轰动一时的事物; 昙花一现的新鲜事
+4. have nine lives, to make lucky escapes from dangerous situations  有九条命; 命大
+⇨ dressed (up) to the nines at DRESSED (4)
+⇨ be on cloud nine at CLOUD ¹ (5)
+
+
+
+————————————
+★☆☆   ninepins
+   nine·pins / ˈnaɪnˌpɪnz ;  ˈnaɪnˌpɪnz / 
+→noun [U] 
+1. a game in which you roll a ball at nine bottle-shaped objects to try to hit them so that they fall  九柱滚球戏
+2. drop / go down like ninepins, if people or things drop like ninepins, many of them fall down or become ill or injured suddenly all at the same time  大量倒下; 大批病倒（受伤）:
+It's just three weeks into the season and players are dropping like ninepins.  本赛季才过了三星期，队员们就伤病不断。
+
+
+
+————————————
+★☆☆   nineteen
+   nine·teen / ˌnaɪnˈtin ;  ˌnaɪnˈti:n / 
+→number1. the number  19 十九:
+It was nineteen minutes past seven.  当时是七点十九分。
+I was only nineteen (=19 years old) .  我当时只有十九岁。
+2. nineteen to the dozen, if you talk nineteen to the dozen, you talk very quickly and without stopping  说个不停，喋喋不休
+—nineteenth adj, pron: 
+in the nineteenth century  在十九世纪
+her nineteenth birthday  她的十九岁生日
+I'm planning to leave on the nineteenth (=the 19th day of the month) .  我计划十九号走。
+
+
+
+————————————
+★☆☆   nineteenth hole
+   ˌnineteenth 'hole 
+→noun1. the nineteenth hole, an expression used humorously by GOLF players meaning the bar where they drink after playing  第十九穴〔幽默用法，指高尔夫球员比赛结束后去喝酒的酒吧〕
+
+
+
+————————————
+★☆☆   nine to five
+   ˌnine to 'five 
+→adverb1. between nine o'clock and five o'clock, the normal working hours of an office worker  朝九晚五〔早上九点至下午五点是办公室工作人员正常的工作时间〕:
+She didn't like working nine to five .  她不喜欢朝九晚五的工作。
+—nine-to-five adj: 
+a nine-to-five job  朝九晚五的工作
+
+
+
+————————————
+★☆☆   ninety
+   nine·ty / ˈnaɪntɪ ;  ˈnaɪnti / 
+→number1. the number  90 九十
+2. the nineties, [pl.] also the '90s, the 1990s the years from 1990 to  1999 二十世纪九十年代:
+America was far richer in the nineties.  九十年代美国要富裕得多。
+   the early / mid / late nineties
+The industry received a lot of bad publicity in the early nineties.  该行业在九十年代早期有大量负面报道。
+3. be in your nineties, to be aged between 90 and  99 九十多岁:
+   early / mid / late nineties
+My grandfather was in his early nineties when he died.  我祖父去世的时候九十岁出头。
+4. in the nineties, if the temperature is in the nineties, it is between 90 degrees and 99 degrees
+  〔温度〕九十多度:
+   in the low / mid / high nineties
+Temperatures were still in the high nineties.  温度仍然接近一百度。
+—ninetieth adj: 
+her ninetieth birthday  她的九十岁生日
+
+
+
+————————————
+★☆☆   ninja
+   nin·ja / ˈnɪndʒə ;  ˈnɪndʒə / 
+→noun [C] 
+1. in the past, a Japanese fighter with special skills
+  〔旧时的〕忍者，日本武士
+
+
+
+————————————
+★☆☆   ninny
+   nin·ny / ˈnɪnɪ ;  ˈnɪni / 
+→noun (plural ninnies) [C] [old-fashioned] 
+1. a silly person  笨蛋，傻瓜
+
+
+
+————————————
+★☆☆   ninth
+   ninth¹ / naɪnθ ;  naɪnθ / 
+→adjective1. coming after eight other things in a series  第九:
+in the ninth century  在九世纪
+her ninth birthday  她的九岁生日
+—ninth pron: 
+I'm planning to leave on the ninth (=ninth day of the month).  我计划九号走。
+   ninth² 
+→noun [C] 
+1. one of nine equal parts of something  九分之一
+
+
+
+————————————
+★☆☆   nip
+   nip¹ / nɪp ;  nɪp / 
+→verb nipped, nipping
+1. [I always + adv / prep] [BrE informal] to go somewhere quickly or for a short time  快走，急忙离去; 去一会儿;
+   SYN pop 
+Have we time to nip down the pub for a quick drink?  我们有没有时间到酒吧去小坐一会儿喝上一杯？
+Another car nipped in (=moved quickly into a space) in front of me.  又一辆车突然插到我前面。
+I've got to nip home and change my clothes.  我得赶快回家去换一下衣服。
+2. [I,T] to bite someone or something lightly  轻咬:
+She gently nipped the lobe of his ear.  她轻咬了一下他的耳垂。
+  ▪ [+ at ]
+The fish swam all around her and nipped at her legs.  鱼儿在她身边游来游去，并用嘴轻轻地触碰她的双腿。
+3. nip sth in the bud, to prevent something from becoming a problem by stopping it as soon as it starts  把某事物消灭在萌芽状态; 对某事物一开始即加以阻止:
+Try to nip this kind of bad behaviour in the bud.  要尽早制止这种不良行为。
+4. [T] [BrE] to suddenly and quickly press something tightly between two fingers, edges, or surfaces  夹; 钳; 掐; 捏;
+⇨ pinch : 
+Sally nipped her cheeks to make them look less pale.  萨莉拧了拧自己的脸颊，好让脸色看上去不那么苍白。
+He nipped his finger in the door.  他的手指被门夹了一下。
+5. [I,T] [written] if cold weather or the wind nips at part of your body or at a plant, it hurts or damages it
+  〔天气或寒风〕冻得人疼痛; 冻坏（植物）:
+  ▪ [+ at ]
+The frost nipped at our fingers.  霜冻得我们手指生疼。
+ PHRASAL VERBS 
+▪ nip sth ↔ off 
+   to remove a small part of something, especially a plant, by pressing it tightly between your finger and thumb  掐掉，摘去〔尤指植物〕:
+She nipped off a dead flower.  她掐掉了一朵凋谢的花。
+   nip² 
+→noun [C] 
+1. the act or result of biting something lightly or pressing something between two fingers, edges, or surfaces  咬（住）; 夹（住）:
+His dog gave me a painful nip on the leg.  他的狗咬疼了我的腿。
+2. a small amount of strong alcoholic drink  少量的烈性酒:
+  ▪ [+ of ]
+a nip of brandy  一点儿白兰地酒
+3. a nip in the air, coldness in the air  空气中的寒气（寒意）
+4. nip and tuck [AmE informal] 
+  a. equally likely to happen or not happen  概率相等，均有可能:
+We made it to the airport, but it was nip and tuck .  我们赶到了机场，不过险得很。
+  b. if two competitors are nip and tuck in a race or competition, they are doing equally well  并驾齐驱，不相上下;
+   SYN neck and neck 
+The fourth quarter was nip and tuck, but the Bulls won 92-90.  第四节（两队）不相上下，不过公牛队最后以 92 比 90 取得了胜利。
+
+
+
+————————————
+★☆☆   nipper
+   nipp·er / ˈnɪpə ;  ˈnɪpə / 
+→noun [C] [BrE informal] 
+1. a child  小孩
+
+
+
+————————————
+★☆☆   nipple
+   nip·ple / ˈnɪpl ;  ˈnɪpəl / 
+→noun [C] 
+1. the small dark circular part of a woman's breast. Babies suck milk through their mother's nipples.
+  〔女人的〕乳头
+2. one of the two small dark circular parts on a man's chest
+  〔男人的〕乳头
+3. [AmE] the rubber part on a baby's bottle that a baby sucks milk through
+  〔奶瓶的〕橡皮奶嘴;
+   SYN teat [BrE] 
+4. a part in an engine or machine made of rubber or plastic and shaped like a nipple. It has a hole in it which liquid can flow or be poured through.
+  〔发动机或机器上的〕（乳头状）注油口，加油嘴
+
+
+
+————————————
+★☆☆   nippy
+   nip·py / ˈnɪpɪ ;  ˈnɪpi / 
+→adjective [informal] 
+1. weather that is nippy is slightly cold
+  〔天气〕有点冷的，冷飕飕的;
+   SYN chilly 
+It's a bit nippy out there.  外面有点冷飕飕的。
+2. [BrE] able to move quickly  敏捷的，动作快的:
+a nippy little car  小巧灵便的汽车
+
+
+
+————————————
+★☆☆   nirvana
+   nir·va·na / nɪrˈvɑnə ;  nɪəˈvɑ:nə / 
+→noun [U] 
+1. the final state of complete knowledge and understanding that is the aim of believers in Buddhism
+  〔佛教的〕涅槃; 解脱
+2. a condition of great happiness and a feeling of peace  极乐世界，无忧无虑的境界
+
+
+
+————————————
+★☆☆   nisi
+   ni·si / ˈnaɪsaɪ ;  ˈnaɪsaɪ / 
+→noun⇨ see DECREE NISI 
+
+
+
+————————————
+★☆☆   nit
+   nit / nɪt ;  nɪt / 
+→noun [C] 
+1. an egg of a LOUSE (=a small insect that sucks blood), that is sometimes found in people's hair  虱卵，虮子
+2. [BrE informal] a silly person  笨蛋，傻瓜
+
+
+
+————————————
+★☆☆   nit-picking
+   'nit-ˌpicking 
+→noun [U] [informal] 
+1. when someone argues about small unimportant details or tries to find small mistakes in something  吹毛求疵，挑剔:
+Soames was getting impatient with his daughter's constant nitpicking.  女儿的不断挑剔让索姆斯失去了耐心。
+—nitpicking adj. 
+—nitpicker noun [C] 
+
+
+
+————————————
+★☆☆   nitrate
+   ni·trate / ˈnaɪtret ;  ˈnaɪtreɪt / 
+→noun [C,U] 
+1. used in the name of substances containing NITROGEN and OXYGEN . Nitrates are often used to improve soil  硝酸盐:
+potassium nitrate  硝酸钾
+high levels of nitrates in drinking water  饮用水中高含量的硝酸盐
+
+
+
+————————————
+★☆☆   nitric acid
+   ni·tric ac·id / ˌnaɪtrɪk ˈæsɪd ;  ˌnaɪtrɪk ˈæsəd / 
+→noun [U] 
+1. a powerful acid that is used in explosives and other chemical products  硝酸
+
+
+
+————————————
+★☆☆   nitrogen
+   ni·tro·gen / ˈnaɪtrədʒən ;  ˈnaɪtrədʒən / 
+→noun [U] 
+1. a gas that has no colour or smell, and that forms most of the Earth's air. It is a chemical ELEMENT
+symbol N氮（气）〔一种化学元素，符号为 N〕
+
+
+
+————————————
+★☆☆   nitroglycerine, nitroglycerin
+   ni·tro·gly·ce·rine, nitroglycerin / ˌnaɪtroˈglɪsərɪn ;  ˌnaɪtrəʊˈglɪsərən / 
+→noun [U] 
+1. a chemical used to make a powerful liquid explosive and also in some medicines  硝化甘油
+
+
+
+————————————
+★☆☆   nitrous oxide
+   ni·trous ox·ide / ˌnaɪtrəs ˈɑksaɪd ;  ˌnaɪtrəs ˈɔksaɪd / 
+→noun [U] 
+1. a gas used by DENTISTS to reduce pain  氧化亚氮; 笑气;
+   SYN laughing gas 
+
+
+
+————————————
+★☆☆   nitty-gritty
+   nit·ty-grit·ty / ˈnɪtɪ ˈgrɪtɪ ;  ˌnɪti ˈgrɪti / 
+→noun [informal] 
+1. the nitty-gritty, the basic and practical facts of a subject or activity  基本内容; 实质性部分:
+Let's get down to the nitty-gritty and work out the costs.  我们来谈谈实质性问题，把成本计算出来吧。
+
+
+
+————————————
+★☆☆   nitwit
+   nit·wit / ˈnɪtˌwɪt ;  ˈnɪt-wɪt / 
+→noun [C] [informal] 
+1. a silly person  笨蛋，傻瓜
+
+
+
+————————————
+★☆☆   nix
+   nix¹ / nɪks ;  nɪks / 
+→verb [T] [AmE informal] 
+1. to answer no to something or say that you will not allow something  拒绝，否决; 禁止:
+They nixed the idea of filming in Ireland.  他们否决了在爱尔兰拍摄的建议。
+   nix² 
+→adverb [AmE old-fashioned] 
+1. no  不，不行
+
+
+
+————————————
+★☆☆   N, n
+   N, n / ɛn ;  en / 
+→ plural N's, n's noun [C,U] 
+1. the 14th letter of the English alphabet  英语字母表的第十四个字母
+2. used in mathematics to represent a number whose value is not known
+  〔数学中的〕不定数符号:
+The value of n is less than 10.  n 的值小于 10。
+
+
+
+————————————
+★☆☆   No.
+   No. 
+ also no . Nos
+1. the written abbreviation of number:
+Mozart's piano concerto No. 27  莫扎特第二十七钢琴协奏曲
+
+
+
+————————————
+★☆☆   no
+   no¹ / no ;  nəʊ / 
+→adverb1. used to give a negative reply to a question, offer, or request  不，不行〔对问题、提议或请求表示否定或拒绝〕;
+   OPP yes 
+'Are you Italian?' 'No, I'm Spanish.'  “你是意大利人吗？”“不，我是西班牙人。”
+'Do you want any more?' ' No thanks .'  “你还要再来点儿吗？”“不要了，谢谢。”
+'Could you help me write this?' 'No, sorry, I haven't got time at the moment.'  “你能帮我写写这个吗？”“抱歉，不行，我现在没时间。”
+He wanted to take me to a disco but I said no .  他想带我去参加迪斯科舞会，但是我拒绝了。
+Sixty percent of people voted no.  60% 的人投了反对票。
+If you're asking whether I feel the same way about her, the answer is no .  如果你问我对她是否也有相同的感觉，答案是否定的。
+ SPOKEN PHRASES 
+2. used to say that you disagree with a statement 不，不是〔表示不同意〕: 
+'You're always complaining about work.' 'No, I'm not!'  “你总在抱怨工作。”“不，我没有！”
+3. used to say that you agree with a negative statement  是，对〔对否定陈述表示赞同〕:
+'They shouldn't drive so fast.' 'No, it's really dangerous.'  “他们开车不该那么快。”“没错，那样真的很危险。”
+4. used to tell someone not to do something
+  〔告诉某人〕别做某事:
+No, Jimmy, don't touch that switch.  别，吉米，别碰那个开关。
+5. used to show that you are shocked, surprised, annoyed, or disappointed by what someone has just told you, or by what has just happened  不会吧，不可能〔表示惊讶、生气或失望〕:
+'She's nearly fifty.' 'No, you're kidding!' “她快五十岁了。”“不可能，你在开玩笑！” Oh no , I've lost my wallet!  哦，不会吧，我把钱包丢了！
+6. used to correct what you have just said  不，不对〔用于纠正自己刚说的话〕:
+He's the director, no, the assistant director, of the company.  他是这家公司的董事，不，是副董事。
+7. won't take no for an answer, if someone won't take no for an answer, they are determined that you should agree to do something  不能接受否定的回答:
+He insists on taking us all out to dinner and he won't take no for an answer.  他坚持要把我们都带出去吃晚饭，不容我们拒绝。
+8. used before COMPARATIVES to mean 'not even a small amount'
+  〔用于比较级之前〕一点也不…:
+I'll pay you $75 and no more.  我会付给你 75 美元，就这些。
+You're no better than the rest of them.  你一点也不比他们其余的人好。
+⇨ no longer at LONG ² (7)
+   no² 
+→determiner1. not one or not any  没有，无:
+There's no food left in the fridge.  冰箱里没剩下什么食物了。
+No trains will be affected by this incident.  不会有列车受到这起事件的影响。
+a house with no central heating  一所没有中央暖气系统的房子
+There's no excuse for that kind of behaviour.  那种行为怎么辩解都不对。
+2. used on signs to say that something is not allowed  不允许，禁止:
+No parking  禁止停车
+No smoking  禁止吸烟
+3. in no time, [informal] very soon or very quickly  很快，马上:
+We'll be home in no time.  我们马上就到家。
+4. there's no doing sth, [spoken] used to emphasize that it is not possible to do something  不可能做某事〔用于强调〕:
+There's no knowing what this lunatic will do next.  谁也说不准这个疯子接下来会干什么。
+There is no denying the suffering of these families (=they are definitely suffering) .  不能否认这些家庭所遭受的痛苦。
+5. used to emphasize that the opposite of a particular description is true  不是，并不〔用于强调情况相反〕:
+That girl's no fool (=she is intelligent) .  那个女孩一点也不傻。
+Larry's no friend of mine .  拉里根本不是我的朋友。
+If he has to do it all himself, it will be no bad thing (=a good thing) .  如果他必须自己独立完成，这绝不是件坏事。
+a question of no great importance  不太重要的问题
+   no³ 
+→noun (plural noes) 
+1. [sing.] a negative answer or decision  不，拒绝; 否定，否认:
+The answer was a definite no.  答复是明确拒绝。
+2. [C] a vote against a proposal in parliament
+  〔议会中的〕反对票
+
+
+
+————————————
+★☆☆   No. 10
+   No. 10 / ˌnʌmbə ˈtɛn ;  ˌnʌmbə ˈten / 
+noun No. 10 Downing Street
+1. the address of the official home of the British PRIME MINISTER  唐宁街十号〔英国首相官邸〕
+
+
+
+————————————
+★☆☆   no-account
+   'no-acˌcount 
+ also 'no-count 
+→adjective [only before noun] [AmE old-fashioned informal] 
+1. a no-account person does not achieve very much because they are so lazy  没出息的，混日子的，不长进的:
+a no-account drifter who died of drink  一个浑浑噩噩、酗酒而亡的流浪汉
+
+
+
+————————————
+★☆☆   Noah's ark
+   No·ah's ark / ˌnoəz ˈɑrk ;  ˌnəʊəz ˈɑ:k / 
+→noun1. in the Bible, the large boat built by Noah to save his family and the animals from a flood that covered the earth
+  〔《圣经》中的〕诺亚方舟
+
+
+
+————————————
+★☆☆   nob
+   nob / nɑb ;  nɔb / 
+→noun [C] [BrE old-fashioned] 
+1. a rich person with a high social position  有钱有势的人，上流人士
+
+
+
+————————————
+★☆☆   no ball
+   'no ball 
+→noun [C] 
+1. an act of BOWLING the ball in the game of CRICKET in a way that is not allowed by the rules
+  〔板球运动中的〕投球犯规
+
+
+
+————————————
+★☆☆   nobble
+   nob·ble / ˈnɑbl ;  ˈnɔbəl / 
+→verb [T] [BrE informal] 
+1. to make someone do what you want by illegally offering them money or threatening them  收买; 要挟;
+⇨ bribe : 
+The jury had been nobbled and the case had to be reheard.  陪审团被收买，案件必须重审。
+2. to prevent a horse from winning a race, especially by giving it drugs
+  〔尤指给赛马服药〕使不能取胜
+3. to get someone's attention, especially in order to persuade them to do something
+  〔尤指为说服某人做某事而〕引起〔某人〕的注意:
+I was nobbled by my deaf old aunt and couldn't get away.  我被耳聋的老阿姨拖住了，因而走不开。
+
+
+
+————————————
+★☆☆   Nobel Prize
+   No·bel Prize / ˈnoˌbɛl ˈpraɪz ;  nəʊˌbel ˈpraɪz / 
+→noun [C] 
+1. one of six prizes given each year for important work in science, literature, ECONOMICS , or work towards world peace  诺贝尔奖
+
+
+
+————————————
+★☆☆   nobility
+   no·bil·i·ty / noˈbɪlətɪ ;  nəʊˈbɪləti / 
+→noun1. the nobility, the group of people in some countries who belong to the highest social class and have titles such as 'Duke' or 'Countess'  贵族（阶层）;
+   SYN the aristocracy 
+2. [U] the quality of being noble  崇高，高贵:
+the nobility of his intentions  他崇高的志向
+
+
+
+————————————
+★☆☆   noble
+   no·ble¹ / ˈnobl ;  ˈnəʊbəl / 
+→adjective1. morally good or generous in a way that is admired  高尚的，崇高的; 豁达的:
+It's very noble of you to spend all your weekends helping the old folk.  你心地真好，所有周末都用来帮助老人。
+noble ideals  崇高的理想
+2. [only before noun] belonging to the nobility  贵族的，显贵的:
+   noble family / blood / birth etc
+a member of an ancient noble family  古代贵族家庭成员
+The Marquis would have to marry a woman of noble blood.  那位侯爵必须和有贵族血统的女子结婚。
+3. something that is noble is very impressive and beautiful  宏伟的，堂皇的，壮丽的:
+the old church with its noble tower  有宏伟塔楼的老教堂
+4. noble gas / metal, [technical] a noble gas or metal is not affected chemically by other substances  惰性气体/贵金属
+⇨ BASE METAL 
+5. noble savage, [literary] someone who comes from a society that is less developed or interested in money than western countries, making them morally better than people who live in western countries  高尚的野蛮人
+   noble² 
+→noun [C] 
+1. a member of the highest social class with a title such as 'Duke' or 'Countess'  贵族〔如公爵或女伯爵〕
+⇨ COMMONER 
+
+
+

@@ -1,0 +1,4246 @@
+﻿————————————
+★☆☆   pro
+ / prəʊ /pro¹
+◙ (pl. -os), [informal] [非正式] 
+1. a professional, especially in sport  • 专业人员（尤指职业运动员）
+ »a tennis pro.  职业网球运动员。
+2. a prostitute  • 妓女
+◙ adjective
+1. (of a person or an event) professional  • （人，事件）专业的，职业的
+ »a pro golfer.  职业高尔夫球手。
+
+【语源】1. mid 19th cent.: abbreviationpro²
+◙ (pl. -os)
+1. [一般作 pros] an advantage of something or an argument in favour of a course of action  • 好处，益处；赞成的论点；赞成票；支持方
+ » the pros and cons of share ownership.  股票所有权的是与非。
+◙ preposition & adverb
+1. in favour of  • 赞成，支持
+ »[as prep.] they were pro the virtues of individualism.  他们赞同个人主义的长处。
+
+【语源】1. late Middle English (as a noun): from Latin, literally for, on behalf of'
+
+
+
+————————————
+★☆☆   PRO◙ for abbreviation
+1. Public Record Office  • 同 Public Record Office 
+  public relations officer  • 公共关系官员
+
+
+
+————————————
+★☆☆   pro-pro-¹
+◙ prefix
+1. favouring ; supporting  • 表示“亲”，“支持”
+ »pro-choice.
+2. acting as a substitute or deputy for  • 表示“副”，“代”
+ »proconsul.
+3. denoting motion forwards, out, or away  • 表示“向前”；“向外”；“离开”
+ »proceed.
+ »propel.
+ »prostrate.
+
+【语源】1. from Latin pro 'in front of, on behalf of, instead of, on account of'pro-²
+◙ prefix
+1. before in time, place, order, etc.  • 表示“先”，“前”
+ »proactive.
+ »prothalamium.
+
+【语源】1. from Greek pro 'before'
+
+
+
+————————————
+★☆☆   proa
+ / ˈprəuə /◙ (也作 prau 或 prahu), noun
+1. a type of sailing boat originating in Malaysia and Indonesia that may to be sailed with either end at the front,typically having a large triangular sail and an outrigger  • （马来西亚和印度尼西亚的）马来式帆船
+
+【语源】1. late 16th cent.: from Malay perahu
+
+
+
+————————————
+★☆☆   proactive
+ / ˌprəuˈæktiv /◙ adjective
+1. (of a person,policy,or action) creating or controlling a situation by causing something to happen rather than responding to it after it has happened  • （人，政策，行为）引发性的；积极的；主动的
+ »employers must take a proactive approach to equal pay.  主动找出并防止潜在问题。
+
+【派生】♦ proaction noun
+♦ proactively adverb
+♦ proactivity noun
+
+【语源】1. 1930s: from pro- (denoting earlier occurrence), on the pattern of reactive
+
+
+
+————————————
+★☆☆   proactive interference◙ (也作 proactive inhibition), noun
+1. [mass noun] [Psychology] the tendency of previously learned material to hinder subsequent learning  • [心理] 前摄干扰
+
+
+
+————————————
+★☆☆   pro-am
+ / ˈprəʊˌæm /◙ adjective
+1. (of a sports event) involving both professionals and amateurs  • （体育赛事）职业和业余运动员都参加的
+ »a pro-am golf tournament.  职业和业余运动员都参加的高尔夫锦标赛。
+◙ noun
+1. an event of this type  • 职业和业余运动员都参加的比赛
+
+
+
+————————————
+★☆☆   prob◙ noun
+1. [informal] a problem  • [非正式] 问题
+ »there's no prob.  没问题。
+
+【语源】1. 1930s: abbreviation
+
+
+
+————————————
+★☆☆   probabilistic
+ / ˌprɔbəbiˈlistik /◙ adjective
+1. based on or adapted to a theory of probability; subject to or involving chance variation  • 盖然性的；可能性的；或然性的
+ »the main approaches are either rule-based or probabilistic.  主要方法不是基于规则的就是盖然性的。
+
+【派生】♦ probabilistically adverb
+
+
+
+
+————————————
+★☆☆   probability
+ / ˌprɔbəˈbiliti /◙ (pl. -ies)
+1. [mass noun] the extent to which something is probable; the likelihood of something happening or being the case  • 可能性；或然性
+ »the rain will make the probability of their arrival even greater.  下雨使他们到来的可能性变得更大。
+  [count noun] a probable event  • 可能的事，或有的事
+ »for a time revolution was a strong probability.  革命曾经是很可能的事。
+  [count noun] the most probable thing  • 最有可能发生的事
+ »the probability is that it will be phased in over a number of years.  最有可能的是它将在若干年内分阶段被引入。
+  [Mathematics] the extent to which an event is likely to occur, measured by the ratio of the favourable cases to the whole number of cases possible  • [数] 概率
+ »the area under the curve represents probability.  曲线以下的部分代表概率。
+ »[count noun] a probability of 0.5.  0.5的概率。
+
+【IDIOMS】◘ in all probability
+1. used to convey that something is very likely  • 多半，很有可能；十有八九
+ »he would in all probability make himself known.  他十有八九会使自己为人所知。
+
+【语源】1. late Middle English: from Latin probabilitas, from probabilis 'provable, credible' (see probable )
+
+
+
+————————————
+★☆☆   probability density function◙ noun
+1. [Statistics] a function of a continuous random variable, whose integral across an interval gives the probability that the value of the variable lies within the same interval  • [统计] 概率函数；概率密度函数
+
+
+
+————————————
+★☆☆   probability distribution◙ noun
+1. [Statistics] a function of a discrete variable whose integral over any interval is the probability that the variate specified by it will lie within that interval  • [统计] 概率分布；概率函数
+
+
+
+————————————
+★☆☆   probability theory◙ noun
+1. [mass noun] the branch of mathematics that deals with quantities having random distributions  • 概率论
+
+
+
+————————————
+★☆☆   probable
+ / ˈprɔbəbl /◙ adjective
+1. [often with clause] likely to be the case or to happen  • 可能发生的；或然的
+ »it is probable that the economic situation will deteriorate further.  经济形势可能会进一步恶化。
+ »the probable consequences of his action.  他的行为可能导致的后果。
+◙ noun
+1. a person who is likely to become or do something, especially one who is likely to be chosen for a team  • 有希望入选的人（尤指成为队员）
+ »Merson and Wright are probables.  默森和赖特很有希望成为队员。
+  an aircraft recorded as likely to have been shot down  • 可能被击落的飞机
+
+【语源】1. late Middle English (in the sense 'worthy of belief'): via Old French from Latin probabilis, from probare 'to test, demonstrate'
+
+
+
+————————————
+★☆☆   probable cause◙ noun
+1. [mass noun] [Law, chiefly US] reasonable grounds (for making a search, preferring a charge,etc.）  • [律，主美] 合理根据
+
+
+
+————————————
+★☆☆   probably
+ / ˈprɔbəbli /◙ adverb
+1. [sentence adverb] almost certainly; as far as one knows or can tell  • 几乎可以肯定；很可能，大概；或许
+ »she would probably never see him again.  她恐怕再也不肯见他了。
+ »‘A bomb, do you think?’ ‘Probably.’.  “你认为是炸弹？”“很可能。”。
+
+
+
+————————————
+★☆☆   proband
+ / ˈprəubænd /◙ noun
+1. a person serving as the starting point for the genetic study of a family (used especially in medicine and psychiatry)  • （尤用于医学与精神病学）渊源者，先证者；基人（作为家庭遗传研究起源的人）
+
+【语源】1. 1920s: from Latin probandus 'to be proved', gerundive of probare 'to test'
+
+
+
+————————————
+★☆☆   probang
+ / ˈprəubæŋ /◙ noun
+1. [Medicine] a strip of flexible material with a sponge or tuft at the end, used to remove an object from the throat or apply medication to it  • [医] 除鲠器，食管探子
+
+【语源】1. mid 17th cent. (named provang by its inventor): perhaps an alteration suggested by probe
+
+
+
+————————————
+★☆☆   probate
+ / ˈprəʊˌbeɪt /◙ noun
+1. [mass noun] the official proving of a will  • 遗嘱验证，遗嘱检验
+ »the house has been valued for probate.  为作遗嘱验证，房子已经估过价了。
+ »[as modifier] a probate court.  遗嘱检验法庭。
+  [count noun] a verified copy of a will with a certificate as handed to the executors  • 遗嘱验证文件
+◙ verb
+1. [with obj.] [N. Amer.] establish the validity of (a will)  • [北美] 证实（遗嘱）的有效性
+
+【语源】1. late Middle English: from Latin probatum 'something proved', neuter past participle of probare 'to test, prove'
+
+
+
+————————————
+★☆☆   probation
+ / prəˈbeiʃən /◙ noun
+1. [mass noun] [Law] the release of an offender from detention, subject to a period of good behaviour under supervision  • [律] 缓刑（期）
+ »I went to court and was put on probation.  我上了法庭并被判缓刑。
+  the process of testing or observing the character or abilities of a person in a certain role,for example a new employee  • （新雇员等的）观察期；试用（期）
+ »for an initial period of probation your line manager will closely monitor your progress.  在试用初期，部门经理将密切关注你的进展。
+
+【派生】♦ probationary adjective
+
+【语源】1. late Middle English (denoting testing, investigation, or examination): from Old French probacion, from Latin probatio(n-), from probare 'to test, prove' (see prove ). The legal use dates from the late 19th cent
+
+
+
+————————————
+★☆☆   probationer
+ / prəˈbeiʃənə /◙ noun
+1. a person who is serving a probationary or trial period in a job or position to which they are newly appointed (such as a new teacher,nurse,or police constable)  • 试用人员；见习生
+2. an offender on probation  • 缓刑犯
+
+
+
+————————————
+★☆☆   probation officer◙ noun
+1. a person appointed to supervise offenders who are on probation  • 缓刑犯监护官
+
+
+
+————————————
+★☆☆   probative
+ / ˈprəubətiv /◙ adjective
+1. (chiefly Law)having the quality or function of proving or demonstrating something; affording proof or evidence  • [主律] 试验性的；探索性的，鉴定的
+ »it places the probative burden on the defendant.  它把鉴定责任交给了被告方。
+
+【语源】1. late Middle English (describing something that serves as a test): from Latin probativus, from probat- 'proved', from the verb probare (see prove )
+
+
+
+————————————
+★☆☆   probe
+ / prəub /◙ noun
+1. a blunt-ended surgical instrument used for exploring a wound or part of the body  • （钝头的）探针，探子
+  a small device, especially an electrode, used for measuring, testing, or obtaining information  • 探针，探头；探极
+  a projecting device for engaging in a drogue, either on an aircraft for use in in-flight refuelling or on a spacecraft for use in docking with another craft  • 空中加油受油探管；宇宙飞行器对接口
+2. [亦作space probe] an unmanned exploratory spacecraft designed to transmit information about its environment  • 航天探测器（用于传送周围环境信息的无人驾驶航天探测器）
+  an investigation into a crime or other matter  • （对犯罪等的）调查；查究；探查
+ »a probe intothe maritime industry by the FBI.  联邦调查局对海洋业的调查。
+◙ verb
+1. [with obj.] physically explore or examine (something) with the hands or an instrument  • 用手（或仪器）探查，调查
+ »hands probed his body from top to bottom.  一双手把他的身体从头到脚搜了个遍。
+  [no obj.] seek to uncover information about someone or something  • （对有关人或物的信息）探查，查究
+ »Beth had secured his promise that he would never probe intoher past.  贝思已经让他答应永远不打听她的过去。
+ »[with obj.] police are probing a nightwatchman's murder.  警察正在调查守夜人被害案。
+
+【派生】♦ prober noun
+♦ probingly adverb
+
+【语源】1. late Middle English (as a noun): from late Latin proba 'proof' (in medieval Latin 'examination'), from Latin probare 'to test'. The verb dates from the mid 17th cent
+
+
+
+————————————
+★☆☆   probenecid
+ / ˌprəˈbenəsid /◙ noun
+1. [mass noun] [Medicine] a synthetic sulphur-containing compound which promotes increased excretion of uric acid and is used to treat gout  • [医] 丙黄舒，羧苯磺胺，对二丙磺胺氨基苯甲酸
+
+【语源】1. 1950s: from pro(pyl) + ben(zoic) + -e- + (a)cid
+
+
+
+————————————
+★☆☆   probiotic
+ / prəˌbaiˈɔtik /◙ adjective
+1. denoting a substance which stimulates the growth of micro-organisms, especially those with beneficial properties (such as those of the intestinal flora)  • （物质）刺激微生物生长的（尤指有益微生物，如肠内菌丛）
+◙ noun
+1. a probiotic substance or preparation  • 促进微生物生长的物质（或制剂）
+  a micro-organism introduced into the body for its beneficial qualities  • （导入体内的）益生微生物，益生菌
+
+
+
+————————————
+★☆☆   probit
+ / ˈprɔbit /◙ noun
+1. [Statistics] a unit of probability based on deviation from the mean of a standard distribution  • [统计] 概率单位
+
+【语源】1. 1930s: from prob(ability un)it
+
+
+
+————————————
+★☆☆   probity
+ / ˈprəʊbɪti: /◙ noun
+1. [mass noun] [formal] the quality of having strong moral principles; honesty and decency  • [正式] 德行；笃实；诚实，正直
+ »financial probity.  钱财方面的诚实正直。
+
+【语源】1. late Middle English: from Latin probitas, from probus 'good'
+
+
+
+————————————
+★☆☆   problem
+ / ˈprɔbləm /◙ noun
+1. a matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome  • 问题，疑难问题
+ »they have financial problems.  他们面临财政困难。
+ »mental health problems.  心理健康问题。
+  a thing that is difficult to achieve or accomplish  • 难事；困难
+ »motivation of staff can also be a problem.  如何调动员工积极性也是棘手问题。
+2. [Physics & Mathematics] an inquiry starting from given conditions to investigate or demonstrate a fact, result, or law  • [物理，数] 习题；问题
+  [Geometry] a proposition in which something has to be constructed  • [几何] 作图题。
+--› compare theorem 
+  (in various games,especially chess) an arrangement of pieces in which the solver has to achieve a specified result  • （尤指国际象棋等）棋式，棋题，排局
+
+【IDIOMS】◘ have a problem with
+1. disagree with or have an objection to  • 不同意；反对
+ »I have no problem with shopping on Sundays.  我不反对星期天去购物。
+◘ no problem
+1. used to express one's agreement or acquiescence  • （表示同意、默许）没问题
+ »‘Can you come over here right away?’ ‘No problem.’.  “你能马上过来吗？”“没问题。”。
+◘ that's your ( 或 his, her 等) problem
+1. used to express one's lack of interest in or sympathy with the problems or misfortunes of another person  • （表示对他人的问题或不幸没兴趣、不同情）这是你的（他/她的）问题
+ »he'd made a mistake but that was his problem.  他出错了，可这是他自己的事。
+
+【语源】1. late Middle English (originally denoting a riddle or a question for academic discussion): from Old French probleme, via Latin from Greek problēma, from proballein 'put forth', from pro 'before' + ballein 'to throw'
+
+
+
+————————————
+★☆☆   problematic
+ / ˌprɔbləˈmætɪk /◙ adjective
+1. constituting or presenting a problem or difficulty  • 成问题的；有困难的
+ »the situation was problematic for teachers.  这种形势对老师来说是难处理的。
+◙ noun
+1. a thing that constitutes a problem or difficulty  • 成问题之事
+ »the problematics of artificial intelligence.  人工智能的各种问题。
+
+【派生】♦ problematical adjective
+♦ problematically adverb
+
+【语源】1. early 17th cent.: via French from late Latin problematicus, from Greek problēmatikos, from problēma (see problem )
+
+
+
+————————————
+★☆☆   problematize◙ (也作 -ise), verb
+1. [with obj.] make into or regard as a problem requiring a solution  • 把…作为问题，问题化
+ »he problematized the concept of history.  他把历史的概念当作问题。
+
+【派生】♦ problematization noun
+
+
+
+
+————————————
+★☆☆   problem child◙ noun
+1. a child with behavioural or other difficulties  • 问题儿童
+
+
+
+————————————
+★☆☆   pro bono publico
+ / prəʊ ˌbɔnəʊ ˈpʊblɪkəʊ, ˌbəʊnəʊ ˈpʌblɪkəʊ /◙ adverb & adjective
+1. for the public good  • 为了公共利益
+ »[as adv.] the burden they carried pro bono publico.  他们为公共利益所承受的负担。
+  [一般作 pro bono] (chiefly N. Amer.)denoting work undertaken for the public good without charge, especially legal work for a client on low income  • [主北美] 为公众利益无偿工作（尤指为低收入者提供法律服务）
+ »[as adv.] the attorneys are representing him pro bono.  这些律师免费做他的代理人。
+ »[as adj.] providing pro bono legal services.  提供免费的法律服务。
+
+【语源】1. Latin
+
+
+
+————————————
+★☆☆   Proboscidea
+ / ˌprɔbəˈsɪdɪə /◙ plural noun
+1. [Zoology] an order of large mammals that comprises the elephants and their extinct relatives. They are distinguished by the possession of a trunk and tusks  • [动] 长鼻目动物
+
+【派生】♦ proboscidean noun & adjective
+1. (也作 proboscidian)
+
+【语源】1. modern Latin (plural), from proboscis
+
+
+
+————————————
+★☆☆   proboscis
+ / prəʊˈbɔsɪs /◙ (pl. probosces -siːz, proboscides -sɪdiːz，或 proboscises)
+1. the nose of a mammal, especially when it is long and mobile such as the trunk of an elephant or the snout of a tapir  • （大象、貘等能自动伸缩的）长鼻子
+  [Entomology] (in many insects) an elongated sucking mouthpart that is typically tubular and flexible  • [昆] （许多昆虫的）喙，吻
+  [Zoology] (in some worms) an extensible tubular sucking organ  • [动] （某些蠕虫的）管形吮吸器官
+
+【语源】1. early 17th cent.: via Latin from Greek proboskis 'means of obtaining food', from pro 'before' + boskein ('cause to) feed'
+
+
+
+————————————
+★☆☆   proboscis monkey◙ noun
+1. a leaf-eating monkey native to the forests of Borneo, the male of which is twice the weight of the female and has a large pendulous nose  • 长鼻猴
+2. Nasalis larvatus, family Cercopithecidae  • 拉丁名Nasalis larvatus，猴科
+
+
+
+————————————
+★☆☆   proboscis worm◙ noun
+1. another term for ribbon worm  • 同 ribbon worm 
+
+
+
+————————————
+★☆☆   procaine
+ / ˈprəukein , prəuˈkein /◙ noun
+1. [mass noun] a synthetic compound derived from benzoic acid, used as a local anaesthetic, especially in dentistry  • 普鲁卡因（局部麻醉药，尤用于牙科）
+
+【语源】1. early 20th cent.: from pro- (denoting substitution) + -caine (from cocaine)
+
+
+
+————————————
+★☆☆   procaine penicillin◙ noun
+1. [mass noun] [Medicine] a slow-acting antibiotic made from a salt of procaine and a form of penicillin  • [医] 普鲁卡因青霉素
+
+
+
+————————————
+★☆☆   procaryote
+ / prəˈkæriəut /◙ noun
+1. variant spelling of prokaryote  • 同 prokaryote 
+
+
+
+————————————
+★☆☆   procedure
+ / prəˈsi:dʒə /◙ noun
+1. an established or official way of doing something  • 程序
+ »the police are now reviewing procedures.  警察在重新检讨有关程序。
+ »[mass noun] rules of procedure.  程序规则。
+  a series of actions conducted in a certain order or manner  • 手续；步骤
+ »the standard procedure for informing new employees about conditions of work.  让新员工了解工作情况的标准步骤。
+  a surgical operation  • 外科手术
+ »the procedure is carried out under general anaesthetic.  该手术是在全麻情况下进行的。
+  [Computing] . another term for subroutine  • [计算机] 同 subroutine 
+
+【派生】♦ procedural adjective
+♦ procedurally adverb
+
+【语源】1. late 16th cent.: from French procédure, from procéder (see proceed )
+
+
+
+————————————
+★☆☆   proceed
+ / prəˈsi:d /◙ verb, [no obj.] 
+1. begin a course of action  • 开始行动；进行；开展
+ »the consortium could proceed with the plan.  这一财团可以启动那计划了。
+  [no obj., with adverbial of direction] move forward,especially after reaching a certain point  • （尤指达到某一点后）进而做；继续
+ »from the High Street, proceed over Magdalen Bridge.  从主要大街往前走过马格德伦桥。
+  [with infinitive] do something as a natural or seemingly inevitable next step  • 继续，接下去
+ »opposite the front door was a staircase which I proceeded to climb.  前门对面是我接着要爬的楼梯。
+  [Law] start a lawsuit against someone  • [律] 起诉人；诉讼
+ »he may still be able to proceed against the contractor under the common law negligence rules.  他仍然可以根据普通法过失行为条例起诉承包商。
+  (of an action)be started  • （行动）已开始；进行
+ »negotiations must proceed without delay.  谈判必须紧锣密鼓地进行。
+  (of an action) be carried on or continued  • 行动）进行；继续
+ »as the excavation proceeds the visible layers can be recorded and studied.  随着挖掘的进展，就可以对可见层做记录和研究。
+  [Brit. dated] advance to a higher rank, status, or education  • [英，旧] 晋升，（教育方面）升学，升级
+ »he did not proceed to university in his seventeenth year.  他十七岁时没有升入大学。
+  originate from  • 来自，出自
+ »his claim that all power proceeded from God.  他那一切力量来自上帝的断言。
+
+【语源】1. late Middle English: from Old French proceder, from Latin procedere, from pro- 'forward' + cedere 'go'
+
+
+
+————————————
+★☆☆   proceedings◙ plural noun
+1. an event or a series of activities involving a formal or set procedure  • （正式或固定步骤的）事件，进程；过程
+ »you complete a form to start proceedings.  你先把表格填好就可启动事件进程了。
+  [Law] action taken in a court to settle a dispute  • [律] 诉讼；诉讼程序
+ »criminal proceedings were brought against him.  对他提出了刑事诉讼。
+  a published report of a set of meetings or a conference  • 会议公报
+
+
+
+————————————
+★☆☆   proceeds
+ / ˈprəʊsi:dz /◙ plural noun
+1. money obtained from an event or activity  • （从事件或活动中获得的）收益，收入
+ »proceeds from the event will go to aid the work of the charity.  该活动的收入将用于资助此慈善团体。
+
+【语源】1. early 17th cent.: plural of the obsolete noun proceed, in the same sense, earlier meaning 'procedure'
+
+
+
+————————————
+★☆☆   process
+ / ˈprəuses /process¹
+◙ noun
+1. a series of actions or steps taken in order to achieve a particular end  • 步骤，程序；方法
+ »military operations could jeopardize the peace process.  军事行动可能危害和平进程。
+  a natural or involuntary series of changes  • （自然或偶然的）变化过程
+ »the ageing process.  衰老过程。
+  a systematic series of mechanized or chemical operations that are performed in order to produce or manufacture something  • 加工；工序
+ »the modern block printer needs to accommodate all the traditional factory processes in one shop.  如今的刻版印刷商必须在一个车间里容纳所有传统工序。
+  [as modifier] [Printing] relating to or denoting printing using ink in three colours (cyan, magenta, and yellow) and black to produce a complete range of colour  • [印刷] 三原色的；三色版的
+ »process inks.  三色油墨。
+2. [Law] a summons or writ requiring a person to appear in court  • [律] 传票
+3. [Biology & Anatomy] a natural appendage or outgrowth on or in an organism, such as a protuberance on a bone  • [生，剖] 端突，突起
+◙ verb, [with obj.] 
+1. perform a series of mechanical or chemical operations on (something) in order to change or preserve it  • 对…进行加工
+ »the various stages in processing the wool.  羊毛加工的各个阶段。
+  [Computing] operate on (data) by means of a program  • [计算机] 处理（数据）
+  deal with (someone) using an official and established procedure  • （按正式程序）处理（某人）；审核，检查
+ »the immigration authorities who processed him.  对他进行审核的移民当局。
+
+【IDIOMS】◘ be in the process of doing something
+1. be continuing with an action already started  • 在…的进程中
+ »a hurricane that was in the process of devastating South Carolina.  正在肆虐南卡罗来纳州的飓风。
+◘ in the process
+1. as an unintended part of a course of action  • 在此过程中（表示一种未想到或不希望的情况）
+ »she would make him pay for this, even if she killed herself in the process.  她一定要让他为此付出代价，哪怕在此过程中自己可能会丧命。
+◘ in process of time
+1. as time goes on  • 随着时间的推移，逐渐
+
+【派生】♦ processable adjective
+
+【语源】1. Middle English: from Old French proces, from Latin processus 'progression, course', from the verb procedere (see proceed ). Current senses of the verb date from the late 19th centprocess²
+◙ verb
+1. [no obj., with adverbial of direction] walk or march in procession  • 列队行进
+ »they processed down the aisle.  他们列队穿过通道。
+
+【语源】1. early 19th cent.: back-formation from procession
+
+
+
+————————————
+★☆☆   process engineering◙ noun
+1. [mass noun] the branch of engineering that is concerned with industrial processes, especially continuous ones such as the production of petrochemicals  • 程序工程学，工艺过程学
+
+【派生】♦ process engineer noun
+
+
+
+
+————————————
+★☆☆   procession
+ / prəˈseʃən /◙ noun
+1. a number of people or vehicles moving forward in an orderly fashion,especially as part of a ceremony or festival  • （尤指作为仪式、庆祝的）游行队伍；行列
+ »a funeral procession.  送葬行列。
+  [mass noun] the action of moving forward in such a way  • 游行，列队行进
+ »the fully robed civic dignitaries walk in procession.  礼袍在身的城中显要列队前行。
+  a race in which the competitors finish well spaced out as if in a procession  • （到终点时竞赛者之间距离拉得很开的）竞争不激烈的赛跑
+  (figurative)a relentless succession of people or things  • [喻] 连续；一（长）列，一（长）排
+ »magistrates complain that they see a procession of recidivist minor offenders.  地方官员抱怨说他们看见一长串重新犯罪的轻犯。
+2. [mass noun] [Theology] the emanation of the Holy Spirit  • [神学] 圣灵流出
+
+【派生】♦ processionist noun
+
+【语源】1. late Old English, via Old French from Latin processio(n-), from procedere 'move forward' (see proceed )
+
+
+
+————————————
+★☆☆   processional
+ / prəˈseʃənl /◙ adjective
+1. of,for,or used in a religious or ceremonial procession  • （在宗教仪式中）列队行进的；列队行进时用的
+ »a processional cross.  游行时使用的十字架。
+◙ noun
+1. a book containing litanies and hymns for use in religious processions  • （包含祈祷文、赞美诗的）列队行进礼仪书
+
+
+
+————————————
+★☆☆   processionary◙ (pl. -ies), [亦作processionary moth] 
+1. a greyish moth whose caterpillars live communally in silken tents in trees,marching out at night in single file or broader processions to feed,causing substantial damage to trees  • 欧洲带蛾
+2. Family Thaumetopoeidae: several species, in particular the European pine processionary [Thaumetopoea pityocampa]  • 带蛾科： 数种，尤指欧洲松异舟蛾（拉丁名Thaumetopoea pityocampa）
+  (也作 processionary caterpillar)the larva of this moth  • 欧洲带蛾的幼虫
+
+
+
+————————————
+★☆☆   processor
+ / ˈprɔsˌesə , ˈprəʊˌses- /◙ noun
+1. a machine that processes something  • 处理器
+ »the processor overexposed the film.  处理器使得胶卷过度曝光。
+  [Computing] . another term for central processing unit  • [计算机] 同 central processing unit 
+  short forfood processor  • food processor 的简称
+
+
+
+————————————
+★☆☆   process server◙ noun
+1. a sheriff's officer who serves writs; a bailiff  • 传票送达员；法警
+
+
+
+————————————
+★☆☆   processual
+ / prəˈsɛsjʊəl /◙ adjective
+1. relating to or involving the study of processes rather than discrete events  • （与）研究过程（而非孤立事件）（有关）的
+
+
+
+————————————
+★☆☆   process water◙ noun
+1. [mass noun] water used in an industrial process  • 工业用水
+
+
+
+————————————
+★☆☆   prochlorperazine
+ / ˌprəˌklɔ:ˈperəzi:n /◙ noun
+1. [mass noun] [Medicine] a synthetic compound derived from phenothiazine, used as a tranquillizer  • [医] 甲哌氯丙嗪（镇静剂）
+
+【语源】1. 1950s: from pro(pyl) + chlor(ine) + (pi)perazine
+
+
+
+————————————
+★☆☆   pro-choice
+ / prəuˈtʃɔis /◙ adjective
+1. advocating the legal right of a woman to choose whether or not she will have an abortion  • 保护选择权的（支持妇女自己选择是否堕胎）
+ »a pro-choice demonstration.  支持自己选择是否流产者的示威游行。
+
+【派生】♦ pro-choicer noun
+
+
+
+
+————————————
+★☆☆   proclaim
+ / prəˈkleim /◙ verb
+1. [with clause] announce officially or publicly  • （正式）宣告；（公开）声明
+ »the joint manifesto proclaimed that imperialism would be the coalition's chief objective.  联合宣言声明帝国主义是该联盟的主要目标。
+ »[with obj.] army commanders proclaimed a state of emergency.  陆军指挥官宣布进入紧急状态。
+  declare (something one considers important) with due emphasis  • 强调；声称
+ »she proclaimed that what I had said was untrue.  她声称我说的不是事实。
+ »[with obj. and infinitive] he proclaimed the car to be in sound condition.  他声明车况很好。
+  [with obj. and complement] declare officially or publicly to be  • 正式公布…为
+ »he proclaimed King James III as King of England.  他宣布詹姆斯三世为英格兰国王。
+  [with obj.] demonstrate or indicate clearly  • 清楚地显示，表明
+ »his high,intelligent forehead proclaimed a strength of mind that was almost tangible.  他那高高的、智者的前额清晰地展示出一种几乎可触摸到的思维力量。
+ »[with obj. and complement] he had a rolling gait that proclaimed him a man of the sea.  他走路时摇晃的步态表明他是个海员。
+
+【派生】♦ proclaimer noun
+♦ proclamatory adjective
+
+【语源】1. late Middle English proclame, from Latin proclamare 'cry out', from pro- 'forth' + clamare 'to shout'. The change in the second syllable was due to association with the verb claim
+
+
+
+————————————
+★☆☆   proclamation
+ / ˌprɔkləˈmeɪʃən /◙ noun
+1. a public or official announcement,especially one dealing with a matter of great importance  • （尤指涉及重大事件的）公告；布告；宣言；声明
+ »the issuing by the monarch of a proclamation dissolving Parliament.  君主发布的解散议会的公告。
+  [mass noun] the public or official announcement of such a matter  • 正式宣布；广泛宣告
+ »the government restricted the use of water by proclamation.  政府通过发布公告的形式限制用水。
+  a clear declaration of something  • 宣称；声明
+ »they often make proclamations about their heterosexuality.  他们经常公然声明自己的异性爱行为。
+
+【语源】1. late Middle English: via Old French from Latin proclamatio(n-), from proclamare 'shout out' (see proclaim )
+
+
+
+————————————
+★☆☆   proclitic
+ / prəuˈklitik /əɚinguistics] ə语言学] 
+◙ noun
+1. a word pronounced with so little emphasis that it is shortened and forms part of the following word, e.g. at in at home  • 重读词前词，连接发音词（如at home 中的at）。
+--› compare enclitic 
+◙ adjective
+1. being or relating to such a word  • 重读词前词的
+
+【派生】♦ proclitically adverb
+
+【语源】1. mid 19th cent.: from modern Latin procliticus (from Greek proklinein 'lean forward'), on the pattern of late Latin encliticus (see enclitic )
+
+
+
+————————————
+★☆☆   proclivity
+ / prəʊˈklɪvɪti: /◙ (pl. -ies)
+1. a tendency to choose or do something regularly; an inclination or predisposition towards a particular thing  • 倾向；癖性
+ »a proclivity for hard work.  对辛勤工作的癖好。
+
+【语源】1. late 16th cent.: from Latin proclivitas, from proclivis 'inclined', from pro- 'forward, down' + clivus 'slope'
+
+
+
+————————————
+★☆☆   Procne
+ / ˈprɔkni /əGreek Mythology] 
+1. the sister of Philomel  • [希腊神话] 普洛克涅（菲洛梅拉之姐）
+
+
+
+————————————
+★☆☆   procoagulant
+ / ˌprəukəuˈæɡjulənt /əɑiochemistry] ə生化] 
+◙ adjective
+1. relating to or denoting substances that promote the conversion in the blood of the inactive protein prothrombin to the clotting enzyme thrombin  • 促凝血的
+◙ noun
+1. a substance of this kind  • 前凝血质，促凝剂
+
+
+
+————————————
+★☆☆   proconsul
+ / prəuˈkɔnsəl /◙ noun
+1. a governor of a province in ancient Rome, having much of the authority of a consul  • （古罗马共和国的）行省总督
+2. a governor or deputy consul of a modern colony  • （现代殖民地的）总督；代理领事
+
+【派生】♦ proconsular adjective
+♦ proconsulate noun
+♦ proconsulship noun
+
+【语源】1. from Latin pro consule ('one acting) for the consul'
+
+
+
+————————————
+★☆☆   Proconsul
+ / prəʊˈkɔns(ə)l /◙ noun
+1. a fossil hominoid primate found in Lower Miocene deposits in East Africa, one of the last common ancestors of both humans and the great apes  • 普罗猿（非洲东部中新世岩层中发现的类人猿化石，是人类和巨猿最晚的共同祖先之一）
+2. Genus Proconsul, family Pongidae  • 普罗猿属，猩猩科
+
+
+
+————————————
+★☆☆   Procopius
+ / prəˈkəʊpɪəs /1. (c.ˈ00–c.ˈ62), ɑyzantine historian, born in ɔaesarea in Palestine. He accompanied ʊustinian's general ɑelisarius on his campaigns between ˈ2ˌ and ˈ40. His principal works are the History of the θars of ʊustinian and On ʊustinian's ɑuildings  • 普罗科匹厄斯（约公元500–约562，拜占庭历史学家，生于巴勒斯坦的恺撒利亚，527至562年间随查士丁尼一世的贝利萨留将军出征；主要作品有： 《查士丁尼皇帝征战史》和《论查士丁尼皇帝的建筑物》）
+
+
+
+————————————
+★☆☆   procrastinate
+ / prəʊˈkræstəˌneɪt , prə- /◙ verb
+1. [no obj.] delay or postpone action; put off doing something  • 耽搁；延期，推迟
+ »the temptation will be to procrastinate until the power struggle plays itself out.  诱惑将是一直拖到权力斗争无力再进行下去为止。
+
+【派生】♦ procrastination noun
+♦ procrastinator noun
+♦ procrastinatory adjective
+
+【语源】1. late 16th cent.: from Latin procrastinat- 'deferred till the morning', from the verb procrastinare, from pro- 'forward' + crastinus 'belonging to tomorrow' (from cras 'tomorrow')
+
+【用法】1. On the difference between procrastinate and prevaricate, see usage at prevaricate
+
+
+
+————————————
+★☆☆   procreate
+ / ˈprəʊkri:ˌeɪt /◙ verb
+1. [no obj.] (of people or animals) produce young; reproduce  • （人，动物）生育；生殖，繁殖
+ »species that procreate by copulation.  以交媾形式繁殖后代的物种。
+
+【派生】♦ procreant adjective
+1. (archaic)[古] 
+♦ procreation noun
+♦ procreative adjective
+♦ procreator noun
+
+【语源】1. late Middle English: from Latin procreat- 'generated, brought forth', from the verb procreare, from pro- 'forth' + creare 'create'
+
+
+
+————————————
+★☆☆   Procrustean
+ / prəʊˈkrʌstɪən /◙ adjective
+1. (especially of a framework or system) enforcing uniformity or conformity without regard to natural variation or individuality  • （尤指结构，制度）强求一致的；削足适履的；迫使就范的
+ »a fixed Procrustean rule.  一条刻板地强求一致的规则。
+
+【语源】1. mid 19th cent.: from the name Procrustes + -an
+
+
+
+————————————
+★☆☆   Procrustes
+ / prəuˈkrʌsti:z /əGreek Mythology] 
+1. a robber who forced travellers to lie on a bed and made them fit it by stretching their limbs or cutting off the appropriate length of leg. ðheseus killed him in like manner  • [希腊神话] 普罗克汝斯忒斯（一强盗，他强迫旅客躺在床上，将矮者拉长，或将高者截短以与床长相当；忒修斯以同样的方式将其杀死）
+
+【语源】1. from Greek prokroustēs, literally 'stretcher', from prokrouein 'beat out'
+
+
+
+————————————
+★☆☆   proctitis
+ / prɔkˈtaitis /◙ noun
+1. [mass noun] [Medicine] inflammation of the rectum and anus  • [医] 直肠炎
+
+【语源】1. early 19th cent.: from Greek prōktos 'anus' + -itis
+
+
+
+————————————
+★☆☆   proctology
+ / prɔkˈtɔlədʒi /◙ noun
+1. [mass noun] the branch of medicine concerned with the anus and rectum  • 直肠病学
+
+【派生】♦ proctological adjective
+♦ proctologist noun
+
+【语源】1. late 19th cent.: from Greek prōktos 'anus' + -logy
+
+
+
+————————————
+★☆☆   proctor
+ / ˈprɔktə /◙ noun
+1. [Brit.] an officer (usually one of two) at certain universities, appointed annually and having mainly disciplinary functions  • [英] 大学学监
+2. [N. Amer.] an invigilator at a university or college examination  • [北美] 大学监考人员
+3. (in the Church of England) an elected representative of the clergy in the convocation of Canterbury or York  • （英国国教会的）教士代表
+  (historical)a qualified practitioner of law in ecclesiastical and certain other courts  • [史] （教会法庭及某些其他法庭）代诉人；代理人。
+--› see Queen's Proctor 
+◙ verb
+1. [N. Amer.] [with obj.] invigilate (an examination)  • [北美] 监（考）
+
+【派生】♦ proctorial adjective
+♦ proctorship noun
+
+【语源】1. late Middle English: contraction of procurator
+
+
+
+————————————
+★☆☆   proctoscope
+ / ˈprɔktəskəup /◙ noun
+1. a medical instrument with an integral lamp for examining the anus and lower part of the rectum or carrying out minor medical procedures  • 直肠镜
+
+【派生】♦ proctoscopy noun
+
+【语源】1. late 19th cent.: from Greek prōktos 'anus' + -scope
+
+
+
+————————————
+★☆☆   procumbent
+ / prəuˈkʌmbənt /◙ adjective
+1. [Botany] (of a plant or stem) growing along the ground without throwing out roots  • [植] （植物，茎）爬地的，匍匐的，平铺的
+
+【语源】1. mid 17th cent.: from Latin procumbent- 'falling forwards', from the verb procumbere, from pro- 'forwards, down' + a verb related to cubare 'to lie'
+
+
+
+————————————
+★☆☆   procuracy
+ / ˈprɔkjurəsi /◙ (pl. -ies)
+1. the position or office of a procurator  • 代理人职务（或职责）
+
+
+
+————————————
+★☆☆   procuration
+ / ˌprɔkjuəˈreiʃən /◙ noun
+1. [mass noun] [Law, dated] the appointment, authority, or action of an attorney  • [律，旧] （律师的）委任；代理权
+  (archaic)the action of procuring or obtaining something  • [古] 取得，获得
+
+【语源】1. late Middle English: via Old French from Latin procuratio(n-), from procurare 'attend to, take care of' (see procure )
+
+
+
+————————————
+★☆☆   procurator
+ / ˈprɔkjuəreitə /◙ noun
+1. [Law] an agent representing others in a court of law in countries retaining Roman civil law  • [律] （保留罗马民法的国家的）代诉人；代理人
+  (in Scotland) a lawyer practising before the lower courts  • [苏格兰] 地方法庭的出庭律师
+  (historical)a treasury officer in a province of the Roman Empire  • [史] （古罗马帝国的）行省财务长官
+
+【派生】♦ procuratorial adjective
+♦ procuratorship noun
+
+【语源】1. Middle English (denoting a steward): from Old French procuratour or Latin procurator 'administrator, finance agent', from procurat- 'taken care of', from the verb procurare (see procure )
+
+
+
+————————————
+★☆☆   procurator fiscal◙ noun
+1. (in Scotland) a local coroner and public prosecutor  • [苏格兰] 地方检察官（有时兼验尸官）
+
+
+
+————————————
+★☆☆   procure
+ / prəʊˈkjʊə , prə- /◙ verb, [with obj.] 
+1. obtain (something), especially with care or effort  • （尤指费心、费力地）取得；获得
+ »food procured for the rebels.  为叛军谋得的食物。
+ »[with two objs] he persuaded a friend to procure him a ticket.  他说服一位朋友帮他弄了张票。
+  obtain (someone) as a prostitute for another person  • 为某人拉皮条；给（某人）做淫媒
+ »men who haunted railway stations to procure young girls for immoral purposes.  在火车站出没专找年轻女郎拉皮条的男人。
+2. [with obj. and infinitive] [Law] persuade or cause (someone) to do something  • [律] 说服；使（某人）做某事
+ »he procured his wife to sign the mandate for the joint account.  他说服妻子在联合账户上签了私人财产委托说明。
+  (archaic or Law)cause (something) to happen  • [古，律] 使（某事）发生；导致
+ »he was charged with procuring the deaths of the Earl of Lancaster and other nobles.  他被指控导致兰开斯特伯爵和其他贵族死亡。
+
+【派生】♦ procurable adjective
+♦ procurement noun
+
+【语源】1. Middle English: from Old French procurer, from Latin procurare 'take care of, manage', from pro- 'on behalf of' + curare 'see to'
+
+
+
+————————————
+★☆☆   procurement
+ / prəˈkjʊəment /◙ noun
+1. [mass noun] the action of obtaining or procuring something  • 取得；获得
+ »financial assistance for the procurement of legal advice.  获得法律帮助的财政资助。
+ »[count noun] the company's procurements from foreign firms.  该公司从外国公司取得的收益。
+  the action or occupation of acquiring military equipment and supplies  • （军事设备和军需品的）采办，采购；获得
+ »defence procurement.  国防采办。
+
+
+
+————————————
+★☆☆   procurer
+ / prəˈkjuərə /◙ noun
+1. a person who obtains a woman as a prostitute for another person  • 拉皮条者；做淫媒者
+2. [Law] a person who causes someone to do something or something to happen  • [律] 幕后挑动者；唆使者
+
+【语源】1. late Middle English (denoting a steward): from Anglo-Norman French procurour, from Latin procurator (see procurator ). Sense 1 dates from the mid 17th cent
+
+
+
+————————————
+★☆☆   procuress
+ / prəuˈkjuəris /◙ noun
+1. a female procurer  • 老鸨；做淫媒的女人
+
+
+
+————————————
+★☆☆   Procyon
+ / ˈprəusiɔn /əæstronomy] 
+1. the eighth-brightest star in the sky, and the brightest in the constellation ɔanis Minor  • [天文] 南河三
+
+【语源】1. Greek, literally before the dog' (because it rises before Sirius, the Dog Star)
+
+
+
+————————————
+★☆☆   procyonid
+ / ˌprəʊsɪˈɔnɪd, -saɪ- /◙ noun
+1. [Zoology] a mammal of the raccoon family [Procyonidae]  • [动] 浣熊类动物（浣熊科）
+
+【语源】1. early 20th cent.: from modern Latin Procyonidae (plural), from the genus name Procyon (see Procyon )
+
+
+
+————————————
+★☆☆   procès-verbal
+ / prɔˈsevɜ:ˈbɑ:l /◙ (pl. procès-verbaux)
+1. a written report of proceedings  • 会议记录；议事录
+  a written statement of facts in support of a charge  • 案件笔录；案件书面说明
+
+【语源】1. mid 17th cent.: French
+
+
+
+————————————
+★☆☆   prod
+ / prɔd /◙ (prodded, prodding)
+1. [with obj.] poke (someone) with a finger, foot, or pointed object  • （用手指、脚、尖物）刺，戳，捅
+ »he prodded her in the ribs to stop her snoring.  他捅捅她的肋部以制止她打呼噜。
+ »[no obj.] he took up a fork and prodded at the food.  他拿起叉子戳戳弄弄那食物。
+  stimulate or persuade (someone who is reluctant or slow) to do something  • 刺激（或劝说）（不情愿或行动缓慢的人）做某事；激励
+ »he has been trying to prod the White House into launching an anti-poverty programme.  他一直试图劝说白宫发起一场反贫困运动。
+◙ noun
+1. a poke with a finger, foot, or pointed object  • 刺，戳，捅
+ »he gave the wire netting an experimental prod.  他朝铁丝网试捅了一下。
+  an act of stimulating or reminding someone to do something  • 刺激；提醒
+ »you need a gentle prod to remind you that life is only what you make it.  你需要一点提醒： 生活是你自身行动的结果。
+2. a pointed implement, typically one discharging an electric current and used as a goad  • 尖器（尤指电棒）
+ »a cattle prod.  赶牛棒。
+
+【IDIOMS】◘ on the prod
+1. [N. Amer. informal] looking for trouble  • [北美，非正式] 惹事的
+ »a gangster on the prod.  想惹起事端的歹徒。
+
+【派生】♦ prodder noun
+
+【语源】1. mid 16th cent. (as a verb): perhaps symbolic of a short poking movement, or a blend of poke and dialect brod 'to goad, prod'. The noun dates from the mid 18th cent
+
+
+
+————————————
+★☆☆   Prod◙ noun
+1. (informal, offensive)(especially in Ireland) a Protestant  • [非正式，冒犯] （尤指在爱尔兰）新教徒
+
+【语源】1. 1940s: abbreviation representing a pronunciation
+
+
+
+————————————
+★☆☆   Proddie◙ (也作 Proddy), (pl. -ies)
+1. (informal, offensive)(especially in Ireland) a Protestant  • [非正式，冒犯] （尤指爱尔兰的）新教徒
+
+
+
+————————————
+★☆☆   pro Deo
+ / prəʊ ˈdeɪəʊ /◙ adjective & adverb
+1. [Law, S. African] (with reference to legal representation of someone accused of a capital offence and unable to afford counsel) with legal costs paid by the state at the instruction of the court  • [律南非] （指为雇不起律师的死刑犯提供的、费用由国家承担的）代诉；辩护
+ »[as adv.] the counsel defended him pro Deo.  这名律师由国家付费为他辩护。
+ »[asadj.] pro Deo counsel.  国家付费的律师。
+  free of charge  • 免费的
+ »[as adv.] who'd work pro Deo in this day and age?  这个时代有谁愿意免费工作？
+
+【语源】1. Latin, literally for God'
+
+
+
+————————————
+★☆☆   prodigal
+ / ˈprɔdɪgəl /◙ adjective
+1. spending money or resources freely and recklessly; wastefully extravagant  • 挥霍的；奢侈的，铺张的
+ »prodigal habits die hard.  奢侈的习惯很难改掉。
+2. having or giving something on a lavish scale  • 慷慨的，不吝惜的
+ »the dessert was crunchy with brown sugar and prodigal with whipped cream.  这种甜点用红糖制成，很松脆，而且浇了很多掼奶油。
+◙ noun
+1. a person who spends money in a recklessly extravagant way  • 挥霍者，奢侈的人
+  (也作 prodigal son 或 daughter)a person who leaves home and behaves in such a way, but later makes a repentant return  • 回头的浪子（或挥霍的女儿）
+
+【派生】♦ prodigality noun
+♦ prodigally adverb
+
+【语源】1. late Middle English: from late Latin prodigalis, from Latin prodigus 'lavish'
+
+
+
+————————————
+★☆☆   prodigious
+ / prəˈdɪdʒəs /◙ adjective
+1. remarkably or impressively great in extent, size, or degree  • （范围，规模，程度）巨大的，庞大的
+ »the stove consumed a prodigious amount of fuel.  这种炉子消耗大量燃料。
+2. (archaic)unnatural or abnormal  • [古] 不自然的；不正常的
+ »rumours of prodigious happenings, such as monstrous births.  诸如生怪胎等不正常事件的谣言。
+
+【派生】♦ prodigiously adverb
+♦ prodigiousness noun
+
+【语源】1. late 15th cent. (in the sense 'portentous'): from Latin prodigiosus, from prodigium 'portent' (see prodigy )
+
+
+
+————————————
+★☆☆   prodigy
+ / ˈprɔdidʒi /◙ (pl. -ies)
+1. [often with modifier] a person, especially a young one, endowed with exceptional qualities or abilities  • （尤指年幼的）奇才，天才，神童
+ »a Russian pianist who was a child prodigy in his day.  一位曾是神童的俄国钢琴家。
+  an impressive or outstanding example of a particular quality  • 奇迹；奇物，奇观
+ »Germany seemed a prodigy of industrial discipline.  德国似乎是工业纪律的奇迹。
+  an amazing or unusual thing, especially one out of the ordinary course of nature  • 奇事；异兆
+ »omens and prodigies abound in Livy's work.  利维的作品充满异兆与奇事。
+
+【语源】1. late 15th cent. (denoting something extraordinary considered to be an omen): from Latin prodigium 'portent'
+
+
+
+————————————
+★☆☆   prodromal
+ / prəuˈdrəuməl /◙ adjective
+1. [Medicine] relating to or denoting the period between the appearance of initial symptoms and the full development of a rash or fever  • [医] 前驱的，有前驱症状的
+
+
+
+————————————
+★☆☆   prodrome
+ / ˈprəudrəum /◙ noun
+1. [Medicine] an early symptom indicating the onset of a disease or illness  • [医] 前驱，前驱症状
+
+【派生】♦ prodromic adjective
+
+【语源】1. early 17th cent.: from French, from modern Latin prodromus, from Greek prodromos 'precursor', from pro 'before' + dromos 'running'
+
+
+
+————————————
+★☆☆   prodrug
+ / ˈprəʊˌdrʌg /◙ noun
+1. a biologically inactive compound which can be metabolized in the body to produce a drug  • 药物前体，前药
+
+
+
+————————————
+★☆☆   produce
+ / prəˈdju:s /◙ verb, [with obj.] 
+1. make or manufacture from components or raw materials  • （用部件或原材料）生产；制造
+ »the company have just produced a luxury version of the aircraft.  该公司刚刚制造出一种豪华型的这种飞机。
+  (of a region,country,or process) yield,grow,or supply  • （地区，国家，工序）出产，种植；供应
+ »the vineyards in the Val d'Or produce excellent wines.  瓦勒多的葡萄园出产优质葡萄酒。
+  create or form (something) as part of a physical, biological, or chemical process  • 生育；生长
+ »the plant produces blue flowers in late autumn.  这种植物在深秋时节开蓝色花。
+  make (something) using creative or mental skills  • 创作，创造
+ »the garden where the artist produced many of his flower paintings.  该艺术家利用来创作他多幅花卉油画的花园。
+2. cause (a particular result or situation) to happen or come into existence  • 引起；产生；招致
+ »no conventional drugs had produced any significant change.  任何一种常规药都没能引起大的变化。
+3. show or provide (something) for consideration, inspection, or use  • 出示
+ »he produced a sheet of paper from his pocket.  他从口袋里掏出一张纸。
+4. administer the financial and managerial aspects of (a film or broadcast) or the staging of (a play, opera, etc.)  • 制作（电影，广播）；导演（戏剧，歌剧等）；播放；播送
+  supervise the making of a (musical recording),especially by determining the overall sound  • 监制（音乐磁带）
+5. [Geometry, dated] extend or continue (a line)  • [几何旧] 使（线段）延长
+ »one side of the triangle was produced.  三角形的另一条边被延长了。
+◙ noun
+1. [mass noun] things that have been produced or grown,especially by farming  • （尤指农产品）产品；物产
+ »dairy produce.  奶产品。
+  the result of something,especially a person's work or efforts  • （尤指某人工作或努力的）成果，结果
+ »the work was in some degree the produce of their joint efforts.  从某种程度上说，这是他们共同努力的结果。
+
+【派生】♦ producibility noun
+♦ producible adjective
+
+【语源】1. late Middle English (in sense 3 of the verb): from Latin producere, from pro- 'forward' + ducere 'to lead'. Current noun senses date from the late 17th cent
+
+
+
+————————————
+★☆☆   producer
+ / prəˈdu:sə , -ˈdju:- , prəʊ- /◙ noun
+1. a person, company, or country that makes, grows, or supplies goods or commodities for sale  • （个人、厂商或国家作为产品或商品的）生产者；种植者；供应者
+ »an oil producer.  石油生产国。
+  a person or thing that makes or causes something  • （人或物）造成者，生产者
+ »the mould is the producer of the toxin aflatoxin.  霉是黄曲霉毒素的原体。
+2. a person responsible for the financial and managerial aspects of making of a film or broadcast or for staging a play, opera, etc.  • （电影、广播戏剧、歌剧等的）制片主任；监制人
+  a person who supervises the making of a musical recording, especially by determining the overall sound  • （音乐录音的）监制人
+
+
+
+————————————
+★☆☆   producer gas◙ noun
+1. [mass noun] a low-grade fuel gas consisting largely of nitrogen and carbon monoxide, formed by passing air, or air and steam, through red-hot carbon  • 发生炉煤气
+
+
+
+————————————
+★☆☆   product
+ / ˈprɔdʌkt /◙ noun
+1. an article or substance that is manufactured or refined for sale  • （经加工可出售的）作品；产品
+ »marketing products and services.  营销产品和服务。
+ »dairy products.  奶制品。
+  a substance produced during a natural, chemical, or manufacturing process  • （经自然、化学或加工过程生产的）产品；物产；产物
+ »waste products.  废品。
+  a thing or person that is the result of an action or process  • （行为、过程的）产物（指人，物）
+ »her perpetual suntan was the product of a solarium.  她那永久的浅黑皮肤是日光浴的产物。
+  a person whose character and identity have been formed by a particular period or situation  • 产儿（性格、特质被某时期或环境塑造之人）
+ »an ageing academic who is a product of the 1960s.  作为20世纪60年代产儿的年事渐高的学者。
+  [mass noun] commercially manufactured articles, especially recordings, viewed collectively  • （商业性）音乐制品［总称］
+ »too much product of too little quality.  泛滥的劣质磁带。
+2. [Mathematics] a quantity obtained by multiplying quantities together, or from an analogous algebraic operation  • [数] （乘）积；（代数运算的）结果
+
+【语源】1. late Middle English (as a mathematical term): from Latin productum 'something produced', neuter past participle (used as a noun) of producere 'bring forth' (see produce )
+
+
+
+————————————
+★☆☆   product differentiation◙ noun
+1. [mass noun] [Economics] the marketing of generally similar products with minor variations that are used by consumers when making a choice  • [经济] 产品差异化销售策略，产品特色化销售策略
+
+
+
+————————————
+★☆☆   production
+ / prəˈdʌkʃən /◙ noun, [mass noun] 
+1. the action of making or manufacturing from components or raw materials, or the process of being so manufactured  • 生产；制造
+ »banning the production of chemical weapons.  禁止化学武器的生产。
+ »it is no longer in production.  这已经不再生产。
+  the harvesting or refinement of something natural  • （对自然物的）加工；采集；生产
+ »non-intensive methods of food production.  食品生产的非深加工方法。
+  the total amount of something that is manufactured,harvested,or refined  • 产量
+ »steel production had peaked in 1974.  钢铁产量1974年就已达到顶峰。
+  the creation or formation of something as part of a physical,biological,or chemical process  • （物理、生物或化学过程产物的）产生；发生
+ »excess production of collagen by the liver.  肝脏生成的过量胶原质。
+  [as modifier] denoting a car or other vehicle which has been manufactured in large numbers  • （交通工具的）大量生产
+2. the provision of something for consideration, inspection, or use  • 出示，拿出；提供
+ »members are entitled to a discount on production of their membership cards.  会员出示会员卡就可享受打折。
+3. the process of or financial and administrative management involved in making a film,play,or record  • （电影，戏剧，录音）制作，监制
+ »the film was still in production.  电影还在制作中。
+ »[as modifier] a production company.  一家制作公司。
+  [count noun] a film, record, or play, especially when viewed in terms of its making or staging  • （尤指从制作与公演等特点来看）影片；戏剧；录音制品
+ »this production updates the play and sets it in the sixties.  这一制作将原剧现代化了，将其置于20世纪60年代。
+  [in sing.] the overall sound of a musical recording; the way a record is produced  • 音响效果；制作方式
+ »the record's production is gloriously relaxed.  唱片的录音效果真是了不起的轻松愉快。
+
+【IDIOMS】◘ make a production of
+1. do (something) in an unnecessarily elaborate or complicated way  • 对…作不必要的发挥； 对…小题大做
+
+【派生】♦ productional adjective
+
+【语源】1. late Middle English: via Old French from Latin productio(n-), from producere 'bring forth' (see produce )
+
+
+
+————————————
+★☆☆   production line◙ noun
+1. an arrangement in a factory in which a thing being manufactured is passed through a set linear sequence of mechanical or manual operations  • 生产（装配）线
+
+
+
+————————————
+★☆☆   production number◙ noun
+1. a spectacular musical item, typically including song and dance and involving all or most of the cast, in a theatrical show or film  • （戏剧表演或电影中引人注目的众多角色参加的歌舞）重点节目；高潮片断
+
+
+
+————————————
+★☆☆   production platform◙ noun
+1. a platform which houses equipment necessary to keep an oil or gas field in production, with facilities for temporarily storing the output of several wells  • （石油或天然气的）生产平台
+
+
+
+————————————
+★☆☆   productive
+ / prəˈdʌktiv /◙ adjective
+1. producing or able to produce large amounts of goods, crops, or other commodities  • 富有生产力的；多产的；富饶的；肥沃的
+ »the most productive employees.  最高产的雇员。
+  relating to or engaged in the production of goods, crops, or other commodities  • 生产性的；有生产力的
+ »the country's productive capacity.  该国的生产力。
+  achieving or producing a significant amount or result  • 富有成效的
+ »a long and productive career.  长期且富有成效的事业。
+ »the therapy sessions became more productive.  治疗活动变得更有效了。
+  [predic.] (productive of)producing or giving rise to  • 产生…的；引起…的
+ »the hotel was not productive of amusing company.  这家酒店不是有趣伙伴的产生地。
+  [Linguistics] (of a morpheme or other linguistic unit) currently used in forming new words or expressions  • [语言学] 能产的，有构词能力的
+ »many suffixes are common and productive.  许多后缀很常用，构词能力很强。
+  [Medicine] (of a cough) that raises mucus from the respiratory tract  • [医] （咳嗽）生痰的；分泌黏液的
+
+【派生】♦ productively adverb
+♦ productiveness noun
+
+【语源】1. early 17th cent.: from French productif, -ive or late Latin productivus, from product- 'brought forth', from the verb producere (see produce )
+
+
+
+————————————
+★☆☆   productivity
+ / ˌprɔdʌkˈtiviti /◙ noun
+1. [mass noun] the state or quality of producing something,especially crops  • （尤指生产庄稼）生产力，生产能力
+ »the long-term productivity of land.  土地的长期生产力。
+ »agricultural productivity.  农业生产力。
+  the effectiveness of productive effort, especially in industry, as measured in terms of the rate of output per unit of input  • 生产率（尤指工业投入与产出的比率）
+ »workers have boosted productivity by 30 per cent.  工人使生产率提高了30%。
+  [Ecology] the rate of production of new biomass by an individual, population, or community; the fertility or capacity of a given habitat or area  • [生态] 生产力，繁殖力
+ »nutrient-rich waters with high primary productivity.  初级生产力很高的富含养分的水体。
+
+
+
+————————————
+★☆☆   product liability◙ noun
+1. [mass noun] the legal liability a manufacturer or trader incurs for producing or selling a faulty product  • 产品责任
+
+
+
+————————————
+★☆☆   product placement◙ noun
+1. [mass noun] a practice in which manufacturers of goods or providers of a service gain exposure for their products by paying for them to be featured in films and television programmes  • 产品宣传，产品软性广告
+
+
+
+————————————
+★☆☆   proem
+ / ˈprəuem /◙ noun
+1. [formal] a preface or preamble to a book or speech  • [正式] 序言；开场白；开端
+
+【派生】♦ proemial adjective
+
+【语源】1. late Middle English: from Old French proeme, via Latin from Greek prooimion 'prelude', from pro 'before' + oimē 'song'
+
+
+
+————————————
+★☆☆   proenzyme
+ / prəuˈenzaim /◙ noun
+1. [Biochemistry] a biologically inactive substance which is metabolized into an enzyme  • [生化] 酶原，前酶
+
+
+
+————————————
+★☆☆   pro-European◙ adjective
+1. (of a person,attitude,or policy) favouring or supporting closer links with the European Union  • （人，态度，政策）赞成（或支持）与欧盟保持密切关系的
+◙ noun
+1. a person who favours or supports closer links with the European Union  • 赞成（或支持）与欧洲同盟保持密切关系者
+
+
+
+————————————
+★☆☆   Prof.◙ for abbreviation
+1. professor  • 同 professor 
+ »[as title] Prof. Smith.  史密斯教授。
+
+
+
+————————————
+★☆☆   prof◙ noun
+1. [informal] a professor  • [非正式] 教授
+
+【语源】1. mid 19th cent.: abbreviation
+
+
+
+————————————
+★☆☆   pro-family
+ / ˌprəuˈfæməli /◙ adjective
+1. (chiefly US)promoting family life and traditional moral values  • [主美] 崇尚家庭生活和传统道德观的
+
+
+
+————————————
+★☆☆   profane
+ / prəʊˈfeɪn , prə- /◙ adjective
+1. not relating or devoted to that which is sacred or biblical; secular rather than religious  • 世俗的
+ »a talk that tackled topics both sacred and profane.  一场同时涉及神圣和世俗话题的讲话。
+  (of a person) not initiated into religious rites or any esoteric knowledge  • （人）不谙宗教仪式的，未受秘传的
+ »he was an agnostic, a profane man.  他是个不可知论者，一个俗人。
+2. (of a person or their behaviour) not respectful of orthodox religious practice; irreverent  • （人或其行为）渎神的，亵渎的，不敬神的
+ »a profane person might be tempted to violate the tomb.  不敬神的人可能会上钩去惊扰坟墓。
+  (of language) blasphemous or obscene  • （语言）不敬神的，污秽的
+◙ verb
+1. [with obj.] treat (something sacred) with irreverence or disrespect  • 亵渎；玷污
+ »it was a serious matter to profane a tomb.  亵渎坟墓是件很严重的事。
+
+【派生】♦ profanation noun
+♦ profanely adverb
+♦ profaneness noun
+♦ profaner noun
+
+【语源】1. late Middle English (in the sense 'heathen'): from Old French prophane, from Latin profanus 'outside the temple, not sacred', from pro- (from Latin pro 'before') + fanum 'temple'
+
+
+
+————————————
+★☆☆   profanity
+ / prəʊˈfænɪti: , prə- /◙ (pl. -ies)
+1. [mass noun] blasphemous or obscene language  • 亵渎语言；污言秽语
+ »an outburst of profanity.  一阵污言秽语。
+  [count noun] a swear word; an oath  • 咒骂语；咒语
+  irreligious or irreverent behaviour  • 亵渎行为
+
+【语源】1. mid 16th cent.: from late Latin profanitas, from Latin profanus 'not sacred' (see profane )
+
+
+
+————————————
+★☆☆   proferens
+ / prəˈfɛrɛnz /◙ (pl. proferentes)
+1. [Law] the party which proposes or adduces a contract or a condition in a contract  • [律] （合同或合同条款）提议方；提交方；制订方
+
+【语源】1. Latin, literally uttering'
+
+
+
+————————————
+★☆☆   profess
+ / prəˈfes /◙ verb, [with obj.] 
+1. claim openly but often falsely that one has (a quality or feeling)  • 声称；自称，伪称，妄称
+ »he had professed his love for her only to walk away without a backward glance.  他自称爱她，却也不回头看一眼就走掉了。
+ »[with infinitive] I don't profess to be an expert.  我不敢妄称自己是个专家。
+ »[with complement] he professed himself amazed at the boy's ability.  他承认自己对那男孩的能力感到吃惊。
+2. affirm one's faith in or allegiance to (a religion or set of beliefs)  • 宣称信仰，表示忠于
+ »a people professing Christianity.  宣称信仰基督教的民族。
+  (be professed)be received into a religious order under vows  • 被接受入教
+ »she entered St Margaret's Convent, and was professed in 1943.  她进了圣马格丽特修道院，并于1943年宣誓加修会。
+3. (dated or humorous)teach (a subject) as a professor  • [旧或幽默] 以教授身份教（某科目）；传授
+ »a professor—what does he profess?  授——他教什么？
+4. (archaic)have or claim knowledge or skill in (a subject or accomplishment)  • [古] 精通；声称精通
+ »though knowing little of the arts I professed, he proved a natural adept.  尽管他对我所精通的艺术了解很少，但却是个天生的能手。
+
+【语源】1. Middle English (as be professed 'be received into a religious order'): from Latin profess- 'declared publicly', from the verb profiteri, from pro- 'before' + fateri 'confess'
+
+
+
+————————————
+★☆☆   professed
+ / prəˈfest /◙ adjective
+1. (of a quality, feeling, or belief) claimed or asserted openly but often falsely  • （品质，感情，信念）自称的，声称的，伪称的，妄称的
+ »for all her professed populism, she was seen as remote from ordinary people.  尽管她公开宣称自己的民粹主义，但人们认为她疏远民众。
+2. (of a person) self-acknowledged or openly declared to be  • （人）自我承认的，公开声称的
+ »a professed and conforming Anglican.  一个公开表示虔诚的圣公会教徒。
+  (of a monk or nun) having taken the vows of a religious order  • （修士，修女）已宣誓入教的
+  (archaic)claiming to be qualified as a particular specialist; professional  • [古] 专业的；专门的；职业的
+
+
+
+————————————
+★☆☆   professedly◙ adverb
+1. [sentence adverb] ostensibly; apparently (used in reference to something claimed or asserted, possibly falsely)  • （关于所声称或断言之事，有可能属虚假性质）表面上说；表面看起来
+ »restrictions professedly designed to stop the use of political propaganda.  表面上说是为停止政治宣传而设计的限制条例。
+
+
+
+————————————
+★☆☆   profession
+ / prəˈfeʃən /◙ noun
+1. a paid occupation, especially one that involves prolonged training and a formal qualification  • （尤指需要长期训练和正规资格的）职业
+ »his chosen profession of teaching.  他所选择的教书职业。
+ »a barrister by profession.  专职大律师。
+  [treated as sing. or pl.] a body of people engaged in a particular profession  • （某种）职业人士（总称）
+ »the profession is divided on the issue.  对于这一问题，从业人士意见有分歧。
+2. an open but often false declaration or claim  • 诈称；表白
+ »a profession of allegiance.  表白效忠。
+  a declaration of belief in a religion  • 宣布信仰
+  the declaration or vows made on entering a religious order  • 入教誓言，修道誓约
+  [mass noun] the ceremony or fact of being professed in a religious order  • 入教仪式；入教
+ »after profession she taught in Maidenhead.  入教以后，她在梅登黑德任教。
+
+【IDIOMS】◘ the oldest profession
+1. (humorous)the practice of working as a prostitute  • [幽默] 卖淫
+
+【语源】1. Middle English (denoting the vow made on entering a religious order): via Old French from Latin professio(n-), from profiteri 'declare publicly' (see profess ). Sense 1 derives from the notion of an occupation that one ‘professes’ to be skilled in
+
+
+
+————————————
+★☆☆   professional
+ / prəˈfeʃənəl /◙ adjective
+1. [attrib.] of, relating to, or belonging to a profession  • 职业的；专业的
+ »young professional people.  年轻的专业人士。
+2. (of a person) engaged in a specified activity as one's main paid occupation rather than as a pastime  • （人）职业性的；非业余的
+ »a professional boxer.  职业拳击手。
+  having or showing the skill appropriate to a professional person; competent or skilful  • 内行的；称职的；专业的
+ »their music is both memorable and professional.  他们的音乐令人难忘，极为专业。
+  worthy of or appropriate to a professional person  • 有专业人员水平的；与专业人员相称的
+ »his professional expertise.  他的专业知识。
+  (informal, derogatory)denoting a person who persistently makes a feature of a particular activity or attribute  • [非正式，贬] （人）坚持某种活动特征（或特点）的
+ »a professional gloom-monger.  专门散布悲观情绪者。
+◙ noun
+1. a person engaged or qualified in a profession  • 专业人员；专家
+ »professionals such as lawyers and surveyors.  诸如律师和勘测员之类的专业人员。
+  a person engaged in a specified activity,especially a sport or branch of the performing arts,as a main paid occupation rather than as a pastime  • （尤指运动员或表演艺术家）专业工作者
+  a person competent or skilled in a particular activity  • 内行；专家
+ »she was a real professional on stage.  她在舞台上是个十足的内行。
+
+【派生】♦ professionally adverb
+
+
+
+
+————————————
+★☆☆   professional foul◙ noun
+1. (especially in soccer) a deliberate foul to deny an opponent an advantageous position  • （尤指足球）故意犯规，技术犯规
+
+
+
+————————————
+★☆☆   professionalism
+ / prəˈfeʃənəˌlɪzəm /◙ noun
+1. [mass noun] the competence or skill expected of a professional  • 职业特性，职业作风，职业精神
+ »the key to quality and efficiency is professionalism.  质量和效率的关键是职业精神。
+  the practising of an activity, especially a sport, by professional rather than amateur players  • （尤指体育）职业化
+ »the trend towards professionalism.  职业化的趋向。
+
+
+
+————————————
+★☆☆   professionalize
+ / prəˈfeʃənəlaiz /◙ [亦作-ise] , verb
+1. [with obj.] give (an occupation, activity, or group) professional qualities, typically by increasing training or raising required qualifications  • （尤指通过增加训练，提高资格要求等）使（职务，活动，群体）职业化
+ »attempts to professionalize the police are resisted by many.  许多人抵制把警察职业化的企图。
+
+【派生】♦ professionalization noun
+
+
+
+
+————————————
+★☆☆   professor
+ / prəˈfesə /◙ noun
+1. a university academic of the highest rank; the holder of a university chair  • 教授；讲席教授
+  [N. Amer.] a university teacher  • [北美] 大学教师
+2. a person who affirms a faith in or allegiance to something  • 信仰表示者；宣称信仰者
+ »the professors of true religion.  宣称信仰纯正宗教的人。
+
+【派生】♦ professorate noun
+♦ professorial adjective
+♦ professorially adverb
+♦ professoriate noun
+♦ professorship noun
+
+【语源】1. late Middle English: from Latin professor, from profess- 'declared publicly', from the verb profiteri (see profess )
+
+
+
+————————————
+★☆☆   proffer
+ / ˈprɔfə /◙ verb
+1. [with obj.] hold out (something) to someone for acceptance; offer  • 提出；提供
+ »he proffered his resignation.  他提出辞职。
+◙ noun
+1. (poetic/literary)an offer or proposal  • [诗/文] 提供；提议；建议
+
+【语源】1. Middle English: from Anglo-Norman French proffrir, from Latin pro- 'before' + offerre 'to offer'
+
+
+
+————————————
+★☆☆   proficient
+ / prəˈfɪʃənt /◙ adjective
+1. competent or skilled in doing or using something  • 精通的；熟练的
+ »I was proficient at my job.  我对工作很精通。
+ »she felt reasonably proficient in Italian.  她觉得自己的意大利语挺熟练。
+
+【派生】♦ proficiency noun
+♦ proficiently adverb
+
+【语源】1. late 16th cent.: from Latin proficient- 'advancing', from the verb proficere, from pro- 'on behalf of' + facere 'do, make'
+
+
+
+————————————
+★☆☆   profile
+ / ˈprəufail /◙ noun
+1. an outline of something, especially a person's face, as seen from one side  • （尤指人面部的）侧面；侧影；轮廓；外形
+ »the man turned and she caught his profile.  那男子转过身，她看见了他的侧面。
+  a drawing or other representation of such an outline  • 侧面像
+  a vertical cross section of a structure  • 纵断面，剖面
+ »skilfully made vessels with an S-shaped profile.  制作精良的纵断面为S型的容器。
+  [Geography] an outline of part of the earth's surface, e.g. the course of a river, as seen in a vertical section  • [地理] （地球表面纵断面的）轮廓（如河流走向）
+  a flat outline piece of scenery on stage  • （舞台的）平面布景
+  a graphical or other representation of information relating to particular characteristics of something, recorded in quantified form  • （以数量形式记录事物特点的）曲线图；数据图表
+ »a sleep profile for someone on a shift system.  轮班制人员的睡眠分布图。
+  a short article giving a description of a person or organization, especially a public figure  • 传略；（尤指公众人物）简介；概况
+ »a profile of a Texas tycoon.  得克萨斯商界的巨头的简介。
+2. [in sing.] the extent to which a person or organization attracts public notice or comment  • （人或机构吸引公众注意或评论的）姿态，形象
+ »raising the profile of women in industry.  提高妇女在工业界的形象。
+◙ verb, [with obj.] 
+1. describe (a person or organization, especially a public figure) in a short article  • 写（尤指公众人物）传略
+ »he was to profile a back-bench MP.  他打算写一名普通议员的传略。
+2. [一般作 be profiled] represent in outline from one side  • 给…画侧面像；显出…侧面轮廓
+ »he was standing motionless, profiled on the far side of the swimming pool.  他一动不动地站在游泳池的另一头，显出清晰的侧面轮廓。
+  (be profiled)have a specified shape or appearance in outline  • 显出…的轮廓
+ »a proud bird profiled like a phoenix.  一只如凤凰般傲气十足的鸟。
+  shape (something), especially by means of a tool guided by a template  • （尤指用模板）铣出轮廓；使…成形
+ »[as adj. profiled] profiled and plain tiles.  有花纹和素面的瓷砖。
+
+【IDIOMS】◘ in profile
+1. (in reference to someone's face) as seen from one side  • （人的面部）从侧面看
+ »a photograph of Leon in profile.  里昂的侧面像。
+
+【派生】♦ profiler noun
+
+【语源】1. mid 17th cent.: from obsolete Italian profilo, from the verb profilare, from pro- 'forth' + filare 'to spin', formerly 'draw a line' (from Latin filare, from filum 'thread')
+
+
+
+————————————
+★☆☆   profile component◙ noun
+1. an attainment target in a particular subject, forming part of a general assessment of a pupil  • （构成对某学生总体评价一部分的）分学科实现目标
+
+
+
+————————————
+★☆☆   profiling
+ / ˈprəufailiŋ /◙ noun
+1. [mass noun] the recording and analysis of a person's psychological and behavioural characteristics, so as to assess or predict their capabilities in a certain sphere or to assist in identifying a particular subgroup of people  • （对个人心理、行为特征的）剖析研究（以评定或预测其在某领域潜力或认识某一种人）
+
+
+
+————————————
+★☆☆   profit
+ / ˈprɔfit /◙ noun
+1. a financial gain, especially the difference between the amount earned and the amount spent in buying, operating, or producing something  • 利润，赢利；收益
+ »record pre-tax profits.  创纪录的税前利润。
+ »[mass noun] his eyes brightened at the prospect of profit.  对利润的憧憬使他眼睛发亮。
+  [mass noun] advantage; benefit  • 好处，益处；利益
+ »there's no profit in screaming at referees from the bench.  坐在替补队员席上向裁判尖叫没有任何用处。
+◙ (profited, profiting)
+1. [no obj.] obtain a financial advantage or benefit, especially from an investment  • （尤指通过投资）获利
+ »the only people to profit from the entire episode were the lawyers.  整个事件中惟一获利的就是那些律师。
+  obtain an advantage or benefit  • 得益
+ »not all children would profit from this kind of schooling.  并非所有孩子都可从这种就学中得益。
+  [with obj.] be beneficial to  • 有益于
+ »it would profit us to change our plans.  改变计划对我们有好处。
+
+【IDIOMS】◘ at a profit
+1. making more money than is spent buying, operating, or producing something  • 获利地
+ »doing up houses and selling them at a profit.  把房子装修好出售并从中获利。
+
+【语源】1. Middle English (in the sense 'advantage, benefit'): from Old French, from Latin profectus 'progress, profit', from proficere 'to advance', from pro- 'on behalf of' + facere 'do'. The verb is from Old French profiter
+
+
+
+————————————
+★☆☆   profitable
+ / ˈprɔfitəbl /◙ adjective
+1. (of a business or activity) yielding profit or financial gain  • （生意，活动）有利可图的；有赢利的
+2. beneficial ; useful  • 有益的，有用的
+ »he'd had a profitable day.  他过了有益的一天。
+
+【派生】♦ profitability noun
+♦ profitably adverb
+
+【语源】1. Middle English: from Old French, from the verb profiter (see profit )
+
+
+
+————————————
+★☆☆   profit and loss account◙ [缩略词: P & L] , noun
+1. an account in the books of an organization to which incomes and gains are credited and expenses and losses debited, so as to show the net profit or loss over a given period  • 损益账户
+  a financial statement showing a company's net profit or loss in a given period  • （公司某一时期的）损益财务报表
+
+
+
+————————————
+★☆☆   profit centre◙ noun
+1. a part of an organization with assignable revenues and costs and hence ascertainable profitability  • 利润中心（指有可转让收入和成本，因此有确定的创利能力的部门）
+
+
+
+————————————
+★☆☆   profiteer
+ / ˈprɔfɪˈtɪə /◙ verb
+1. [no obj.] make or seek to make an excessive or unfair profit, especially illegally or in a black market  • （尤指从事非法或黑市交易）牟取暴利，获得暴利；投机
+ »[as noun profiteering] seven food merchants were charged with profiteering.  七名食品商被指控牟取暴利。
+◙ noun
+1. a person who profiteers  • 投机商，奸商；牟取暴利者
+ »a war profiteer.  一名战时投机商。
+
+
+
+————————————
+★☆☆   profiterole
+ / prəˈfitəˌrəul /◙ noun
+1. a small ball of soft, sweet choux pastry filled with cream and covered with chocolate sauce, served as a dessert  • 泡夫夹心酥球，小泡夫酥球
+
+【语源】1. French, diminutive of profit 'profit'
+
+
+
+————————————
+★☆☆   profitless
+ / ˈprɔfɪtlɪs /◙ adjective
+1. without benefit or advantage; pointless  • 无利的，无利可图的；无益的，无用的
+ »a long and profitless public row.  旷日持久的无益公开争论。
+
+
+
+————————————
+★☆☆   profit margin◙ noun
+1. the amount by which revenue from sales exceeds costs in a business  • 毛利（指销售收入减去成本）
+
+
+
+————————————
+★☆☆   profit-sharing◙ noun
+1. [mass noun] a system in which the people who work for a company receive a direct share of the profits  • 分红制
+
+
+
+————————————
+★☆☆   profit-taking◙ noun
+1. [mass noun] the sale of securities that have risen in price  • 见利抛售证券
+
+
+
+————————————
+★☆☆   profligate
+ / ˈprɔflɪgɪt , -ˌgeɪt /◙ adjective
+1. recklessly extravagant or wasteful in the use of resources  • 恣意挥霍的；极其浪费的
+ »profligate consumers of energy.  大肆浪费的能源消费者。
+  licentious ; dissolute  • 荒淫的；放荡的；行为不检的
+ »he succumbed to drink and a profligate lifestyle.  他整日酗酒，生活荒淫无度。
+◙ noun
+1. a licentious, dissolute person  • 放荡的人；荒淫无度者
+
+【派生】♦ profligacy noun
+♦ profligately adverb
+
+【语源】1. mid 16th cent. (in the sense 'overthrown, routed'): from Latin profligatus 'dissolute', past participle of profligare 'overthrow, ruin', from pro- 'forward, down' + fligere 'strike down'
+
+
+
+————————————
+★☆☆   pro-form◙ noun
+1. [Linguistics] a word or lexical unit which is dependent for its meaning on reference to some other part of the context, for example a pronoun or the verb do in she likes chocolate and so do I  • [语言学] 代替形式（如代词或she likes chocolate and so do I 中的动词do)
+
+
+
+————————————
+★☆☆   pro forma
+ / prəʊ ˈfɔ:mə /◙ adverb
+1. as a matter of form or politeness  • 形式上；礼貌地
+ »he nodded to him pro forma.  他礼貌地对他点了点头。
+◙ adjective
+1. done or produced as a matter of form  • 形式上的
+ »pro forma reports.  根据形式要求的报告。
+  [attrib.] denoting a standard document or form, especially an invoice sent in advance of or with goods supplied  • 形式发票的，假定发票的
+  [attrib.] (of a financial statement) showing potential or expected income, costs, assets, or liabilities, especially in relation to some planned or expected act or situation  • （财务报表）显示潜在（或预计）收益（或成本、资产、负债）的（尤指与某计划、预期行为或情况有关）；预计的
+◙ noun
+1. a standard document or form or financial statement of such a type  • 预计财务报表
+
+【语源】1. early 16th cent.: from Latin
+
+
+
+————————————
+★☆☆   profound
+ / prəˈfaund /◙ (profounder, profoundest)
+1. (of a state, quality, or emotion) very great or intense  • （状态，品质，情感）巨大的；深刻的
+ »profound social changes.  深刻的社会变革。
+ »profound feelings of disquiet.  极度的焦虑。
+  (of a disease or disability) very severe; deep-seated  • （疾病，残疾）严重的；根深蒂固的
+ »a case of profound liver failure.  肝功能严重衰退的病例。
+2. (of a person or statement) having or showing great knowledge or insight  • （人，叙述）深邃的；渊博的，见解深刻的
+ »a profound philosopher.  思想深邃的哲学家。
+  (of a subject or thought) demanding deep study or thought  • （主题，思想）深奥的，难懂的
+ »expressing profound truths in simple language.  用简单的语言表达深奥的真理。
+3. (archaic)at,from,or extending to a great depth; very deep  • [古] 深长的，深度的；极度的
+ »he opened the door with a profound bow.  他打开门，深深地鞠了一躬。
+◙ noun
+1. (the profound)(poetic/literary)the vast depth of the ocean or of the mind  • [诗/文] 深海，海洋；心灵深处
+  profound quality  • 深刻；深奥；深邃
+
+【派生】♦ profoundly adverb
+ »[as submodifier] a profoundly disturbing experience.  令人极度烦恼的经历。
+♦ profoundness noun
+
+【语源】1. Middle English: from Old French profund, from Latin profundus 'deep', from Latin pro 'before' + fundus 'bottom'. The word was used earliest in the sense 'showing deep insight'
+
+
+
+————————————
+★☆☆   Profumo
+ / prəˈfju:məʊ /1. ʊohn əDennis] (b.1ˌ1ˈ), ɑritish ɔonservative politician. ɪn 1ˌ60 he was appointed Secretary of State for θar under Harold Macmillan. ðhree years later news broke of his relationship with the mistress of a Soviet diplomat, ɔhristine Keeler, raising fears of a security breach and precipitating his resignation  • 普罗富莫，约翰（•丹尼斯）（生于1915年，英国保守党政治家，1960年被哈罗德•麦克米伦任命为国防大臣，三年后传出他和苏联外交官克里斯廷•基勒的情妇有染，此事引起人们对安全漏洞的担忧，并导致其辞职）
+
+
+
+————————————
+★☆☆   profundity
+ / prəˈfʌndɪti: , prəʊ- /◙ (pl. -ies)
+1. [mass noun] deep insight; great depth of knowledge or thought  • 深刻的洞察力；渊博的知识；深邃的思想
+ »the simplicity and profundity of the message.  该启示的质朴和深刻。
+  great depth or intensity of a state, quality, or emotion  • （状态，品质，情感）深度；深刻；深厚
+ »the profundity of her misery.  她那极度的悲惨。
+  [count noun] a statement or idea that shows great knowledge or insight  • 含义深刻的话，深邃的思想
+
+
+
+————————————
+★☆☆   profuse
+ / prəˈfju:s , prəʊ- /◙ adjective
+1. (especially of something offered or discharged) exuberantly plentiful; abundant  • 过多的；极其丰富的
+ »I offered my profuse apologies.  我一再道歉。
+  (archaic)(of a person) lavish; extravagant  • [古] （人）挥霍的；浪费的
+ »they are profuse in hospitality.  他们太殷勤好客了。
+
+【派生】♦ profusely adverb
+♦ profuseness noun
+
+【语源】1. late Middle English (in the sense 'extravagant'): from Latin profusus 'lavish, spread out', past participle of profundere, from pro- 'forth' + fundere 'pour'
+
+
+
+————————————
+★☆☆   profusion
+ / prəˈfju:ʒən , prəʊ- /◙ noun
+1. [in sing.] an abundance or large quantity of something  • 丰富，充沛；大量
+ »a rich profusion of wild flowers.  遍地的野花。
+ »[mass noun] the beautiful pink foxgloves growing in profusion among the ferns.  蕨丛中开满漂亮的粉色毛地黄。
+
+【语源】1. mid 16th cent.: via French from Latin profusio(n-), from profundere 'pour out'. Early use expressed the senses 'extravagance', 'squandering', and 'waste'
+
+
+
+————————————
+★☆☆   prog
+ / prɔɡ /əinformal] ə非正式] 
+◙ noun
+1. a television or radio programme  • 电视（或电台）节目
+ »he's the star of a new prog.  他是新上节目的明星。
+◙ adjective
+1. [attrib.] (of rock music) progressive  • （摇滚乐）进步的
+ »prog rock bands.  进步摇滚乐队。
+
+【语源】1. 1950s: abbreviation
+
+
+
+————————————
+★☆☆   progenitive
+ / prəuˈdʒenitiv /◙ adjective
+1. [formal] having the quality of producing offspring; having reproductive power  • [正式] 生殖的；有生殖能力的
+
+
+
+————————————
+★☆☆   progenitor
+ / prəʊˈdʒenɪtə /◙ noun
+1. a person or thing from which a person, animal, or plant is descended or originates; an ancestor or parent  • （人，动物，植物）祖先
+ »his sons and daughters were the progenitors of many of Scotland's leading noble families.  他的子女是苏格兰许多显赫贵族家庭的祖先。
+  a person who originates an artistic, political, or intellectual movement  • （艺术，政治，学术活动）创始人，先驱
+ »the progenitor of modern jazz.  现代爵士乐的始祖。
+
+【派生】♦ progenitorial adjective
+
+【语源】1. late Middle English: from Old French progeniteur, from Latin progenitor, from progenit- 'begotten', from the verb progignere, from pro- 'forward' + gignere 'beget'
+
+
+
+————————————
+★☆☆   progeniture
+ / prəuˈdʒenitʃə /◙ noun
+1. [mass noun] [formal] the production of offspring; procreation  • [正式] 生殖；繁衍
+  young ; offspring  • 子孙，后裔，后代
+
+【语源】1. late 15th cent.: from progenit- 'begotten' (from the verb progignere) + -ure
+
+
+
+————————————
+★☆☆   progeny
+ / ˈprɔdʒəni: /◙ noun
+1. [treated as sing. or pl.] a descendant or the descendants of a person, animal, or plant; offspring  • （人，动物，植物）后代，后裔
+ »the progeny of mixed marriages.  异族通婚的后裔。
+
+【语源】1. Middle English: from Old French progenie, from Latin progenies, from progignere 'beget' (see progenitor )
+
+
+
+————————————
+★☆☆   progeria
+ / prəuˈdʒiəriə /◙ noun
+1. [mass noun] [Medicine] a rare syndrome in children characterized by physical symptoms suggestive of premature old age  • [医] （儿童的）早衰症，早老
+
+【语源】1. early 20th cent.: modern Latin, from Greek progērōs 'prematurely old'
+
+
+
+————————————
+★☆☆   progesterone
+ / prəuˈdʒestərəun /◙ noun
+1. [mass noun] [Biochemistry] a steroid hormone released by the corpus luteum that stimulates the uterus to prepare for pregnancy  • [生化] 孕酮，黄体酮
+
+【语源】1. 1930s: blend of progestin and the German synonym Luteosteron (from corpus luteum + sterol)
+
+
+
+————————————
+★☆☆   progestin
+ / prəuˈdʒestin /◙ noun
+1. [Biochemistry] . another term for progestogen  • [生化] 同 progestogen 
+
+【语源】1. 1930s: from pro- + gestation + -in
+
+
+
+————————————
+★☆☆   progestogen
+ / prəʊˈdʒestədʒən /◙ noun
+1. [Biochemistry] a natural or synthetic steroid hormone, such as progesterone, that maintains pregnancy and prevents further ovulation during pregnancy  • [生化] 孕激素（类），孕酮
+
+【语源】1. 1940s: from progestin + -gen
+
+
+
+————————————
+★☆☆   proglottid
+ / prəuˈɡlɔtid /◙ noun
+1. [Zoology] each segment in the strobila of a tapeworm, containing a complete sexually mature reproductive system  • [动] （绦虫节裂体的）节片
+
+【语源】1. late 19th cent.: from Greek proglōssis, proglōssid- 'point of the tongue', based on glōssa, glōtta 'tongue' (because of its shape)
+
+
+
+————————————
+★☆☆   prognathous
+ / prɔɡˈneiθəs , ˈprɔɡnəθəs /◙ adjective
+1. (especially of a person) having a projecting lower jaw or chin  • （尤指人）凸颌的，凸颚的
+  (of a jaw or chin) projecting  • （下巴，颏）凸出的
+
+【派生】♦ prognathic adjective
+♦ prognathism noun
+
+【语源】1. mid 19th cent.: from pro- 'before' + Greek gnathos 'jaw' + -ous
+
+
+
+————————————
+★☆☆   prognosis
+ / prɔgˈnəʊsɪs /◙ (pl. prognoses -siːz)
+1. the likely course of a disease or ailment  • （疾病的）预后
+ »the disease has a poor prognosis.  该疾病的预后很差。
+  a forecast of the likely course of a disease or ailment  • （对疾病的）预测
+ »it is very difficult to make an accurate prognosis.  很难作出准确的预测。
+  a forecast of the likely outcome of a situation  • （对形势的）预测
+ »gloomy prognoses about overpopulation.  关于人口过剩的悲观预测。
+
+【语源】1. mid 17th cent.: via late Latin from Greek prognōsis, from pro- 'before' + gignōskein 'know'
+
+
+
+————————————
+★☆☆   prognostic
+ / prɔɡˈnɔstik /◙ adjective
+1. serving to predict the likely outcome of a disease or ailment; of or relating to a medical prognosis  • 预后的，医学预测的
+◙ noun
+1. (archaic)an advance indication or portent of a future event  • [古] 预兆，先兆
+ »a pale moon and watery sun are known as prognostics of rain.  苍白月色和淡淡阳光是下雨的先兆。
+
+【派生】♦ prognostically adverb
+
+【语源】1. late Middle English: from Latin prognosticus from Greek prognōstikos, from prognōsis (see prognosis )
+
+
+
+————————————
+★☆☆   prognosticate
+ / prɔgˈnɔstɪˌkeɪt /◙ verb
+1. [with obj.] foretell or prophesy (an event in the future)  • 预言，预示
+ »the economists were prognosticating financial Armageddon.  经济学家预言将有一场金融大决战。
+
+【派生】♦ prognosticator noun
+♦ prognosticatory adjective
+
+【语源】1. late Middle English: from medieval Latin prognosticat-, from the verb prognosticare 'make a prediction' (see prognostic )
+
+
+
+————————————
+★☆☆   prognostication
+ / prɔɡnɔstiˈkeiʃ(ə)n /◙ noun
+1. [mass noun] the action of foretelling or prophesying future events  • 预言，预示
+ »an unprecedented amount of soul-searching and prognostication.  空前之多的内省和预言。
+  [count noun] a prophecy  • 预言，预测
+ »these gloomy prognostications proved to be unfounded.  这些悲观的预测被证明是无稽之谈。
+
+【语源】1. late Middle English: from Old French prognosticacion, from medieval Latin prognosticatio(n-), from the verb prognosticare (see prognosticate )
+
+
+
+————————————
+★☆☆   prograde
+ / prəuˈɡreid /◙ adjective
+1. [Astronomy] (of planetary motion) proceeding from west to east; direct. The opposite of retrograde  • [天文] （行星运动）同向旋转的；顺行的。
+【OPP】 retrograde 2. [Geology] (of a metamorphic change) resulting from an increase in temperature or pressure  • [地质] 前进变质作用的，进化变质作用的
+◙ verb
+1. [no obj.] [Geology] (of a beach or coastline) advance towards the sea as a result of the accumulation of water-borne sediment  • [地质] 海岸推进，岸进
+
+【派生】♦ progradation noun
+
+【语源】1. early 20th cent. (as a verb): from pro- 'forwards' + retrograde
+
+
+
+————————————
+★☆☆   program
+ / ˈprəuɡræm /◙ noun & verb
+1. US spelling of programme (also widely used in computing contexts)  • [美] 同 programme （亦广泛应用于计算机）
+
+
+
+————————————
+★☆☆   programmatic
+ / ˌprəuɡrəˈmætik /◙ adjective
+1. of the nature of or according to a programme, schedule, or method  • 纲领性的；计划性的；有规划的
+ »a programmatic approach to change.  有计划的变革观。
+  of the nature of programme music  • 标题音乐的
+
+【派生】♦ programmatically adverb
+
+
+
+
+————————————
+★☆☆   programme
+ / ˈprəu-ɡræm /◙ [美 program] , noun
+1. a planned series of future events, items, or performances  • （对未来事件，演出的）计划，方案；节目
+ »a weekly programme of films.  一周电影放映计划。
+ »the programme includes Dvorak's New World symphony.  节目中包括德沃拉克的新世界交响曲。
+  a set of related measures, events, or activities with a particular long-term aim  • 纲领；方案；程序
+ »the British nuclear power programme.  英国的核动力方案。
+2. a sheet or booklet giving details of items or performers at an event or performance  • 节目单，演出说明书
+ »a theatre programme.  剧院节目单。
+3. a presentation or item on radio or television, especially one broadcast regularly between stated times  • （尤指广播或电视定时播放的）节目
+ »a nature programme.  有关大自然的节目。
+  [dated] a radio or television service or station providing a regular succession of programmes on a particular frequency; a channel  • [旧] （电视）频道；（广播）调频
+4. (program)a series of coded software instructions to control the operation of a computer or other machine  • （计算机等的）程序，程序设计；编码指令
+◙ (programmed, programming; 美 programed, programing), [with obj.] 
+1. (program)provide (a computer or other machine) with coded instructions for the automatic performance of a particular task  • （为计算机等）设计程序；为…编制程序
+ »it is a simple matter to program the computer to recognize such symbols.  为计算机编制识别这些符号的程序是件易事。
+  input (instructions for the automatic performance of a task) into a computer or other machine  • 输入（自动完成任务的指令）
+ »simply program in your desired volume level.  只需设定你所希望的容量。
+  [常作 be programmed] (figurative)cause (a person or animal) to behave in a predetermined way  • [喻] 使（人，动物）按预定步骤表现
+ »all members of a particular species are programmed to build nests in the same way.  特定物种的所有成员天生都会以同样的方式筑巢。
+2. arrange according to a plan or schedule  • （根据计划、日程）安排
+ »we learn how to programme our own lives consciously.  我们学会如何自觉安排自己的生活。
+  schedule (an item) within a framework  • （在既定框架内）计划安排
+ »the next stage of the treaty is programmed for next year.  条约的下一阶段安排在明年进行。
+  [US] broadcast (an item)  • [美] 播送（节目）
+ »the station does not program enough contemporary works.  该台播送的当代作品不够多。
+
+【IDIOMS】◘ get with the program
+1. [often in imperative] [N. Amer. informal] do what is expected of one; adopt the prevailing viewpoint  • [北美，非正式] 按计划行事；顺应潮流
+
+【派生】♦ programmability noun
+♦ programmable adjective
+
+【语源】1. early 17th cent. (in the sense 'written notice'): via late Latin from Greek programma, from prographein 'write publicly', from pro 'before' + graphein 'write'
+
+
+
+————————————
+★☆☆   programmed cell death◙ noun
+1. less technical term for apoptosis  • [非技] 同 apoptosis 
+
+
+
+————————————
+★☆☆   programmed learning◙ noun
+1. [mass noun] a teaching method in which information is broken into simple sections on which pupils are able to test themselves  • 程序学习（一种把内容分解成简单组成部分，由学生自测效果的教学方法）
+
+
+
+————————————
+★☆☆   programme evaluation and review technique◙ [缩略词：PERT] , noun
+1. a network analysis technique which is used to determine the time it will take to complete a complex process  • 程序鉴定技术
+
+
+
+————————————
+★☆☆   programme music◙ noun
+1. [mass noun] music that is intended to evoke images or convey the impression of events  • （引发意象或表达事件印象的）标题音乐。
+--› compare absolute music 
+
+
+
+————————————
+★☆☆   programmer
+ / ˈprəʊˌgræmə /◙ noun
+1. a person who writes computer programs  • 程序编制员
+  a device that automatically controls the operation of something in accordance with a prescribed programme  • 程序控制器
+
+
+
+————————————
+★☆☆   programme trading◙ noun
+1. [mass noun] the simultaneous purchase and sale of many different stocks, or of stocks and related futures contracts, with the use of a computer program to exploit price differences in different markets  • 程序控制交易，集总交易（借助计算机程序，利用不同市场的价格差价对多种不同股票或相关期货合同进行同时买卖）
+
+
+
+————————————
+★☆☆   programming
+ / ˈprəuɡræmiŋ /◙ noun, [mass noun] 
+1. the action or process of writing computer programs  • （为计算机）编制程序
+  (figurative)predetermined behaviour  • [喻] 预定行为
+ »men and women are the playthings of programming.  男人和女人都是预定行为的玩物。
+2. the action or process of scheduling something,especially radio or television programmes  • （尤指广播、电视）节目安排
+ »the programming of shows.  表演节目的编排。
+  radio or television programmes that are scheduled or broadcast  • （安排、播送的）广播节目；电视节目
+ »the station is to expand its late-night programming.  该台打算增加深夜节目。
+
+
+
+————————————
+★☆☆   progress
+ / ˈprəuɡres /◙ noun
+1. [mass noun] forward or onward movement towards a destination  • 前进；行进
+ »the darkness did not stop my progress.  黑暗并没有阻止我继续前进。
+ »they failed to make any progress up the narrow estuary.  他们没能沿狭窄的河口继续前进。
+  advance or development towards a better, more complete, or more modern condition[as modifier]  • 进步，上进；进展
+ »we are making progress towards equal rights.  我们在争取平等权利方面取得进步。
+  [count noun] [Brit. archaic] a state journey or official tour, especially by royalty  • [英，古] （尤指王室的）巡行，巡游
+◙ verb
+1. [no obj.] move forward or onward in space or time  • （空间，时间）前进，行进；进展
+ »as the century progressed the quality of telescopes improved.  随着这个世纪的推移，望远镜的质量得到提高。
+  advance or develop towards a better, more complete, or more modern state  • 进展，进步
+ »work on the pond is progressing.  池塘的修建工作有进展。
+  [with obj.] cause (a task or undertaking) to make regular progress  • 使（任务，事业）取得持续进展
+ »I cannot predict how quickly we can progress the matter.  我无法预言我们能使这件事进展多快。
+  [with obj.] [usu. as adj. progressed] [Astrology] calculate the position of (a planet) or of all the planets and coordinates of (a chart) according to the technique of progression  • [占星] 计算行星（或星象图各星及坐标）的位置
+
+【IDIOMS】◘ in progress
+1. in the course of being done or carried out  • 进行中
+ »a meeting was in progress.  一场会议正在进行。
+
+【语源】1. late Middle English (as a noun): from Latin progressus 'an advance', from the verb progredi, from pro- 'forward' + gradi 'to walk'. The verb became obsolete in British English use at the end of the 17th cent. and was readopted from American English in the early 19th cent
+
+
+
+————————————
+★☆☆   progress chaser◙ noun
+1. a person in an organization who is responsible for checking that work is done efficiently and to schedule  • 工作进度检查员
+
+
+
+————————————
+★☆☆   progression
+ / prəˈgreʃən /◙ noun
+1. a movement or development towards a destination or a more advanced state, especially gradually or in stages  • （尤指逐步或分阶段地）前进；进展，进步
+ »the normal progression from junior to senior status.  地位从低到高的正常进程。
+ »[mass noun] their mode of progression through the forest.  他们穿过森林的行进方式。
+  a succession; a series  • 一系列，一连串
+ »counting the twenty-four hours in a single progression from midnight.  从午夜１２点算起的连续24小时。
+  [Music] a passage or movement from one note or chord to another  • [乐] （从一音或和弦进至另一音或和弦的）进行
+ »a blues progression.  一首勃鲁斯的进行。
+  [Mathematics] . short for arithmetic progression, geometric progression, or harmonic progression  • [数] arithmetic progression, geometric progression，或 harmonic progression的简称
+  [Astrology] a predictive technique in which the daily movement of the planets, starting from the day of birth, represents a year in the subject's life  • [占星] （从生日起以行星每日的运行代表占星对象一年寿命的）算命术，占卜术
+
+【派生】♦ progressional adjective
+
+【语源】1. late Middle English: from Old French, from Latin progressio(n-), from the verb progredi (see progress )
+
+
+
+————————————
+★☆☆   progressionist
+ / prəuˈɡreʃənist /(chiefly historical)ə主史] 
+◙ noun
+1. [Biology] a supporter of the theory that all life forms gradually progress or evolve to a higher form  • [生] 生命形式进步论者
+2. an advocate of or believer in political or social progress  • （政治或社会问题上）进步论者
+◙ adjective
+1. [Biology] (of a person or theory) supporting or based on the theory that all life forms progress or evolve to a higher form  • [生] （人，理论）支持生命形式进步论的
+ »progressionist evolutionists.  主张进步论的进化论者。
+
+
+
+————————————
+★☆☆   progressive
+ / prəˈɡresiv /◙ adjective
+1. happening or developing gradually or in stages; proceeding step by step  • 进步的，先进的；逐步的，渐次的
+ »a progressive decline in popularity.  逐渐下降的受欢迎度。
+  (of a disease or ailment) increasing in severity or extent  • （疾病等）进行性的，愈来愈严重的
+ »progressive liver failure.  进行性的肝衰退。
+  (of taxation or a tax) increasing as a proportion of the sum taxed as that sum increases  • （税制，税种）累进的
+ »steeply progressive income taxes.  急遽累进的所得税。
+  (of a card game or dance) involving a series of sections for which participants successively change place or relative position  • （纸牌游戏，舞蹈）搭档轮换的
+  (archaic)engaging in or constituting forward motion  • [古] 向前进的
+2. (of a group, person, or idea) favouring or implementing social reform or new, liberal ideas  • （团体，人，观念）支持（或推行）社会改良（或自由）新思想的；进步的
+ »a relatively progressive Minister of Education.  思想相对进步的教育部部长。
+  favouring or promoting change or innovation  • 崇尚（推进）变革（或革新）的
+ »the most progressive art school in Britain.  英国最能代表革新的艺术学校。
+  relating to or denoting a style of rock music popular especially in the 1970s and characterized by classical influences, the use of keyboard instruments, and lengthy compositions  • 进步的（尤指流行于二十世纪七十年代的一种摇滚乐，深受古典主义影响，使用键盘乐器，乐曲长）
+3. [Grammar] denoting an aspect or tense of a verb that expresses an action in progress, e.g. am writing, was writing  • [语法] （动词时态）进行时的（如am writing,was writing）。(亦称 continuous)
+◙ noun
+1. a person advocating or implementing social reform or new, liberal ideas  • 进步分子，进步人士；支持进步政策者；改革派人士；革新主义者
+2. [Grammar] a progressive tense or aspect  • [语法] 进行时（或体）
+ »the present progressive.  现在进行时。
+3. (也作 progressive proof)[一般作 progressives] [Printing] each of a set of proofs of colour work, showing all the colours separately and the cumulative effect of overprinting them  • [印刷] 分色打样，套色打样
+
+【派生】♦ progressively adverb
+♦ progressiveness noun
+♦ progressivism noun
+◘ progressivist noun & adjective
+
+【语源】1. early 17th cent.: from French progressif, -ive or medieval Latin progressivus, from progress- 'gone forward', from the verb progredi (see progress )
+
+
+
+————————————
+★☆☆   Progressive Conservative Party1. a Canadian political party advocating free trade and holding moderate views on social policies. Founded in the mid 19th century but operating under its present name since 1942, the party was in power 1984–93 under Brian Mulroney  • 进步保守党（加拿大政党，提倡自由贸易，对社会政策持温和态度，创立于19世纪中期，1942年起用现名，1984至1993年在布赖恩•马尔罗尼领导下执政）
+
+
+
+————————————
+★☆☆   proguanil
+ / prəˈɡwænil /◙ noun
+1. [mass noun] [Medicine] a bitter-tasting synthetic compound derived from biguanide, used in the prevention and treatment of malaria  • [医] 氯胍
+
+【语源】1. 1940s: from pro(pyl) + (bi)guan(ide) (a crystalline base) + -il
+
+
+
+————————————
+★☆☆   pro hac vice
+ / ˌprəʊ hɑ:k ˈvaɪsi /◙ adverb
+1. for or on this occasion only  • （仅）限这次
+
+【语源】1. Latin
+
+
+
+————————————
+★☆☆   prohibit
+ / prəˈhibit /◙ (prohibited, prohibiting)
+1. [with obj.] formally forbid (something) by law, rule, or other authority  • （通过法律、条例等）禁止
+ »laws prohibiting cruelty to animals.  禁止残害动物的法律。
+  (prohibit someone/thing from doing something)formally forbid a person or group from doing something  • 禁止某人（或团体）做某事
+ »he is prohibited from being a director.  他被禁止担任主任职务。
+  (of a fact or situation) prevent (something);make impossible  • （事实，形势）阻止；使不可能
+ »the budget agreement had prohibited any tax cuts.  预算协定使任何减税计划都变得不可能。
+
+【派生】♦ prohibiter noun
+♦ prohibitor noun
+♦ prohibitory adjective
+
+【语源】1. late Middle English: from Latin prohibit- 'kept in check', from the verb prohibere, from pro- 'in front' + habere 'to hold'
+
+
+
+————————————
+★☆☆   prohibited degrees◙ plural noun
+1. another term for the forbidden degrees  • 同 forbidden degrees （见forbidden）
+
+
+
+————————————
+★☆☆   prohibition
+ / ˌprəʊəˈbɪʃən /◙ noun
+1. [mass noun] the action of forbidding something, especially by law  • （尤指法律）禁止
+ »they argue that prohibition of drugs will always fail.  他们辩驳说禁毒总是失败的。
+  [count noun] a law or regulation forbidding something  • 禁令，禁律
+ »those who favour prohibitions on insider dealing.  那些支持对内部人交易实行禁令的人。
+  [count noun] [English Law] a writ from a superior court forbidding an inferior court from proceeding in a suit deemed to be beyond its cognizance  • [英律] （上级法院禁止下级法院对无权受理案件审理的）诉讼中止令
+2. [Prohibition] [mass noun] the prevention by law of the manufacture and sale of alcohol, especially in the US between 1920 and 1933  • （尤指美国1920至1933年间的）禁酒令
+
+【派生】♦ prohibitionary adjective
+♦ Prohibitionist noun
+
+【语源】1. late Middle English: from Old French, from Latin prohibitio(n-), from prohibere 'keep in check' (see prohibit )
+
+
+
+————————————
+★☆☆   prohibitive
+ / prəʊˈhɪbɪtɪv /◙ adjective
+1. (of a price or charge) excessively high; difficult or impossible to pay  • （价格，收费）过高的；高得负担不起的
+ »the costs involved were prohibitive.  涉及的成本高得令人望而却步。
+ »prohibitive interest rates.  高得负担不起的利率。
+2. (especially of a law or rule) forbidding or restricting something  • （尤指法律、规章）禁止的，禁止性的
+ »prohibitive legislation.  禁止性法规。
+  (of a condition or situation) preventing someone from doing something  • （情况、局势等）阻止某人做某事的；令人望而却步的
+ »a wind over force 5 is prohibitive.  五级以上的大风使人无法再干活。
+
+【派生】♦ prohibitively adverb
+♦ prohibitiveness noun
+
+【语源】1. late Middle English (in sense 2): from French prohibitif, -ive or Latin prohibitivus, from prohibit- 'kept in check', from the verb prohibere (see prohibit )
+
+
+
+————————————
+★☆☆   proinsulin
+ / ˌprəuˈinsjulin /◙ noun
+1. [mass noun] [Biochemistry] a substance produced by the pancreas which is converted to insulin  • [生化] 胰岛素原
+
+
+
+————————————
+★☆☆   project
+ / prəˈdʒekt / vt., vt. & vi. / ˈprɔdʒekt /◙ noun
+1. an individual or collaborative enterprise that is carefully planned and designed to achieve a particular aim  • 工程，事业；项目
+ »a research project.  研究项目。
+ »a nationwide project to encourage business development.  鼓励商业发展的全国性事业。
+  a piece of school or college work in which a student undertakes their own research and submits the results for assessment  • 课题
+ »a history project.  历史课题。
+  a proposed or planned undertaking  • 计划，规划，方案
+ »the novel undermines its own stated project of telling a story.  小说破坏了讲述故事的原意。
+2. (也作 housing project)[N. Amer.] a government-subsidized estate or block of homes with relatively low rents  • [北美] 政府资助的廉租住宅区
+◙ verb, [with obj.] 
+1. [一般作be projected] estimate or forecast (something) on the basis of present trends  • 预计，推断
+ »spending was projected at £72,900 million.  支出预计在729亿英镑。
+  [often as adj. projected] plan (a scheme or undertaking)  • 计划，打算
+ »a projected exhibition of contemporary art.  计划中的当代艺术展览。
+2. [no obj.] extend outwards beyond something else; protrude  • 伸出，突出
+ »I noticed a slip of paper projecting from the book.  我注意到一张纸条从书里露了出来。
+ »[as adj. projecting] a projecting bay window.  一扇凸窗。
+3. [with obj. and adverbial of direction] throw or cause to move forward or outward  • 投掷，发射；喷射
+ »seeds are projected from the tree.  种子从树上弹射出来。
+  cause (light, shadow, or an image) to fall on a surface  • 使（光，影子，映象）落在表面上，投射
+ »the one light projected shadows on the wall.  那唯一的灯把影子投在墙上。
+  cause (a sound, especially the voice) to be heard at a distance  • 使（声音，尤指嗓音）扩及远处
+ »being audible depends on your ability to project your voice.  运用嗓音的能力决定你能被听见的程度。
+  imagine (oneself, a situation, etc.) as having moved to a different place or time  • 想像（自己、场景等）在另一地点或时间
+ »people may be projecting the present into the past.  人们可能把现在想像成过去某一时刻。
+4. present or promote (a particular view or image)  • 体现，促进（观点，意象）
+ »he strives to project an image of youth.  他努力地表现出青春的形象。
+  present (someone or something) in a way intended to create a favourable impression  • 表现（人，物）以留下好印象
+ »the scheme was projected as a public service.  该计划被表现为一项公共服务。
+  display (an emotion or quality) in one's behaviour  • 用行为表现（情感，品质）
+ »everyone would be amazed that a young girl could project such depths of emotion.  人人都会感到惊奇的是一个小女孩居然能表达如此深厚的感情。
+  (project something on to)transfer or attribute an emotion or desire to (another person), especially unconsciously  • （尤指无意地把情感、愿望）投射转移（给别人）
+ »men may sometimes project their own fears on to women.  男人有时会把自己的害怕心理投射转移到女人身上。
+5. [Geometry] draw straight lines from a centre of or parallel lines through every point of (a given figure) to produce a corresponding figure on a surface or a line by intersecting the surface  • [几何] 作（曲线）的射影图
+  draw (such lines)  • 作…的射影线
+  produce (such a corresponding figure)  • 投射
+6. make a projection of (the earth, sky, etc.) on a plane surface  • 把（地球，天空等）投影在平面上
+
+【语源】1. late Middle English (in the sense 'preliminary design, tabulated statement'): from Latin projectum 'something prominent', neuter past participle of proicere 'throw forth', from pro- 'forth' + jacere 'to throw'. Early senses of the verb were 'plan, devise' and 'cause to move forward'
+
+
+
+————————————
+★☆☆   projectile
+ / prəˈdʒektəl , -ˌtaɪl /◙ noun
+1. a missile designed to be fired from a rocket or gun  • 导弹，炮弹，子弹
+  an object propelled through the air, especially one thrown as a weapon  • （尤指武器）抛射物，发射物
+ »they tried to shield Johnson from the projectiles that were being thrown.  他们试图保护约翰逊免受投射物的袭击。
+◙ adjective
+1. of or relating to such a missile or object  • 可抛射物体的
+ »a projectile weapon.  一件投掷型武器。
+  impelled with great force  • 用火力推进的
+
+【语源】1. mid 17th cent.: modern Latin, from project- 'thrown forth', from the verb proicere (see project )
+
+
+
+————————————
+★☆☆   projection
+ / prəˈdʒekʃən /◙ noun
+1. an estimate or forecast of a future situation or trend based on a study of present ones  • （根据目前形势所作的）估计；预测，推测
+ »plans based on projections of slow but positive growth.  以缓慢但积极增长的预测为基础的计划。
+ »[mass noun] population projection is essential for planning.  人口预测对规划很重要。
+2. [mass noun] the presentation of an image on a surface, especially a cinema screen  • （尤指在电影屏幕上的）投影
+ »quality illustrations for overhead projection.  高射投影的精美画面。
+  [count noun] an image projected in such a way  • 投影图像
+ »the band use stage projections featuring moon shots.  乐队用舞台投影表现射向月亮。
+  the ability to make a sound, especially the voice, heard at a distance  • 扩及声音（尤指嗓音）至远处的能力
+ »I taught him voice projection.  我教他扩音法。
+3. [mass noun] the presentation or promotion of someone or something in a particular way  • （特定方式的）表现，体现
+ »the legal profession's projection of an image of altruism.  法律行业表现自身的无私形象。
+  [count noun] a mental image viewed as reality  • （被视为现实的）心理意象
+ »monsters can be understood as mental projections of mankind's fears.  魔鬼可被理解为人类恐惧的心理意象。
+  the unconscious transfer of one's own desires or emotions to another person  • 投射转移（某人）自身欲望（或情感）；无意识的传递
+ »we protect the self by a number of defence mechanisms, including repression and projection.  我们通过许多防卫机制保护自我，其中包括情感的压制与投射转移。
+4. a thing that extends outwards from something else  • 凸出物
+ »the chipboard covered all the sharp projections.  刨花板覆盖了所有凸出的尖物。
+5. [mass noun] [Geometry] the action of projecting a figure  • [几何] 射影图制作
+6. [mass noun] the representation on a plane surface of any part of the surface of the earth or a celestial sphere  • （地球或天体在平面上的）投射
+  (也作 map projection)[count noun] a method by which such representation may be done  • 地图投影
+
+【派生】♦ projectionist noun
+1. （义项 2）
+
+【语源】1. mid 16th cent. (in sense 6): from Latin projectio(n-), from proicere 'throw forth' (see project )
+
+
+
+————————————
+★☆☆   projection television◙ noun
+1. a large television receiver in which the image is projected optically on to a large viewing screen  • 投影电视
+
+
+
+————————————
+★☆☆   projective
+ / prəˈdʒektiv /◙ adjective
+1. [Geometry] relating to or derived by projection  • [几何] 射影的
+ »projective transformations.  射影变换。
+  (of a property of a figure) unchanged by projection  • （图形性质）不因射影而变化的
+2. [Psychology] relating to the unconscious transfer of one's own desires or emotions to another person  • [心理] 投射转移的（自身欲望或情感无意识地向他人转移）
+ »the projective contents of wish fantasies.  对希望之事的幻想的投射转移内容。
+  relating to or exploiting the unconscious expression or introduction of one's impressions or feelings  • （印象或情感）无意识表达的，无意识呈现的
+
+【派生】♦ projectively adverb
+
+
+
+
+————————————
+★☆☆   projective geometry◙ noun
+1. [mass noun] the study of the projective properties of geometric figures  • 射影几何学
+
+
+
+————————————
+★☆☆   projective test◙ noun
+1. a psychological test in which words, images, or situations are presented to a person and the responses analysed for unconscious expression of elements of personality that they reveal  • 投射测验（将词语、图像或情境表述给受试者，分析其反应作为性格特点无意识表达的心理测试）
+
+
+
+————————————
+★☆☆   projector
+ / prəˈdʒektə /◙ noun
+1. an object that is used to project rays of light, especially an apparatus with a system of lenses for projecting slides or film on to a screen  • 投影仪；放映机；幻灯机
+2. (archaic)a person who plans and sets up a project or enterprise  • [古] 计划人，规划人
+  a promoter of a dubious or fraudulent enterprise  • （可疑或欺诈性事业的）创办人
+
+
+
+————————————
+★☆☆   prokaryote
+ / prəuˈkæriəut /◙ (也作 procaryote), noun
+1. [Biology] a microscopic single-celled organism which has neither a distinct nucleus with a membrane nor other specialized organelles, including the bacteria and cyanobacteria  • [生] 原核生物。
+ --› compare eukaryote 
+
+【派生】♦ prokaryotic adjective
+
+【语源】1. 1960s: from pro- 'before' + Greek karuon 'nut, kernel' + -ote as in zygote
+
+
+
+————————————
+★☆☆   Prokofiev
+ / prəˈkɔfɪɛf /1. Sergei əSergeevich] (18ˌ1–1ˌˈ3), ɔussian composer. ŋotable works include seven symphonies, the opera ðhe ɚove for ðhree Oranges (1ˌ1ˌ), the ɚieutenant Kijé suite (1ˌ34), the ballet music for ɔomeo and ʊuliet (1ˌ3ˈ–6), and Peter and the θolf (1ˌ36), a young person's guide to the orchestra  • 普罗科菲耶夫，谢尔盖（•谢尔盖耶维奇）（1891—1953，俄罗斯作曲家，其主要作品包括七部交响乐；歌剧《对三个橙子的爱情》[1919] ，《基捷中尉——组曲》[1934] ，芭蕾舞剧《罗密欧与朱丽叶》[1935—1936] ，和作为帮助年轻人了解管弦乐队的《彼得与狼》[1936] 
+
+
+
+————————————
+★☆☆   Prokopyevsk
+ / prəˈkɔpjɛfsk /1. a coal-mining city in southern ɔussia, in the Kuznets ɑasin industrial region to the south of Kemerovo; pop. 2ˌ4,000 (1ˌˌ0)  • 普罗科皮耶夫斯克（俄罗斯南部煤城，位于克麦罗沃南面库兹涅茨煤田工业区；1990年人口274,000）
+
+
+
+————————————
+★☆☆   prolactin
+ / prəuˈlæktin /◙ noun
+1. [mass noun] [Biochemistry] a hormone released from the anterior pituitary gland that stimulates milk production after childbirth  • [生化] 催乳素，促乳素
+
+【语源】1. 1930s: from pro- 'before' + lactation
+
+
+
+————————————
+★☆☆   prolapse
+ / ˈprəulæps /◙ noun
+1. a slipping forward or down of one of the parts or organs of the body  • （身体部位或器官的）脱垂，脱出
+ »a rectal prolapse.  直肠脱出。
+  a prolapsed part or organ, especially a uterus or rectum  • 脱垂部位（或器官）（尤指子宫、直肠）
+◙ verb
+1. [no obj.] [usu. as adj. prolapsed] (of a part or organ of the body) slip forward or down  • （身体部位、器官）脱垂，脱出
+ »a prolapsed uterus.  脱垂的子宫。
+
+【语源】1. mid 18th cent.: from Latin prolaps- 'slipped forward', from the verb prolabi, from pro- 'forward, down' + labi 'to slip'
+
+
+
+————————————
+★☆☆   prolapsus
+ / prəuˈlæpsəs /◙ noun
+1. [mass noun] . technical term for prolapse  • [技] 同 prolapse 
+
+【语源】1. late 18th cent.: modern Latin, from late Latin, literally fall'
+
+
+
+————————————
+★☆☆   prolate
+ / ˈprəuleit /◙ adjective
+1. [Geometry] (of a spheroid) lengthened in the direction of a polar diameter  • [几何] （球体）长球形的，扁长的，长椭圆形的。 常与 oblate 相对
+
+【语源】1. late 17th cent.: from Latin prolatus 'carried forward', past participle of proferre 'prolong', from pro- 'forward' + ferre 'carry'
+
+
+
+————————————
+★☆☆   prole
+ / prəul /(informal, derogatory)ə非正式，贬] 
+◙ noun
+1. a member of the working class; a worker  • 工人阶级成员；工人
+◙ adjective
+1. working class  • 工人阶级的
+ »prole soldiers.  出身是工人阶级的士兵。
+
+【语源】1. late 19th cent.: abbreviation of proletariat
+
+
+
+————————————
+★☆☆   proleg
+ / ˈprəuleɡ /◙ noun
+1. [Entomology] a fleshy abdominal limb of a caterpillar or similar insect larva  • [昆] 腹足；原足
+
+
+
+————————————
+★☆☆   prolegomenon
+ / ˌprəuləˈɡɔminən /◙ (pl. prolegomena)
+1. a critical or discursive introduction to a book  • 序，前言，绪论
+
+【派生】♦ prolegomenous adjective
+
+【语源】1. mid 17th cent.: via Latin from Greek, passive present participle (neuter) of prolegein 'say beforehand', from pro 'before' + legein 'say'
+
+
+
+————————————
+★☆☆   prolepsis
+ / prəuˈlepsis , prəuˈli:psis /◙ (pl. prolepses -siːz), [mass noun] 
+1. [Rhetoric] the anticipation and answering of possible objections in rhetorical speech  • [修辞] 预辩法
+  (poetic/literary)anticipation  • [诗/文] 预期
+2. the representation of a thing as existing before it actually does or did so, as in he was a dead man when he entered  • 预词法（如he was a dead man when he entered）
+
+【派生】♦ proleptic adjective
+
+【语源】1. late Middle English (as a term in rhetoric): via late Latin from Greek prolēpsis, from prolambanein 'anticipate', from pro 'before' + lambanein 'take'
+
+
+
+————————————
+★☆☆   proletarian
+ / ˌprəʊlɪˈteəri:ən /◙ adjective
+1. of or relating to the proletariat  • 无产阶级的
+ »a proletarian ideology.  无产阶级意识形态。
+◙ noun
+1. a member of the proletariat  • 无产阶级分子，无产者
+
+【派生】♦ proletarianism noun
+♦ proletarianization noun
+1. (也作 -isation)
+♦ proletarianize verb
+1. (也作 -ise)
+
+【语源】1. mid 17th cent.: from Latin proletarius (from proles 'offspring'), denoting a person having no wealth in property, who only served the state by producing offspring, + -an
+
+
+
+————————————
+★☆☆   proletariat
+ / ˌprəuleˈtɛəriət /◙ [古亦作 proletariate] , noun
+1. [treated as sing. or pl.] workers or working-class people, regarded collectively (often used with reference to Marxism)  • 工人；工人阶级［总称］（常用于马克思主义）
+ »the growth of the industrial proletariat.  产业工人的增长。
+  the lowest class of citizens in ancient Rome  • （古罗马公民中的）最下层阶级
+
+【语源】1. mid 19th cent.: from French prolétariat, from Latin proletarius (see proletarian )
+
+
+
+————————————
+★☆☆   pro-life
+ / prəuˈlaif /◙ adjective
+1. opposing abortion and euthanasia  • 保护生命权的，反人工流产和安乐死的
+ »she is a pro-life activist.  她是一名反堕胎的积极分子。
+
+【派生】♦ pro-lifer noun
+
+
+
+
+————————————
+★☆☆   proliferate
+ / prəuˈlifəreit /◙ verb
+1. [no obj.] increase rapidly in numbers; multiply  • （数字）激增；（成倍）增加
+ »the science-fiction magazines which proliferated in the 1920s.  二十世纪二十年代激增的科幻杂志。
+  (of a cell, structure, or organism) reproduce rapidly  • （细胞，组织，有机体）增殖，繁殖；增生
+ »the Mediterranean faces an ecological disaster if the seaweed continues to proliferate at its present rate.  如果海草继续以目前的速度增生，地中海将面临一场生态灾难。
+  [with obj.] cause (cells, tissue, structures, etc.) to reproduce rapidly  • 使（细胞、组织、结构等）增生，速生
+ »electromagnetic radiation can only proliferate cancers already present.  电磁辐射只会使已经存在的癌组织增生。
+  [with obj.] produce (something) in large or increasing quantities  • 大量（或增量）生产
+ »the promise of new technology proliferating options on every hand.  新技术使各方面的选择不断增加的前景。
+
+【派生】♦ proliferative adjective
+♦ proliferator noun
+
+【语源】1. late 19th cent.: back-formation from proliferation
+
+
+
+————————————
+★☆☆   proliferation
+ / prəuˌlifəˈreiʃən /◙ noun
+1. [mass noun] rapid increase in numbers  • 激增；扩散
+ »a continuing threat of nuclear proliferation.  核扩散的持续威胁。
+  rapid reproduction of a cell, part, or organism  • （细胞、组织、有机体的）繁殖，增生
+ »we attempted to measure cell proliferation.  我们试图测量细胞繁殖。
+  [in sing.] a large number of something  • 大量
+ »stress levels are high, forcing upon them a proliferation of ailments.  压力很大，这使得他们患了许多病痛。
+
+【语源】1. mid 19th cent.: from French prolifération, from prolifére 'proliferous'
+
+
+
+————————————
+★☆☆   proliferous
+ / prəuˈlifərəs /◙ adjective
+1. [Biology] (of a plant) producing buds or side shoots from a flower or other terminal part  • [生] （植物）分芽繁殖的
+  (of a plant or invertebrate) propagating or multiplying by means of buds or offsets  • （植物，无脊椎动物）出芽（或分株）生殖的
+
+【语源】1. mid 17th cent.: from Latin proles 'offspring' + -ferous
+
+
+
+————————————
+★☆☆   prolific
+ / prəˈlɪfɪk /◙ adjective
+1. (of a plant, animal, or person) producing much fruit or foliage or many offspring  • （植物，动物，人）多产的，多育的
+ »in captivity tigers are prolific breeders.  圈养的老虎生育能力很强。
+  (of an artist, author, or composer) producing many works  • （艺术家，作家，作曲家）作品丰富的，多产的
+ »he was a prolific composer of operas.  他是一位多产的歌剧作曲家。
+  (of a sports player) high-scoring  • （运动员）得分高的
+ »a prolific goalscorer.  进球高手。
+2. present in large numbers or quantities; plentiful  • 大量的，丰富的
+ »mahogany was once prolific in the tropical forests.  热带森林一度盛产红木。
+  (of a river,area,or season of the year) characterized by plentiful wildlife or produce  • （河流，地区，季节）丰产的
+ »the prolific rivers and lakes around Galway.  戈尔韦周围物产丰富的河流、湖泊。
+
+【派生】♦ prolificacy noun
+♦ prolifically adverb
+♦ prolificness noun
+
+【语源】1. mid 17th cent.: from medieval Latin prolificus, from Latin proles 'offspring' (see proliferous )
+
+
+
+————————————
+★☆☆   proline
+ / ˈprəuli:n /◙ noun
+1. [mass noun] [Biochemistry] an amino acid which is a constituent of most proteins, especially collagen  • [生化] 脯氨酸
+2. A heterocyclic compound; chem. formula: C5H9NO2  • 一种杂环化合物；化学分子式：C5H9NO2
+
+【语源】1. early 20th cent.: contraction of the chemical name p(yr)rol(id)ine-2-carboxylic acid
+
+
+
+————————————
+★☆☆   prolix
+ / prəʊˈlɪks , ˈprəʊˌlɪks /◙ adjective
+1. (of speech or writing) using or containing too many words; tediously lengthy  • （言语，文字）啰嗦的；冗长的
+ »he found the narrative too prolix and discursive.  他觉得这篇论文太啰嗦、太不着边际。
+
+【派生】♦ prolixity noun
+♦ prolixly adverb
+
+【语源】1. late Middle English: from Old French prolixe or Latin prolixus 'poured forth, extended', from pro- 'outward' + liquere 'be liquid'
+
+
+
+————————————
+★☆☆   prolocutor
+ / ˈprəuləkju:tə /◙ noun
+1. a chairperson of the lower house of convocation in a province of the Church of England  • （英国国教教省教牧人员下院会议的）主席，议长
+2. (archaic or formal)a spokesman
+
+【语源】1. late Middle English (in sense 2): from Latin, from prolocut- 'spoken out', from the verb proloqui, from pro- 'before' + loqui 'speak'
+
+
+
+————————————
+★☆☆   Prolog
+ / ˈprəʊlɔg /◙ noun
+1. [mass noun] [Computing] a high-level computer programming language first devised for artificial intelligence applications  • [计算机] 逻辑程序设计语言
+
+【语源】1. 1970s: from the first elements of programming and logic
+
+
+
+————————————
+★☆☆   prologue
+ / ˈprəʊˌlɔ:g , -ˌlɔg /◙ [美 prolog] , noun
+1. a separate introductory section of a literary or musical work  • 序言；序诗；序曲
+ »the suppressed prologue to Women in Love.  小说《恋爱中的女人》中那压抑的开场白。
+  an event or action that leads to another event or situation  • 引出某种情况的事件（或行动）；开端序幕
+ »the events from 1945 to 1956 provided the prologue to the post-imperial era.  1945到1956年发生的一系列事件拉开了后帝国时代的帷幕。
+  (in professional cycling) a short preliminary time trial held before a race to establish a leader  • （职业自行车赛前举行的）领头车选拔赛
+  the actor who delivers the prologue in a play  • （在剧中）念开场白的演员
+
+【语源】1. Middle English: from Old French, via Latin from Greek prologos, from pro- 'before' + logos 'saying'
+
+
+
+————————————
+★☆☆   prolong
+ / prəˈlɔŋ /◙ verb
+1. [with obj.] extend the duration of  • 延长，拖长
+ »an idea which prolonged the life of the engine by many years.  延长了引擎寿命多年的想法。
+  [一般作 be prolonged] (rare)extend in spatial length  • [罕] 延长
+ »the line of his lips was prolonged in a short red scar.  短短一道红色疤痕使他的唇线显得很长。
+
+【派生】♦ prolongation noun
+♦ prolonger noun
+
+【语源】1. late Middle English: from Old French prolonguer, from late Latin prolongare, from pro- 'forward, onward' + longus 'long'
+
+
+
+————————————
+★☆☆   prolonged
+ / prəˈlɔŋd /◙ adjective
+1. continuing for a long time or longer than usual; lengthy  • 拖延的，拖长的；冗长的
+ »the region suffered a prolonged drought.  该地区遭遇久旱。
+
+【派生】♦ prolongedly adverb
+
+
+
+
+————————————
+★☆☆   prolusion
+ / prəuˈlju:ʒən /◙ noun
+1. (archaic or formal)a preliminary action or event; a prelude  • [古或正式] 序幕，前奏
+  a preliminary essay or article  • 序言，前言；绪论
+
+【语源】1. early 17th cent.: from Latin prolusio(n-), from prolus- 'practised beforehand', from the verb proludere, from pro 'before' + ludere 'to play'
+
+
+
+————————————
+★☆☆   prom
+ / prɔm /◙ noun, [informal] [非正式] 
+1. [Brit.] . short for promenade (in sense 1)  • [英] promenade 的简称（义项1）
+ »she took a short cut along the prom.  她沿步行道抄近路。
+2. (也作 Prom)[Brit.] . short for promenade concert  • [英] promenade concert 的简称
+ »the last night of the Proms.  漫步音乐会的最后一个晚上。
+3. [N. Amer.] a formal dance, especially one held by a class in high school or college at the end of a year  • [北美] （尤指大、中学校年终举办的）班级舞会
+
+
+
+————————————
+★☆☆   promenade
+ / ˌprɔməˈneɪd , -ˈnɑ:d /◙ noun
+1. a paved public walk, typically one along the seafront at a resort  • （尤指海滨人行道）散步场所
+  a leisurely walk,or sometimes a ride or drive,typically one taken in a public place so as to meet or be seen by others  • （尤指在有很多人出没、有社交之处）散步；骑马；开车兜风
+ »the admiring glances of strangers when she went on a promenade with Jules.  她与朱尔斯散步时陌生人投来的羡慕眼神。
+  (in country dancing) a movement in which couples follow one another in a given direction, each couple having both hands joined  • （乡村舞蹈）齐步行进
+2. [N. Amer.] . archaic term for prom (in sense 3)  • [北美，古] 同 prom （义项3）
+◙ verb
+1. [no obj.] take a leisurely walk,ride,or drive in public,especially to meet or be seen by others  • 散步（或骑马）兜风（尤指以见某人或招摇过市为目的）
+ »women who promenaded in the Bois de Boulogne.  在布伦树林里漫步的女人们。
+  [with obj.] take such a walk through (a place)  • 散步
+ »people began to promenade the streets.  人们开始漫步街头。
+  [with obj.] [dated] escort (someone) about a place, especially so as to be seen by others  • [旧] （尤指招摇地）领（某人）散步
+ »the governor of Utah promenades the daughter of the Maryland governor.  犹他州州长炫耀地带着马里兰州州长的女儿散步。
+
+【语源】1. mid 16th cent. (denoting a leisurely walk in public): from French, from se promener 'to walk', reflexive of promener 'take for a walk'
+
+
+
+————————————
+★☆☆   promenade concert◙ noun
+1. [Brit.] a concert of classical music at which a part of the audience stands in an area without seating, for which tickets are sold at a reduced price. The most famous series of such concerts is the annual BBC Promenade Concerts (known as the Proms), instituted by Sir Henry Wood in 1895 and held since the Second World War chiefly in the Albert Hall in London  • [英] 漫步音乐会（部分听众站着欣赏的古典音乐会。票价较低廉。最有名的是年度BBC漫步音乐会［通称the Proms]，由亨利•伍德爵士创立于1895年，第二次世界大战以来主要在伦敦的阿尔贝特音乐厅举行）
+
+
+
+————————————
+★☆☆   promenade deck◙ noun
+1. an upper deck on a passenger ship for the use of passengers who wish to enjoy the open air  • （客轮的）上层甲板，散步甲板
+
+
+
+————————————
+★☆☆   promenader◙ noun
+1. a person who takes a leisurely walk, ride, or drive in public  • 漫步者
+  [Brit.] a person attending a promenade concert and choosing to stand in the area without seating  • [英] （宁愿站着的）漫步音乐会听众
+
+
+
+————————————
+★☆☆   promethazine
+ / prəuˈmeθəˌzi:n /◙ noun
+1. [mass noun] [Medicine] a synthetic antihistamine drug derived from phenothiazine, used chiefly to treat the symptoms of allergies and motion sickness  • [医] 普鲁米近，异丙嗪，抗胺荨
+
+【语源】1. 1950s: from pro(pyl) + (di)meth(ylamine), a colourless gas + (phenothi)azine
+
+
+
+————————————
+★☆☆   Prometheus
+ / prəˈmiθju:s /əGreek Mythology] 
+1. a demigod, one of the ðitans, who was worshipped by craftsmen. θhen ɛeus hid fire away from man Prometheus stole it by trickery and returned it to earth. æs punishment ɛeus chained him to a rock where an eagle fed each day on his liver, which grew again each night; he was rescued by Hercules  • [希腊神话] 普罗米修斯（半神半人，提坦巨神之一，为工匠所敬之神；宙斯把火种藏起来不给人类，普罗米修斯施计窃取并还给人间；作为惩罚，宙斯把他缚在一块大岩石上，一老鹰每天食其肝脏但晚间肝脏重新长出，后为赫拉克勒斯所救）
+
+【派生】♦ Promethean adjective
+
+
+
+
+————————————
+★☆☆   promethium
+ / prəˈmi:θɪəm /◙ noun
+1. [mass noun] the chemical element of atomic number 61, a radioactive metal of the lanthanide series. It was first produced artificially in a nuclear reactor and occurs in nature in traces as a product of uranium fission[Symbol: Pm]  • （化学元素）钷[符号： Pm] 
+
+【语源】1. 1940s: modern Latin, from the name of the Titan Prometheus
+
+
+
+————————————
+★☆☆   prominence
+ / ˈprɔmənəns /◙ noun, [mass noun] 
+1. the state of being important or famous  • 重要性；卓越，显著，著名
+ »Bridget Riley came to prominence as an artist in the 1960s.  布里奇特•赖利在20世纪60年代成为卓越的艺术家。
+ »[in sing.] the commission gave the case a prominence which it might otherwise have escaped.  委员会把这一案例摆上重要位置，否则它可能已被忽略。
+2. the fact or condition of standing out from something by physically projecting or being particularly noticeable  • 突起，凸出
+ »radiographs showed enlargement of the right heart with prominence of the pulmonary outflow tract.  拍片结果显示，肺动脉流出管的突起使得右心房扩大。
+  [count noun] a thing that projects from something,especially a projecting feature of the landscape or a protuberance on a part of the body  • （尤指地形或身体部位）凸出物
+ »the steep, rocky prominence resembled a snow-capped mountain.  那陡峭的、多石的凸体很像一座雪山。
+  [count noun] [Astronomy] a stream of incandescent gas projecting above the sun's chromosphere  • [天文] 日珥
+
+【语源】1. late 16th cent. (denoting something that juts out): from obsolete French, from Latin prominentia 'jutting out', from the verb prominere (see prominent )
+
+
+
+————————————
+★☆☆   prominent
+ / ˈprɔminənt /◙ adjective
+1. important ; famous  • 重要的；卓越的，著名的
+ »she was a prominent member of the city council.  她是市政会重要人物。
+2. projecting from something; protuberant  • 突起的，凸出的
+ »a man with big, prominent eyes like a lobster's.  有龙虾般突眼的大眼睛男子。
+  situated so as to catch the attention; noticeable  • 显眼的，显著的；突出的
+ »the new housing estates are prominent landmarks.  新住宅群是显著的地标。
+◙ noun
+1. (也作 prominent moth)a stout drab-coloured moth with tufts on the forewings which stick up while at rest, and the caterpillars of which typically have fleshy growths on the back  • 天社蛾
+2. Family Notodontidae: many species  • 天社蛾科，多种
+
+【派生】♦ prominency noun
+♦ prominently adverb
+
+【语源】1. late Middle English (in the sense 'projecting'): from Latin prominent- 'jutting out', from the verb prominere. 
+--› compare eminent 
+
+
+
+————————————
+★☆☆   prominenti
+ / ˌprɔmɪˈnɛnti /◙ plural noun
+1. distinguished or eminent people  • 显赫人士；要人
+ »a restaurant which attracted the prominenti.  吸引显赫人士的饭店。
+
+【语源】1. Italian, from prominente 'prominent'
+
+
+
+————————————
+★☆☆   promiscuous
+ / prəˈmɪskju:əs /◙ adjective
+1. (of a person) having many sexual relationships,especially transient ones  • （人）淫乱的，滥交的（尤指短暂性行为）
+ »she's a wild, promiscuous, good-time girl.  她是那种野性的、性乱的、一味寻欢作乐的女郎。
+  (of sexual behaviour or a society) characterized by such relationships  • （性行为，社交）淫乱的，性乱的
+ »they ran wild,indulging in promiscuous sex and experimenting with drugs.  他们荒淫无度，沉醉于性乱，吸食各种各样的毒品。
+2. demonstrating or implying an undiscriminating or unselective approach; indiscriminate or casual  • 无区别的，无选择的；滥施的
+ »the city fathers were promiscuous with their honours.  城市元老不分对象滥授荣誉。
+  consisting of a wide range of different things  • 杂乱的，各种各样的
+ »Americans are free to pick and choose from a promiscuous array of values and behaviour.  美国人可以随意选择形形色色的价值观和行为方式。
+
+【派生】♦ promiscuity noun
+♦ promiscuously adverb
+♦ promiscuousness noun
+
+【语源】1. early 17th cent.: from Latin promiscuus 'indiscriminate', (based on miscere 'to mix') + -ous. The early sense was 'consisting of elements mixed together', giving rise to 'indiscriminate' and 'undiscriminating', whence the notion of 'casual'
+
+
+
+————————————
+★☆☆   promise
+ / ˈprɔmis /◙ noun
+1. a declaration or assurance that one will do a particular thing or that guarantees that a particular thing will happen  • 允诺；诺言；承诺，保证
+ »what happened to all those firm promises of support?  所有那些坚定支持的诺言都到哪儿去了？
+ »[with clause] he took my fax number with the promise that he would send me a drawing.  他要了我的传真号码，答应给我发一图样。
+ »[with infinitive] I did not keep my promise to go home early.  我没有信守早点回家的诺言。
+  [mass noun] the quality of potential excellence  • 前途；指望；出息
+ »he showed great promise even as a junior officer.  他还是下级军官时就显示出前途无量。
+  [in sing.] an indication that something specified is expected or likely to occur  • 可能
+ »there was a promise of peace in a land that had endured the threat of war for six months.  经受了六个月的战争威胁之后，该地区出现了和平的迹象。
+◙ verb
+1. [reporting verb] assure someone that one will definitely do,give,or arrange something; undertake or declare that something will happen  • 答应，允诺；作出保证
+ »[with infinitive] he promised to forward my mail.  他答应帮我转交信件。
+ »[with clause] she made him promise that he wouldn't do it again.  她逼他保证不重犯。
+ »[with direct speech] ‘I'll bring it straight back,’ she promised.   “我马上就拿回来，”她答应道。
+ »[with two objs] he promised her the job.  他答应把这份工作给她。
+  [with obj.] [一般作 be promised] (archaic)pledge (someone, especially a woman) to marry someone else; betroth  • [古] 把（某人，尤指女人）许配给
+ »I've been promised to him for years.  我好几年前就被许配给他了。
+2. [with obj.] give good grounds for expecting (a particular occurrence or situation)  • 有…可能；给…以指望
+ »forthcoming concerts promise a feast of music from around the world.  即将到来的音乐会可能是汇聚世界各地音乐的盛会。
+ »[with infinitive] it promised to be a night that all present would long remember.  这会是一个所有在场的人都可能长久记住的夜晚。
+  (of a person, publication, institution, etc.） announce (something) as being expected to happen  • （人、出版物、机构等）宣布（将发生）
+ »China yesterday promised a record summer grain harvest.  中国昨天宣布今年的夏收将创纪录。
+ »[with two objs] we're promised more winter weather tonight.  我们被告知今晚天气再次像冬天。
+  (promise oneself)contemplate the pleasant expectation of  • 指望，期待
+ »he tidied up the sitting room, promising himself an early night.  他把起居室整理好，指望晚上能早点休息。
+
+【IDIOMS】◘ I promise (或 I promise you)
+1. [informal] used for emphasis, especially so as to reassure, encourage, or threaten someone  • [非正式] （尤指用以加强安慰、鼓励或威胁的口气）我（向你）保证
+ »oh, I'm not joking, I promise you.  哦，我不是在开玩笑，我向你保证。
+◘ on a promise
+1. [informal] (of a person) confidently assured of something,especially of having sexual intercourse with someone  • [非正式] （人）被确切保证某事的（尤指性关系）
+ »a shop where Tom and I are on a promise with the girls serving there.  一家我和汤姆与女服务员有默契的商店。
+◘ promise (someone) the earth [或moon] 
+1. make extravagant promises to someone that are unlikely to be fulfilled  • 夸下海口
+ »interactive technology titillates, promises the earth but delivers nothing.  交互式技术令人兴奋，吹得响，实效少。
+◘ promises, promises
+1. [informal] used to indicate that the speaker is sceptical about someone's stated intention to do something  • [非正式] （表示说话者怀疑某人宣称的意图）诺言复诺言
+
+【派生】♦ promiser noun
+
+【语源】1. late Middle English: from Latin promissum 'something promised', neuter past participle of promittere 'put forth, promise', from pro- 'forward' + mittere 'send'
+
+
+
+————————————
+★☆☆   Promised Land◙ noun
+1. (the Promised Land)(in the Bible) the land of Canaan, that was promised to Abraham and his descendants [Gen. 12:7]  • （《圣经》）应许之地（指上帝许给亚伯拉罕及其后裔的迦南 ［《创世纪》12∶7]）
+  (the promised land)a place or situation in which someone expects to find great happiness  • 期望中的乐土
+ »Italy is the promised land for any musician.  意大利是每个音乐家都向往的乐土。
+
+
+
+————————————
+★☆☆   promisee
+ / ˌprɔmɪˈsi: /◙ noun
+1. [Law] a person to whom a promise is made  • [律] 受约人，受要约人
+
+
+
+————————————
+★☆☆   promising
+ / ˈprɔmisiŋ /◙ adjective
+1. showing signs of future success  • 有指望的，有希望的；有出息的，有前途的
+ »a promising film actor.  前途无量的电影演员。
+ »a promising start to the season.  本赛季前景很好的开局 。
+
+【派生】♦ promisingly adverb
+
+
+
+
+————————————
+★☆☆   promisor
+ / ˈprɔmisə /◙ noun
+1. [Law] a person who makes a promise  • [律] 立约人，要约人
+
+
+
+————————————
+★☆☆   promissory
+ / ˈprɔmisəri /◙ adjective
+1. (chiefly Law)conveying or implying a promise  • [主律] 约定的；承诺的
+ »statements that are promissory in nature.  具有约定性质的陈述。
+ »promissory words.  承诺。
+  (archaic)indicative of something to come; full of promise  • [古] 预示的；有希望的
+ »the glow of evening is promissory of the splendid days to come.  晚霞预示着阳光灿烂日子的到来。
+
+【语源】1. late Middle English: from medieval Latin promissorius, from promiss- 'promised', from the verb promittere (see promise )
+
+
+
+————————————
+★☆☆   promissory note◙ noun
+1. a signed document containing a written promise to pay a stated sum to a specified person or the bearer at a specified date or on demand  • 本票，期票
+
+
+
+————————————
+★☆☆   prommer◙ noun
+1. [Brit. informal] a person attending a promenade concert and choosing to stand in the area without seating; a promenader  • [英，非正式] 漫步音乐会站立听众；漫步者
+
+
+
+————————————
+★☆☆   promo
+ / ˈprəuməu /əinformal] ə非正式] 
+◙ (pl. -os)
+1. a piece of publicity or advertising, especially in the form of a short film or video  • （尤指短电影或录像形式的）推销广告
+ »a trade promo.  贸易广告。
+ »[as modifier] a promo video.  广告录像。
+
+【语源】1. 1960s: abbreviation of promotion
+
+
+
+————————————
+★☆☆   promontory
+ / ˈprɔməntəri /◙ (pl. -ies)
+1. a point of high land that juts out into the sea or a large lake; a headland  • 岬（角）；海角；（深入海或大湖中的）悬崖
+ »a rocky promontory.  岩岬。
+2. [Anatomy] a prominence or protuberance on an organ or other structure in the body  • [剖] 岬；突起；隆凸
+
+【语源】1. mid 16th cent.: from Latin promontorium, variant (influenced by mons, mont- 'mountain') of promunturium
+
+
+
+————————————
+★☆☆   promote
+ / prəˈməut /◙ verb, [with obj.] 
+1. further the progress of (something,especially a cause,venture,or aim); support or actively encourage  • （尤指事业、企业、目标等）加强；增进，促进
+ »some regulation is still required to promote competition.  加强竞争还需要一定的规则。
+  give publicity to (a product, organization, or venture) so as to increase sales or public awareness  • （产品、组织或企业）宣传，推销
+ »they are using famous personalities to promote the library nationally.  他们利用名人在全国各地宣传该图书馆。
+  attempt to ensure the passing of (a private Act of Parliament)  • 促使（议会私法议案）通过
+ »the government of the day would not be promoting the bill.  当时的政府不愿意促成该法案被通过。
+  [Chemistry] act as a promoter of (a catalyst)  • [化] 使（催化剂）更活泼
+2. [常作be promoted] advance or raise (someone) to a higher position or rank  • 晋升，提升，提拔
+ »she was promoted to General Manager.  她被提拔为总经理。
+ »[with obj. and complement] he was promoted Wing Commander while he was recovering from his injuries.  在等待伤愈时他被晋升为联队指挥官。
+  transfer (a sports team) to a higher division of a league  • （球队）晋级
+ »they were promoted from the Third Division last season.  他们上一赛季从丙级晋升。
+  [Chess] exchange (a pawn) for a more powerful piece of the same colour,typically a queen,as part of the move in which it reaches the opponent's end of the board  • [棋] 使（卒）升格为（尤指后等）
+  [Bridge] enable (a relatively low card) to win a trick by playing off the higher ones first  • [桥牌] （先打大牌）使（小牌）赢得一墩
+
+【派生】♦ promotability noun
+♦ promotable adjective
+♦ promotive adjective
+
+【语源】1. late Middle English: from Latin promot- 'moved forward', from the verb promovere, from pro- 'forward, onward' + movere 'to move'
+
+
+
+————————————
+★☆☆   promoter
+ / prəˈməʊtə /◙ noun
+1. a person or thing that promotes something,in particular  • 促进者，提倡者；助长者，尤指
+  a person or company that finances or organizes a sporting event or theatrical production  • （运动项目、戏剧的）承办人，出资人，赞助人
+ »a boxing promoter.  拳击赛承办人。
+  (也作 company promoter)a person involved in setting up and funding a new company  • （公司的）创办人，发起人
+  a supporter of a cause or aim  • （事业、目标的）促进者，提倡者
+ »Mitterrand was a fierce promoter of European integration.  密特朗是欧洲一体化的激烈提倡者。
+  (也作 promotor)[Chemistry] an additive that increases the activity of a catalyst  • [化] 促进剂，助催化剂
+  [Biology] a region of a DNA molecule which forms the site at which transcription of a gene starts  • [生] 启动子；推动子，促进子
+
+【语源】1. late Middle English: from Anglo-Norman French promotour, from medieval Latin promotor (see promote )
+
+
+
+————————————
+★☆☆   promotion
+ / prəˈməʊʃən /◙ noun, [mass noun] 
+1. activity that supports or provides active encouragement for the furtherance of a cause,venture,or aim  • 促进，增进；发扬；提倡
+ »GPs have a vital role to play in health promotion.  普通医生对促进健康起着关键的作用。
+  the publicization of a product, organization, or venture so as to increase sales or public awareness  • 推销，宣传
+  [count noun] a publicity campaign for a particular product,organization,or venture  • （为产品、组织、企业所作的）推销活动，宣传活动
+ »the paper is reaping the rewards of a series of promotions.  该报由于一系列的推销活动而正取得回报。
+  [often as modifier] (promotions)the activity or business of organizing such publicity or campaigns  • 促销，推销
+ »she's the promotions manager for EMI.  她是EMI公司的推销经理。
+  [count noun] a sporting event, especially a series of boxing matches, staged for profit  • （为获利而举办的）体育赛事（尤指系列拳击赛）
+ »a boxing promotion.  拳击系列比赛。
+  [Chemistry] the action of promoting a catalyst  • [化] 助催化
+2. the action of raising someone to a higher position or rank or the fact of being so raised  • 提拔，晋升，擢升
+ »majors designated for promotion to lieutenant colonel.  选定要晋升为陆军中校的少校。
+ »[count noun] a promotion to Divisional Sales Director.  提升为地区销售部主任。
+  the transfer of a sports team to a higher division of a league  • （运动队的）晋级
+ »they won promotion last season.  他们在上一赛季晋级。
+
+【语源】1. late Middle English (in sense 2): via Old French from Latin promotio(n-), from promovere 'move forward' (see promote )
+
+
+
+————————————
+★☆☆   promotional
+ / prəˈməuʃənl /◙ adjective
+1. of or relating to the publicizing of a product, organization, or venture so as to increase sales or public awareness  • 推销的，宣传的
+ »she was on a promotional tour for her books.  她在各地推销自己的书作。
+
+
+
+————————————
+★☆☆   prompt
+ / prɔmpt /◙ verb, [with obj.] 
+1. (of an event or fact) cause or bring about (an action or feeling)  • （事件，事实）引起，激起
+ »the growing public expenditure bill has prompted a review of spending.  不断增长的公共开支账单引发对支出的检查。
+  (prompt someone to/to do something)cause (someone) to take a course of action  • 促使（某人）采取行动
+ »a demonstration by around 20,000 people prompted the government to step up security.  约有20,000人参与的示威活动促使政府加强安全工作。
+2. assist or encourage (a hesitating speaker) to say something  • 鼓励（迟疑的说话者）往下说；追问；提示
+ »[with direct speech] ‘And the picture?’ he prompted.  “那照片呢？”他追问道。
+  supply a forgotten word or line to (an actor) during the performance of a play  • （戏剧表演时）提词
+  [Computing] (of a computer) request input from (a user)  • [计算机] 提示（用户输入信息）
+◙ noun
+1. an act of assisting or encouraging a hesitating speaker  • 鼓励，催促
+ »with barely a prompt, Barbara talked on.  芭芭拉不停地说，几乎不需要什么提醒。
+  the word or phrase spoken as a reminder to an actor of a forgotten word or line  • 提词，提白
+  [Computing] a word or symbol on a VDU screen to show that the system is waiting for input  • [计算机] 提示信息
+  another term for prompter  • 同 prompter 
+2. the time limit for the payment of an account, stated on a prompt-note  • （付款通知单上的）付款期限
+◙ adjective
+1. done without delay; immediate  • 及时的；迅速的
+ »the owner would have died but for the prompt action of two ambulancemen.  要不是两名救护队员立即行动，业主可能早就死了。
+  (of a person) acting without delay  • （人）利索的，敏捷的
+ »the fans were prompt and courteous in complying with police requests.  球迷马上很有礼貌地服从警察的请求。
+  (of goods) for immediate delivery and payment  • （商品）即期要送的；即期要付的
+◙ adverb
+1. [Brit.] exactly (with reference to a specified time)  • [英] 恰好；…整
+ »the man set off at three-thirty prompt.  那人在三点半准时出发。
+
+【派生】♦ promptitude noun
+♦ promptly adverb
+♦ promptness noun
+
+【语源】1. Middle English (as a verb): based on Old French prompt or Latin promptus 'brought to light', also 'prepared, ready', past participle of promere 'to produce', from pro- 'out, forth' + emere 'take'
+
+
+
+————————————
+★☆☆   prompt book◙ noun
+1. an annotated copy of a play for the use of a prompter during a performance  • （供提词员用的）舞台演出本
+
+
+
+————————————
+★☆☆   prompt box◙ noun
+1. an area in a theatre in which a prompter sits, located in front of the footlights beneath the stage  • 提词厢座（位于舞台底下脚灯前面）
+
+
+
+————————————
+★☆☆   prompter
+ / ˈprɔmptə /◙ noun
+1. a person seated out of sight of the audience who supplies a forgotten word or line to an actor during the performance of a play  • 提词员，提白员
+
+
+
+————————————
+★☆☆   prompting
+ / ˈprɔmptɪŋ /◙ noun
+1. [mass noun] the action of saying something to persuade, encourage, or remind someone to do or say something  • 敦促；劝说；鼓励；提醒
+ »after some prompting, the defendant gave the police his name.  几经敦促，被告把自己的名字告诉了警察。
+
+
+
+————————————
+★☆☆   prompt-note◙ noun
+1. a note sent to a customer as a reminder of payment due  • 付款通知单
+
+
+
+————————————
+★☆☆   prompt side◙ noun
+1. the side of the stage where the prompter sits, usually to the actor's left in the UK and to the actor's right in the US  • 提词员所在的一侧（英国通常在演员左侧，美国在演员的右侧）
+
+
+
+————————————
+★☆☆   promulgate
+ / ˈprɔməlˌgeɪt , prəʊˈmʌlˌgeɪt /◙ verb
+1. [with obj.] promote or make widely known (an idea or cause)  • （思想，事业）宣传，散布，传播
+ »these objectives have to be promulgated within the organization.  这些目标必须在机构内广而告之。
+  put (a law or decree) into effect by official proclamation  • （法律，法令）颁布，公布
+ »in January 1852 the new Constitution was promulgated.  新宪法颁布于1852年1月。
+
+【派生】♦ promulgation noun
+♦ promulgator noun
+
+【语源】1. mid 16th cent.: from Latin promulgat- 'exposed to public view', from the verb promulgare, from pro- 'out, publicly' + mulgere 'cause to come forth' (literally 'to milk')
+
+
+
+————————————
+★☆☆   promulge
+ / prəuˈmʌldʒ /◙ verb
+1. archaic variant of promulgate  • [古] 同 promulgate 
+
+【语源】1. late 15th cent.: from Latin promulgare
+
+
+
+————————————
+★☆☆   pronaos
+ / prəuˈneiɔs /◙ (pl. pronaoi)
+1. a vestibule at the front of a classical temple, enclosed by a portico and projecting side walls  • 古典寺庙的门廊
+
+【语源】1. via Latin from Greek pronaos 'hall of a temple', from pro 'before' + naos 'temple'
+
+
+
+————————————
+★☆☆   pronate
+ / ˈprəuneit /◙ verb
+1. [with obj.] (technical)put or hold (a hand, foot, or limb) with the palm or sole turned downwards  • [技] 使或保持（手，足，肢）掌面或脚底向下；使内转。
+--› compare supinate 
+ »[as adj. pronated] a pronated foot.  旋前脚。
+
+【派生】♦ pronation noun
+
+【语源】1. mid 19th cent.: back-formation from pronation, based on Latin pronus 'leaning forward'
+
+
+
+————————————
+★☆☆   pronator
+ / prəˈneitə /◙ noun
+1. [Anatomy] a muscle whose contraction produces or assists in the pronation of a limb or part of a limb  • [剖] 旋前肌
+  any of several specific muscles in the forearm  • 臂前肌
+
+
+
+————————————
+★☆☆   prone
+ / prəun /◙ adjective
+1. [predic.] (prone to/to do something)likely or liable to suffer from,do,or experience something,typically something regrettable or unwelcome  • 易于发生（不幸或不受欢迎之事）的，有发生（讨厌事）倾向的
+ »years of logging had left the mountains prone to mudslides.  多年的木材采运使山体动辄发生泥石流。
+ »he is prone to jump to conclusions.  他往往草率下结论。
+2. lying flat, especially face downwards or on the stomach  • （尤指面部向下）平卧的，卧倒的
+ »I was lying prone on a foam mattress.  我脸朝下平卧在泡沫垫子上。
+ »a prone position.  俯卧的姿势。
+  (technical)denoting the position of the forearm with the palm of the hand facing downwards  • [技] （前臂姿势）手心向下的
+3. (archaic)with a downward slope or direction  • [古] 向下倾斜的
+
+【派生】♦ proneness noun
+
+【语源】1. late Middle English: from Latin pronus 'leaning forward', from pro 'forwards'
+
+
+
+————————————
+★☆☆   prong
+ / prɔ:ŋ , prɔŋ /◙ noun
+1. each of two or more projecting pointed parts at the end of a fork  • （叉子的）尖齿
+  a projecting part on various other devices  • （多种工具的）尖头
+ »a small rubber brush with large prongs.  有粗齿的小橡皮刷。
+  (figurative)each of the separate parts of an attack or operation  • [喻] （进攻，作战）分支；队，股
+ »the three main prongs of the new government's program.  新政府计划的三个主要方向。
+  (vulgar slang)a man's penis  • [粗俚] 阴茎
+◙ verb
+1. [with obj.] pierce or stab with a fork  • （用叉子）叉，刺
+ »he passed his fork to the right hand to prong the meat.  他用右手接过叉子去叉肉。
+
+【派生】♦ pronged adjective
+ »[in combination] a three-pronged attack.  三面夹攻。
+
+【语源】1. late 15th cent. (denoting a forked implement): perhaps related to Middle Low German prange 'pinching instrument'. The verb dates from the mid 19th cent
+
+
+
+————————————
+★☆☆   pronghorn
+ / ˈprɔŋhɔ:n /◙ (也作 prong-horned antelope), noun
+1. a deer-like North American mammal with a stocky body, long slim legs, and black horns that are shed and regrown annually  • 叉角羚
+2. Antilocapra americana, the only member of the family Antilocapridae  • 拉丁名Antilocapra americana，叉角羚科的惟一一种
+
+
+
+————————————
+★☆☆   pronk◙ verb
+1. [no obj.] (of a springbok or other antelope) leap in the air with an arched back and stiff legs, typically as a form of display or when threatened  • （尤指羚羊等表现自己或受威胁时）躬身跳
+
+【语源】1. late 19th cent.: from Afrikaans, literally show off', from Dutch pronken 'to strut'
+
+
+
+————————————
+★☆☆   pronominal
+ / prəˈnɔminl /◙ adjective
+1. of, relating to, or serving as a pronoun  • 代词的，代词性的
+ »a pronominal form.  代词形式。
+
+【派生】♦ pronominalization noun
+1. (也作 -isation)
+♦ pronom-inalize verb
+1. (也作 -ise)
+♦ pronominally adverb
+
+【语源】1. mid 17th cent.: from late Latin pronominalis 'belonging to a pronoun', from Latin pronomen (see pronoun )
+
+
+
+————————————
+★☆☆   pronoun
+ / ˈprəunaun /◙ noun
+1. a word that can function as a noun phrase used by itself and that refers either to the participants in the discourse (e.g. I, you) or to someone or something mentioned elsewhere in the discourse (e.g. she, it, this)  • 代词（指话语参与者，如I,you等，也指话语他处提到的人或事，如she,it,this等）
+
+【语源】1. late Middle English: from pro- 'on behalf of', + noun, suggested by French pronom, Latin pronomen (from pro- 'for, in place of' + nomen 'name')
+
+
+
+————————————
+★☆☆   pronounce
+ / prəˈnauns /◙ verb, [with obj.] 
+1. make the sound of (a word or part of a word), typically in the correct or a particular way  • （尤指准确）发（词、音节的）音
+ »Gerry pronounced the hero's name ‘Cahoolin’.  格里把主人公的名字读成“Cahoolin”。
+ »a refugee whose name no one could pronounce.  一个谁也没法准确读出其名字的难民。
+2. declare or announce, typically formally or solemnly  • （尤指正式、庄严地）宣布，宣告；宣称；断言，表示
+ »allow history to pronounce the verdict.  让历史来宣判。
+ »[with complement] she was pronounced dead at the scene.  她被宣布当场死亡。
+ »[with clause] Asquith pronounced that this was the right course.  阿斯奎斯宣称这是正确的做法。
+  [no obj.] (pronounce on)pass judgement or make a decision on  • 就…发表意见，表态
+ »the Secretary of State will shortly pronounce on alternative measures.  国务卿不久将就其他替代措施发表意见。
+
+【派生】♦ pronounceability noun
+♦ pronounceable adjective
+♦ pronouncement noun
+♦ pronouncer noun
+
+【语源】1. late Middle English: from Old French pronuncier, from Latin pronuntiare, from pro- 'out, forth' + nuntiare 'announce' (from nuntius 'messenger')
+
+
+
+————————————
+★☆☆   pronounced
+ / prəˈnaʊnst /◙ adjective
+1. very noticeable or marked; conspicuous  • 显著的，明显的
+ »he had a pronounced squint.  他明显是个斜眼。
+
+【派生】♦ pronouncedly adverb
+
+
+
+
+————————————
+★☆☆   pronto
+ / ˈprɔntəu /◙ adverb
+1. [informal] promptly ; quickly  • [非正式] 立刻，马上
+ »put it in the refrigerator, pronto.  快，马上把它放进冰箱。
+
+【语源】1. early 20th cent.: from Spanish, from Latin promptus (see prompt )
+
+
+
+————————————
+★☆☆   Prontosil
+ / ˈprɔntəsɪl /◙ noun
+1. [mass noun] [Medicine, historical] the first sulphonamide antibiotic, a reddish-brown crystalline pigment formerly used to treat a range of infections  • [医，史] 白浪多息（最早的磺胺嘧啶类抗菌素）
+
+【语源】1. 1930s: from German, an invented proprietary name
+
+
+
+————————————
+★☆☆   pronucleus
+ / prəˈnju:kliəs /◙ (pl. pronuclei)
+1. [Bio-logy] either of a pair of gametic nuclei, in the stage following meiosis but before their fusion leads to the formation of the nucleus of the zygote  • [生] 原核，（成熟的卵或精子的）前核
+
+【派生】♦ pronuclear adjective
+
+
+
+
+————————————
+★☆☆   pronunciamento
+ / prəˌnʌnsiəˈmentəu /◙ (pl. -os)
+1. (especially in Spain and Spanish-speaking countries) a political manifesto or proclamation  • （尤见于西班牙及西班牙语国家）宣言，檄文；公告；声明
+
+【语源】1. Spanish pronunciamiento, from pronunciar 'pronounce'
+
+
+
+————————————
+★☆☆   pronunciation
+ / prəˌnʌnsiˈeiʃən /◙ noun
+1. [mass noun] the way in which a word is pronounced  • 发音，发音方法；读法
+ »spelling does not determine pronunciation.  拼写不决定发音。
+ »[count noun] similar pronunciations are heard in Ulster.  在乌尔斯特（北爱尔兰）也可听到类似的发音。
+
+【语源】1. late Middle English: from Latin pronuntiatio(n-), from the verb pronuntiare (see pronounce )
+
+【用法】1. The word pronunciation is often pronounced, by analogy with pronounce, as if the second syllable rhymed with bounce. This is not correct in standard English: the standard pronunciation,)n, has the second syllable rhyming with dunce. The correct spelling is pronunciation, never pronounciation
+
+
+
+————————————
+★☆☆   pro-nuncio
+ / prəʊˈnʌnsɪəʊ, -ʃɪəʊ /◙ (pl. -os)
+1. a papal ambassador to a country that does not accord the Pope's ambassador automatic precedence over other ambassadors  • 教廷非全权大使
+
+【语源】1. 1960s: from Italian pro-nunzio, from pro- 'before' + nunzio 'nuncio'
+
+
+
+————————————
+★☆☆   proof
+ / pru:f /◙ noun
+1. [mass noun] evidence or argument establishing or helping to establish a fact or the truth of a statement  • 证据，证物；证词，证言
+ »you will be asked to give proof of your identity.  你将被要求提供你的身份证明。
+ »[count noun] this is not a proof for the existence of God.  这不是上帝存在的证据。
+  [Law] the spoken or written evidence in a trial  • [律] （审判中的口头或书面）证据
+  the action or process of establishing the truth of a statement  • 证明，证实；验证
+ »it shifts the onus of proof in convictions from the police to the public.  它把定罪取证的责任从警方转嫁到了公众头上。
+  [count noun] (archaic)a test or trial  • [古] 测试，选拔
+  [count noun] a series of stages in the resolution of a mathematical or philosophical problem  • （数学或哲学问题）验算，求证
+  [count noun] [Scots Law] a trial or a civil case before a judge without a jury  • [苏格兰律] 法官单独听证
+2. a trial print of something, in particular  • 试印品，尤指
+  [Printing] a trial impression of a page, taken from type or film and used for making corrections before final printing  • [印刷] 校样，样张
+  a trial photographic print made for initial selection  • 照相样片
+  each of a number of impressions from an engraved plate, especially (in commercial printing) of a limited number before the ordinary issue is printed and before an inscription or signature is added  • （镌版印刷正式启印前的）试印印张
+  a specially struck specimen coin with a polished or frosted finish  • （抛光或毛面的）特制铸币样品
+3. [mass noun] the strength of distilled alcoholic liquor, relative to proof spirit taken as a standard of 100  • 标准酒精度（以100为标准）
+ »[in combination] powerful 132-proof rum.  132度的烈性朗姆酒。
+◙ adjective
+1. able to withstand something damaging; resistant  • 能抵挡…的，能耐…的，可防…的
+ »the marine battle armour was proof against most weapons.  舰船防弹钢板能抵挡大多数武器。
+ »[in combination] the system comes with idiot-proof instructions.  该系统配有人人能懂的说明书。
+2. [attrib.] denoting a trial impression of a page or printed work  • 试印的
+ »a proof copy is sent up for checking.  试印稿已寄来校对。
+◙ verb, [with obj.] 
+1. make (fabric) waterproof  • 使（织物）防水
+ »[as adj. proofed] the flysheet is made from proofed nylon.  帐篷的门帘是用防水尼龙做的。
+2. make a proof of (a printed work, engraving, etc.)  • 印（印刷品、镌版等的）校样，试印
+ »[as noun proofing] proofing could be done on a low-cost printer.  试印可以在低成本的印刷机上完成。
+  proofread (a text)  • 校对（文稿）
+ »a book about dinosaurs was being proofed by the publisher.  出版商正在校对一本关于恐龙的书。
+3. [N. Amer.] activate (yeast) by the addition of liquid  • [北美] 加水使（酵母）活化
+  knead (dough) until light and smooth  • 揉（面团）
+  [no obj.] (of dough) prove  • （面团）发酵
+ »shape into a baguette and let proof for a few minutes.  把面团揉成狭长形，放着发酵几分钟。
+
+【IDIOMS】◘ the proof of the pudding is in the eating
+1. (proverb)the real value of something can be judged only from practical experience or results and not from appearance or theory  • [谚] 布丁好坏，一尝便知
+
+【语源】1. Middle English preve, from Old French proeve, from late Latin proba, from Latin probare 'to test, prove'. The change of vowel in late Middle English was due to the influence of prove. Current sense of the verb dates from the late 19th cent
+
+
+
+————————————
+★☆☆   proof positive◙ noun
+1. [mass noun] evidence taken to be final or absolute proof of the existence of something  • 确凿证据
+ »he still needs proof positive of her love.  对于她的爱，他还有待确证。
+
+
+
+————————————
+★☆☆   proof-read◙ verb
+1. [with obj.] read (printer's proofs or other written or printed material) and mark any errors  • 校对
+
+【派生】♦ proof-reader noun
+
+
+
+
+————————————
+★☆☆   proof sheet◙ noun
+1. [Printing] a page of proofed text; a proof  • [印刷] 校样
+
+
+
+————————————
+★☆☆   proof spirit◙ noun
+1. [mass noun] a mixture of alcohol and water containing (in the UK) 57.1 per cent alcohol by volume or (in the US) 50 per cent alcohol by volume, used as a standard of strength of distilled alcoholic liquor  • 标准烈度的酒（酒精含量英制为57.1%，美制为50%）
+
+
+
+————————————
+★☆☆   proof-text◙ noun
+1. a passage of the Bible to which appeal is made in support of an argument or position in theology  • 引证的经文（神学中，为论证论点或观点而引用的《圣经》段落）
+
+
+
+————————————
+★☆☆   propprop¹
+◙ noun
+1. a pole or beam used as a support or to keep something in position, typically one that is not an integral part of the thing supported  • 支撑物，支柱；撑棒
+ »he looked around for a prop or a wedge to pin the door open.  他环视一周，想找根撑棒或楔子把门撑开。
+  (figurative)a person or thing that is a major source of support or assistance  • [喻] 支持者，后盾，靠山
+ »the second institutional prop of conservative Spain was the army.  保守派西班牙的第二个后盾机构便是军队。
+  [Grammar] a word used to fill a syntactic role without any specific meaning of its own, for example it in it is raining  • [语法] （本身没有具体意义但能使句法完整的）结构词
+  (也作 prop forward)[Rugby] a forward at either end of the front row of a scrum  • [英橄] （双方排开争球时）第一排的边锋
+2. (chiefly Austral.)a sudden stop made by a horse when going at speed  • [主澳] （马快跑时的）骤停
+◙ (propped, propping)
+1. [with obj. and adverbial of place] position something underneath (someone or something) for support  • 用…支撑（人，物）
+ »she propped her chin in the palm of her right hand.  她右手掌心托着下巴。
+  position (someone or something) more or less upright by leaning them against something else  • 放置，摆放；使靠在…上
+ »a jug of milk with a note propped against it.  一罐牛奶旁边竖了张便条。
+ »she propped the picture up on the mantlepiece.  她把画靠在壁炉架上。
+  use an object to keep (something) in position  • 用…撑住（某物）
+ »he found that the door to the office was propped open.  他看到办公室的门被撑开着。
+2. [no obj.] (chiefly Austral.)(of an animal, especially a horse) come to a dead stop with the forelegs rigid  • [主澳] （尤指马等挺直前腿）骤停
+
+【IDIOMS】◘ prop up the bar
+1. [informal] spend a considerable time drinking in a public house  • [非正式] 喝个底朝天
+
+【语源】1. late Middle English: probably from Middle Dutch proppe 'support (for vines')
+
+【PHR V】◘ prop someone/thing up
+1. provide support or assistance for someone or something that would otherwise fail or decline  • 支持，维持
+ »the government spent £3 billion in an attempt to prop up the pound.  政府用30亿英镑支撑英镑。prop²
+◙ noun
+1. [一般作 props] a portable object other than furniture or costumes used on the set of a play or film  • （用于戏剧、电影的）道具
+  (props)[treated as sing.] (informal, dated)a property man or mistress  • [非正式， 旧] 道具管理员
+
+【语源】1. mid 19th cent.: abbreviation of propertyprop³
+◙ noun
+1. [informal] an aircraft propeller  • [非正式] 螺旋桨，推进器
+
+【语源】1. early 20th cent.: abbreviation
+
+
+
+————————————
+★☆☆   prop.◙ for abbreviation
+  proposition  • 同 proposition 
+  proprietor  • 同 proprietor 
+
+
+
+————————————
+★☆☆   propaedeutic
+ / ˌprəupiˈdju:tik /◙ adjective
+1. [formal] (of an area of study) serving as a preliminary instruction or as an introduction to further study  • [正式] （研究领域）预备的；初步的；基本的
+
+【派生】♦ propaedeutical adjective
+
+【语源】1. late 18th cent.: from pro- 'before' + Greek paideutikos 'of or for teaching', suggested by Greek propaideuein 'teach beforehand'
+
+
+
+————————————
+★☆☆   propaganda
+ / ˌprɔpəˈɡændə /◙ noun
+1. [mass noun] (chiefly derogatory)information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view  • [主贬] （尤指偏狭误导的）宣传；谣言
+ »he was charged with distributing enemy propaganda.  他被指控散布敌方言论。
+  the dissemination of such information as a political strategy  • （作为政治策略的）宣传；传播；散布
+ »the party's leaders believed that a long period of education and propaganda would be necessary.  该党领袖认为长期的教育和宣传是很有必要的。
+2. [Propaganda] a committee of cardinals of the Roman Catholic Church responsible for foreign missions, founded in 1622 by Pope Gregory XV  • （罗马天主教的）传信部（1622年由教皇格列高利十五世创建，主要负责对外传教事业）
+
+【语源】1. Italian, from modern Latin congregatio de propaganda fide 'congregation for propagation of the faith' (see sense 2 ). Sense 1 dates from the early 20th cent
+
+
+
+————————————
+★☆☆   propagandist
+ / ˌprɔpəˈɡændist /(chiefly derogatory)ə主贬] 
+◙ noun
+1. a person who promotes or publicizes a particular organization or cause  • 宣传者，传播者
+ »a highly persuasive political propagandist.  一个很有说服力的政治宣传家。
+◙ adjective
+1. consisting of or spreading propaganda  • 宣传性的
+ »propagandist films.  宣传片。
+
+【派生】♦ propagandism noun
+♦ propagandistic adjective
+♦ propagandistically adverb
+
+
+
+
+————————————
+★☆☆   propagandize
+ / ˌprɔpəˈɡændaiz /◙ (也作 -ise), verb
+1. [no obj.] (chiefly derogatory)promote or publicize a particular cause, organization, or view, especially in a biased or misleading way  • [主贬] （尤指带偏见、误导地）宣传（事业，组织，观点）
+ »abolitionist leaders had not specifically propagandized for emancipation.  废奴主义者并没有为解放奴隶作具体的宣传。
+  [with obj.] [常作 be propagandized] attempt to influence (someone) in such a way  • （以宣传）影响（某人）
+ »people who have to be emotionalized and propagandized by logical arguments.  必须通过逻辑论证才能使之感动并接受影响的人们。
+
+
+
+————————————
+★☆☆   propagate
+ / ˈprɔpəɡeit /◙ verb, [with obj.] 
+1. breed specimens of (a plant, animal, etc.) by natural processes from the parent stock  • （动植物等）繁殖；使繁殖
+ »try propagating your own house plants from cuttings.  试着通过插枝繁殖自家的室内植物。
+  [no obj.] (of a plant, animal, etc.) reproduce in such a way  • （动植物等）繁殖，增殖
+ »the plant propagates freely from stem cuttings.  这种植物通过枝干扦插便可得以繁殖。
+  cause (something) to increase in number or amount  • 使（某物）在数量上增加
+ »operational error includes those errors propagated during the digitizing process.  运算错误包括数字转换过程中增多的错误。
+2. spread and promote (an idea, theory, knowledge, etc.) widely  • 传播（观念、理论、知识等）
+ »the French propagated the idea that the English were violent and gluttonous drunkards.  法国人传播这样的观念： 英国人是狂暴、贪婪的酒鬼。
+3. [with obj. and adverbial of direction] transmit (motion, light, sound, etc.) in a particular direction or through a medium  • （运动、光线、声音等）传送，传播
+ »electromagnetic effects can be propagated at a finite velocity only through material substances.  电磁效应只能通过物质材料以一定的速度传送。
+ »[as adj. propagated] a propagated electrical signal.  电播信号。
+  [no obj.] (of motion, light, sound, etc.) be transmitted or travel in such a way  • （运动、光、声音等）蔓延，扩展
+ »a hydraulic fracture is generally expected to propagate in a vertical plane.  水力断裂通常预计会沿纵面扩展。
+
+【派生】♦ propagation noun
+♦ propagative adjective
+
+【语源】1. late Middle English: from Latin propagat- 'multiplied from layers or shoots', from the verb propagare; related to propago 'young shoot' (from a base meaning 'fix')
+
+
+
+————————————
+★☆☆   propagator
+ / ˈprɔpəˌɡeitə /◙ noun
+1. a covered, typically electrically heated, container filled with earth or compost, used for germinating or raising seedlings  • 种子发生罐（尤指用电加热、内装土壤或肥料、用来使幼苗发芽或发育的有盖容器）
+2. a person who spreads and promotes an idea, theory, or branch of knowledge  • （观点、理论或知识的）传播者，宣传者
+ »a propagator of the doctrine.  该信条的传播者。
+
+
+
+————————————
+★☆☆   propagule
+ / ˈprɔpəɡju:l /◙ noun
+1. [Botany] a vegetative structure that can become detached from a plant and give rise to a new plant, e.g. a bud, sucker, or spore  • [植] （无性）繁殖体，无性芽
+
+【语源】1. mid 19th cent.: from modern Latin propagulum 'small shoot', diminutive of propago 'shoot, runner'
+
+
+
+————————————
+★☆☆   propane
+ / ˈprəupein /◙ noun
+1. [mass noun] [Chemistry] a flammable hydrocarbon gas of the alkane series, present in natural gas and used as bottled fuel  • [化] 丙烷
+2. Chem. formula: C3H8  • 化学分子式：C3H8
+
+【语源】1. mid 19th cent.: from propionic acid + -ane
+
+
+
+————————————
+★☆☆   propanoic acid
+ / ˌprəʊpəˈnəʊɪk /◙ noun
+1. [Chemistry] . another term for propionic acid  • [化] 同 propionic acid 
+
+【派生】♦ propanoate noun
+
+
+
+
+————————————
+★☆☆   propanol
+ / ˈprəupənəul /◙ noun
+1. [mass noun] [Chemistry] each of two isomeric liquid alcohols used as solvents; propyl alcohol  • [化] 丙醇
+2. Chem. formula: CH3CH2CH2OH (1-propanol, propan-1-ol) and CH3CH(OH)CH3 (2-propanol, propan-2-ol)  • 化学分子式： CH3CH2CH2OH （1-丙醇，丙-1-醇）和 CH3CH(OH)CH3 （2-丙醇，丙-2-醇）
+
+【语源】1. late 19th cent.: from propane + -ol
+
+
+
+————————————
+★☆☆   propanone
+ / ˈprəupənəun /◙ noun
+1. [Chemistry] . another term for acetone  • [化] 同 acetone 
+
+
+
+————————————
+★☆☆   propel
+ / prəˈpel /◙ (propelled, propelling)
+1. [with obj.] drive, push, or cause to move in a particular direction, typically forwards  • 推进，推
+ »the boat is propelled by using a very long paddle.  这条小船是靠长桨推进的。
+ »[as adj., in combination -propelled] a rocket-propelled grenade launcher.  火箭推进的枪榴弹发射筒。
+  [with obj. and adverbial of direction] (figurative)spur or drive into a particular situation  • [喻] 推动，刺激，驱策
+ »fear propelled her out of her stillness.  恐惧打破了她的平静。
+
+【语源】1. late Middle English (in the sense 'expel, drive out'): from Latin propellere, from pro- 'forward' + pellere 'to drive'
+
+
+
+————————————
+★☆☆   propellant
+ / prəˈpelənt /◙ noun
+1. a thing or substance that causes something to move or be driven forwards or outwards, in particular  • 推进物，尤指
+  an inert fluid, liquefied under pressure, in which the active contents of an aerosol are dispersed  • 气雾喷射剂
+  an explosive that fires bullets from a firearm  • 子弹发射火药
+  a substance used as a reagent in a rocket engine to provide thrust  • 火箭燃料
+◙ adjective
+1. another term for propellent  • 同 propellent 
+
+【语源】1. mid 17th cent.: originally from Latin propellent- 'driving ahead (of oneself'), from the verb propellere, later from propel
+
+
+
+————————————
+★☆☆   propellent◙ adjective
+1. capable of driving, pushing, or moving something in a particular direction  • 推进的；有推动力的
+ »propellent gases.  推进燃气。
+
+
+
+————————————
+★☆☆   propeller
+ / prəˈpelə /◙ noun
+1. a mechanical device for propelling a boat or aircraft, consisting of a revolving shaft with two or more broad, angled blades attached to it  • 螺旋桨，推进器
+
+
+
+————————————
+★☆☆   propeller-head◙ noun
+1. [informal] a person who has an obsessive interest in computers or technology  • [非正式] 电脑迷，技术迷
+
+【语源】1. 1980s: probably with reference to a beanie hat with a propeller on top, popularized by science-fiction enthusiasts
+
+
+
+————————————
+★☆☆   propeller shaft◙ noun
+1. a shaft transmitting power from an engine to a propeller or to the wheels of a motor vehicle  • 螺（旋）桨轴
+
+
+
+————————————
+★☆☆   propeller turbine◙ noun
+1. another term for turboprop  • 同 turboprop 
+
+
+
+————————————
+★☆☆   propelling pencil◙ noun
+1. a pencil with a plastic or metal case and a thin replaceable lead that may be extended as the point is worn away by twisting the outer casing  • （旋转式）活动铅笔
+
+
+
+————————————
+★☆☆   propene
+ / ˈprəupi:n /◙ noun
+1. [Chemistry] . another term for propylene  • [化] 同 propylene 
+
+【语源】1. mid 19th cent.: blend of propane and alkene
+
+
+
+————————————
+★☆☆   propenoic acid
+ / ˌprəʊpəˈnəʊɪk /◙ noun
+1. systematic chemical name for acrylic acid  • [化] 同 acrylic acid 
+
+【派生】♦ propenoate noun
+
+
+
+
+————————————
+★☆☆   propensity
+ / prəˈpensɪti: /◙ (pl. -ies)
+1. an inclination or natural tendency to behave in a particular way  • 倾向，习性
+ »she has a propensity for breaking plates.  她总会打破碟子。
+ »[with infinitive] their innate propensity to attack one another.  他们互相攻击的内心习性。
+
+【语源】1. late 16th cent.: from archaic propense (from Latin propensus 'inclined', past participle of propendere, from pro- 'forward, down' + pendere 'hang') + -ity
+
+
+
+————————————
+★☆☆   proper
+ / ˈprɔpə /◙ adjective
+1. [attrib.] truly what something is said or regarded to be; genuine  • 真正的
+ »she's never had a proper job.  她从没有过一份真正的工作。
+ »a proper meal.  真正的一顿饭。
+  [postpositive] strictly so called; in its true form  • 严格意义上的，真正的，本身的
+ »after this event, three countries will progress to the World Cup proper.  本赛事之后，三个国家将进入世界杯赛本身。
+  (informal, chiefly Brit.)used as an intensifier, especially in derogatory contexts  • [非正式，主英，贬] （用于强调）地道的
+ »a proper little do-gooder, aren't I?  我真是地地道道做好事的家伙，不是吗？
+2. [attrib.] of the required type; suitable or appropriate  • 合适的；适当的，恰当的
+ »an artist needs the proper tools.  艺术家要有合适的工具。
+  according to what is correct or prescribed for a particular situation or thing  • 本来的，固有的，正确的；准确的
+ »they had not followed the proper procedures.  他们没有遵循正确的步骤。
+  according to or respecting recognized social standards or conventions; respectable,especially excessively so  • （尤指过度）循规蹈矩的；合乎体统的，正派的
+ »her parents' view of what was proper for a well-bred girl.  她父母关于有教养的女孩举止得体的观点。
+ »a very prim and proper Swiss lady.  一位非常端庄正派的瑞士女士。
+3. [predic.] (proper to)belonging or relating exclusively or distinctively to; particular to  • 专属于…的；为…所特有的
+ »the two elephant types proper to Africa and to southern Asia.  非洲和南亚特有的两种大象。
+  (of a psalm, lesson, prayer, etc.) appointed for a particular day, occasion, or season  • （圣诗、教义、祷词等）用于某特定场合的
+  (archaic)belonging to oneself or itself; own  • [古] 属于自己的，自己的
+ »to judge with my proper eyes.  用我自己的眼睛判断。
+4. [usu. postpositive] [Heraldry] in the natural colours  • [纹章] 原色的
+5. (archaic or dialect)(of a person) good-looking  • [古或方] （人）漂亮的，好看的
+ »he is a proper youth!.  他真是个帅小伙！。
+6. [Mathematics] denoting a subset or subgroup that does not constitute the entire set or group, especially one that has more than one element  • [数] 真的，正常的
+◙ adverb
+1. [Brit. informal or dialect] satisfactorily or correctly  • [英，非正式或方] 满意地，正确地
+ »my eyes were all blurry and I couldn't see proper.  我双眼模糊，看不真切。
+  thoroughly  • 完全地，彻底地
+ »he blotted his copybook good and proper.  他把本子弄得墨迹斑斑。
+◙ noun
+1. the part of a church service that varies with the season or feast  • 特定季节（或节日）的礼仪
+
+【派生】♦ properness noun
+
+【语源】1. Middle English: from Old French propre, from Latin proprius 'one's own, special'
+
+
+
+————————————
+★☆☆   properdin
+ / ˈprəupədin /◙ noun
+1. [mass noun] [Biochemistry] a protein present in the blood, involved in the body's response to certain kinds of infection  • [生化] 备解素，血清灭菌蛋白
+
+【语源】1. 1950s: from pro- 'before' + Latin perdere 'destroy' + -in
+
+
+
+————————————
+★☆☆   proper fraction◙ noun
+1. a fraction that is less than one, with the numerator less than the denominator  • 真分数
+
+
+
+————————————
+★☆☆   properly
+ / ˈprɔpəlɪ /◙ adverb
+1. correctly or satisfactorily  • 正确地；满意地
+ »ensuring the work is carried out properly.  确保工作完满执行。
+ »a properly drafted agreement.  文字起草符合规格的协议。
+  appropriately for the circumstances; suitably; respectably  • 适宜地；合适地；正派地
+ »I'm trying to get my mother to behave properly.  我想要母亲注意点分寸。
+  [sentence adverb] in the strict sense; exactly  • 严格意义上；恰好
+ »algebra is, properly speaking, the analysis of equations.  代数，确切地说，就是方程解析。
+2. [usu. as submodifier] (informal, chiefly Brit.)thoroughly; completely  • [非正式，主英] 彻底地；完全地
+ »on the first day she felt properly well, Millie sat out on the front steps.  密丽在感觉自己彻底好了的第一天就到屋外门前的台阶上坐了坐。
+
+
+
+————————————
+★☆☆   proper motion◙ noun
+1. [mass noun] [Astronomy] the part of the apparent motion of a fixed star that is due to its actual movement in space relative to the sun  • [天文] 自转，自行
+
+
+
+————————————
+★☆☆   proper noun◙ (也作 proper name), noun
+1. a name used for an individual person, place, or organization, spelled with an initial capital letter, e.g. Jane, London, and Oxfam. Often contrasted with common noun  • 专有名词。 常与 common noun 相对
+
+
+
+————————————
+★☆☆   propertied
+ / ˈprɔpətid /◙ adjective
+1. (of a person or group) owning property and land, especially in large amounts  • （人，群体）有产业的（尤指大量）
+ »a propertied country gentleman.  一位富有的乡绅。
+
+
+
+————————————
+★☆☆   Propertius
+ / prəˈpə:ʃəs /1. Sextus (c.ˈ0–c.16 bc), ɔoman poet. His four books of elegies are largely concerned with his love affair with a woman whom he called ɔynthia  • 普洛佩提乌斯，塞克斯特斯（约公元前50—约16年，罗马诗人，其四部哀歌多是关于他与一位叫辛西娅的女子的风流韵事）
+
+
+
+————————————
+★☆☆   property
+ / ˈprɔpəti /◙ (pl. -ies)
+1. [mass noun] a thing or things belonging to someone; possessions collectively  • 个人财产，资产；所有物［总称］
+ »she wanted Oliver and his property out of her flat.  她要奥利弗带上他的东西离开她的公寓。
+ »the stolen property was not recovered.  失窃物没有找到。
+  a building or buildings and the land belonging to it or them  • 房产，地产；房地产
+ »he's expanding now, buying property.  他正扩大业务，购置房地产。
+ »[count noun] the renovation of council properties.  市政会所属公房的修缮。
+  (properties)shares or investments in property  • 房地产股票（或投资）
+  [Law] the right to the possession, use, or disposal of something; ownership  • [律] 所有权，处置权，使用权
+ »rights of property.  所有权。
+  old-fashioned term for prop  • [旧] 同 prop 
+2. an attribute, quality, or characteristic of something  • 特性，性质，性能
+ »the property of heat to expand metal at uniform rates.  热以均匀速度使金属膨胀的性能。
+
+【语源】1. Middle English: from an Anglo-Norman French variant of Old French propriete, from Latin proprietas, from proprius 'one's own, particular' (see proper )
+
+
+
+————————————
+★☆☆   property man◙ noun
+1. [dated] a man in charge of theatrical props  • [旧] 道具管理员
+
+
+
+————————————
+★☆☆   property mistress◙ noun
+1. [dated] a woman in charge of theatrical props  • [旧] 女道具管理员
+
+
+
+————————————
+★☆☆   property qualification◙ noun
+1. (chiefly historical)a qualification for office or for the exercise of a right, especially the right to vote, based on the ownership of property  • [主史] 财产资格（尤指根据财产所有权而获得投票权等的权利资格）
+
+
+
+————————————
+★☆☆   prop forward◙ noun
+ --› see [义项1] ">prop [义项1] 
+
+
+
+————————————
+★☆☆   prophage
+ / ˈprəufeidʒ /◙ noun
+1. [Microbiology] the genetic material of a bacteriophage, incorporated into the genome of a bacterium and able to produce phages if specifically activated  • [微生物] 原噬菌体，前噬菌体
+
+【语源】1. 1950s: from pro- 'before' + phage
+
+
+
+————————————
+★☆☆   prophase
+ / ˈprəufeiz /◙ noun
+1. [mass noun] [Biology] the first stage of cell division, before metaphase, during which the chromosomes become visible as paired chromatids and the nuclear envelope disappears. The first prophase of meiosis includes the reduction division  • [生] （细胞有丝分裂）前期
+
+【语源】1. late 19th cent.: from pro- 'before' + phase
+
+
+
+————————————
+★☆☆   prophecy
+ / ˈprɔfisi /◙ (pl. -ies)
+1. a prediction of what will happen in the future  • 预言，预告
+ »a bleak prophecy of war and ruin.  关于战争和破坏的凄惨预言。
+  [mass noun] the faculty, function, or practice of prophesying  • 预言，预告
+ »the gift of prophecy.  预言能力。
+
+【语源】1. Middle English: from Old French profecie, via late Latin from Greek prophēteia, from prophētēs (see prophet )
+
+
+
+————————————
+★☆☆   prophesy
+ / ˈprɔfɪˌsaɪ /◙ (-ies, -ied)
+1. [with obj.] say that (a specified thing) will happen in the future  • 预言，预告；预知
+ »Jacques was prophesying a bumper harvest.  雅克预言有一场大丰收。
+ »[with clause] the papers prophesied that he would resign after the weekend.  报纸预测他会在周末过后辞职。
+  [no obj.] speak or write by divine inspiration; act as a prophet  • 受神启示而说（或写）；作为先知
+ »when a man prophesies, it is because the Spirit of the Lord comes upon him.  人在预言时，那是因为圣灵降临到他身上。
+
+【派生】♦ prophesier noun
+
+【语源】1. Middle English: from Old French profecier, from profecie (see prophecy ). The differentiation of the spellings prophesy and prophecy as verb and noun was not established until after 1700
+
+
+
+————————————
+★☆☆   prophet
+ / ˈprɔfit /◙ noun
+1. a person regarded as an inspired teacher or proclaimer of the will of God  • 先知
+ »the Old Testament prophet, Jeremiah.  《旧约》先知耶利米。
+  (the Prophet)(among Muslims) Muhammad  • （穆斯林的）先知穆罕默德
+  (the Prophet)(among Mormons) Joseph Smith or one of his successors  • （摩门教的）约瑟夫•史密斯（或其追随者之一）
+  a person who advocates or speaks in a visionary way about a new belief, cause, or theory  • （信仰，事业，理论）宣扬者，提倡者
+ »he was a prophet of revolutionary socialism.  他是革命社会主义的倡导者。
+  a person who predicts, or claims to be able to predict, what will happen in the future  • 预言者，预言家
+ »the prime minister ignored the prophets of financial doom.  首相不理睬预言会有金融危机的人。
+2. (the Prophets)the prophetic writings of the Old Testament or Hebrew scriptures, in particular  • 先知书，尤指
+  (in Christian use) the books of Isaiah, Jeremiah, Ezekiel, Daniel, and the twelve minor prophets  • [基督教] （以赛亚、耶利米、以西结、但以理及十二位小先知所写的）《先知书》
+  (in Jewish use) one of the three canonical divisions of the Hebrew Bible, distinguished from the Law and the Hagiographa, and comprising the books of Joshua, Judges, Samuel, Kings, Jeremiah, Ezekiel, Isaiah, and the twelve minor prophets  • [犹太教] （《希伯来圣经》正经篇目三部分之一，与《律法书》和《圣录》有别，包括《耶和华记》、《士师记》、《撒母耳记》、《列王记》、《耶利米书》、《以西结书》、《以赛亚书》以及十二个小先知写的《先知书》）
+
+【IDIOMS】◘ a prophet is not without honour save in his own country
+1. (proverb)a person's gifts and talents are rarely appreciated by those close to him  • [谚] 先知要吃香，只有去国外（一个人的天资和才能很少受到他周围的人赏识）
+
+【派生】♦ prophethood noun
+
+【语源】1. Middle English: from Old French prophete, via Latin from Greek prophētēs 'spokesman', from pro 'before' + phētēs 'speaker' (from phēnai 'speak')
+
+
+
+————————————
+★☆☆   prophetess
+ / ˈprɔfɪtɪs /◙ noun
+1. a female prophet  • 女预言家
+
+
+
+————————————
+★☆☆   prophetic
+ / prəˈfetɪk /◙ adjective
+1. accurately describing or predicting what will happen in the future  • 预言性的；预示的
+ »his warnings proved prophetic.  他的警告不幸言中。
+2. of, relating to, or characteristic of a prophet or prophecy  • 预言者的，先知的，预言的
+ »the prophetic books of the Old Testament.  《旧约》中的预言性书篇。
+
+【派生】♦ prophetical adjective
+♦ prophetically adverb
+
+【语源】1. late 15th cent.: from French prophētique or late Latin propheticus, from Greek prophētikos 'predicting' (see prophet )
+
+
+
+————————————
+★☆☆   prophylactic
+ / ˌprəʊfəˈlæktɪk , ˌprɔfə- /◙ adjective
+1. intended to prevent disease  • 预防性的，预防疾病的
+ »prophylactic measures.  预防措施。
+◙ noun
+1. a medicine or course of action used to prevent disease  • 预防药；预防剂；预防法
+ »I took malaria prophylactics.  我服用了预防疟疾的药。
+  (chiefly N. Amer.)a condom  • [主北美] 避孕套
+
+【派生】♦ prophylactically adverb
+
+【语源】1. late 16th cent.: from French prophylactique, from Greek prophulaktikos, from pro 'before' + phulassein 'to guard'
+
+
+
+————————————
+★☆☆   prophylaxis
+ / ˌprɔfiˈlæksis /◙ noun
+1. [mass noun] action taken to prevent disease, especially by specified means or against a specified disease  • （尤与指明的方法或疾病连用）预防，预防法
+ »the treatment and prophylaxis of angina pectoris.  心绞痛的治疗和预防。
+
+【语源】1. mid 19th cent.: modern Latin, from pro- 'before' + Greek phulaxis 'act of guarding'
+
+
+
+————————————
+★☆☆   propinquity
+ / prəˈpɪŋkwɪti: /◙ noun, [mass noun] 
+1. the state of being close to someone or something; proximity  • 靠近，接近
+ »he kept his distance as though afraid propinquity might lead him into temptation.  他保持一定距离，似乎担心靠得太近会抵御不了诱惑。
+2. (technical)close kinship  • [技] 近亲关系
+
+【语源】1. late Middle English: from Old French propinquité, from Latin propinquitas, from propinquus 'near', from prope 'near to'
+
+
+
+————————————
+★☆☆   propionibacterium
+ / ˌprəʊpɪˌɔnɪbækˈtɪərɪəm /◙ (pl. propionibacteria -rɪə)
+1. a bacterium which metabolizes carbohydrate, some kinds being involved in the fermentation of dairy products and the aetiology of acne  • 丙酸杆菌
+2. Genus Propionibacterium; Gram-positive rods  • 丙酸杆菌属，格兰氏阳性染色体
+
+【语源】1. modern Latin, from propionic (see propionic acid ) + bacterium
+
+
+
+————————————
+★☆☆   propionic acid
+ / ˌprəʊpɪˈɔnɪk /◙ noun
+1. [mass noun] [Chemistry] a colourless pungent liquid organic acid produced in some forms of fermentation and used for inhibiting the growth of mould in bread  • [化] 丙酸
+2. Alternative name: propanoic acid; chem. formula: C2H5COOH  • 又名：丙酸；化学分子式：C2H5COOH
+
+【派生】♦ propionate noun
+
+【语源】1. mid 19th cent.: propionic from French propionique, from Greek pro 'before' + piōn 'fat', it being the first member of the fatty acid series to form fats
+
+
+
+————————————
+★☆☆   propitiate
+ / prəʊˈpɪʃi:ˌeɪt /◙ verb
+1. [with obj.] win or regain the favour of (a god, spirit, or person) by doing something that pleases them  • 谋求（神灵或人的）好感，取悦
+ »the pagans thought it was important to propitiate the gods with sacrifices.  异教徒认为用祭牲取悦众神是很重要的。
+
+【派生】♦ propitiator noun
+♦ propitiatory adjective
+
+【语源】1. late 16th cent. (as propitiation): from Latin propitiat- 'made favourable', from the verb propitiare, from propitius 'favourable, gracious' (see propitious )
+
+
+
+————————————
+★☆☆   propitiation
+ / prəʊˌpɪʃi:ˈeɪʃən /◙ noun
+1. [mass noun] the action of propitiating or appeasing a god,spirit,or person  • （对神灵或人）抚慰，取悦；求好感
+ »he lifted his hands in propitiation.  他举起手来祈求宽恕。
+  atonement,especially that of Christ  • （尤指基督的）赎价， 赎罪
+
+【语源】1. late Middle English: from late Latin propitiatio(n-), from the verb propitiare (see propitiate )
+
+
+
+————————————
+★☆☆   propitious
+ / prəˈpɪʃəs /◙ adjective
+1. giving or indicating a good chance of success; favourable  • 吉祥的；吉利的，有利的
+ »the timing for such a meeting seemed propitious.  这一会议的时间选择似乎是好兆。
+  (archaic)favourably disposed towards someone  • [古] 对某人偏爱的
+ »there were points on which they did not agree, moments in which she did not seem propitious.  他们有些地方有分歧，在有的时刻她似乎并未表现出喜爱。
+
+【派生】♦ propitiously adverb
+♦ propitiousness noun
+
+【语源】1. late Middle English: from Old French propicieus or Latin propitius 'favourable, gracious'
+
+
+
+————————————
+★☆☆   prop jet◙ noun
+1. a turboprop aircraft or engine  • 涡轮螺旋桨飞机（或发动机）
+
+
+
+————————————
+★☆☆   propolis
+ / ˈprɔpəlis /◙ noun
+1. [mass noun] a red or brown resinous substance collected by honeybees from tree buds, used by them to fill crevices and to fix and varnish honeycombs  • 蜂胶
+
+【语源】1. early 17th cent.: via Latin from Greek propolis 'suburb', also 'bee glue', from pro 'before' + polis 'city'
+
+
+
+————————————
+★☆☆   proponent
+ / prəˈpəʊnənt /◙ noun
+1. a person who advocates a theory, proposal, or project  • （理论、倡议、项目的）提议者，建议者；支持者
+ »a collection of essays by both critics and proponents of graphology.  一本兼有批评家和倡导者所写的关于笔迹学的论文集。
+
+【语源】1. late 16th cent.: from Latin proponent- 'putting forth', from the verb proponere (see propound )
+
+
+
+————————————
+★☆☆   Propontis
+ / prəˈpɔntɪs /1. ancient name for the Sea of Marmara (see Marmara , Sea of )  • [古] 同 Sea of Marmara （见 Marmara, Sea of)
+
+
+
+————————————
+★☆☆   proportion
+ / prəˈpɔ:ʃən /◙ noun
+1. a part, share, or number considered in comparative relation to a whole  • 部分，份额
+ »the proportion of greenhouse gases in the atmosphere is rising.  大气中温室气体的比重在上升。
+  the relationship of one thing to another in terms of quantity, size, or number; the ratio  • 比例，比
+ »the proportion of examination to coursework.  考试与课程的比例。
+ »the bleach can be diluted with water in the proportion one part bleach to ten parts water.  可用1份漂白粉兑10份水的比例稀释。
+  (proportions)the comparative measurements or size of different parts of a whole  • 整体中不同部分的相对量（或大小）
+ »the view of what constitutes perfect bodily proportions changes from one generation to the next.  每代人对什么样的尺寸比例构成完美体型的观点各不相同。
+  (proportions)dimensions; size  • 大小；容积；体积；面积
+ »the room, despite its ample proportions, seemed too small for him.  这间房尽管面积很大，但对他来说似乎还是太小。
+  [mass noun] the correct,attractive,or ideal relationship in size or shape between one thing and another or between the parts of a whole  • 均衡，调和，相称
+ »perceptions of colour, form, harmony, and proportion.  对颜色、形状、协调和均衡的感知。
+◙ verb
+1. [with obj.] [formal] adjust or regulate (something) so that it has a particular or suitable relationship to something else  • [正式] 使（某物）成比例，使相称，使均衡
+ »a life after death in which happiness can be proportioned to virtue.  快乐与美德相称的来世生活。
+
+【IDIOMS】◘ in proportion
+1. according to a particular relationship in size, amount, or degree  • （大小，数量，程度）按比例地
+ »the pension was docked in proportion to earnings.  养老金是按照收入比例扣除的。
+  in comparison with; in relation to  • 与…相比；与…相关
+ »the cuckoo's eggs are unusually small in proportion to its size.  布谷鸟的卵与其身体相比小得出奇。
+  in the correct or appropriate relation to the size, shape, or position of other things  • （与他物大小、形状或位置的关系）相称；均衡
+ »her figure was completely in proportion.  她的身材非常匀称。
+  correctly or realistically regarded in terms of relative importance or seriousness  • （就相对重要性或严重性而言）恰如其分，协调
+ »the problem of hooliganism has to be kept in proportion.  流氓问题应当得到合理控制。
+◘ out of proportion
+1. in the wrong relation to the size, shape, or position of other things  • （与他物的大小、形状、位置的关系）不成比例；不相称
+ »the sculpture seemed out of proportion to its surroundings.  这座雕塑似乎与周围环境不相称。
+  greater or more serious than is necessary or appropriate  • 过分
+ »the award was out of all proportion to the alleged libel.  裁定与据称的诽谤完全不相称。
+  wrongly or unrealistically regarded in terms of relative importance or seriousness  • （就相对重要性或严重性而言）离谱，过分
+◘ sense of proportion
+1. the ability to judge the relative importance or seriousness of things  • 区别轻重缓急的能力；分寸感；主次观念
+
+【派生】♦ proportionless adjective
+
+【语源】1. late Middle English: from Old French, from Latin proportio(n-), from pro portione 'in respect of (its or a person's) share'
+
+
+
+————————————
+★☆☆   proportionable
+ / prəˈpɔ:ʃənəbl /◙ adjective
+1. archaic term for proportional  • [古] 同 proportional 
+
+【派生】♦ proportionably adverb
+
+
+
+
+————————————
+★☆☆   proportional
+ / prəˈpɔ:ʃənəl /◙ adjective
+1. corresponding in size or amount to something else  • 成比例的，比例的
+ »the punishment should be proportional to the crime.  惩罚应当与罪行成比例。
+  [Mathematics] (of a variable quantity) having a constant ratio to another quantity  • [数] 成常比的
+
+【派生】♦ proportionality noun
+♦ proportionally adverb
+
+【语源】1. late Middle English: from late Latin proportionalis, from proportio(n-) (see proportion )
+
+
+
+————————————
+★☆☆   proportional counter◙ noun
+1. [Physics] an ionization chamber in which the operating voltage is large enough to produce amplification but not so large that the output pulse ceases to be proportional to the initial ionization  • [物理] 正比计数器
+
+
+
+————————————
+★☆☆   proportional representation◙ [缩略词: PR] , noun
+1. [mass noun] an electoral system in which parties gain seats in proportion to the number of votes cast for them  • 比例代表制（政党按所得票数获得相称席位的选举制度。）
+
+
+
+————————————
+★☆☆   proportionate
+ / prəˈpɔ:ʃənɪt , -ˈpəʊr- /◙ adjective
+1. another term for proportional  • 同 proportional 
+
+【派生】♦ proportionately adverb
+
+
+
+
+————————————
+★☆☆   proportioned◙ adjective
+1. [with submodifier] having dimensions or a comparative relationship of parts of a specified type  • 成比例的，均衡的，相称的
+ »she was tall and perfectly proportioned.  她有高挑、匀称的身材。
+
+
+
+————————————
+★☆☆   proposal
+ / prəˈpəuzəl /◙ noun
+1. a plan or suggestion,especially a formal or written one,put forward for consideration or discussion by others  • 提议，建议；计划；提案
+ »a set of proposals for a major new high-speed rail link.  关于建设一条新高速铁路连接线的提案。
+  the action of putting forward such a plan or suggestion  • 提出（计划或建议）
+ »the proposal of a flexible school-leaving age.  变通离校年龄的提议。
+2. an offer of marriage  • 求婚
+
+
+
+————————————
+★☆☆   propose
+ / prəˈpəuz /◙ verb
+1. [with obj.] put forward (an idea or plan) for consideration or discussion by others  • 提出，提议，建议
+ »he proposed a new nine-point peace plan.  他提出一项新的九点和平计划。
+ »[with infinitive] he proposed to attend the meeting.  他提议去参加会议。
+ »[with clause] I proposed that the government should retain a 51 per cent stake in the company.  我提出政府应当在该公司保留51%的股份。
+  nominate (someone) for an elected office or as a member of a society  • 提名，推荐
+ »Roy Thomson was proposed as chairman.  罗伊•汤姆森被提名当主席。
+  put forward (a motion) to a legislature or committee  • （向立法机构或委员会）提交（动议）
+ »the government put its slim majority to the test by proposing a vote of confidence.  政府提出的投信任票使其微弱多数面临考验。
+2. [no obj.] make an offer of marriage to someone  • 向某人求婚
+ »I have already proposed to Sarah.  我已经向萨拉求婚。
+
+【IDIOMS】◘ propose marriage
+1. make an offer of marriage to someone  • 求婚
+◘ propose a toast (或 propose someone's health)
+1. ask a group of people at a social occasion to drink to the health and happiness of a specified person  • 提议（为某人健康和幸福）干杯
+ »the Lord Mayor proposed a toast to the Queen.  市长大人提议为女王干杯。
+
+【派生】♦ proposer noun
+
+【语源】1. Middle English: from Old French proposer, from Latin proponere (see proponent ), but influenced by Latin propositus 'put or set forth' and Old French poser 'to place'
+
+
+
+————————————
+★☆☆   proposition
+ / ˌprɔpəˈziʃən /◙ noun
+1. a statement or assertion that expresses a judgement or opinion  • （表达判断或意见的）陈述，主张；论点
+ »the proposition that high taxation is undesirable.  关于高税率不合适的主张。
+  [Logic] a statement that expresses a concept that can be true or false  • [逻] 命题
+  [Mathematics] a formal statement of a theorem or problem, typically including the demonstration  • [数] 命题
+2. a suggested scheme or plan of action, especially in a business context  • （尤指商务活动）提议，建议，提案
+ »he put a detailed investment proposition to me.  他向我提交一份详细的投资提案。
+  [US] a constitutional proposal; a bill  • [美] 议案；（有关宪法的）提案
+  [informal] an offer of sexual intercourse made to a person with whom one is not sexually involved,especially one that is made in an unsubtle or offensive way  • [非正式] （尤指以猥亵无礼方式提出的）性要求；求欢
+3. [with adj.] a project, task, or idea considered in terms of its likely success or difficulty, especially in a commercial context  • （尤指商业中）可能成功（或有困难）的计划（或任务，想法）
+ »a paper that has lost half its readers is unlikely to be an attractive proposition.  已经失去一半读者的报纸不可能是有吸引力的计划项目。
+  a person considered in terms of the likely success or difficulty of one's dealings with them  • （交往时可能成功或遇到困难的）人，家伙
+ »Brian's a far better bloke as a long-term proposition.  从长远交往来看，布莱恩可能是个好得多的人。
+◙ verb
+1. [with obj.] [informal] make a suggestion of sexual intercourse to (someone with whom one is not sexually involved), especially in an unsubtle or offensive way  • [非正式] （尤指以猥亵无礼的方式）提出性要求；求欢
+ »she had been propositioned at the party by a subeditor with bad breath.  晚会上一个口臭的小编辑向她提出非分的要求。
+  make an offer or suggestion to (someone)  • 向（某人）提议
+ »I was propositioned by the editor about becoming film critic of the paper.  编辑提议我担当该报的电影评论员。
+
+【IDIOMS】
+
+【派生】♦ propositional adjective
+1. (chiefly Logic 主逻).)
+
+【语源】1. Middle English: from Old French, from Latin propositio(n-), from the verb proponere (see propound ). The verb dates from the 1920s
+
+
+
+————————————
+★☆☆   propositional attitude◙ noun
+1. [Philosophy] the relation that a person has with a proposition, such as having an opinion concerning it or responding emotionally to it  • [哲] 命题态度
+
+
+
+————————————
+★☆☆   propositional calculus◙ noun
+1. [mass noun] the branch of symbolic logic that deals with propositions and the relations between them, without examination of their content  • 命题演算
+
+
+
+————————————
+★☆☆   propound
+ / prəˈpaʊnd /◙ verb
+1. [with obj.] put forward (an idea, theory, or point of view) for consideration by others  • 提出（想法，理论，观点）供考虑
+ »he began to propound the idea of a ‘social monarchy’ as an alternative to Franco.  他开始提出“社会君主体制”的理论取代佛朗哥。
+
+【派生】♦ propounder noun
+
+【语源】1. mid 16th cent.: alteration of archaic propone, from Latin proponere 'set forth', from pro- 'forward' + ponere 'put'. The addition of the final -d can be compared with that in expound and compound
+
+
+
+————————————
+★☆☆   propoxyphene
+ / prəuˈpɔksifi:n /◙ noun
+1. [mass noun] [Medicine] a synthetic compound chemically related to methadone, used as a mild narcotic analgesic  • [医] 丙氧芬（轻微麻醉止痛药）
+
+【语源】1. 1950s: from propyl + oxy- + -phene (from phenyl)
+
+
+
+————————————
+★☆☆   propranolol
+ / prəuˈprænəlɔl /◙ noun
+1. [mass noun] [Medicine] a synthetic compound which acts as a beta blocker and is used mainly in the treatment of cardiac arrhythmia  • [医] 心得安，萘心安（主治心律不齐）
+2. Chemical formula: C16H21NO2  • 化学分子式：C16H21NO2
+
+【语源】1. 1960s: from pro(pyl) + pr(op)anol, with the reduplication of -ol
+
+
+

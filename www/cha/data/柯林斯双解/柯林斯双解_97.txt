@@ -1,0 +1,2832 @@
+﻿——————————————
+★☆☆   measles ●○○○○
+
+1.N-UNCOUNT	不可数名词  麻疹 Measles is an infectious illness that gives you a high temperature and red spots on your skin. 
+  【搭配模式】：also the N
+
+
+——————————————
+★☆☆   measly
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （数目、数量、大小）微不足道的，少得可怜的 If you describe an amount, quantity, or size as measly, you are critical of it because it is very small or inadequate. 
+  【搭配模式】：usu ADJ n
+  【语用信息】：disapproval
+  【STYLE标签】：INFORMAL 非正式
+
+The average British bathroom measures a measly 3.5 square metres.英国人的卫生间平均只有区区3.5平方米。
+...a measly twelve-year-old like me.像我这样一个12岁的小可怜
+
+
+——————————————
+★☆☆   measurable ●○○○○
+
+1.ADJ	形容词  可觉察到的;明显的;显著的 If you describe something as measurable, you mean that it is large enough to be noticed or to be significant. 
+  【搭配模式】：usu ADJ n
+  【语域标签】：FORMAL 正式
+
+Both leaders seemed to expect measurable progress.两位领导人似乎都期望取得显著的进展。measurably
+
+The old man's voice was measurably weaker than the last time they'd talked...那位老人的声音明显比他们上次谈话时微弱。
+After this, the pace of events quickened measurably.从此以后，事情进展的速度明显加快了。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  可测量的；可计量的 Something that is measurable can be measured. 
+
+Economists emphasize measurable quantities — the number of jobs, the per capita income...经济学家看重的是可测定的量——岗位数量、人均收入等。
+So far the effect is barely measurable.迄今为止，效果微乎其微。
+
+
+——————————————
+★☆☆   measure ●●●●○
+
+1.VERB	动词  衡量；估量;评估;判定 If you measure the quality, value, or effect of something, you discover or judge how great it is. 
+  【语法信息】：V n prep
+  【语法信息】：V n
+
+I continued to measure his progress against the charts in the doctor's office...我继续比照医生办公室里的图表来判断他病情的发展。
+A grammar school's success was measured in terms of the number of pupils who got into university...一所文法学校成功与否是以考上大学的学生人数为衡量依据的。
+It was difficult to measure the precise impact of the labor action.此次罢工影响几何，难以作出准确的评估。
+
+2.VERB	动词  测量;度量;计量 If you measure a quantity that can be expressed in numbers, such as the length of something, you discover it using a particular instrument or device, for example a ruler. 
+  【语法信息】：V n
+
+Measure the length and width of the gap...测量一下这条缝隙的长与宽。
+He measured the speed at which ultrasonic waves travel along the bone.他测出了超声波穿过骨头的速度。
+
+3.VERB	动词  距离(或长度、宽度、数量等)为… If something measures a particular length, width, or amount, that is its size or intensity, expressed in numbers. 
+  【语法信息】：V amount
+  【搭配模式】：no cont
+
+The house is more than twenty metres long and measures six metres in width...这座房子长20多米，宽6米。
+This hand-decorated plate measures 30cm across...这只手工绘制的盘子直径为30厘米。
+Their paddock measures 24 metres square.他们的围场为24米见方。
+
+4.N-SING	单数名词  相当数量;一定程度 A measure of a particular quality, feeling, or activity is a fairly large amount of it. 
+  【搭配模式】：N of n
+  【语域标签】：FORMAL 正式
+
+With the exception of Juan, each attained a measure of success...除了胡安之外，每个人都获得了相当大的成功。
+The colonies were claiming a larger measure of self-government.殖民地正要求获得更大程度上的自治。
+
+5.N-SING	单数名词  （情形严重或发展到了一定程度的）体现，表现，标志 If you say that one aspect of a situation is a measure of that situation, you mean that it shows that the situation is very serious or has developed to a very great  extent. 
+  【搭配模式】：N of n/wh
+
+It is a measure of their plight that few of them have anywhere to go to...他们几乎全都无处可归，看得出他们是陷入了困境。
+That is a measure of how bad things have become at the bank.那简直就是银行里糟糕局面的写照。
+
+6.N-COUNT	可数名词  措施;办法 When someone, usually a government or other authority, takes measures to do something, they carry out particular actions in order to achieve a particular result. 
+  【搭配模式】：oft N to-inf
+  【语域标签】：FORMAL 正式
+
+The government warned that police would take tougher measures to contain the trouble...政府警告说，警方将采取更为强硬的措施来遏制动乱。
+He said stern measures would be taken against the killers...他说将会采取严厉措施惩罚凶手。
+As a precautionary measure repeat the medication.作为预防性措施，请重复用药。
+
+7.N-COUNT	可数名词  (标准量的)一杯(烈性酒) A measure of a strong alcoholic drink such as brandy or whisky is an amount of it in a glass. In pubs and bars, a measure is an official standard amount. 
+  【搭配模式】：usu N of n
+
+He poured himself another generous measure of malt.他又为自己倒了满满一大杯麦芽威士忌。
+...a pub measure of spirits.一杯烈酒
+
+8.N-COUNT	可数名词  (音乐的)小节 In music, a measure is one of the several short parts of the same length into which a piece of music is divided. 
+  【语域标签】：AM 美in BRIT, use 英国英语用 bar
+
+9. See also: measured;measuring;counter-measure;half measure;tape measure;   
+
+10.PHRASE	短语  非常;极其 If you say that something has changed or that it has affected you beyond measure, you are emphasizing that it has done this to a great extent. 
+  【搭配模式】：PHR after v
+  【语用信息】：emphasis
+
+Mankind's knowledge of the universe has increased beyond measure...人类对于宇宙的了解已经大为增加。
+She irritated him beyond measure.她让他大为光火。
+
+11.PHRASE	短语  附加地;除此之外地 If you say that something is done for good measure, you mean that it is done in addition to a number of other things. 
+  【搭配模式】：PHR after v
+
+I repeated my question for good measure...另外，我重复了我的问题。
+For good measure, a few details of hotels were included.除此之外还包括对宾馆的一些详细介绍。
+
+12.PHRASE	短语  了解;熟悉;估量…的能力/掂量出…的分量;摸清…的底细 If you get or take the measure of someone or something, you discover what they are like, so that you are able to control them or deal with them. If you have the measure of someone or something, you have succeeded in doing this. 
+  【搭配模式】：V inflects
+
+The governments of the industrialized world had failed to get the measure of the crisis...工业化国家的政府没能意识到这次危机的严重程度。
+Has he taken the measure of us and concluded that we're not willing to risk a life?...他有没有掂掂我们的分量，知道我们并不愿冒生命危险？
+Lili was the only person I knew who had the measure of her brother.在我认识的人中间，只有莉莉清楚她兄弟几斤几两。
+
+13.PHRASE	短语  在某种程度上/在很大程度上 If something is true in some measure or in large measure, it is partly or mostly true. 
+  【搭配模式】：PHR with cl
+  【语域标签】：FORMAL 正式
+
+Power is in some measure an act of will...权力在某种程度上是意志的表现。
+In Britain, we have so far escaped, in large measure, either of these afflictions.在英国，我们迄今为止已经远远地避开了这两类麻烦。相关词组：measure out measure up    
+——————————————
+★☆☆   measured
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  仔细的;谨慎小心的 You use measured to describe something that is careful and deliberate. 
+  【搭配模式】：usu ADJ n
+
+The men spoke in soft, measured tones...这些人说话的语气轻柔而平稳。
+Her more measured response will appeal to voters...她那更为慎重的答复会受到选民的欢迎。
+They have to proceed at a measured pace.他们不得不小心谨慎地继续前进。
+
+
+——————————————
+★☆☆   measurement ●●○○○
+
+1.N-COUNT	可数名词  （通常以数字形式呈现的）测量结果 A measurement is a result, usually expressed in numbers, that you obtain by measuring something. 
+
+We took lots of measurements...我们得到了许多测量结果。
+The measurements are extraordinarily accurate.测量结果极为精确。
+
+2.N-VAR	可变名词  测量;计量 Measurement of something is the process of measuring it in order to obtain a result expressed in numbers. 
+  【搭配模式】：oft N of n
+
+Measurement of blood pressure can be undertaken by practice nurses.测量血压可以由实习护士完成。
+
+3.N-VAR	可变名词  （质量、价值或影响的）衡量，评估，估量 The measurement of the quality, value, or effect of something is the activity of deciding how great it is. 
+  【搭配模式】：oft N of n
+
+...the measurement of output in the non-market sector.评估非市场部门的效益
+
+4.N-PLURAL	复数名词  三围；(身材)尺寸 Your measurements are the size of your waist, chest, hips, and other parts of your body, which you need to know when you are buying clothes. 
+  【搭配模式】：with poss
+
+
+——————————————
+★☆☆   measure out
+
+1.PHRASAL VERB	短语动词  (按所需)量出,量取 If you measure out a certain amount of something, you measure that amount and take it or mark it because it is the amount that you want or need. 
+  【语法信息】：V P n (not pron)
+  【语法信息】：Also V n P
+
+I'd already measured out the ingredients...我已经量好了配料。
+He was on the front lawn, measuring out two circles.他在前面的草坪上丈量并标记出两个圆圈。
+
+
+——————————————
+★☆☆   measure up
+
+1.PHRASAL VERB	短语动词  符合(标准);达到(期望) If you do not measure up to a standard or to someone's expectations, you are not good enough to achieve the standard or fulfil the person's expectations. 
+  【语法信息】：V P to n
+  【语法信息】：V P
+  【搭配模式】：usu with brd-neg
+
+It was fatiguing sometimes to try to measure up to her standard of perfection...有时候，力求达到她尽善尽美的标准让人觉得很累。
+She's always comparing me to other people, and somehow I never measure up.她总是拿我跟别人相比，不知怎的，我总是不如人家。
+
+
+——————————————
+★☆☆   measuring
+
+1.ADJ	形容词  (尤指烹饪时)测量（或称量）用的(壶、杯、匙等) A measuring jug, cup, or spoon is specially designed for measuring quantities, especially in cooking. 
+  【搭配模式】：ADJ n
+
+
+——————————————
+★☆☆   meat ●●●○○
+
+1.N-MASS	物质名词  (供食用的)肉 Meat is flesh taken from a dead animal that people cook and eat. 
+
+Meat and fish are relatively expensive.肉和鱼相对来说比较贵。
+...imported meat products.进口肉制品
+...a buffet of cold meats and salads.有冷肉和色拉的自助餐
+
+2. See also: luncheon meat;red meat;white meat;   
+
+3.PHRASE	短语  喜欢做的事;感兴趣的事 If you say something is meat and drink to someone, you mean that they enjoy it very much. 
+  【搭配模式】：usu v-link PHR to n
+  【语域标签】：mainly BRIT 主英
+
+What normal people considered pressure was meat and drink to him.一般人认为有压力的事情在他看来却是快乐无比的事。
+
+4.PHRASE	短语  最基本的部分;根本部分;关键 If you refer to the meat and potatoes of something, you mean its most basic, simple, and essential parts. 
+  【搭配模式】：oft the PHR of
+  【语域标签】：AM 美
+
+What they want is the meat and potatoes of how we're going to improve this country and get our country moving again.他们想知道的是我们如何改善国家、让其恢复活力的基本方法。
+
+
+——————————————
+★☆☆   meatball
+
+1.N-COUNT	可数名词  肉丸（通常蘸酱吃） Meatballs are small balls of chopped meat. They are usually eaten with a sauce. 
+  【搭配模式】：usu pl
+
+
+——————————————
+★☆☆   meat grinder
+
+1.N-COUNT	可数名词  绞肉机 A meat grinder is a machine which cuts meat into very small pieces by forcing it through very small holes. 
+  【语域标签】：AM 美in BRIT, use 英国英语用 mincer
+
+
+——————————————
+★☆☆   meat loaf
+
+1.N-VAR	可变名词  (用肉糜做的)肉糕 Meat loaf is chopped meat made into the shape of a loaf of bread. 
+
+
+——————————————
+★☆☆   meatloaf
+——————————————
+★☆☆   meaty
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （食物）含肉的，多肉的 Food that is meaty contains a lot of meat. 
+
+...a pleasant lasagne with a meaty sauce.美味的肉汁意大利宽面
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （文章、电影等）内容丰富的 You can describe something such as a piece of writing or a part in a film as meaty if it contains a lot of interesting or important material. 
+  【搭配模式】：usu ADJ n
+
+The short, meaty reports are those he likes best...这些简短而翔实的报告是他的最爱。
+Famous for playing dizzy blondes, this time she has been given a more meaty role.尽管她以扮演头脑简单的金发女郎著称，这一次她却得到了一个人物形象更丰满的角色。
+
+3.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  (身体部位)肥厚的，粗壮的 You can describe a part of someone's body as meaty if it is big and strong. 
+  【搭配模式】：usu ADJ n
+
+He looked up and down the corridor, meaty hands resting on his thighs.他两只胖乎乎的手搁在大腿上，上下打量着这个走廊。
+...a pleasant lady with meaty arms.一位双臂丰腴、很有亲和力的女士
+
+
+——————————————
+★☆☆   mecca ●○○○○
+
+1.N-PROPER	专有名词  麦加(沙特阿拉伯城市，伊斯兰教圣城,先知穆罕默德的诞生地，穆斯林祈祷时朝拜的方向) Mecca is a city in Saudi Arabia, which is the holiest city in Islam because the Prophet Mohammed was born there. All Muslims face towards Mecca when they pray. 
+
+2.N-COUNT	可数名词  众人向往的地方;圣地;胜地 If you describe a place as a mecca or Mecca for a particular thing or activity, you mean that many people who are interested in it go there. 
+  【搭配模式】：usu sing
+
+His Batley Variety Club became a mecca for high-class acts and mass audiences...他的“巴特利综艺俱乐部”成了一流演员和广大观众热捧的地方。
+Thailand has become the tourist mecca of Asia.泰国已经成为亚洲的旅游胜地。
+
+
+——————————————
+★☆☆   mechanic ●●○○○
+
+1.N-COUNT	可数名词  （尤指修理汽车的）技工，机修工，修理工 A mechanic is someone whose job is to repair and maintain machines and engines, especially car engines. 
+
+If you smell gas fumes or burning, take the car to your mechanic...如果你闻见汽油冒烟或燃烧的异味，应把车送修。
+An elevator mechanic can work the machinery directly by turning this lever.电梯修理工可以转动这根杠杆直接操作机器。
+
+2.N-PLURAL	复数名词  （过程、系统、动作等）运作方式;(具体的)方法，技巧 The mechanics of a process, system, or activity are the way in which it works or the way in which it is done. 
+  【搭配模式】：usu the N of n
+
+What are the mechanics of this new process?...这一新工序如何操作？
+The mechanics of the job, however, have changed little since then.不过，工作流程从那以后就几乎没有任何变化。
+
+3.N-UNCOUNT	不可数名词  力学;机械学 Mechanics is the part of physics that deals with the natural forces that act on moving or stationary objects. 
+
+...the other great theory of 20th-century physics, quantum mechanics...20世纪物理学的另一个伟大理论——量子力学
+He has not studied mechanics or engineering.他没有学习过力学和工程学。
+
+
+——————————————
+★☆☆   mechanical ●●○○○
+
+1.ADJ	形容词  机械的;机动的 A mechanical device has parts that move when it is working, often using power from an engine or from electricity. 
+  【搭配模式】：usu ADJ n
+
+...a small mechanical device that taps out the numbers.能够输出数字的小型机械装置
+...the oldest working mechanical clock in the world...世界上最古老的还在走动的机械钟
+Most mechanical devices require oil as a lubricant.绝大多数机械装置都需要用油作为润滑剂。mechanically
+
+The air was circulated mechanically.空气循环是靠机械驱动的。
+
+2.ADJ	形容词  机械方面的;机械原理的 Mechanical means relating to machines and engines and the way they work. 
+  【搭配模式】：ADJ n
+
+...mechanical engineering...机械工程学
+The company undertakes mechanical work on all types of cars...该公司承接各类汽车的修理工作。
+The train had stopped due to a mechanical problem.火车因为机械故障停了下来。mechanically
+
+The car was mechanically sound, he decided.他断定，这辆车的机械性能非常可靠。
+
+3.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （人）精通机械的;擅长于机械原理的 If you describe a person as mechanical, you mean they are naturally good at understanding how machines work. 
+
+He was a very mechanical person, who knew a lot about sound...他精通机械，了解许多有关声音的知识。
+I'm not mechanical like my father; I have to follow the instructions.我没有爸爸那么精通机械，所以得按说明书上说的去做。mechanically
+
+I'm not mechanically minded.我没有搞机械的头脑。
+
+4.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （行为）机械的，呆板的，不动脑筋的 If you describe someone's action as mechanical, you mean that they do it automatically, without thinking about it. 
+
+It is real prayer, and not mechanical repetition...这是真正的祈祷，不是机械的重复。
+Many girls have a kind of mechanical attitude towards sex...许多女孩在性方面会有些率性而为。
+Her retort was mechanical.她的反驳是脱口而出的。mechanically
+
+He nodded mechanically, his eyes fixed on the girl.他机械地点点头，眼睛直勾勾地盯着那个姑娘。
+
+
+——————————————
+★☆☆   mechanise
+
+1.   →see: mechanize; 
+
+
+——————————————
+★☆☆   mechanism ●●●○○
+
+1.N-COUNT	可数名词  机械装置;机件 In a machine or piece of equipment, a mechanism is a part, often consisting of a set of smaller parts, which performs a particular  function. 
+  【搭配模式】：usu sing
+
+...the locking mechanism...锁定装置
+A bomb has been detonated by a special mechanism.炸弹由一个专门装置引爆。
+
+2.N-COUNT	可数名词  方法;途径;程序;机制 A mechanism is a special way of getting something done within a particular system. 
+  【搭配模式】：with supp
+
+There's no mechanism for punishing arms exporters who break the rules.对违规的武器出口商实施惩罚尚无执行机制。
+...the clumsy and ineffective mechanism of price controls.方法笨拙、效率低下的价格控制机制
+
+3.N-COUNT	可数名词  (人为生存、对付困境的)机制，行为方式 A mechanism is a part of your behaviour that is automatic and that helps you to survive or to cope with a difficult situation. 
+  【搭配模式】：with supp
+
+...a survival mechanism, a means of coping with intolerable stress.一种生存机制，一种应对无法承受的压力的方法
+
+4. See also: defence mechanism;   
+
+
+——————————————
+★☆☆   mechanistic
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （观点或解释）机械论的 If you describe a view or explanation of something as mechanistic, you are criticizing it because it describes a natural or social process as if it were a machine. 
+  【语用信息】：disapproval
+
+...a mechanistic view of things that ignores the emotional realities in people's lives...置人们生活中各种情感现实于不顾的机械论观点
+Most of my colleagues in biology are still very mechanistic in their thinking.我在生物学领域的大多数同事思想仍十分僵化。
+
+
+——————————————
+★☆☆   mechanize ●○○○○
+in BRIT, also use 英国英语亦用 mechanise
+
+1.VERB	动词  使机械化；使机器化 If someone mechanizes a process, they cause it to be done by a machine or machines, when it was previously done by people. 
+  【语法信息】：V n
+
+Only gradually are technologies being developed to mechanize the task...使这项任务实现机械化的技术只能逐步发展。
+Perhaps, in time, this treatment will be mechanised.也许这种治疗方法最终将实现机械化。mechanized
+
+...highly mechanised production methods.高度机械化的生产方式mechanization
+
+Mechanization happened years ago on the farms of Islay.数年前，艾莱的农场就实现了机械化。
+
+
+——————————————
+★☆☆   medal ●●●○○
+
+1.N-COUNT	可数名词  奖章;勋章；奖牌 A medal is a small metal disc which is given as an award for bravery or as a prize in a sporting event. 
+
+
+——————————————
+★☆☆   medallion
+
+1.N-COUNT	可数名词  (尤指用链子挂于颈部的)圆形金属饰物 A medallion is a round metal disc which some people wear as an ornament, especially on a chain round their neck. 
+
+
+——————————————
+★☆☆   medallist ●○○○○
+
+1.N-COUNT	可数名词  (体育比赛中的)奖章获得者，奖牌获得者 A medallist is a person who has won a medal in sport. 
+  【搭配模式】：usu supp N
+  【FIELD标签】：JOURNALISM 新闻
+
+...the Olympic gold medallists.奥运会金牌得主
+
+
+——————————————
+★☆☆   meddle ●○○○○
+
+1.VERB	动词  管闲事;干涉;干预 If you say that someone meddles in something, you are criticizing the fact that they try to influence or change it without being asked. 
+  【语法信息】：V in/with n
+  【语法信息】：V
+  【语法信息】：V-ing
+  【语用信息】：disapproval
+
+Already some people are asking whether scientists have any right to meddle in such matters...已经有人在问科学家是否有权干预这类事情。
+If only you hadn't felt compelled to meddle.要是你没有觉得非插手不可就好了。
+...the inept and meddling bureaucrats.既无能又爱管闲事的官僚老爷们meddler
+
+They view activists as little more than meddlers.在他们眼中，积极分子不过是爱管闲事的人罢了。
+
+
+——————————————
+★☆☆   meddlesome
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  好干预的;爱管闲事的 If you describe a person as meddlesome, you are criticizing them because they try to influence or change things that do not concern them. 
+  【语用信息】：disapproval
+
+...a meddlesome member of the public.一个爱管闲事的公众人士
+
+
+——————————————
+★☆☆   media ●●●●○
+
+1.N-SING-COLL	单数集合名词 See also: mass media;multimedia;  媒体，传播工具，传播媒介(如电视、广播、报纸和杂志等) You can refer to television, radio, newspapers, and magazines as the media . 
+  【搭配模式】：the N
+
+It is hard work and not a glamorous job as portrayed by the media.这是份苦差，并非像媒体描绘的那般令人向往。
+...bias in the news media...新闻媒体的偏见
+Media coverage of cycling in July was pretty impressive.媒体对7月份骑自行车活动的报道令人记忆深刻。
+
+2.  (medium 的复数之一) Media is a plural of medium . 
+
+
+——————————————
+★☆☆   media circus
+
+1.N-COUNT	可数名词  媒体关注的焦点;媒体云集的盛会 If an event is described as a media circus, a large group of people from the media is there to report on it and take photographs. 
+  【语用信息】：disapproval
+
+The couple married in the Caribbean to avoid a media circus.为了摆脱媒体的关注，这对新人在加勒比喜结连理。
+...the media circus surrounding international movie stars.聚焦国际影星的媒体盛会
+
+
+——————————————
+★☆☆   mediaeval
+
+1.   →see: medieval; 
+
+
+——————————————
+★☆☆   median ●○○○○
+
+1.ADJ	形容词  中间值的;中位数的;中间的 The median value of a set of values is the middle one when they are arranged in order. For example, if a group of five students take a test and their marks are 5, 7, 7, 8, and 10, the median mark is 7. 
+  【搭配模式】：ADJ n
+  【FIELD标签】：TECHNICAL 术语
+
+2.N-COUNT	可数名词  同 median strip A median is the same as a median strip . 
+  【语域标签】：AM 美
+
+
+——————————————
+★☆☆   median strip
+
+1.N-COUNT	可数名词  （主干道上通常铺有草坪的）中央分隔带,中央分道区,中间安全区 The median strip is the strip of ground, often covered with grass, that separates the two sides of a major road. 
+  【语域标签】：AM 美in BRIT, use 英国英语用 central reservation
+
+
+——————————————
+★☆☆   mediate ●●○○○
+
+1.VERB	动词  调解;调停;斡旋 If someone mediates between two groups of people, or mediates an agreement between them, they try to settle an argument between them by talking to both groups and trying to find things that they can both agree to. 
+  【语法信息】：V between pl-n
+  【语法信息】：V n between pl-n
+  【语法信息】：V
+  【语法信息】：V n
+
+My mom was the one who mediated between Zelda and her mom...我妈妈充当了泽尔达和她妈妈之间的调解人。
+United Nations officials have mediated a series of peace meetings between the two sides...联合国官员已经促成了双方的一系列和平会谈。
+The Vatican successfully mediated in a territorial dispute between Argentina and Chile in 1984...梵蒂冈成功地调解了1984年阿根廷与智利之间的领土争端。UN peacekeepers mediated a new ceasefire.联合国维和人员斡旋后实现了新一轮的停火。mediation
+
+The agreement provides for United Nations mediation between the two sides...该协定规定由联合国对双方进行调解。
+There is still a possibility the two sides could reach a compromise through the mediation of a third party.通过第三方斡旋使双方达成妥协的可能性依然存在。mediator
+
+An archbishop has been acting as mediator between the rebels and the authorities.一位大主教一直在叛乱分子与当局之间斡旋。
+
+2.VERB	动词  调节;影响 If something mediates a particular process or event, it allows that process or event to happen and influences the way in which it happens. 
+  【语法信息】：V n
+  【语域标签】：FORMAL 正式
+
+...the thymus, the organ which mediates the response of the white blood cells...胸腺——调节白血球的反应的器官
+People's responses to us have been mediated by their past experience of life.人们对我们作出的反应受到了他们过去生活经历的影响。mediation
+
+This works through the mediation of the central nervous system.这是通过中枢神经系统的调节作用实现的。
+
+
+——————————————
+★☆☆   medic ●○○○○
+
+1.N-COUNT	可数名词  医生;医科学生 A medic is a doctor or medical student. 
+  【STYLE标签】：INFORMAL 非正式
+
+2.N-COUNT	可数名词  (随军)卫生员 A medic is a doctor who works with the armed forces, as part of a medical corps. 
+  【语域标签】：AM 美
+
+A Navy medic was wounded by sniper fire.一名海军卫生员被狙击手射伤了。
+
+
+——————————————
+★☆☆   medical ●●●●○
+
+1.ADJ	形容词  医学的;医疗的;医术的 Medical means relating to illness and injuries and to their treatment or prevention. 
+  【搭配模式】：ADJ n
+
+Several police officers received medical treatment for cuts and bruises.几名警官因割伤和擦伤而接受了医治。
+...the medical profession.医疗行业medically
+
+Therapists cannot prescribe drugs as they are not necessarily medically qualified.由于治疗师不一定具有行医资格，所以他们不可以开处方。
+
+2.N-COUNT	可数名词  体格检查;体检 A medical is a thorough examination of your body by a doctor, for example before you start a new job. 
+
+
+——————————————
+★☆☆   medical examiner
+
+1.N-COUNT	可数名词  法医;验尸官 A medical examiner is a medical expert who is responsible for investigating the deaths of people who have died in a sudden, violent, or unusual way. 
+  【语域标签】：AM 美
+
+2.N-COUNT	可数名词  (申请健康保险或求职时负责体检的)特约体检医生 A medical examiner is a doctor whose job is to examine people, for example when they apply for a job or for health insurance. 
+  【语域标签】：AM 美
+
+
+——————————————
+★☆☆   medicated
+
+1.ADJ	形容词  (肥皂、洗发液等)含药物的，药制的 A medicated soap or shampoo contains substances which are intended to kill bacteria and therefore make your skin or hair healthier. 
+  【搭配模式】：usu ADJ n
+
+
+——————————————
+★☆☆   medication ●●○○○
+
+1.N-VAR	可变名词  药物;药 Medication is medicine that is used to treat and cure illness. 
+
+She stopped taking the prescribed medications...她不再服用医生开的药。
+Are you on any medication?你在服用什么药吗？
+
+
+——————————————
+★☆☆   medicinal
+
+1.ADJ	形容词  有疗效的;药用的;治病的 Medicinal substances or substances with medicinal effects can be used to treat and cure illnesses. 
+
+...medicinal plants.药用植物medicinally
+
+Root ginger has been used medicinally for centuries.几百年来姜根一直作为药用。
+
+
+——————————————
+★☆☆   medicine ●●●○○
+
+1.N-UNCOUNT	不可数名词  医学;疗法;医疗 Medicine is the treatment of illness and injuries by doctors and nurses. 
+
+He pursued a career in medicine...他从事医学。
+I was interested in alternative medicine and becoming an aromatherapist...我对替代疗法非常感兴趣，想做个芳香疗法治疗师。
+Psychiatry is an accepted branch of medicine.精神病学是公认的医学分支。
+
+2.N-MASS	物质名词  （吞服的）药，药物，药剂 Medicine is a substance that you drink or swallow in order to cure an illness. 
+
+People in hospitals are dying because of shortage of medicine.由于药品匮乏，医院里的病人濒临死亡。
+...herbal medicines.草药
+
+
+——————————————
+★☆☆   medieval ●●○○○
+in BRIT, also use 英国英语亦用 mediaeval
+
+1.ADJ	形容词  中世纪的(指公元476年西罗马帝国灭亡至公元1500年左右这段时期) Something that is medieval relates to or was made in the period of European history between the end of the Roman Empire in 476 AD and about 1500 AD. 
+  【搭配模式】：usu ADJ n
+
+...a medieval castle.中世纪城堡
+...the medieval chroniclers.中世纪编年史家
+
+
+——————————————
+★☆☆   mediocre
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （事物）普通的，平庸的，一般的 If you describe something as mediocre, you mean that it is of average quality but you think it should be better. 
+  【语用信息】：disapproval
+
+His school record was mediocre.他在学校成绩平平。
+...mediocre music.不尽如人意的音乐
+
+
+——————————————
+★☆☆   mediocrity ●○○○○
+
+1.N-UNCOUNT	不可数名词  平庸;平凡;普通 If you refer to the mediocrity of  something, you mean that it is of average quality but you think it should be better. 
+  【语用信息】：disapproval
+
+...the mediocrity of most contemporary literature...大多数当代文学作品的平庸
+Fashion today is sloppy mediocrity.如今的时尚品位低下，平庸无奇。
+
+2.N-COUNT	可数名词  庸人;平庸之辈 If you refer to someone as a mediocrity, you think that they are not very good at what they do. 
+  【语用信息】：disapproval
+
+Surrounded by mediocrities, he can seem a towering intellectual.在周围一群泛泛之辈的衬托之下，他就像一个鹤立鸡群的智者。
+
+
+——————————————
+★☆☆   meditate ●○○○○
+
+1.VERB	动词  沉思;深思;仔细考虑 If you meditate on something, you think about it very carefully and deeply for a long time. 
+  【语法信息】：V on n
+
+He meditated on the problem...他仔细斟酌着这个问题。
+On the day her son began school, she meditated on the uncertainties of his future.儿子开始上学的那一天，她就在考虑他未来的种种不确定因素了。
+
+2.VERB	动词  （宗教中）冥想，默想，打坐 If you meditate you remain in a silent and calm state for a period of time, as part of a religious training or so that you are more able to deal with the problems and difficulties of everyday life. 
+  【语法信息】：V
+
+I was meditating, and reached a higher state of consciousness.我在冥想，并进入了一个更高的意识境界。
+
+
+——————————————
+★☆☆   meditation ●●○○○
+
+1.N-UNCOUNT	不可数名词 See also: transcendental meditation;  （宗教中）默想，打坐，冥想 Meditation is the act of remaining in a silent and calm state for a period of time, as part of a religious training, or so that you are more able to deal with the problems of everyday life. 
+
+Many busy executives have begun to practice yoga and meditation.许多忙碌的主管开始练习瑜伽和冥想。
+Having chosen a meditation it is important that you stick to that meditation for, at the very least, a fortnight.选择了一种冥想方法后，至少要坚持练习两周时间，这一点非常重要。
+
+2.N-UNCOUNT	不可数名词  深思熟虑;苦思冥想 Meditation is the act of thinking about something very carefully and deeply for a long time. 
+  【搭配模式】：also N in pl
+
+...the man, lost in meditation, walking with slow steps along the shore...这名陷入沉思中的男子，沿着岸边慢慢地走着
+In his lonely meditations Antony had been forced to the conclusion that there had been rumours.独自静心想来，安东尼断定曾有流言蜚语。
+
+3.N-COUNT	可数名词  （关于某主题的）感想,沉思录 A meditation on a particular subject is something such as a piece of writing or a speech which expresses deep thoughts about that subject. 
+  【搭配模式】：usu N on/upon n
+
+In fact, the entire novel is a long meditation on childbearing and mortality...实际上，整部小说就是一部关于生儿育女与道德伦理的长篇沉思录。
+The title track is a pointed meditation on a continent gone wrong.主打歌是对一个误入歧途的大陆的深刻沉思。
+
+
+——————————————
+★☆☆   meditative
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  沉思的;深思的 Meditative describes things that are related to the act of meditating or the act of thinking very deeply about something. 
+  【搭配模式】：ADJ n
+
+Music can induce a meditative state in the listener...音乐能够引导倾听者沉思。
+Yogis trained in Eastern meditative techniques can change their heart rate.接受过东方冥想训练的瑜伽信徒能够改变他们的心率。
+...moments of meditative silence.深思中的片刻宁静meditatively
+
+Martin rubbed his chin meditatively.马丁若有所思地摸了一下下巴。
+
+
+——————————————
+★☆☆   Mediterranean ●●○○○
+
+1.N-PROPER	专有名词  地中海 The  Mediterranean is the sea between southern Europe and North Africa. 
+  【搭配模式】：the N
+
+2.N-PROPER	专有名词  地中海地区(指欧洲南部地中海附近地区) The Mediterranean refers to the southern part of Europe, which is next to the Mediterranean Sea. 
+  【搭配模式】：the N
+
+...one of the most dynamic and prosperous cities in the Mediterranean.地中海地区最有活力、最为繁荣的城市之一
+
+3.ADJ	形容词  地中海的;地中海地区的;地中海居民的 Something that is Mediterranean is characteristic of or belongs to the people or region around the Mediterranean Sea. 
+
+...the classic Mediterranean diet.地道的地中海饮食
+
+
+——————————————
+★☆☆   medium ●●●○○
+The plural of the noun can be either mediums or media for meanings 4 and 5. The form mediums is the plural for meaning 6. 义项4和义项5的复数形式为 mediums 或 media。义项6的复数形式是 mediums。
+
+1.ADJ	形容词  中等的;中间的;中号的 If something is of medium size, it is neither large nor small, but approximately half way between the two. 
+  【搭配模式】：usu ADJ n
+
+A medium dose produces severe nausea within hours...中等剂量几小时之内会引发严重的恶心。
+He was of medium height with blond hair and light blue eyes.他中等身材，金发碧眼。
+
+2.ADJ	形容词  中间的;平均的 You use medium to describe something which is average in degree or amount, or approximately half way along a scale between two extremes. 
+  【搭配模式】：usu ADJ n
+  【搭配模式】：ADV adj
+
+Foods that contain only medium levels of sodium are bread, cakes, milk, butter and margarine.含钠量仅为中等水平的食物有面包、蛋糕、牛奶、黄油和人造黄油。
+...a sweetish, medium-strength beer.中度甜啤酒Medium is also an adverb.  
+
+Cook under  a medium-hot grill.在热度适中的烤架下烹制。
+
+3.COMB in COLOUR	与颜色词构成的词  (颜色)不深不浅的，适中的 If something is of a medium colour, it is neither light nor dark, but approximately half way between the two. 
+
+Andrea has medium brown hair, grey eyes and very pale skin...安德烈娅有着深浅适中的棕发、灰色的眼睛和十分白皙的皮肤。
+When violet is added to the medium blue a particularly striking, warm coloration is created.在中蓝色中加入蓝紫色就形成了一种格外鲜艳夺目的暖色。
+
+4.N-COUNT	可数名词  (表现)方式;(交流)手段 A medium is a way or means of expressing your ideas or of communicating with people. 
+
+In Sierra Leone, English is used as the medium of instruction for all primary education...在塞拉利昂，基础教育阶段全部用英语授课。
+But Artaud was increasingly dissatisfied with film as a medium.但是阿尔托对电影这种表现方式越来越不满。
+
+5.N-COUNT	可数名词  媒介;介质;媒介物 A medium is a substance or material which is used for a particular purpose or in order to produce a particular effect. 
+
+Blood is the medium in which  oxygen is carried to all parts of the body...血液是将氧气输送到人体各个部位的媒介。
+Hyatt has found a way of creating these qualities using the more permanent medium of oil paint.海厄特已经找到产生这些特性的方法，那就是利用油彩这种更加持久的材料。
+
+6.N-COUNT	可数名词  (自称能够在死者与生者之间传递信息的)巫师，灵媒 A medium is a person who claims to be able to contact and speak to people who are dead, and to pass messages between them and people who are still alive. 
+
+7. See also: media;   
+
+8.PHRASE	短语  中庸之道;折中办法 If you strike or find a happy medium between two extreme and opposite courses of action, you find a sensible way of behaving that is somewhere between the two extremes. 
+  【搭配模式】：PHR after v
+
+I still aim to strike a happy medium between producing football that's worth watching and getting results...我仍致力于打造这样一种球风——既具观赏性，又能得分，两全其美。
+It's very difficult to strike a happy medium and make it right for everybody.找到皆大欢喜的折中办法颇有难度。
+
+
+——————————————
+★☆☆   medium-dry
+
+1.ADJ	形容词  (葡萄酒或雪利酒)中等甜度的，不太甜的 Medium-dry wine or sherry is not very sweet. 
+
+
+——————————————
+★☆☆   medium dry
+——————————————
+★☆☆   medium-sized ●○○○○
+
+1.ADJ	形容词  中号的;中型的;中等大小的 Medium-sized means neither large nor small, but approximately half way between the two. 
+  【搭配模式】：usu ADJ n
+
+...a medium-sized saucepan.中号炖锅
+...medium-sized accountancy firms.中等规模的会计事务所
+
+
+——————————————
+★☆☆   medium-term ●○○○○
+
+1.N-SING	单数名词  中期 The medium-term is the period of time which lasts a few months or years beyond the present time, in contrast with the short term or the long term. 
+  【搭配模式】：usu N n
+
+The medium-term economic prospects remained poor...中期经济前景仍然黯淡。
+If a woman gives up her job to look after her baby, she will risk losing her salary in the medium-term and may seriously damage her long-term career prospects.如果一个女人放弃工作去照看宝宝，她不但将面临在中期内领不到薪水的危险，而且有可能严重影响她事业的长期发展。
+
+
+——————————————
+★☆☆   medium wave
+
+1.N-UNCOUNT	不可数名词  （无线电广播的）中波 Medium wave is a range of radio waves which are used for broadcasting. 
+  【搭配模式】：usu on N
+  【语域标签】：mainly BRIT 主英
+
+...a station broadcasting pop music on medium wave.中波流行音乐电台
+
+
+——————————————
+★☆☆   medley ●○○○○
+
+1.N-COUNT	可数名词  集成曲;集锦;音乐串烧 In music, a  medley is a collection of different tunes or songs that are played one after the other as a single piece of music. 
+  【搭配模式】：oft N of n
+
+...a medley of traditional songs.传统歌曲集锦
+
+2.N-COUNT	可数名词  混合泳 In sport, a medley is a swimming race in which the four main strokes are used one after the other. 
+  【搭配模式】：oft supp N
+
+Japan won the Men's 200 metres Individual Medley.日本赢得了男子200米个人混合泳比赛。
+
+3.N-COUNT	可数名词  杂烩;什锦;混合物 A medley of different foods or other things is a mixture of them. 
+  【搭配模式】：usu N of n
+
+...a medley of four fish in a cream sauce...奶油四喜鱼
+We communicated in a medley of foreign words and universal gestures.我们边说着外语，边打着通用的手势进行交流。
+
+
+——————————————
+★☆☆   meek ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  温顺的;顺从的 If you describe a person as meek, you think that they are gentle and quiet, and likely to do what other people say. 
+  【搭配模式】：the N
+
+He was a meek, mild-mannered fellow.他是一个温顺随和的人。
+...the meekest and most docile of people.众人之中最温顺驯良的一个The meek are people who are meek.  温顺的人
+
+The meek shall inherit the earth.谦卑的人必承受地土。meekly
+
+Most have meekly accepted such advice...大多数人都已经顺从地接受了这样的建议。
+'Thank you, Peter', Amy said meekly.“谢谢你，彼得，”埃米温顺地说。meekness
+
+She maintained a kind of meekness.她保持着一种温顺的态度。
+
+
+——————————————
+★☆☆   meet ●●●●●
+
+1.V-RECIP	相互动词  碰到;遇见 If you meet someone, you happen to be in the same place as them and start talking to them. You may know the other person, but be surprised to see them, or you may not know them at all. 
+  【语法信息】：V n
+  【语法信息】：pl-n V
+  【语法信息】：V P with n
+  【语法信息】：pl-n V P
+
+I have just met the man I want to spend the rest of my life with...我刚刚遇到了我想与之共度余生的男人。
+He's the kindest and sincerest person I've ever met...他是我所见过的最友善、最真诚的人。
+We met by chance.我们是偶然相遇的。Meet up means the same as meet .  meet up同 meet
+
+When he was in the supermarket, he met up with a buddy he had at Oxford...他在超市遇见了他在牛津时的一个朋友。They met up in 1956, when they were both young schoolboys.他们1956年相遇，那时他们俩都还是小男生。
+
+2.V-RECIP	相互动词  (约定在某处)相会，碰头 If two or more people meet, they go to the same place, which they have earlier arranged to do, so that they can talk or do something together. 
+  【语法信息】：pl-n V
+  【语法信息】：V n
+  【语法信息】：pl-n V P
+  【语法信息】：V P with n
+
+We could meet for a drink after work...下班后我们可以见面喝上一杯。
+Meet me down at the beach tomorrow, at 6am sharp.明天早上6点整在海滩上跟我见面。Meet up means the same as meet .  meet up 同 meet
+
+We tend to meet up for lunch once a week...我们往往每周共进一次午餐。My intention was to have a holiday and meet up with old friends.我原本打算度个假，跟老朋友们见见面。
+
+3.VERB	动词  被引见给;认识;结识 If you meet someone, you are introduced to them and begin talking to them and getting to know them. 
+  【语法信息】：V n
+
+Hey, Terry, come and meet my Dad.嗨，特里，过来认识一下我爸爸。
+
+4.VERB	动词  （初次）见面;认识;结识 You use meet in expressions such as 'Pleased to meet you' and 'Nice to have met you' when you want to politely say hello or goodbye to someone you have just met for the first time. 
+  【语法信息】：V n
+  【语用信息】：formulae
+
+'Jennifer,' Miss Mallory said, 'this is Leigh Van-Voreen.' — 'Pleased to meet you,' Jennifer said...“珍妮弗，”马洛里小姐说，“这位是利·范沃林。”——“见到您很高兴，”珍妮弗说。
+I have to leave. Nice to have met you.我得走了。认识您很高兴。
+
+5.VERB	动词  (到火车站、飞机场或公共汽车站)迎接 If you meet someone off their train, plane, or bus, you go to the station, airport, or bus stop in order to be there when they arrive. 
+  【语法信息】：V n prep/adv
+  【语法信息】：V n off n
+  【语法信息】：V n
+
+Mama met me at the station...妈妈在车站接我。
+Lili and my father met me off the boat...莉莉和我父亲在码头迎接我。
+Kurt's parents weren't able to meet our plane so we took a taxi.库尔特的父母无法来接机，于是我们打了车。
+
+6.VERB	动词  会晤;开会 When a group of people such as a committee meet, they gather together for a particular purpose. 
+  【语法信息】：V
+
+Officials from the two countries will meet again soon to resume negotiations...两国官员不久将再度会晤以重启谈判。
+The commission met 14 times between 1988 and 1991.1988至1991年间，该委员会举行了14次会议。
+
+7.VERB	动词  (与…)会晤 If you meet with someone, you have a meeting with them. 
+  【语法信息】：V with n
+  【语域标签】：mainly AM 主美
+
+Most of the lawmakers who met with the president yesterday said they backed the mission.大多数昨天与总统会晤的立法者说他们支持这个行动。
+
+8.V-ERG	及物/不及物动词  遭到;遇到;获得 If something such as a suggestion, proposal, or new book meets with or is met with a particular reaction, it gets that reaction from people. 
+  【语法信息】：V with n
+  【语法信息】：V n with n
+
+The idea met with a cool response from various quarters...这个想法遭到了各方人士的冷遇。
+We hope today's offer will meet with your approval too...我们希望今天的提议也能够得到您的首肯。
+Reagan's speech was met with incredulity in the US.里根的演讲在美国遭到了质疑。
+
+9.VERB	动词  满足;达到 If something meets a need, requirement, or condition, it is good enough to do what is required. 
+  【语法信息】：V n
+
+The current arrangements for the care of severely mentally ill people are inadequate to meet their needs...目前对严重精神病患者的护理安排不足以满足他们的需要。
+Out of the original 23,000 applications, 16,000 candidates meet the entry requirements.最初的2.3万份申请中有1.6万份满足入选的要求。
+
+10.VERB	动词  对付;应对;克服 If you meet something such as a problem or challenge, you deal with it satisfactorily or do what is required. 
+  【语法信息】：V n
+
+British manufacturing failed to meet the crisis of the 1970s...英国制造业未能经受住20世纪70年代危机的考验。
+It is an enormous challenge but we hope to meet it within a year or 18 months...这是一个巨大的挑战，但是我们希望在1年或18个月之内能够战胜它。
+They had worked heroically to meet the deadline.为了如期完成任务，他们拼命地工作。
+
+11.VERB	动词  偿付;支付 If you meet the cost of something, you provide the money that is needed for it. 
+  【语法信息】：V n
+
+The government said it will help meet some of the cost of the damage...政府说将帮助支付损害造成的部分费用。
+As your income increases you will find less difficulty in finding the money to meet your monthly repayments.随着收入的增加，你会发现筹钱支付每月的还款没那么难了。
+
+12.VERB	动词  碰上，遇到，遭遇(情况、态度、问题等) If you meet a situation, attitude, or problem, you experience it or become aware of it. 
+  【语法信息】：V n
+
+I honestly don't know how I will react the next time I meet a potentially dangerous situation...我真不知道下次再碰上有潜在危险的情况时会作何反应。
+Never had she met such spite and pettiness.她从未遭遇过如此恶毒和狭隘的事情。
+
+13.VERB	动词  获得(成功);遭到(失败) You can say that someone meets with success or failure when they are successful or unsuccessful. 
+  【语法信息】：V with n
+
+Attempts to find civilian volunteers have met with embarrassing failure...寻找平民志愿者的种种尝试都遭遇了令人难堪的失败。
+Efforts to commercialise the Russian space programme have met with little success.为使俄罗斯太空项目走向商业化而作出的种种努力几乎没有取得什么成功。
+
+14.V-RECIP	相互动词  和…接触;与…相碰 When a moving object meets another object, it hits or touches it. 
+  【语法信息】：V n
+  【语法信息】：pl-n V
+
+You sense the stresses in the hull each time the keel meets the ground...每次龙骨触地的时候你都能感受到船体所受的压力。
+Nick's head bent slowly over hers until their mouths met.尼克慢慢向她低下头去，直到他们的嘴唇碰在了一起。
+
+15.V-RECIP	相互动词  (目光)接触,相遇 If your eyes meet someone else's, you both look at each other at the same time. 
+  【语法信息】：V n
+  【语法信息】：pl-n V
+  【FIELD标签】：WRITTEN 笔语
+
+Nina's eyes met her sisters' across the table...尼娜与桌子对面的姐妹们目光相遇。
+I found myself smiling back instinctively when our eyes met.我发现当我们的目光相遇时，我本能地还以微笑。
+
+16.V-RECIP	相互动词  (两片区域,尤指两片陆地或海洋)相接，汇合,相邻 If two areas meet, especially two areas of land or sea, they are next to one another. 
+  【语法信息】：V n
+  【语法信息】：pl-n V
+
+It is one of the rare places in the world where the desert meets the sea.世界上沙漠与大海相接的地方非常少见，这里就是一处。
+...the southernmost point of South America where the Pacific and Atlantic oceans meet.南美洲最南端、太平洋与大西洋的汇合处
+
+17.V-RECIP	相互动词  (两条线)相交，交叉 The place where two lines meet is the place where they join together. 
+  【语法信息】：pl-n V
+  【语法信息】：V n
+
+Parallel lines will never meet no matter how far extended...无论延伸多长，平行线永不相交。
+The track widened as it met the road.小路在和公路相交的地方变宽了。
+
+18.V-RECIP	相互动词  (两个运动员、球队或军队)比赛,较量,交锋 If two sportsmen, teams, or armies meet, they compete or fight against one another. 
+  【语法信息】：pl-n V
+  【语法信息】：V n
+
+The two women will meet tomorrow in the final...这两位女选手将在明天的决赛里决一胜负。
+The unevenly matched armies met at Guilford on 15 March 1781...1781年3月15日，力量悬殊的两支队伍在吉尔福德狭路相逢。
+...when England last met the Aussies in a cricket Test match.英格兰队上次在国际板球锦标赛中遭遇澳大利亚队时
+
+19.N-COUNT	可数名词  运动会 A meet is an event in which athletes come to a particular place in order to take part in a race or races. 
+
+John Pennel became the first person to pole-vault 17 ft., at a meet in Miami, Florida.约翰·佩内尔在佛罗里达迈阿密的一次运动会上成为撑竿越过17英尺的第一人。
+
+20.N-COUNT	可数名词  (猎狐前猎人和猎犬的)集合 A meet is when riders and dogs gather somewhere before they set off on a fox hunt. 
+  【语域标签】：BRIT 英
+
+21.PHRASE	短语  迎着(或直视)(某人的)目光 If you do not meet someone's eyes or meet someone's gaze, you do not look at them although they are looking at you, for example because you are ashamed. 
+  【搭配模式】：V inflects
+
+He hesitated, then shook his head, refusing to meet her eyes.他犹豫起来，然后摇摇头，避开了她的目光。
+
+22.PHRASE	短语  （尤指因暴力或蹊跷）死去 If someone meets their death or meets their end, they die, especially in a violent or suspicious way. 
+  【搭配模式】：V inflects
+  【FIELD标签】：WRITTEN 笔语
+
+Jacob Sinclair met his death at the hands of a soldier...雅各布·辛克莱在一名士兵的手里送了命。
+No one knows exactly how or where he met his end.没有人知道他究竟是如何或在何处丢掉性命的。
+
+23.   to make ends meet→see: end; there's more to this than meets the eye→see: eye; to meet someone's eyes→see: eye; to meet someone halfway→see: halfway; to meet your match→see: match; 相关词组：meet up 
+
+
+——————————————
+★☆☆   meeting ●●●●●
+
+1.N-COUNT	可数名词  会议;集会 A meeting is  an event in which a group of people come together to discuss things or make decisions. 
+  【搭配模式】：the N
+
+Can we have a meeting to discuss that?我们可以开会来讨论那件事吗？
+...business meetings.商业会议You can also refer to the people at a meeting as the meeting  . 参加会议的人;与会人员
+
+The meeting decided that further efforts were needed.全体与会者认定有必要作出进一步努力。
+
+2.N-COUNT	可数名词  (有意或无意的)碰见，遇上 When you meet someone, either by chance or by arrangement, you can refer to this event as a meeting . 
+  【搭配模式】：oft with poss
+
+In January, 37 years after our first meeting, I was back in the studio with Denis...那是1月，在我们初次相遇37年之后，我和丹尼斯一同回到了工作室。
+Her life was changed by a chance meeting with her former art master a few years ago.她的生活因几年前同她以前的美术老师的偶遇改变了。
+
+
+——————————————
+★☆☆   meeting house
+
+1.N-COUNT	可数名词  (某些基督教徒，如贵格会教徒等的)礼拜会所 A meeting house is a building in which certain groups of Christians, for example Quakers, meet in order to worship together. 
+
+
+——————————————
+★☆☆   meeting place ●○○○○
+
+1.N-COUNT	可数名词  聚会处;会场;会面地点 A meeting place is a place where people meet. 
+
+
+——————————————
+★☆☆   meet up
+
+1.   →see: meet 1; →see: 2; 
+
+
+——————————————
+★☆☆   mega-
+
+1.PREFIX	前缀  (加在计量单位之前)表示“兆”，“百万” Mega- is added to nouns that refer to units of measurement in order to form other nouns referring to units that are a million times bigger. 
+
+...a 100 megaton explosion.100兆吨级的爆炸
+...a two thousand megawatt surge in electricity.2,000兆瓦的电流
+
+2.PREFIX	前缀  (与名词、形容词构成合成词，强调大小、性质或重要性) Mega- combines with nouns and adjectives in order to emphasize the size, quality, or importance of something. 
+  【语用信息】：emphasis
+  【STYLE标签】：INFORMAL 非正式
+
+Now he can begin to earn the sort of mega-bucks he has always dreamed about.现在他可以开始挣他一直梦寐以求的大钱了。
+...a Hollywood mega-star.好莱坞的超级大腕
+
+
+——————————————
+★☆☆   mega
+
+1.ADV	副词  （置于形容词和副词前，表示强调） Young people sometimes use mega in front of adjectives or adverbs in order to emphasize them. 
+  【搭配模式】：usu ADV adj/adv
+  【语用信息】：emphasis
+  【STYLE标签】：INFORMAL 非正式
+
+He has become mega rich...他成了巨富。
+Roy was tremendously ugly, mega ugly.罗伊巨丑特丑。
+
+2.ADJ	形容词  (用于名词前)特别好的，异常巨大的，非常重要的 Young people sometimes use mega in front of nouns in order to emphasize that the thing they are talking about is very good, very large, or very impressive. 
+  【搭配模式】：ADJ n
+  【语用信息】：emphasis
+  【STYLE标签】：INFORMAL 非正式
+
+...her newly acquired mega salary.她刚刚到手的巨额薪水
+...the mega superstar Madonna.超级巨星麦当娜
+
+
+——————————————
+★☆☆   megabyte ●○○○○
+
+1.N-COUNT	可数名词  兆字节;百万字节 In computing, a megabyte is one million bytes of data. 
+
+
+——————————————
+★☆☆   megahertz
+
+1.N-COUNT	可数名词  兆赫 A megahertz is a unit of frequency, used especially for radio frequencies. One megahertz equals one million cycles per second. 
+  【搭配模式】：num N
+
+...UHF frequencies of around 900 megahertz.大约900兆赫的超高频率
+
+
+——————————————
+★☆☆   megalomania
+
+1.N-UNCOUNT	不可数名词  自大狂;夸大狂;妄自尊大 Megalomania is the belief that you are more powerful and important than you really are. Megalomania is sometimes a mental illness. 
+
+
+——————————————
+★☆☆   megalomaniac
+
+1.N-COUNT	可数名词  有自大狂的人;妄自尊大的人 If you describe someone as a megalomaniac, you are criticizing them because they enjoy being powerful, or because they believe that they are more powerful or important than they really are. 
+  【搭配模式】：oft N n
+  【语用信息】：disapproval
+
+
+——————————————
+★☆☆   mega-mall
+——————————————
+★☆☆   megamall
+
+1.N-COUNT	可数名词  超级大商场;超级购物中心 A megamall is a very large shopping area containing very many shops, cinemas, and restaurants. 
+
+Megamalls and fast food restaurants line the highway system.公路系统沿线有大型商场和快餐店。
+
+
+——————————————
+★☆☆   megaphone
+
+1.N-COUNT	可数名词  扩音器;传声筒;喇叭 A megaphone is a cone-shaped device for making your voice sound louder in the open air. 
+
+
+——————————————
+★☆☆   megapixel
+
+1.  （数码相机、扫描仪等的）兆像素，百万像素 A megapixel is one million pixels: used as a measure of the quality of the picture created by a digital camera, scanner, or other device. 
+
+
+——————————————
+★☆☆   megaton
+
+1.N-COUNT	可数名词  兆吨，百万吨级(可用于计算核爆炸力，相当于100万吨梯恩梯炸药的爆炸威力) You can use megaton to refer to the power of a nuclear weapon. A one megaton bomb has the same power as one million tons of TNT. 
+  【搭配模式】：num N
+
+
+——————————————
+★☆☆   megawatt
+
+1.N-COUNT	可数名词  兆瓦;百万瓦特 A megawatt is a unit of power. One megawatt is a million watts. 
+  【搭配模式】：num N
+
+The project is designed to generate around 30 megawatts of power for the national grid.该工程计划为国家电网发电约30兆瓦。
+
+
+——————————————
+★☆☆   -meister
+
+1.COMB in N-COUNTCOMB in ADJ  (与名词连用构成名词)表示“…高手”，“…能手”，“…专家” -meister combines with nouns to form nouns which refer to someone who is extremely good at a particular activity. 
+
+The film —tautly directed by horror-meister Sam Raimi —is almost assured an Oscar nomination.这部由恐怖片大师萨姆·莱米倾力执导的影片几乎可以稳拿奥斯卡提名奖。
+
+
+——————————————
+★☆☆   melancholia
+
+1.N-UNCOUNT	不可数名词  极度忧郁(或抑郁) Melancholia is a feeling of great sadness, especially one that lasts a long time. 
+  【STYLE标签】：LITERARY 文
+
+He sank into deep melancholia.他陷入了深深的忧郁之中。
+
+
+——————————————
+★☆☆   melancholic
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  忧郁的;忧伤的 If you describe someone or something as melancholic, you mean that they are very sad. 
+  【STYLE标签】：LITERARY 文
+
+The night was as melancholic as his mood.夜晚和他的心情一样阴郁。
+...his gentle, melancholic songs.他温柔而伤感的歌曲A melancholic is someone  who is melancholic.  忧郁的人
+
+...a self-made man, energetic and obsessively orderly, a histrionic exhibitionist and a melancholic.一个白手起家、精力充沛且强迫性讲求整齐的人，一个装腔作势、好出风头的人，一个忧郁伤感的人
+
+
+——————————————
+★☆☆   melancholy ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  使人忧郁的;令人忧伤的 You describe something that you see or hear as melancholy when it gives you an intense feeling of sadness. 
+
+...a painter of haunting melancholy canvases...一位画作中饱含挥之不去的忧伤情绪的画家
+The only sounds were the distant, melancholy cries of the sheep...只听得见远处羊群的哀鸣。
+The songs start soft and melancholy.歌声轻柔而忧伤地响起。
+
+2.N-UNCOUNT	不可数名词  (习惯性或气质上的)忧郁，忧伤 Melancholy is an intense feeling of sadness which lasts for a long time and which strongly affects your behaviour and attitudes. 
+  【STYLE标签】：LITERARY 文
+
+I was deeply aware of his melancholy as he stood among the mourners...当他站在致哀的人群中时，我深深地体会到了他的忧伤。
+The general watched the process with an air of melancholy.将军神情忧郁地望着队列经过。
+
+3.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  忧郁的;悲伤的 If someone feels or looks melancholy, they feel or look very sad. 
+  【STYLE标签】：LITERARY 文
+
+It was in these hours of the late afternoon that Tom Mulligan felt most melancholy...傍晚这几个小时里，汤姆·马利根最为抑郁。
+He fixed me with those luminous, empty eyes and his melancholy smile.他笑容忧郁地凝视着我，闪亮的眼睛里空无一物。
+
+
+——————————————
+★☆☆   melange
+
+1.N-COUNT	可数名词  （尤指吸引人或令人兴奋的）混合物,大杂烩 A melange of things is a mixture of them, especially when this is attractive or exciting. 
+  【搭配模式】：with supp
+  【FIELD标签】：WRITTEN 笔语
+
+...a successful melange of music styles, from soul and rhythm and blues to rap.从灵乐、节奏布鲁斯到说唱等各种音乐风格的成功组合
+...a wonderful melange of flavours.不同风味的奇妙组合
+
+
+——————————————
+★☆☆   melanin
+
+1.N-UNCOUNT	不可数名词  黑色素 Melanin is a dark substance in the skin, eyes, and hair of people and animals, which gives them colour and can protect them against strong sunlight. 
+
+
+——————————————
+★☆☆   melanoma
+
+1.N-VAR	可变名词  (恶性)黑素瘤 A melanoma is an area of cancer cells in the skin which is caused by very strong sunlight. 
+
+
+——————————————
+★☆☆   melee
+
+1.N-COUNT	可数名词  混战 A melee is a noisy confusing fight between the people in a crowd. 
+  【搭配模式】：usu sing
+  【FIELD标签】：WRITTEN 笔语
+
+A policeman was killed and scores of people were injured in the melee.混战中一名警察被打死，许多人受伤。
+
+2.N-SING	单数名词  混乱的情况;无序的局面 A melee of things is a large, confusing, disorganized group of them. 
+  【搭配模式】：usu N of n
+  【FIELD标签】：WRITTEN 笔语
+
+...the melee of streets around the waterfront.滨水区混乱交错的街道
+
+
+——————————————
+★☆☆   mellifluous
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  悦耳的;流畅的;动听的 A mellifluous voice or piece of music is smooth and gentle and very pleasant to listen to. 
+  【搭配模式】：usu ADJ n
+  【语域标签】：FORMAL 正式
+
+I grew up around people who had wonderful, mellifluous voices...从小到大，生活在我周围的人都有着悦耳动听的嗓音。
+Soon the room is filled with Bates' mellifluous tones.很快，房间里便充满了贝茨动听的声音。
+
+
+——————————————
+★☆☆   mellow ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  (颜色)柔和的,温暖的 Mellow is used to describe things that have a pleasant, soft, rich colour, usually red, orange, yellow, or brown. 
+  【搭配模式】：usu ADJ n/colour
+
+...a classic Queen Anne house of mellow red brick with a white portico.一座典型的安妮女王时代的房屋，有着色彩柔和的红砖和白色的门廊
+...this mellow Cotswold manor house.这座古色古香的科茨沃尔德庄园宅邸
+...the softer, mellower light of evening.夜晚更为温和、柔媚的光线
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  (声音)悦耳的，圆润的;(味道)香醇的 A mellow sound or flavour is pleasant, smooth, and rich. 
+
+His voice was deep and mellow and his speech had a soothing and comforting quality.他的嗓音低沉悦耳，他的讲话能抚慰人心。
+...the mellow background music.舒缓的背景音乐
+...a delightfully mellow, soft and balanced wine.口感芳醇、柔和、恰到好处的葡萄酒
+
+3.V-ERG	及物/不及物动词  (使)变平和;(使)变得成熟 If someone mellows or if something mellows them, they become kinder or less extreme in their behaviour, especially as a result of growing older. 
+  【语法信息】：V
+  【语法信息】：V n
+
+When the children married and had children of their own, he mellowed a little...等孩子们结了婚又有了自己的小孩以后，他变得平和了一些。
+Marriage had not mellowed him.婚姻并没有让他成熟起来。Mellow is also an adjective.  
+
+Is she more mellow and tolerant?她更成熟、更宽容吗？
+
+4.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  (尤指喝过酒或品尝过美食后)怡然自得的 If someone is mellow, they feel very relaxed and cheerful, especially as the result of alcohol or good food. 
+  【STYLE标签】：INFORMAL 非正式
+
+He'd had a few glasses of champagne himself and was fairly mellow...他自己也已几杯香槟下肚，很是飘飘然。
+At the other tables couples were now in a mellow mood, chattering happily and drinking.其他桌上的情侣们正一边饮酒一边畅谈，兴致很高。
+
+
+——————————————
+★☆☆   melodic ●○○○○
+
+1.ADJ	形容词  旋律(上)的 Melodic means relating to melody. 
+  【搭配模式】：usu ADJ n
+
+...Schubert's effortless gift for melodic invention.舒伯特驾轻就熟的谱曲天分melodically
+
+...the third of Tchaikovsky's ten operas, and melodically one of his richest scores.柴可夫斯基的10部歌剧中的第三部，也是旋律最为丰富的一部作品
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  旋律优美的;悦耳动听的 Music that is melodic has beautiful tunes in it. 
+
+Wonderfully melodic and tuneful, his songs have made me weep.他的歌旋律优美、悦耳动听，让我潸然泪下。melodically
+
+The leader has also learned to play more melodically.这位领导人也学会了演奏得更加优美动听。
+
+
+——————————————
+★☆☆   melodious
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  优美的;悦耳的;动听的 A melodious sound is pleasant to listen to. 
+  【STYLE标签】：LITERARY 文
+
+She spoke in a quietly melodious voice.她说话轻声细语，嗓音甜美。
+
+
+——————————————
+★☆☆   melodrama ●○○○○
+
+1.N-VAR	可变名词  (情节离奇而夸张的)惊险故事，传奇剧，情节剧 A melodrama is a story or play in which there are a lot of exciting or sad events and in which people's emotions are very exaggerated. 
+
+
+——————————————
+★☆☆   melodramatic ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  过分严肃的;夸张的;小题大做的 Melodramatic behaviour is behaviour in which someone treats a situation as much more serious than it really is. 
+
+'Don't you think you're being rather melodramatic?' Jane asked...简问：“你难道不觉得自己有些太夸张了吗？”
+She'd flung herself in a pose of melodramatic exhaustion.她一下子摆出一副筋疲力尽的夸张姿势。melodramatically
+
+'For God's sake,' Michael said melodramatically, 'Whatever you do, don't look down.'“看在上帝的份上，”迈克尔煞有介事地说，“不管你做什么，千万别低头。”
+
+
+——————————————
+★☆☆   melody ●●○○○
+
+1.N-COUNT	可数名词  旋律;曲调 A melody is a tune. 
+  【语域标签】：FORMAL 正式
+
+2.N-UNCOUNT	不可数名词  婉转;悦耳 Melody is the quality of having a pleasant tune. 
+
+Her voice was full of melody.她的声音非常悦耳。
+
+
+——————————————
+★☆☆   melon ●○○○○
+
+1.N-VAR	可变名词  瓜;甜瓜 A melon is a large fruit which is sweet and juicy inside and has a hard green or yellow skin. 
+
+
+——————————————
+★☆☆   melt ●●○○○
+
+1.V-ERG	及物/不及物动词  (使)熔化;(使)融化 When a solid substance melts or when you melt it, it changes to a liquid, usually because it has been  heated. 
+  【语法信息】：V
+  【语法信息】：V n
+  【语法信息】：V-ed
+
+The snow had melted, but the lake was still frozen solid...雪已经融化了，但是湖面上仍然冻得结结实实的。
+Meanwhile, melt the white chocolate in a bowl suspended over simmering water...同时，把碗置于微沸的水上，将白巧克力放入碗中使其熔化。
+Add the melted butter, molasses, salt, and flour.加入化开的黄油、糖浆、盐和面粉。
+
+2.VERB	动词  (情绪等)消失,消散,平息 If something such as your feelings melt, they suddenly disappear and you no longer feel them. 
+  【语法信息】：V
+  【语法信息】：V P
+  【STYLE标签】：LITERARY 文
+
+His anxiety about the outcome melted, to return later but not yet...他对未知结果的焦虑消散了，这种焦虑过后还会袭上心头，但至少现在还没有。
+He would have struggled but his strength had melted.他本欲作一番挣扎，却已力不从心。Melt away means the same as melt .  melt away 同 melt
+
+When he heard these words, Shinran felt his inner doubts melt away.听到这番话，欣兰感到他内心的疑虑顿时消散了。
+
+3.VERB	动词  逐渐融入(黑暗、人群等);与…融为一体 If a person or thing melts into something such as darkness or a crowd of people, they become difficult to see, for example because they are moving away from you or are the same colour as the background. 
+  【语法信息】：V into n
+  【STYLE标签】：LITERARY 文
+
+The youths dispersed and melted into the darkness...年轻人散开了，消失在夜幕之中。
+The squadron's armour is draped in sand-coloured nets that melt into the landscape.装甲连的装甲车上罩着沙色的网，和周围的风景融为一体。
+
+4.V-ERG	及物/不及物动词  (使)(心)软化 If someone or something melts your heart, or if your heart melts, you start to feel love or sympathy towards them. 
+  【语法信息】：V n
+  【语法信息】：V
+
+When his lips break into a smile, it is enough to melt any woman's heart...他粲然一笑就足以让任何女人心软。
+When a bride walks down the aisle to a stirring tune, even the iciest of hearts melt.当新娘伴着激动人心的乐曲走在教堂的走廊上时，即便最冰冷的心都会融化。
+
+5.N-COUNT	可数名词  （带鱼或肉的）奶酪三明治 A melt is a piece of bread which has meat or fish on it, and melted cheese on top. 
+  【搭配模式】：usu n N
+  【语域标签】：AM 美
+
+...a tuna melt.金枪鱼奶酪三明治相关词组：melt away melt down 
+
+
+——————————————
+★☆☆   melt away
+
+1.PHRASAL VERB	短语动词 See also: melt;  (人群)逐渐散去 If a crowd of people melts away, members of the crowd gradually leave until there is no-one left. 
+  【语法信息】：V P
+
+The crowd around the bench began to melt away.长椅周围的人群渐渐散去了。
+
+
+——————————————
+★☆☆   melt down
+
+1.PHRASAL VERB	短语动词  熔化，熔毁(以再利用) If an object is melted down, it is heated until it melts, so that the material can be used to make something else. 
+  【语法信息】：be V-ed P
+  【语法信息】：V n P
+  【语法信息】：V P n (not pron)
+
+Some of the guns were melted down and used to help build a statue...一些枪炮被回炉后用来建造了一座雕像。
+When Jefferson didn't like a pair of goblets given to him as a gift, he asked a local smith to melt them down...杰斐逊不喜欢别人作为礼物送给他的一对高脚杯，就请当地的一个工匠把酒杯熔毁了。
+Some thieves do not even bother to melt down stolen silver for its scrap value.有的小偷懒得为了一点蝇头小利去费劲把偷来的银器熔掉。
+
+
+——————————————
+★☆☆   meltdown
+
+1.N-VAR	可变名词  (核反应堆的)堆芯熔毁 If there is meltdown in a nuclear reactor, the fuel rods start melting because of a failure in the system, and radiation starts to escape. 
+
+Emergency cooling systems could fail and a reactor meltdown could occur.紧急冷却系统有可能失灵，核反应堆有可能发生堆芯熔毁。
+
+2.N-UNCOUNT	不可数名词  (公司、机构或系统的)崩溃，彻底失败 The meltdown of a company, organization, or system is its sudden and complete failure. 
+  【搭配模式】：with supp
+  【FIELD标签】：JOURNALISM 新闻
+
+Urgent talks are going on to prevent the market going into financial meltdown during the summer.正在进行紧急会谈，以防止市场在夏季出现金融危机。
+
+
+——————————————
+★☆☆   melting point
+
+1.N-COUNT	可数名词  熔点 The melting point of a substance is the temperature at which it melts when you heat it. 
+  【搭配模式】：oft with poss
+
+
+——————————————
+★☆☆   melting pot
+
+1.N-COUNT	可数名词  熔炉(指不同民族或思想融合混杂的地方或状况) A melting pot is a place or situation in which people or ideas of different kinds gradually get mixed together. 
+  【搭配模式】：usu sing
+
+The republic is a melting pot of different nationalities.这个共和国是多民族的大熔炉。
+...the cultural melting pot...文化熔炉
+Marseilles has proved to be a better racial melting pot than Lyons.事实证明，与里昂相比，马赛是一个更好的种族大熔炉。
+
+2.PHRASE	短语  仍在变化的;尚未定型的;难以预料的 If something is in the melting pot, you do not know what is going to happen to it. 
+  【搭配模式】：v-link PHR
+  【语域标签】：mainly BRIT 主英
+
+Their fate is still in the melting pot.他们的命运仍然难以预料。
+
+
+——————————————
+★☆☆   member ●●●●●
+
+1.N-COUNT	可数名词  （团体的）成员，一分子 A member of a group is one of the people, animals, or things belonging to that group. 
+  【搭配模式】：with supp
+
+He refused to name the members of staff involved...他拒绝说出所涉及员工的姓名。
+Their lack of training could put members of the public at risk.他们缺乏训练，这有可能会使民众面临风险。
+...a sunflower or a similar member of the daisy family.向日葵或菊科植物中一种类似的植物...the brightest members of a dense cluster of stars at the Galaxy's centre.银河系中央一个密集星团中最耀眼的几颗星
+
+2.N-COUNT	可数名词  会员;成员 A member of an organization such as a club or a political party is a person who has officially joined the organization. 
+  【搭配模式】：usu with supp
+
+The support of our members is of great importance to the Association...会员的支持对于我们协会来说非常重要。
+Britain is a full member of NATO.英国是北大西洋公约组织的正式成员国。
+
+3.ADJ	形容词  (某国际组织的)会员国，成员国 A member country or member state is one of the countries that has joined an international organization or group. 
+  【搭配模式】：ADJ n
+
+...the member countries of the European Free Trade Association.欧洲自由贸易联盟的成员国
+...a co-ordinated approach, with each member state doing what it could.各成员国尽其所能的协作方式
+
+4.N-COUNT	可数名词  议员 A member or Member is a person who has been elected to a  parliament or legislature. 
+  【搭配模式】：usu N for n
+
+He was elected to Parliament as the Member for Leeds.他当选为利兹市议员而进入了议会。
+...the Conservative member for Billericay.代表比勒里基的保守党议员
+...Member of the Knesset, David Magen.以色列议会的议员戴维·马根
+
+
+——————————————
+★☆☆   Member of Congress
+
+1.N-COUNT	可数名词  (美国的)国会议员 A Member of Congress is a person who has been elected to the United States Congress. 
+
+
+——————————————
+★☆☆   Member of Parliament
+
+1.N-COUNT	可数名词  (议会中代表某一地区的)议员(常用其缩略形式 MP) A Member of Parliament is a person who has been elected by the people in a particular area to represent them in a country's parliament. The abbreviation MP is often used. →see usage note at:government
+
+
+——————————————
+★☆☆   membership ●●●○○
+
+1.N-UNCOUNT	不可数名词  会员身份;成员资格 Membership of an organization is the state of being a member of it. 
+  【搭配模式】：also N in pl
+
+The country has also been granted membership of the World Trade Organisation...这个国家也被准予加入世界贸易组织。
+He sent me a membership form...他寄给我一份入会登记表。
+Membership in her church youth group helped develop her political ideas.加入教会青年团契促使她形成了自己的政治观点。
+
+2.N-VAR-COLL	可变集合名词  全体会员(或成员);全体会员(或成员)人数 The membership of an organization is the people who belong to it, or the number of people who belong to it. 
+
+The European Builders Confederation has a membership of over 350,000 building companies.欧洲建筑商联合会拥有逾35万家建筑公司会员。
+...organizations with huge memberships.会员队伍庞大的组织
+...the recent fall in party membership.近期党员人数的下降
+
+
+——————————————
+★☆☆   membrane ●○○○○
+
+1.N-COUNT	可数名词  （连接或覆盖身体某些部位的）膜,薄膜 A membrane is a thin piece of skin which connects or covers parts of a person's or animal's body. 
+
+
+——————————————
+★☆☆   memento ●○○○○
+
+1.N-COUNT	可数名词  纪念物;纪念品 A memento is an object which you keep because it reminds you of a person or a special occasion. 
+  【搭配模式】：oft N of n
+
+More anglers are taking cameras when they go fishing to provide a memento of catches.更多的垂钓者去钓鱼的时候带上了照相机，以便钓上鱼后留个纪念。
+
+
+——————————————
+★☆☆   memo ●○○○○
+
+1.N-COUNT	可数名词  (公司或组织内部的)公务便条，备忘录 A memo is a short official note that is sent by one person to another within the same company or organization. 
+
+
+——————————————
+★☆☆   memoir
+
+1.N-COUNT	可数名词  传记;传略 A memoir is a book or article that you write about someone who you have known well. 
+  【语域标签】：FORMAL 正式
+
+He has just published a memoir in honour of his captain.他刚刚出了一本传记来纪念他的队长。
+
+
+——————————————
+★☆☆   memorabilia ●○○○○
+
+1.N-PLURAL	复数名词  (与某人或某组织相关的)收藏品,纪念品 Memorabilia are things that you collect because they are connected with a person or organization in which you are interested. 
+
+
+——————————————
+★☆☆   memorable ●●○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  难忘的;值得纪念的 Something that is memorable is worth remembering or likely to be remembered, because it is special or very enjoyable. 
+
+...the perfect setting for a nostalgic memorable day...度过令人难忘的怀旧一日的绝佳环境
+Annette's performance as Eliza Doolittle in 'Pygmalion' was truly memorable.安妮特在《卖花女》中扮演的伊丽莎·杜利特尔这个角色实在令人难忘。memorably
+
+The National Theatre's production is memorably staged.国家剧院排演的剧目隆重上演了。
+
+
+——————————————
+★☆☆   memorandum ●○○○○
+
+1.N-COUNT	可数名词  备忘录 A memorandum is a written report that is prepared for a person or committee in order to provide them with information about a particular matter. 
+
+...a memorandum from the Ministry of Defence on its role...国防部发出的关于其职责的备忘录
+The delegation submitted a memorandum to the Commons on the blatant violations of basic human rights.代表团向下院呈交了有关公然侵犯基本人权的备忘录。
+
+2.N-COUNT	可数名词  (外交)备忘录 A memorandum is an informal communication between governments which often states a particular diplomatic purpose or point of view. 
+
+...a memorandum of understanding for co-operation between our two countries.为我们两国之间的合作而达成的谅解备忘录
+
+3.N-COUNT	可数名词  (公司或组织内部的)公务便条，备忘录 A memorandum is a short official note that is sent by one person to another within the same company or organization. 
+  【语域标签】：FORMAL 正式
+
+
+——————————————
+★☆☆   memorial ●●○○○
+
+1.N-COUNT	可数名词  纪念碑 A memorial is a structure built in order to remind people of a famous person or event. 
+  【搭配模式】：usu with supp
+
+Building a memorial to Columbus has been his lifelong dream...为哥伦布建一座纪念碑是他一生的梦想。
+Every village had its war memorial.每座村庄都有自己的战争纪念碑。
+
+2.ADJ	形容词  （对逝者）纪念的;悼念的;追思的 A memorial event, object, or prize is in honour of someone who has died, so that they will be  remembered. 
+  【搭配模式】：ADJ n
+
+A memorial service is being held for her at St Paul's Church.她的追悼会正在圣保罗教堂举行。
+...memorial plaques to local regiments...发给驻扎本地的兵团的纪念章
+He went on to win the James E. Sullivan Memorial Trophy as the outstanding amateur athlete of 1962.接着，他又作为1962年度杰出业余运动员赢得了“詹姆斯·E.沙利文纪念奖”。
+
+3.N-COUNT	可数名词  （追忆逝者的）纪念物,纪念品 If you say that something will be a memorial to someone who has died, you mean that it will continue to exist and remind people of them. 
+  【搭配模式】：usu sing
+
+The museum will serve as a memorial to the millions who passed through Ellis Island...这个博物馆将用来纪念经过埃利斯岛的数百万移民。
+The city's rather uncompromising bleakness is a permanent memorial to its dark and mysterious founders.这座城市毫不妥协的荒凉面貌是对其神秘莫测的创建者的永久纪念。
+
+
+——————————————
+★☆☆   Memorial Day
+
+1.N-UNCOUNT	不可数名词  阵亡将士纪念日(美国的法定假日，在大多数州为5月的最后一个星期一) In the United States, Memorial Day is a public holiday when people honour the memory of Americans who have died in wars. Memorial Day is celebrated in most states on the last Monday in May. 
+
+
+——————————————
+★☆☆   memorialize
+in BRIT, also use 英国英语亦用 memorialise
+
+1.VERB	动词  纪念;使记住 If a person or event is memorialized, something is produced that will continue to exist and remind people of them. 
+  【语法信息】：be V-ed
+  【语法信息】：V n
+
+He was praised in print and memorialized in stone throughout the South...在整个南方地区，他被人们著书称颂，刻碑纪念。
+Our affair was memorialized by those children...那些孩子的存在时刻提醒着人们我俩的私情。
+When she died in 1946, her friends wanted to memorialize her in some significant way.她1946年去世的时候，她的朋友们希望以某种隆重的方式纪念她。
+
+
+——————————————
+★☆☆   memorize ●○○○○
+in BRIT, also use 英国英语亦用 memorise
+
+1.VERB	动词  熟记;记住 If you memorize something, you learn it so that you can remember it exactly. 
+  【语法信息】：V n
+
+He studied his map, trying to memorize the way to Rose's street.他研究了地图，试图记住到罗丝家那条街的路。
+
+
+——————————————
+★☆☆   memory ●●●●○
+
+1.N-VAR	可变名词  记忆力;记性 Your memory is your ability to remember things. 
+  【搭配模式】：oft poss N
+
+All the details of the meeting are fresh in my memory...我对会议的所有细节都记忆犹新。
+He'd a good memory for faces, and he was sure he hadn't seen her before...他对别人的长相过目不忘，他确信自己以前没有见过她。
+But locals with long memories thought this was fair revenge for the injustice of 1961...可是，对以前的事记忆犹新的当地人却认为，这是对1961年那起非正义事件的正当复仇。Two major areas in which mentally retarded children require help are memory and attention.智障儿童主要是在记忆力和注意力这两方面需要帮助。
+
+2.N-COUNT	可数名词  记忆;记忆中的事物;回忆 A memory is something that you remember from the past. 
+  【搭配模式】：usu with supp
+
+She cannot bear to watch the film because of the bad memories it brings back...她看不了那部电影，因为它会勾起一些痛苦的回忆。
+Her earliest memory is of singing at the age of four to wounded soldiers...她最早的记忆是在4岁时为受伤的战士唱歌。
+He had happy memories of his father.他对父亲有着愉快的记忆。
+
+3.N-COUNT	可数名词  存储器;内存 A computer's memory is the part of the computer where information is stored, especially for a short time before it is transferred to disks or magnetic tapes. 
+  【STYLE标签】：COMPUTING 计算机
+
+The data are stored in the computer's memory.资料存在计算机内存里。
+
+4.N-SING	单数名词  (对死者的)怀念，记忆 If you talk about the memory of someone who has died, especially someone who was loved or respected, you are referring to the thoughts, actions, and ceremonies by which they are  remembered. 
+  【搭配模式】：usu with poss
+
+She remained devoted to his memory...她对他仍十分怀念。
+The congress opened with a minute's silence in memory of those who died in the struggle.代表大会开幕时进行了一分钟的默哀，以怀念在斗争中牺牲的人。
+
+5.PHRASE	短语  凭记忆(诵诗、奏曲等) If you do something from memory, for example speak the words of a poem or play a piece of music, you do it without looking at it, because you know it very well. 
+  【搭配模式】：PHR after v
+
+Many members of the church sang from memory...许多教徒都是凭记忆唱颂歌。
+Children write down the word, cover it up and then try to spell it from memory.孩子们把这个词写下来蒙住，然后试着凭记忆拼出来。
+
+6.PHRASE	短语  在人们的记忆中（最…的事情） If you say that something is, for example, the best, worst, or first thing of its kind in living memory, you are emphasizing that it is the only thing of that kind that people can remember. 
+  【搭配模式】：n/adj PHR
+  【语用信息】：emphasis
+
+The floods are the worst in living memory...那次洪水是人们记忆中最严重的一次。
+No-one in living memory has come back from that place alive.在人们的记忆中，没有人从那个地方生还。
+
+7.PHRASE	短语  失去记忆力;失忆 If you lose your memory, you forget things that you used to know. 
+  【搭配模式】：V inflects
+
+His illness caused him to lose his memory.疾病使他失忆了。
+
+8.   to commit something to memory→see: commit; 
+
+
+——————————————
+★☆☆   memory card
+
+1.N-COUNT	可数名词  (数码相机等的)内存卡,存储卡，记忆卡 A memory card is a type of card containing computer memory that is used in digital cameras and other devices. 
+  【FIELD标签】：COMPUTING 计算机
+
+
+——————————————
+★☆☆   memory chip
+
+1.N-COUNT	可数名词  (计算机的)存储芯片，内存芯片 In a computer, the memory chip is the microchip in which information is stored. 
+
+
+——————————————
+★☆☆   memsahib
+
+1.N-COUNT; N-TITLE; N-VOC可数名词；头衔名词；称呼名词  夫人，太太(尤在英国统治时期用作对居住在印度的白人妇女的尊称，有时也用来称呼印度上层社会的妇女) Memsahib was used to refer to or address white women in India, especially during the period of British rule, or sometimes to refer to or address upper-class Indian women. 
+  【STYLE标签】：OLD-FASHIONED 过时
+
+
+——————————————
+★☆☆   men
+
+1.  (man 的复数) Men is the plural of man . 
+
+
+——————————————
+★☆☆   menace ●○○○○
+
+1.N-COUNT	可数名词  威胁;危险人物;祸害 If you say that someone or something is a menace to other people or things, you mean that person or thing is likely to cause serious harm. 
+  【搭配模式】：usu sing
+
+In my view you are a menace to the public.在我看来，你对公众是个祸害。
+...the menace of fascism...法西斯主义的威胁
+Excessive drinking is a social menace.过度饮酒是一种社会公害。
+
+2.N-COUNT	可数名词  惹麻烦的人(或物);惹人讨厌的人(或物) You can refer to someone or something as a menace when you want to say that they cause you trouble or annoyance. 
+  【搭配模式】：usu sing
+  【STYLE标签】：INFORMAL 非正式
+
+You're a menace to my privacy, Kenworthy...肯沃西，你这人真讨厌，居然侵犯我的隐私。
+As I have said earlier in this book, bad shoes are a menace.正如我在本书前面说过的那样，劣质的鞋子会很麻烦。
+
+3.N-UNCOUNT	不可数名词  威胁性;危险气氛 Menace is a quality or atmosphere that gives you the feeling that you are in danger or that someone wants to harm you. 
+
+There is a pervading sense of menace.有一种危机四伏的感觉。
+...a voice full of menace.充满威胁的声音
+
+4.VERB	动词  危及;威胁 If you say that one thing menaces another, you mean that the first thing is likely to cause the second thing serious harm. 
+  【语法信息】：V n
+
+The European states retained a latent capability to menace Britain's own security.欧洲国家仍具有威胁英国自身安全的潜在能力。
+
+5.VERB	动词  威胁;恐吓 If you are menaced by someone, they threaten to harm you. 
+  【语法信息】：be V-ed
+  【语法信息】：Also V n
+
+She's being menaced by her sister's latest boyfriend.她正受到姐姐最近一个男友的恐吓。
+
+6.PHRASE	短语  以威胁（或恐吓）的手段（索要钱财） If someone commits the crime of demanding money with menaces, they threaten to cause harm unless they are given the money. 
+  【搭配模式】：usu PHR after v
+  【语域标签】：BRIT 英
+  【FIELD标签】：LEGAL 法律
+
+He denies demanding money with menaces.他否认有过勒索钱财的行为。
+
+
+——————————————
+★☆☆   menacing ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  威胁的;威吓的;危险的 If someone or something looks menacing, they give you a feeling that they are likely to cause you harm or put you in danger. 
+
+The strong dark eyebrows give his face an oddly menacing look...两道浓黑的眉毛使他的脸看起来异常凶狠。
+He moved  his menacing bulk closer to the table...他把自己骇人的庞大身躯向桌子挪近了些。
+The wide river looked less menacing when flanked by the warm yellow houses.在两岸暖黄色房子的映衬下，这宽阔的大河看起来就不那么险恶了。menacingly
+
+A group of men suddenly emerged from a doorway and moved menacingly forward to block her way.一群男子突然出现在门口，并且向她逼近，堵住了她的去路。
+
+
+——————————————
+★☆☆   menage
+
+1.N-SING	单数名词  家庭;一家;住在同一所房子里的人 A menage is a group of people living together in one house. 
+  【搭配模式】：usu with supp
+  【语域标签】：FORMAL 正式
+
+
+——————————————
+★☆☆   menage a trois
+
+1.N-COUNT	可数名词  （尤指有性关系的）三人同居 A menage a trois is a situation where three people live together, especially when one of them is having a sexual relationship with both of the others. 
+  【搭配模式】：usu sing
+
+
+——————————————
+★☆☆   menagerie
+
+1.N-COUNT	可数名词  (私人豢养或向公众展览的)一群野生动物 A menagerie is a collection of wild animals. 
+
+
+——————————————
+★☆☆   mend ●○○○○
+
+1.VERB	动词  修理;修补 If you mend something that is broken or not working, you repair it, so that it works properly or can be used. 
+  【语法信息】：V n
+  【语法信息】：have n V-ed
+
+They took a long time to mend the roof...他们花了很长时间修缮屋顶。
+Somebody else lent me a pump and helped me mend the puncture...别人借给我一个打气筒，又帮我补好了轮胎。
+I should have had the catch mended, but never got round to it.我原本应该修好这个窗钩的，却一直没能抽出时间来。
+
+2.V-ERG	及物/不及物动词  (使)康复;(使)痊愈;(使)愈合 If a person or a part of their body mends or is mended, they get better after they have been  ill or have had an injury. 
+  【语法信息】：V
+  【语法信息】：V n
+
+You'll mend. The X-rays show that your arm will heal all right...你会康复的。X光照片显示你的胳膊能够较好地复原。
+I'm feeling a good bit better. The cut aches, but it's mending...我感觉好多了。伤口很疼，但是正在愈合。
+He must have a major operation on his knee to mend severed ligaments.为了让他断裂的韧带愈合，他的膝盖必须动一次大手术。
+
+3.VERB	动词  弥合(分歧);解决(争端) If you try to mend divisions between people, you try to end the disagreements or quarrels between them. 
+  【语法信息】：V n
+
+He sent Evans as his  personal envoy to discuss ways to mend relations between the two countries...他派埃文斯以私人特使的身份前往商讨修复两国关系的途径。
+I felt that might well mend the rift between them.我觉得那样做也许可以让他们冰释前嫌。
+
+4.PHRASE	短语  (关系)正在改善;(形势)正在好转 If a relationship or situation is on the mend after a difficult or unsuccessful period, it is improving. 
+  【搭配模式】：v-link PHR
+  【STYLE标签】：INFORMAL 非正式
+
+More evidence that the economy was on the mend was needed.需要更多证据来证明经济正在好转。
+
+5.PHRASE	短语  (病人)正在恢复之中，正在逐渐好起来 If you are on the mend after an illness or injury, you are recovering from it. 
+  【搭配模式】：v-link PHR
+  【STYLE标签】：INFORMAL 非正式
+
+The baby had been poorly but seemed on the mend.宝宝生病了，但似乎正在好起来。
+
+6.PHRASE	短语  改过自新;改邪归正 If someone who has been behaving badly mends their ways, they begin to behave well. 
+  【搭配模式】：V inflects
+
+He has promised drastic disciplinary action if they do not mend their ways.如果他们不改邪归正的话，他保证一定严惩不贷。
+
+7.   to mend fences→see: fence; 
+
+
+——————————————
+★☆☆   mendacious
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （人）撒谎的，虚伪的;（声明）不真实的,捏造的 A mendacious person is someone who tells lies. A mendacious statement is one that is a lie. 
+  【语域标签】：FORMAL 正式
+
+
+——————————————
+★☆☆   mendacity
+
+1.N-UNCOUNT	不可数名词  撒谎;虚假;捏造 Mendacity is lying, rather than telling the truth. 
+  【语域标签】：FORMAL 正式
+
+...an astonishing display of cowardice and mendacity.懦弱和撒谎的表现令人吃惊
+
+
+——————————————
+★☆☆   mending
+
+1.N-UNCOUNT	不可数名词 See also: mend;  (对衣服的)修补，缝补 Mending is the sewing and repairing of clothes that have got holes in them. 
+  【STYLE标签】：OLD-FASHIONED 过时
+
+Who will then do the cooking, the washing, the mending?那么，谁来做饭、洗衣、缝补呢？
+
+
+——————————————
+★☆☆   menfolk
+
+1.N-PLURAL	复数名词  (家庭中或社会上的)男人们 When women refer to their menfolk, they mean the men in their family or society. 
+  【搭配模式】：usu poss N
+
+
+——————————————
+★☆☆   menial
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （工作）枯燥的,低级的，报酬低的 Menial work is very boring, and the people who do it have a low status and are usually badly paid. 
+
+...low paid menial jobs, such as cleaning and domestic work.诸如打扫卫生和干家务之类工钱少又低贱的工作
+
+
+——————————————
+★☆☆   meningitis ●○○○○
+
+1.N-UNCOUNT	不可数名词  脑（脊）膜炎 Meningitis is a serious infectious illness which affects your brain and spinal cord. 
+
+
+——————————————
+★☆☆   menopause ●○○○○
+
+1.N-SING	单数名词  更年期，绝经期(通常在50岁左右) The menopause is the time during which a woman gradually stops menstruating, usually when she is about fifty years old. 
+  【搭配模式】：also no detmenopausal
+
+...a menopausal woman.处于更年期的妇女
+
+
+——————————————
+★☆☆   men's room
+
+1.N-COUNT	可数名词  男厕所;男盥洗室 The men's room is a toilet for men in a public building. 
+  【搭配模式】：usu the N in sing
+  【语域标签】：mainly AM 主美
+
+
+——————————————
+★☆☆   menstrual ●○○○○
+
+1.ADJ	形容词  月经的 Menstrual means relating to menstruation. 
+  【搭配模式】：ADJ n
+
+...the menstrual cycle.月经周期
+
+
+——————————————
+★☆☆   menstruate ●○○○○
+
+1.VERB	动词  行经;来月经 When a woman menstruates, a flow of blood comes from her womb. Women menstruate once a month unless they are pregnant or have reached the menopause. 
+  【语法信息】：V
+  【语域标签】：FORMAL 正式
+
+Lean hard-training women athletes may menstruate less frequently or not at all.身材瘦削而且训练艰苦的女运动员行经可能不那么频繁，或者根本不来月经。menstruation
+
+Menstruation may cease when a woman is anywhere between forty-five and fifty years of age.女性停经是在45至50岁期间。
+
+
+——————————————
+★☆☆   menswear
+
+1.N-UNCOUNT	不可数名词  男装 Menswear is clothing for men. 
+
+...the menswear industry.男装行业
+
+
+——————————————
+★☆☆   -ment
+
+1.SUFFIX	后缀  (加在某些动词后构成名词)表示“动作”、“过程”、“状态” -ment is added to some verbs to form nouns that refer to actions, processes, or states. 
+
+...shortly after the commencement of the service.这项服务开始实施后不久
+...the enrichment of uranium.铀浓缩
+
+
+——————————————
+★☆☆   mental ●●●○○
+
+1.ADJ	形容词  智力的;脑力的;思考的 Mental means relating to the process of thinking. 
+  【搭配模式】：ADJ n
+
+...the mental development of children.儿童的智力发展
+...intensive mental effort.高强度的脑力劳动mentally
+
+I think you are mentally tired...我想你的脑子累了。
+I  had never felt more mentally alive...我从未感到思维如此活跃。
+Physically I might not have been overseas but mentally and spiritually I was with them.虽然我人不在国外，可是从精神和心灵上，我和他们是在一起的。
+
+2.ADJ	形容词  心理上的;精神上的 Mental means relating to the state or the health of a person's mind. 
+  【搭配模式】：ADJ n
+
+The mental state that had created her psychosis was no longer present.导致她精神失常的那种心理状态已经消失了。
+...mental health problems.心理健康问题mentally
+
+...an inmate who is mentally  disturbed.精神失常的囚犯
+...the needs of the mentally ill and the mentally handicapped.精神病患者与智障人士的需要
+
+3.ADJ	形容词  内心的;在头脑中进行的 A mental act is one that involves only thinking and not physical action. 
+  【搭配模式】：ADJ n
+
+Practise mental arithmetic when you go out shopping...外出购物的时候练习一下心算。
+Graham made a quick mental calculation.格雷厄姆很快就心算出来了。mentally
+
+This technique will help people mentally organize information.这项技术将帮助人们在脑子里组织信息。
+
+4.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  疯狂的;发疯的 If you say that someone is mental, you mean that you think they are mad. 
+  【语用信息】：disapproval
+  【语域标签】：BRIT 英
+  【STYLE标签】：INFORMAL 非正式
+
+I just said to him 'you must be mental'.我刚才对他说：“你一定是疯了。”
+
+5.PHRASE	短语  记在脑子里;把…牢记在心 If you make a mental note of something, you make an effort to store it in your memory so that you will not forget it. 
+  【搭配模式】：V inflects
+
+She made a mental note to have his prescription refilled.她记着要拿他的处方再配一回药。
+She made a mental note not to sit anywhere near him.她心里牢牢记着不坐在他的附近。
+
+
+——————————————
+★☆☆   mental age
+
+1.N-COUNT	可数名词  智力年龄;心理年龄 A person's mental age is the age which they are considered to have reached in their ability to think or reason. 
+  【搭配模式】：usu sing
+
+
+——————————————
+★☆☆   mental hospital
+
+1.N-COUNT	可数名词  精神病院 A mental hospital is a hospital for people who are suffering from mental illness. 
+
+
+——————————————
+★☆☆   mentality ●○○○○
+
+1.N-COUNT	可数名词  心态;思维方式 Your mentality is your attitudes and your way of thinking. 
+  【搭配模式】：usu sing
+
+...a criminal mentality...犯罪心态
+Running a business requires a very different mentality from being a salaried employee.经营企业所要求具备的心态和上班族的心态截然不同。
+
+
+——————————————
+★☆☆   menthol
+
+1.N-UNCOUNT	不可数名词  薄荷脑;薄荷醇 Menthol is a substance that smells a bit like peppermint and is used to flavour things such as cigarettes and toothpaste. It is also used in some medicines, especially for curing colds. 
+
+
+——————————————
+★☆☆   mention ●●●●○
+
+1.VERB	动词  (简短地)谈及，说起，提到 If you mention something, you say something about it, usually briefly. 
+  【语法信息】：V n/-ing
+  【语法信息】：V n to n
+  【语法信息】：V that
+  【语法信息】：V wh
+  【语法信息】：V n as n
+
+She did not mention her mother's absence...她并没有说起她母亲不在场的事。
+I may not have mentioned it to her...我可能没跟她提过这件事。
+I had mentioned that I didn't really like contemporary music...我说过，我其实并不喜欢当代音乐。She shouldn't have mentioned how heavy the dress was...她本不该说起这条裙子有多沉。I felt as though I should mention it as an option.我觉得我好像应该把它作为一种选择提出来。
+
+2.N-VAR	可变名词  提及;论及 A mention is a reference to something or someone. 
+  【搭配模式】：oft N of n
+
+The statement made no mention of government casualties...声明里没有提及政府方面的伤亡情况。
+At the community centre, mention of funds produces pained looks.在社区中心一提到资金问题，大家就会愁眉不展。
+
+3.VERB	动词  （在文章中）提到，谈及(某人的名字) If someone is mentioned in writing, a reference is made to them by name, often to criticize or praise something that they have done. 
+  【语法信息】：be V-ed
+  【语法信息】：be V-ed as n/adj
+  【搭配模式】：usu passive
+
+I was absolutely outraged that I could be even mentioned in an article of this kind...我大为恼火，我的名字居然出现在这种文章里面。
+As for your father, he won't be mentioned in my will.至于你父亲，我的遗嘱里不会提到他的名字。
+...Brigadier Ferguson was mentioned in the report as being directly responsible.弗格森准将作为直接负责人在报道中被提及。
+
+4.VERB	动词  提名;推荐 If someone is mentioned as a candidate for something such as a job, it is suggested that they might  become a candidate. 
+  【语法信息】：be V-ed as n
+  【搭配模式】：usu passive
+
+His appointment is a complete surprise — he has never been mentioned as a front runner...他的任命完全出人意料——他从来都不是呼声最高的候选人。
+Her name has been mentioned as a favoured leadership candidate.提到她的名字时，说她是领导职位的热门候选人。
+
+5.N-VAR	可变名词  提名表扬 A special or honourable mention is formal praise that is given for an achievement that is very good, although not usually the best of its kind. 
+  【搭配模式】：with supp
+
+So many people have helped me with this book that it is hard to pick out the few for special mention.帮助我完成本书的人数太多，难以从中选出几位特别致谢。
+
+6.CONVENTION	惯用语  别客气;不用谢 People sometimes say 'don't mention it' as a polite reply to someone who has just thanked them for doing something. 
+  【语用信息】：formulae
+
+'Thank you very much.' — 'Don't mention it.'“非常感谢！”——“别客气。”
+
+7.PHRASE	短语  不用说;更不必说 You use not to mention when you want to add extra information which emphasizes the point that you are making. 
+  【搭配模式】：PHR group
+  【语用信息】：emphasis
+
+The audience, not to mention the bewildered cast, were not amused...观众们并没有觉得好笑，更不用说那些一头雾水的演员了。
+It was both deliberate and malicious, not to mention clever.这件事是处心积虑、早有预谋的，更不用说其手段的高明。
+
+8.   to be mentioned in dispatches→see: dispatch; Usage Note :
+If you mention something, you say it, but only briefly, especially when you have not talked about it before. He mentioned that he might go to New York. If you comment on a situation, or make a comment about it, you give your opinion on it. Mr Cook has not commented on these reports... I was wondering whether you had any comments. If you remark on something, or make a remark about it, you say what you think or what you have noticed, often in a casual way. Visitors remark on how well the children look... General Sutton's remarks about the conflict. 
+    mention 指简单地说起某事，尤其是以前没有说过的事，例如，He mentioned that he might go to New York (他提到过可能会去纽约)。comment 则是指发表评论或意见，例如，Mr Cook has not commented on these reports (库克先生没有对这些报道发表评论)，I was wondering whether you had any comments (不知道你是否有什么意见)。remark 指随意地说出自己的想法或者注意到的事情，例如，Visitors remark on how well the children look (前来探望的人说起孩子们看上去有多健康)，General Sutton's remarks about the conflict (萨顿将军对这场冲突的看法)。
+
+
+——————————————
+★☆☆   mentor
+
+1.N-COUNT	可数名词  (尤指工作方面的)导师，指导者 A person's mentor is someone who gives them help and advice over a period of time, especially help and advice related to their job. 
+  【搭配模式】：usu poss N
+
+2.VERB	动词  为…出谋划策;指导;辅导 To mentor someone means to give them help and advice over a period of time, especially help and advice related to their job. 
+  【语法信息】：V n
+
+He had mentored scores of younger doctors.他指导过许多更年轻的医生。mentoring
+
+...the company's mentoring programme.公司的职业辅导方案
+
+
+——————————————
+★☆☆   menu ●●○○○
+
+1.N-COUNT	可数名词  菜单 In a restaurant or café or at a formal meal, the menu is a list of the food and drinks that are available. 
+  【搭配模式】：usu sing
+
+A waiter offered him the menu...一个服务生给他送上了菜单。
+Even the most elaborate dishes on the menu were quite low on calories.这菜单上即便是制作最精美的菜品其热量也非常低。
+
+2.N-COUNT	可数名词  饭菜;菜肴 A menu is the food that you serve at a meal. 
+
+Try out the menu on a few friends...让几个朋友尝尝这道菜。
+The menu is all-important. Every component of every meal should create contrasts.饭菜的安排至关重要。每一顿饭的每一道菜都应该有所不同。
+
+3.N-COUNT	可数名词  (电脑屏幕上的)菜单，功能选择单，选项单 On a computer screen, a menu is a list of choices. Each choice represents something that you can do using the computer. 
+
+
+——————————————
+★☆☆   meow
+
+1.   →see: miaow; 
+
+
+——————————————
+★☆☆   MEP ●○○○○
+
+1.N-COUNT	可数名词  欧洲议会议员 An MEP is a person who has been elected to the European Parliament. MEP is an abbreviation for (缩略 =) 'Member of the European Parliament'. 
+
+
+——————————————
+★☆☆   mercantile ●○○○○
+
+1.ADJ	形容词  商业的;贸易的 Mercantile means relating to or involved in trade. 
+  【搭配模式】：ADJ n
+  【语域标签】：FORMAL 正式
+
+...the emergence of a new mercantile class.新兴商业阶层的出现
+
+
+——————————————
+★☆☆   mercenary ●○○○○
+
+1.N-COUNT	可数名词  (外籍)雇佣兵 A mercenary is a soldier who is paid to fight by a country or group that they do not belong to. 
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  唯利是图的;见钱眼开的 If you describe someone as mercenary, you are criticizing them because you think that they are only interested in the money that they can get from a particular person or situation. 
+  【语用信息】：disapproval
+
+
+——————————————
+★☆☆   merchandise ●○○○○
+
+1.N-UNCOUNT	不可数名词  商品;货物 Merchandise is goods that are bought, sold, or traded. 
+  【语域标签】：FORMAL 正式
+
+
+——————————————
+★☆☆   merchandiser
+
+1.N-COUNT	可数名词  商人;商家 A merchandiser is a person or company that sells goods to the public. 
+  【搭配模式】：usu supp N
+  【语域标签】：AM 美
+  【FIELD标签】：BUSINESS 商
+
+In 1979, Liquor Barn thrived as a discount merchandiser.1979年，Liquor Barn 烈酒折扣店的生意十分红火。in BRIT, use 英国英语用 retailer
+
+
+——————————————
+★☆☆   merchandising ●○○○○
+
+1.N-UNCOUNT	不可数名词  (与影片、运动队、流行乐队等相关的)附带商品，文化衍生品 Merchandising consists of goods such as toys and clothes that are linked with something such as a film, sports team, or pop group. 
+
+We are selling the full range of World Cup merchandising...我们出售世界杯的所有纪念商品。
+The club says it will make increasing amounts from merchandising.俱乐部称会从衍生商品中获得越来越多的利润。
+
+2.N-UNCOUNT	不可数名词  推销;商品拓销;销售规划 Merchandising is used to refer to the way shops and businesses organize the sale of their products, for example the way they are displayed and the prices that are chosen. 
+  【语域标签】：mainly AM 主美
+  【FIELD标签】：BUSINESS 商
+
+Company executives say revamped merchandising should help Macy's earnings to grow.公司主管说销售规划改进后应该能够帮助梅西公司提高收益。
+
+
+——————————————
+★☆☆   merchant ●●●○○
+
+1.N-COUNT	可数名词  (尤指外贸)商人，批发商 A merchant is a person who buys or sells goods in large quantities, especially one who imports and exports them. 
+
+Any knowledgeable wine merchant would be able to advise you.任何一个懂行的葡萄酒商人都可以给你提出建议。
+
+2.N-COUNT	可数名词  店主;商人 A merchant is a person who owns or runs a shop, store, or other business. 
+  【语域标签】：AM 美
+
+The family was forced to live on credit from local merchants.这家人不得不靠向当地商人赊账生活。in BRIT, usually use 英国英语通常用 retailer, shopkeeper
+
+3.ADJ	形容词  海上货运的;商船的 Merchant seamen or ships are involved in carrying goods for trade. 
+  【搭配模式】：ADJ n
+
+There's been a big reduction in the size of the British merchant fleet in recent years.近些年来英国商船队伍的规模大为缩减。
+
+
+——————————————
+★☆☆   merchant bank
+
+1.N-COUNT	可数名词  商业银行 A merchant bank is a bank that deals mainly with firms, investment, and foreign trade, rather than with the public. 
+  【FIELD标签】：BUSINESS 商
+
+
+——————————————
+★☆☆   merchant banker
+
+1.N-COUNT	可数名词  商业银行职员 A merchant banker is someone who works for a merchant bank. 
+  【FIELD标签】：BUSINESS 商
+
+
+——————————————
+★☆☆   merciful
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  仁慈的;宽厚的 If you describe God or  a person in a position of authority as merciful, you mean that they show kindness and forgiveness to people. 
+
+...a merciful God...仁慈的上帝
+We can only hope the court is merciful.我们唯有寄希望于法庭的宽大处理。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  （尤指因结束了某人的痛苦或不适）幸运的,有福气的 If you describe an event or situation as merciful, you mean that it is a good thing, especially because it stops someone's suffering or discomfort. 
+
+We were told when he was taken to hospital that his injuries were so severe death would be merciful...他被送到医院时，医生告诉我们他伤势过重，死亡对他算是一种幸运的解脱。
+Eventually the session came to a merciful end.这次开庭的最终结果令人庆幸。
+
+
+——————————————
+★☆☆   mercifully ●○○○○
+
+1.ADV	副词  幸运地;有福气地;幸好 You can use mercifully to show that you are glad that something good has happened, or that something bad has not happened or has stopped. 
+  【搭配模式】：ADV with cl
+  【语用信息】：feelings
+
+Mercifully, a friend came to the rescue...幸好一个朋友赶来解了围。
+Bolivia has been mercifully free of large-scale, drug-related violence.幸运的是，玻利维亚没有发生过与毒品有关的大规模暴力事件。
+
+
+——————————————
+★☆☆   merciless ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  残忍的;冷酷无情的 If you describe someone as merciless, you mean that they are very cruel or determined and do not show any concern for the effect their actions have on other people. 
+
+Whistler, as always, was merciless.和以往一样，惠斯勒还是那么冷酷无情。
+...the merciless efficiency of a modern police state.现代极权国家残酷无情、只讲效率mercilessly
+
+We teased him mercilessly...我们肆无忌惮地拿他开心。
+The sun beat down mercilessly.阳光无情地照射下来。
+
+
+——————————————
+★☆☆   mercurial
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  善变的;变化无常的;难以预测的 If you describe someone as mercurial, you mean that they frequently change their mind or mood without warning. 
+  【STYLE标签】：LITERARY 文
+
+...his mercurial temperament.他那反复无常的脾气
+
+
+——————————————
+★☆☆   mercury ●○○○○
+
+1.N-UNCOUNT	不可数名词  水银;汞 Mercury is a silver-coloured liquid metal that is used especially in thermometers and barometers. 
+
+
+——————————————
+★☆☆   mercy ●●○○○
+
+1.N-UNCOUNT	不可数名词  仁慈;怜悯;宽恕 If someone in  authority shows mercy, they choose not to harm someone they have power over, or they forgive someone they have the right to punish. 
+
+Neither side took prisoners or showed any mercy...双方都没有抓俘虏，也没有表现出丝毫的心慈手软。
+They cried for mercy but their pleas were met with abuse and laughter...他们哭喊着请求宽恕，可是他们的恳求却遭到了谩骂和嘲笑。
+May God have mercy on your soul.愿上帝宽恕你的灵魂。
+
+2.ADJ	形容词  慈善的;救援的 Mercy is used to describe a special journey to help someone in great need, such as people who are sick or made homeless by war. 
+  【搭配模式】：ADJ n
+  【FIELD标签】：JOURNALISM 新闻
+
+She vanished nine months ago while on a mercy mission to West Africa...9个月前她在去西非的慈善之旅中消失了。
+It's the first so-called mercy flight for a fortnight as the Americans have been waiting for enough people to fill a 747 jet.美国人一直在等人坐满一架747飞机，这便是第一次为期两周的所谓慈善飞行。
+
+3.N-COUNT	可数名词  幸运;侥幸 If you refer to an event or situation as a mercy, you mean that it makes you feel happy or relieved, usually because it stops something unpleasant happening. 
+  【搭配模式】：usu a N
+
+It really was a mercy that he'd died so rapidly at the end...他最后去得那么快，真是谢天谢地。
+The two cars finished up in a run-off area, clear of the circuit, and that was a mercy.两辆车最后都停在了缓冲区，避开了赛车道，真是万幸。
+
+4.PHRASE	短语  完全由…支配;任由…摆布 If one person or thing is at the mercy of another, the first person or thing is in a situation where they cannot prevent themselves being harmed or affected by the second. 
+  【搭配模式】：with poss
+
+Buildings are left to decay at the mercy of vandals and the weather...建筑物因人为的肆意破坏及日晒雨淋而日益破败。
+The Emperor must realize that he has us at his mercy.皇帝必须意识到我们任由他处置。
+
+5.PHRASE	短语  为坏情况没有变得更糟而庆幸 If you tell someone who is  in an unpleasant situation that they should be grateful or thankful for small mercies, you mean that although their situation is bad, it could be even worse, and so they should be happy. 
+  【搭配模式】：usu v-link PHR
+
+But so low has morale sunk that the team and the fans would have been grateful for small mercies.士气如此低沉，一丁点的好运都会让队员和球迷庆幸不已。
+
+6.PHRASE	短语  听凭…发落 If you throw yourself on someone's mercy, you put yourself in a situation where they will have complete power to decide how to treat you, for example whether to punish or forgive you. 
+  【搭配模式】：V inflects
+
+He's going to throw himself on the mercy of the court.他准备听凭法庭发落。
+
+
+——————————————
+★☆☆   mercy killing
+
+1.N-VAR	可变名词  无痛苦致死;安乐死 A mercy killing is an act of killing someone who is very ill, in order to stop them suffering any more pain. 
+
+
+——————————————
+★☆☆   mere ●●●○○
+Mere does not have a comparative form. The superlative form merest is used to emphasize how small something is, rather than in comparisons.mere 没有比较级，最高级 merest 并无比较之义，而是用来强调极其微小。
+
+1.ADJ	形容词  只不过;仅仅 You use mere to emphasize how unimportant or inadequate something is, in comparison to the general situation you are describing. 
+  【搭配模式】：ADJ n
+  【语用信息】：emphasis
+
+...successful exhibitions which go beyond mere success...不仅仅是成功而是大获成功的展览
+There is more to good health than the mere absence of disease...身体健康不仅仅指不生病，还包括更多。
+In Poland, the faith has always meant more than mere religion...在波兰，信仰的含义向来不仅仅指宗教。She'd never received the merest hint of any communication from him.她从未得到他准备沟通的一丁点儿暗示。
+
+2.ADJ	形容词  极小的，微不足道的，单单(表示虽小却有重要影响) You use mere to indicate that a quality or action that is usually unimportant has a very important or strong effect. 
+  【搭配模式】：ADJ n
+
+The mere mention of food had triggered off hunger pangs...单单提到食物就引起了阵阵饥饿感。
+Whenever there was a gap in the traffic the merest pressure on the accelerator was enough to close it...每当车流里出现了一点儿空距，只要稍稍一踩油门，空距就没有了。
+The team manager has been quick to clamp down on the merest hint of complacency.球队主教练很快就消除了自满的小苗头。
+
+3.ADJ	形容词  只不过，仅仅(用于强调数量之小) You use mere to emphasize how small a particular amount or number is. 
+  【搭配模式】：a ADJ amount
+  【语用信息】：emphasis
+
+Sixty per cent of teachers are women, but a mere 5 percent of women are heads and deputies...有60%的教师是女性，但是担任校长和副校长的女性仅占5%。
+Tickets are a mere £7.50 at the door...门口买票只要7.5英镑。
+For the past two decades, North Carolina taxed cigarettes at a mere 2 cents a packet.过去20年里，北卡罗来纳州的香烟税仅为每包2美分。
+
+
+——————————————
+★☆☆   merely ●●●○○
+
+1.ADV	副词  只不过;仅仅 You use merely to emphasize that something is only what you say and not better, more important, or more exciting. 
+  【搭配模式】：ADV with cl/group
+  【语用信息】：emphasis
+
+Michael is now merely a good friend...迈克尔现在仅仅是个不错的朋友而已。
+Francis Watson was far from being merely a furniture expert...弗朗西斯·沃森远远不止是个家具行家。
+Merely because you believe a thing is right, it isn't automatically so...事情不会仅仅因为你相信它是对的，就会必然如此。They are offering merely technical assistance.他们仅仅是在提供技术援助。
+
+2.ADV	副词  只不过，仅仅(用于强调数量之小) You use merely to emphasize that a particular amount or quantity is very small. 
+  【搭配模式】：ADV amount
+  【语用信息】：emphasis
+
+The brain accounts for merely three per cent of body weight.大脑仅占体重的3%。
+
+3.PHRASE	短语  不仅仅 You use not merely before the less important of two contrasting statements, as a way of emphasizing the more important statement. 
+  【搭配模式】：PHR with cl/group
+  【语用信息】：emphasis
+
+The team needs players who want to play cricket for England, not merely any country that will have them...球队需要的是想为英格兰而战的板球选手，而不是愿为任何国家打球的选手。
+His were not merely crimes of theft but of violence against elderly people.他所犯的不止是偷窃罪，而是针对老年人的暴力犯罪。
+
+
+——————————————
+★☆☆   meretricious
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  华而不实的;徒有其表的 If you describe something as meretricious, you disapprove of it because although it looks attractive it is actually of little value. 
+  【语用信息】：disapproval
+  【语域标签】：FORMAL 正式
+
+...vulgar, meretricious and shabby souvenirs.俗气花哨、质量低劣的纪念品
+
+
+——————————————
+★☆☆   merge ●●○○○
+
+1.V-RECIP-ERG	  (使)合并;(使)融合 If one thing merges with another, or is merged with another, they combine or come together to make one whole thing. You can also say that two things merge, or are merged . 
+  【语法信息】：V with n
+  【语法信息】：pl-n V
+  【语法信息】：pl-n V into n
+  【语法信息】：V pl-n
+  【语法信息】：V n with n
+  【语法信息】：Also V pl-n into n
+
+My life merged with his...我和他的生活合而为一。
+Bank of America merged with a rival bank...美国银行与一家竞争银行合并了。
+The rivers merge just north of a vital irrigation system...就在一个重要的灌溉系统的北边，这些河流交汇在一起。The two countries merged into one...两国合而为一。He sees sense in merging the two agencies while both are new...他觉得将这两家建立不久的机构合而为一是明智的。Then he showed me how to merge the graphic with text on the same screen.然后他教我如何将图表和文字合并在同一个屏幕上。
+
+2.V-RECIP	相互动词  渐渐消失于;融入;相融 If one sound, colour, or object merges into another, the first changes so gradually into the second that you do not notice the change. 
+  【语法信息】：V into n
+  【语法信息】：V with n
+  【语法信息】：pl-n V
+
+Like a chameleon, he could merge unobtrusively into the background...他就像一条变色龙，可以神不知鬼不觉地隐藏在背景中间。
+His features merged with the darkness...他的面容消失在黑暗之中。
+Night and day begin to merge.夜尽昼来。
+
+
+——————————————
+★☆☆   merger ●●●○○
+
+1.N-COUNT	可数名词  (公司、组织等的)合并，归并 A merger is the joining together of two separate companies or organizations so that they become one. 
+  【FIELD标签】：BUSINESS 商
+
+...a merger between two of Britain's biggest trades unions.英国两个最大的工会的合并
+...the proposed merger of two Japanese banks.合并两家日本银行的建议
+
+
+——————————————
+★☆☆   meridian
+
+1.N-COUNT	可数名词  子午线;经线 A meridian is an imaginary line from the North Pole to the South Pole. Meridians are drawn on maps to help you describe the position of a place. 
+
+
+——————————————
+★☆☆   meringue ●○○○○
+
+1.N-VAR	可变名词  蛋白酥;蛋糖甜饼 Meringue is a mixture of beaten egg whites and sugar which is baked in the oven. 
+
+
+——————————————
+★☆☆   merit ●●○○○
+
+1.N-UNCOUNT	不可数名词  良好品质;价值 If something has merit, it has good or worthwhile qualities. 
+  【搭配模式】：usu with supp
+
+The  argument seemed to have considerable merit...这个论点似乎颇有价值。
+Box-office success mattered more than artistic merit...票房上的成功比艺术价值更重要。
+Your feature has the merit of simply stating what has been achieved.你这篇专题文章的可取之处是简明扼要地道出了取得的成就。
+
+2.N-PLURAL	复数名词  优点;长处;优势 The merits of something are its advantages or other good  points. 
+  【搭配模式】：usu with poss
+
+They have been persuaded of the merits of peace.他们被劝服，认识到了和平的好处。
+...the technical merits of a film...一部电影技术上的长处
+It was obvious that, whatever its merits, their work would never be used.很明显，无论他们的作品有何优点都永远不会被采用。
+
+3.VERB	动词  值得;应受到 If someone or something merits a particular action or treatment, they deserve it. 
+  【语法信息】：V n
+  【语域标签】：FORMAL 正式
+
+He said he had done nothing wrong to merit a criminal investigation...他说自己没有干坏事，不应该受到刑事调查。
+Such ideas merit careful consideration.这样的想法值得斟酌。
+
+4.PHRASE	短语  根据事物本身的情况(来评价) If you judge something or someone on merit or on their merits, your judgment is based on what you notice when you consider them, rather than on things that you know about them from other sources. 
+  【搭配模式】：PHR after v
+
+Everybody is selected on merit...每个人都是凭个人才能入选的。
+Each case is judged on its merits.每个案件都是按照案件本身的特点判定的。
+
+
+——————————————
+★☆☆   meritocracy
+
+1.N-VAR	可变名词  精英管理（制度）；贤能统治（社会） A meritocracy is a society or social system in which people get status or rewards because of what they achieve, rather than because of their wealth or social status. 
+
+
+——————————————
+★☆☆   meritocratic
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  精英管理的;贤能统治的 A meritocratic society or social system gives people status or rewards because of what they achieve, rather than because of their wealth or social position. 
+  【搭配模式】：usu ADJ n
+
+...a more meritocratic society.更加重视人才的社会
+
+
+——————————————
+★☆☆   meritorious
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  优异的;有价值的 If you describe something as meritorious, you approve of it for its good or worthwhile qualities. 
+  【语用信息】：approval
+  【语域标签】：FORMAL 正式
+
+I had been promoted for what was called gallant and meritorious service.我之所以得到提拔是由于立下了所谓的英勇卓越的功勋。
+
+
+——————————————
+★☆☆   mermaid ●○○○○
+
+1.N-COUNT	可数名词  (童话和传说中的)美人鱼 In fairy stories and legends, a mermaid is a woman with a fish's tail instead of legs, who lives in the sea. 
+
+
+——————————————
+★☆☆   merrily
+
+1.ADV	副词  轻松愉快地，无忧无虑地(含有批评之意，指做某事时未考虑到事情的诸多问题) If you say that someone merrily does something, you are critical of the fact that they do it without realizing that there are a lot of problems which they have not thought about. 
+  【搭配模式】：ADV with v
+  【语用信息】：disapproval
+
+There they were, merrily describing their 16-hour working days while simultaneously claiming to be happily married...他们一面高兴地描绘着每天16个小时的工作，一面又声称自己婚姻幸福。
+Both NATO and the Community knew they could not go merrily on as before.北约与欧共体都明白他们不可能再像以前那样高枕无忧了。
+
+2.ADV	副词  轻快地;欢快地;愉悦地 If you say that something is happening merrily, you mean that it is happening fairly quickly, and in a pleasant or satisfactory way. 
+  【搭配模式】：ADV with v
+
+The ferry cut merrily through the water...渡船轻快地划过水面。
+A pan of potatoes was boiling away merrily on the gas stove.一锅土豆在煤气炉上欢快地煮着。
+
+3. See also: merry;   
+
+
+——————————————
+★☆☆   merriment
+
+1.N-UNCOUNT	不可数名词  欢笑;欢乐 Merriment means laughter. 
+  【STYLE标签】：OLD-FASHIONED 过时
+
+
+——————————————
+★☆☆   merry ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  欢乐的;愉快的;兴高采烈的 If you describe someone's character or behaviour as merry, you mean that they are happy and cheerful. 
+  【STYLE标签】：OLD-FASHIONED 过时
+
+He was much loved for his merry nature...他快乐的天性很是招人喜欢。
+From the house come the bursts of merry laughter...房子里传出一阵阵欢乐的笑声。
+Merry black eyes glinted at them.闪烁着喜悦光芒的黑眼睛注视着他们。merrily
+
+Chris threw back his head and laughed merrily.克里斯回过头，开心地笑了。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  (声音)悦耳的;(景象)令人快乐的 A merry sound or sight makes you feel cheerful. 
+  【STYLE标签】：OLD-FASHIONED 过时
+
+...the merry sounds of a seven-piece brass band...由7名乐手组成的铜管乐队演奏的悦耳乐声
+She was humming a merry little tune.她哼着一支动听的小曲。
+
+3.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  微醉的;微醺的 If you get merry, you get slightly drunk. 
+  【搭配模式】：v-link ADJ
+  【语域标签】：BRIT 英
+  【STYLE标签】：INFORMAL 非正式
+
+They went off to Glengarriff to get merry.他们到格伦加里夫去好好地喝上一杯。
+
+4.ADJ	形容词  (表示强调，常有不赞成或幽默之意) Some people use merry to emphasize something that they are saying, often when they want to express disapproval or humour. 
+  【搭配模式】：ADJ n
+  【语用信息】：emphasis
+
+It hasn't stopped the British Navy proceeding on its merry way...这没有阻止英国海军继续得意扬扬地前进的步伐。
+In the merry world of American lawyers it is the simplest thing in the world to start an action.在无忧无虑的美国律师界，世上最简单的事情就是提出诉讼。
+
+5. See also: merrily;   
+
+6.CONVENTION	惯用语  圣诞快乐 Just before Christmas and on Christmas Day, people say 'Merry Christmas' to other people to express the hope that they will have a happy time. 
+  【语用信息】：formulae
+
+Merry Christmas, everyone...祝大家圣诞快乐！
+I just wanted to wish you a merry Christmas...我只想祝福你圣诞快乐。
+A merry Christmas to all our readers.祝我们所有的读者圣诞快乐。
+
+7.PHRASE	短语  尽情欢乐;寻欢作乐 If people make merry, they enjoy themselves and have fun, for example by singing, dancing, and drinking together. 
+  【搭配模式】：V inflects
+  【STYLE标签】：OLD-FASHIONED 过时
+
+Neighbours approached their boundaries from opposite sides and made merry together.邻居们从对面来到他们这边，一起尽情欢乐。
+
+8.   to lead someone a merry dance→see: dance; to play merry hell→see: hell; 
+
+
+——————————————
+★☆☆   merry-go-round
+
+1.N-COUNT	可数名词  旋转木马 A merry-go-round is a large circular platform at a fairground on which there are model animals or vehicles for people to sit on or in as it turns round. 
+
+2.N-COUNT	可数名词  一连串的相关活动;走马灯似的活动 You can refer to a continuous series of activities as a merry-go-round . 
+  【搭配模式】：usu sing
+
+...a merry-go-round of teas, fetes, musical events and the like.一连串的茶会、游乐会、音乐活动以及诸如此类的事情
+
+
+——————————————
+★☆☆   merry-making
+
+1.N-UNCOUNT	不可数名词  尽情欢乐;狂欢 Merry-making is the activities of people who are enjoying themselves together in a lively way, for example by eating, drinking, or dancing. 
+
+...a time of merry-making, feasting and visiting friends.尽情狂欢、山吃海喝、走亲访友的时刻
+
+
+——————————————
+★☆☆   mesa
+
+1.N-COUNT	可数名词  方山(主要见于美国西南部) A mesa is a large hill with a flat top and steep sides; used mainly of hills in the south-western United States. 
+  【语域标签】：AM 美
+
+
+——————————————
+★☆☆   mesh ●○○○○
+
+1.N-VAR	可变名词  网眼织物;网状物 Mesh is material like a net made from wire, thread, or plastic. 
+
+The ground-floor windows are obscured by wire mesh.一楼的窗户装有防盗网。
+...a mesh small enough to exclude tiny insects.网眼小得足以挡住小昆虫的网
+
+2.V-RECIP-ERG	  (使)相匹配;(使)相互协调;(使)吻合 If two things or ideas mesh or are meshed, they go together well or fit together closely. 
+  【语法信息】：pl-n V
+  【语法信息】：V with n
+  【语法信息】：V n-pl
+  【语法信息】：Also V n with n
+
+Their senses of humor meshed perfectly...他们的幽默感配合得天衣无缝。
+This of course meshes with the economic philosophy of those on the right...这自然与右派的经济哲学相吻合。
+Meshing the research and marketing operations will be Mr. Furlaud's job.把研究与市场运作紧密结合起来将成为弗劳德先生的工作任务。
+
+
+——————————————
+★☆☆   mesmerize ●○○○○
+in BRIT, also use 英国英语亦用 mesmerise
+
+1.VERB	动词  吸引;迷住 If you are mesmerized by something, you are so interested in it or so attracted to it that you cannot think about anything else. 
+  【语法信息】：be V-ed
+  【语法信息】：V n
+
+He was absolutely mesmerised by Pavarotti on television...他完全被电视上的帕瓦罗蒂迷住了。
+There was something about Pearl that mesmerised her.珀尔身上有什么东西吸引住了她。mesmerized
+
+I sat mesmerized long after the fairground closed.露天游乐场关门许久之后，我还痴迷地坐在那里。mesmerizing
+
+She has a mesmerising smile.她的笑容令人着迷。
+
+
+——————————————
+★☆☆   mess ●●●○○
+
+1.N-SING	单数名词  脏乱;凌乱;不整洁 If you say that something is a mess or in a mess, you think that it is in an untidy state. 
+  【搭配模式】：also no det
+
+The house is a mess...屋里一片狼藉。
+The wrong shampoo can leave curly hair in a tangled mess...不合适的洗发水会使卷发纠结成乱糟糟的一团。
+Linda can't stand mess.琳达无法忍受脏乱。
+
+2.N-VAR	可变名词  困境;麻烦;混乱 If you say that a situation is a mess, you mean that it is full of trouble or problems. You can also say that something is in a mess . 
+
+I've made such a mess of my life.我把自己的生活弄得一团糟。
+...the many reasons why the economy is in such a mess...经济陷入如此困境的众多原因
+She'd got herself into a mess, of that he was certain.他肯定她已经让自己陷入了困境。
+
+3.N-VAR	可变名词  (意外滴落的)液体(或黏稠物) A mess is something liquid or sticky that has been accidentally dropped on something. 
+
+Finally, making a dreadful mess, they devour the fruit...最后，他们狼吞虎咽地吃起了水果，果汁滴得到处都是。
+I'll clear up the mess later.我呆会儿会把滴落的水擦干净。
+
+4.N-COUNT	可数名词  (军队的)餐厅，食堂 The mess at a military base or military barracks is the building in which members of the armed forces can eat or relax. 
+  【搭配模式】：usu sing
+
+...a party at the officers' mess...在军官餐厅举行的聚会
+He hurried to the Mess to find the control officer.他匆忙赶到餐厅去找指挥官。相关词组：mess around mess up mess with 
+
+
+——————————————
+★☆☆   message ●●●●○
+
+1.N-COUNT	可数名词  音信;消息;留言 A message is a piece of information or a request that you send to someone or leave for them when you cannot speak to them directly. 
+
+I got a message you were trying to reach me...我收到一条留言，说你想跟我联系。
+Would you like to leave a message?...您要留言吗？
+A message taped by the President was broadcast to US troops around the world.一条总统录音的口讯被播送给全世界的美国军队。
+
+2.N-COUNT	可数名词  (书、戏剧等的)要旨，主题思想，寓意 The message that someone is trying to communicate, for example in a book or play, is the idea or point that they are trying to communicate. 
+  【搭配模式】：usu sing
+
+The report's message was unequivocal...报告中传达的信息是明确的。
+I no longer want to stay friendly with her but I don't know how to get the message across...我再也不想和她做朋友了，但是又不知如何告诉她。
+I think they got the message that this is wrong.我认为他们已经得到了消息，知道这是错误的。
+
+3.VERB	动词  (用电脑、手机等)给…发消息，给…留言 If you message someone, you send them a message electronically using a computer or another device such as a mobile phone. 
+  【语法信息】：V
+  【语法信息】：V n
+
+People who message a lot feel unpopular if they don't get many back...如果人们发出大量短信但收到的回复却不多，就会觉得自己不受欢迎。
+She messaged him saying she wished they were together.她给他留言说希望跟他在一起。
+
+
+——————————————
+★☆☆   message board
+
+1.  留言板 In computing, a message board is a system that allows users to send and receive messages of general interest. 
+  【FIELD标签】：COMPUTING 计算机
+
+Have your say on our message board by clicking here.在留言板上留言请点击这里。
+
+
+——————————————
+★☆☆   messaging
+
+1.N-UNCOUNT	不可数名词  (用计算机、手机等实现的)信息发送 Messaging is the sending of written or spoken messages using a computer or another electronic device such as a mobile phone. 
+
+Messaging allows real-time communication by keyboard with up to five people at any one time.电子信息发送能使多至5人同时通过键盘进行实时交流。
+
+
+——————————————
+★☆☆   mess around
+in BRIT, also use 英国英语亦用 mess about
+
+1.PHRASAL VERB	短语动词  无所事事;混日子;闲荡 If you mess around or mess about, you spend time doing things without any particular purpose or without achieving anything. 
+  【语法信息】：V P
+
+We were just messing around playing with paint...我们只是玩玩油彩，打发时间而已。
+Stop messing about and go and buy one...别再磨蹭了，快去买一个。
+
+2.PHRASAL VERB	短语动词  乱弄;瞎摆弄 If you say that someone is messing around with or messing about with something, you mean that they are interfering with it in a harmful way. 
+  【语法信息】：V P with n
+
+Boys and girls will enjoy messing about with any kind of machine.男孩和女孩会喜欢摆弄各种机械装置。
+I'd like to know who's been messing about with the pram.我想知道是谁在瞎摆弄这辆婴儿车。
+
+3.PHRASAL VERB	短语动词  胡闹;瞎闹 If someone is messing around or messing about, they are behaving in a joking or silly way. 
+  【语法信息】：V P
+
+I thought she was messing about.我认为她是在胡闹。
+
+4.PHRASAL VERB	短语动词  恶劣地对待;玩弄 If you mess someone around or mess them about, you treat them badly, for example by not being honest with them, or by continually changing plans which affect them. 
+  【语法信息】：V n P
+  【语域标签】：mainly BRIT 主英
+
+Davison had pulled out of a move to his old club because they had 'messed him about'...戴维森已经打消了返回原来的俱乐部的念头，因为他们“糊弄他”。
+I think they've been messed around far too much.我认为他们被耍得太过头了。
+
+
+——————————————
+★☆☆   messenger ●○○○○
+
+1.N-COUNT	可数名词  送信者;通信员;信使 A messenger takes a message to someone, or takes messages regularly as their job. 
+  【搭配模式】：also by N
+
+There will be a messenger at the Airport to collect the photographs from our courier...机场会有一名信使从我们的递送员手中取走照片。
+He gave the instruction for the document to be sent by messenger.他下令由通信员送出文件。
+
+
+——————————————
+★☆☆   messenger boy
+
+1.N-COUNT	可数名词  信童;送信的男孩;小通信员 A messenger boy is a boy who is employed to take messages to people. 
+
+
+——————————————
+★☆☆   mess hall
+
+1.N-COUNT	可数名词  (尤指军队驻地的)食堂，餐厅 A mess hall is a large room where a particular group of people, especially members of the armed forces, eat meals together. 
+
+
+——————————————
+★☆☆   messiah ●○○○○
+
+1.N-PROPER	专有名词  弥赛亚(上帝派去拯救犹太人民的国王) For Jews, the Messiah is the King of the Jews, who will be sent to them by God. 
+
+2.N-PROPER	专有名词  耶稣基督;救世主 For Christians, the Messiah is Jesus Christ. 
+
+3.N-COUNT	可数名词  救星;救世主 If you refer to someone as a messiah, you mean that they are expected to do wonderful things, especially to rescue people from a very difficult or dangerous situation, or that they are thought to have done these things. 
+  【搭配模式】：usu with supp
+
+People saw Mandela as their messiah...人民把曼德拉看作他们的大救星。
+He was somehow destined to become a rock messiah.冥冥之中，他注定会成为摇滚乐的救世主。
+
+
+——————————————
+★☆☆   Messianic
+
+1.ADJ	形容词  (信奉)救世主的,大救星的 Messianic means relating to the belief that a divine being has been born, or will be born, who will change the world. 
+  【搭配模式】：ADJ n
+
+The cult leader saw himself as a Messianic figure.这个异教团体的领袖把自己看作救世主一般的人物。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  相信世道会改变的 Messianic means relating to the belief that there will be a complete change in the social order in a country or in the world. 
+  【搭配模式】：usu ADJ n
+
+The defeated radicals of the French Revolution were the first to have this messianic vision in 1794.1794年法国大革命中失败的激进分子最先预见到了社会会发生根本改变。
+
+
+——————————————
+★☆☆   Messrs ●○○○○
+in AM, use 美国英语用 Messrs
+
+1.N-TITLE	头衔名词  (用在两个或多个人名之前，作为公司名称的一部分) Messrs is used before the names of two or more men as part of the name of a business. 
+  【语域标签】：BRIT 英
+
+The repairs were to be done by Messrs Clegg & Sons of Balham.修理工作将交给巴尔哈姆的克莱格父子建筑公司完成。
+
+2.N-TITLE	头衔名词  (Mr的复数，用在两个或多个人名前) You use Messrs before the names of two or more men as the plural of Mr . 
+  【语域标签】：FORMAL 正式
+
+I cannot allow the remarks made by Messrs Fortt and Wyre to remain unchallenged.我不能容许无人质疑福特先生和怀厄先生所说的话。
+
+
+——————————————
+★☆☆   mess up
+
+1.PHRASAL VERB	短语动词  搞砸;弄糟 If you mess something up or if you mess up, you cause something to fail or be spoiled. 
+  【语法信息】：V n P
+  【语法信息】：V P n (not pron)
+  【语法信息】：V P
+  【STYLE标签】：INFORMAL 非正式
+
+When politicians mess things up, it is the people who pay the price...政客们把事情搞砸的时候，埋单的是老百姓。
+He had messed up one career...他把一份工作弄砸了。
+If I messed up, I would probably be fired.要是我搞砸了，很可能会被炒鱿鱼。
+
+2.PHRASAL VERB	短语动词  弄脏;弄乱 If you mess up a place or a thing, you make it untidy or dirty. 
+  【语法信息】：V P n (not pron)
+  【语法信息】：Also V n P
+  【STYLE标签】：INFORMAL 非正式
+
+I hope they haven't messed up your video tapes.我希望他们没把您的录像带弄乱。
+
+3.PHRASAL VERB	短语动词  干扰;搅乱;使不得安宁 If something messes someone up, it causes them to be very confused or worried, or to have psychological problems. 
+  【语法信息】：V n P
+  【语法信息】：Also V P n (not pron)
+  【STYLE标签】：INFORMAL 非正式
+
+That really messed them up, especially the boys.那件事真把他们搅得天翻地覆，男孩子们尤受其害。
+
+
+——————————————
+★☆☆   mess with
+
+1.PHRASAL VERB	短语动词  干涉;与…有牵连;卷入 If you tell someone not to mess with a person or thing, you are warning them not to get involved with that person or thing. 
+  【语法信息】：V P n
+
+You are messing with people's religion and they don't like that...你是在干涉人们的宗教信仰，他们并不喜欢你的做法。
+Do you know who you're messing with — do you know who I am?知道你在跟谁打交道吗——知道我是谁吗？
+
+
+——————————————
+★☆☆   messy ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  邋遢的;弄脏的 A messy person or activity makes things dirty or untidy. 
+
+She was a good, if messy, cook...尽管不爱干净，她还是个好厨子。
+As the work tends to be a bit messy you'll need to wear old clothes.这个活儿有点脏，你需要穿旧衣服。messily
+
+She wrote it hastily and messily on a scrap of paper.她在一张纸片上匆忙而潦草地写了下来。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  混乱的;肮脏的;凌乱的 Something that is messy is dirty or untidy. 
+
+Dad cooks when Mum is busy, he makes me clean up my messy room...妈妈忙的时候爸爸做饭，他还让我清理我乱糟糟的房间。
+Don't worry if this first coat of paint looks messy.如果这第一层油漆看上去很脏的话，不用担心。
+
+3.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  (局面)混乱而复杂的，棘手的，难以应付的 If you describe a situation as messy, you are emphasizing that it is confused or complicated, and therefore unsatisfactory. 
+
+John had been through a messy divorce himself...约翰自己也经历过一次十分棘手的离婚。
+Life is a messy and tangled business...生活就是一件既混乱又复杂的事情。
+Negotiations would be messy and time-consuming.谈判既麻烦又耗时间。
+
+
+——————————————
+★☆☆   met
+
+1.  Met is the past tense and past participle of meet. 
+
+
+——————————————
+★☆☆   metabolic ●○○○○
+
+1.ADJ	形容词  新陈代谢的;代谢作用的 Metabolic means relating to a person's or animal's metabolism. 
+  【搭配模式】：ADJ n
+
+...people who have inherited a low metabolic rate.因遗传而新陈代谢速度慢的人
+
+
+——————————————
+★☆☆   metabolism ●○○○○
+
+1.N-VAR	可变名词  新陈代谢 Your metabolism is the way that chemical processes in your body cause food to be used in an efficient way, for example to make new cells and to give you energy. 
+  【搭配模式】：oft with poss
+
+
+——————————————
+★☆☆   metabolize
+in BRIT, also use 英国英语亦用 metabolise
+
+1.VERB	动词  使新陈代谢 When you metabolize a substance, it is affected by chemical processes in your body so that, for example, it is broken down, absorbed, and used. 
+  【语法信息】：V n
+  【FIELD标签】：TECHNICAL 术语
+
+Diabetics cannot metabolise glucose properly.糖尿病患者不能够正常代谢葡萄糖。
+
+
+——————————————
+★☆☆   metal ●●●○○
+
+1.N-MASS	物质名词 See also: base metal;  金属 Metal is a hard substance such as iron, steel, gold, or lead. 
+
+...pieces of furniture in wood, metal and glass...用木料、金属和玻璃制成的一件件家具
+He hit his head against a metal bar.他的头撞在一根金属棒上。
+
+
+——————————————
+★☆☆   metalanguage
+
+1.N-VAR	可变名词  （用以描写或论述语言的）元语言，纯理语言 In linguistics, the words and expressions that people use to describe or refer to language can be called metalanguage. 
+  【FIELD标签】：TECHNICAL 术语
+
+
+——————————————
+★☆☆   meta-language
+——————————————
+★☆☆   metalled
+
+1.ADJ	形容词  （尤指乡间道路）用碎石铺面的 A metalled road has a level surface made of small pieces of stone; used especially of country roads and tracks. 
+  【搭配模式】：ADJ n
+  【语域标签】：mainly BRIT 主英
+
+Take the metalled path running between the church and the fort.走教堂和城堡之间的碎石小道。
+
+
+——————————————
+★☆☆   metallic ●○○○○
+
+1.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  金属撞击般的；叮当声的 A metallic sound is  like the sound of one piece of metal hitting another. 
+  【搭配模式】：usu ADJ n
+
+There was a metallic click and the gates swung open...随着一声金属碰击的咔嗒声，大门打开了。
+It gave a metallic clang, like a cracked bell.它发出了金属碰击般的哐啷声，跟破钟似的。
+
+2.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  尖厉刺耳的;难听的 A metallic voice has a harsh unpleasant sound. 
+  【搭配模式】：usu ADJ n
+
+...that creaking metallic voice of hers.她那尖厉刺耳的嗓音
+
+3.ADJ	形容词  (涂料、颜色)有金属光泽的，金属般闪亮的 Metallic paint or colours shine like metal. 
+  【搭配模式】：usu ADJ n
+
+He had painted all the wood with metallic silver paint...他给所有的木材都涂上了一层闪耀着金属光泽的银漆。
+Metallic finishes are seen as upmarket.金属般闪亮的罩面漆被认为是高档漆。
+
+4.ADJ-GRADED	能被表示程度的副词或介词词组修饰的形容词  金属味的 Something that tastes metallic has a bitter unpleasant taste. 
+
+There was a metallic taste at the back of his throat.他喉咙深处有一股金属味儿。
+
+5.ADJ	形容词  含金属的；金属制的 Metallic means consisting entirely or partly of metal. 
+  【搭配模式】：usu ADJ n
+
+Even the smallest metallic object, whether a nail file or cigarette lighter, is immediately confiscated...即便是最小的金属物品，不管是指甲锉刀还是打火机，都会马上被没收。
+Place the salmon in a nonstick metallic dish.将鲑鱼放在不粘底的金属盘内。
+
+

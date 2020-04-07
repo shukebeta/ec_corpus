@@ -55,7 +55,7 @@ $dict = [
 ];
 $keyword = strtr($keyword, $dict);
 
-$result = `grep -A1 -ihr -e "${keyword}" ../data`;
+$result = `grep -B1 -A1 -ihr -e "${keyword}" ../data`;
 
 if (!$result) {
     $result = '抱歉，关键字<font color="red"> ' . $keyword_input . ' </font>一个例句也没找到。';
@@ -64,7 +64,7 @@ if (!$result) {
 if ($_REQUEST["html"]) {
 
     $result = preg_replace("/(${keyword})/iu", '<font color="red">\1</font>', $result);
-    $result = preg_replace("/\n--|\n/", "<p>", $result);
+    $result = preg_replace("/\n--|\n/", "<br />", $result);
 }
 echo $result;
 

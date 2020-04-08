@@ -60,18 +60,22 @@ if (strpos($keyword, '+') && strpos($keyword, '\\+') == false) {
 $keyword = strtr($keyword, $dict);
 $result = `grep -B1 -A1 -ihr -e "${keyword}" ../data`;
 
-if (!$result) {
+if ($result) {
+    // to avoid very big html page, limit the search result to less then 100K
+    $result = substr($result, 0, 100*1024);
+
+    if ($_REQUEST["html"]) {
+        $keyword = str_replace('\+', '+', $keyword);
+        $result = preg_replace("/(${keyword})/iu", '<font color="red">\1</font>', $result);
+        $result = preg_replace("/\n--|\n/", "<br />", $result);
+    }
+} else {
     $result = '抱歉，关键字<font color="red"> ' . $keyword_input . ' </font>一个例句也没找到。';
+    $k = urlencode(preg_replace("/[^a-z ]/i", "", $keyword));
+    $result .= "<p>试试 <a href='https://www.dictionary.com/browse/{$k}?s=t' target='_blank'>Dictionary</a>";
+    $result .= " | <a href='http://dict.youdao.com/w/{$k}' target='_blank'>有道词典</a>";
 }
 
-// to avoid very big html page, limit the search result to less then 100K
-$result = substr($result, 0, 100*1024);
-
-if ($_REQUEST["html"]) {
-    $keyword = str_replace('\+', '+', $keyword);
-    $result = preg_replace("/(${keyword})/iu", '<font color="red">\1</font>', $result);
-    $result = preg_replace("/\n--|\n/", "<br />", $result);
-}
 echo $result;
 
 

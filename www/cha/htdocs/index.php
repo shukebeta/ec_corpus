@@ -53,16 +53,22 @@ $dict = [
     '/' => '\\/',
     '"' => '\\"',
 ];
-$keyword = strtr($keyword, $dict);
+if (strpos($keyword, '+') && strpos($keyword, '\\+') == false) {
+    $dict['+'] = '\\+';
+}
 
+$keyword = strtr($keyword, $dict);
 $result = `grep -B1 -A1 -ihr -e "${keyword}" ../data`;
 
 if (!$result) {
     $result = '抱歉，关键字<font color="red"> ' . $keyword_input . ' </font>一个例句也没找到。';
 }
 
-if ($_REQUEST["html"]) {
+// to avoid very big html page, limit the search result to less then 100K
+$result = substr($result, 0, 100*1024);
 
+if ($_REQUEST["html"]) {
+    $keyword = str_replace('\+', '+', $keyword);
     $result = preg_replace("/(${keyword})/iu", '<font color="red">\1</font>', $result);
     $result = preg_replace("/\n--|\n/", "<br />", $result);
 }

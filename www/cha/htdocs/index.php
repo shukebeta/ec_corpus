@@ -59,11 +59,12 @@ if (strpos($keyword, '+') && strpos($keyword, '\\+') == false) {
 }
 
 $keyword = strtr($keyword, $dict);
-$result = `grep -B2 -A1 -ihr -e "${keyword}" ../data`;
+$command = "grep -B2 -A1 -ihr -e \"${keyword}\" ../data";
+$result = `$command`;
 
 if ($result) {
     // to avoid very big html page, limit the search result to less then 100K
-    $result = substr($result, 0, 100*1024);
+    $result = mb_substr($result, 0, 100*1024, 'utf-8');
 
     if ($_REQUEST["html"]) {
         $keyword = str_replace('\+', '+', $keyword);

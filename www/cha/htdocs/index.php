@@ -25,8 +25,8 @@ echo <<<html
 <body>
 <form id="queryform" action="/">
 <div id="query">
-<input id="inputbox" type="text" name="keyword" value="$keyword_input" style="font-size:1.5em; width:400px;height:50px" />
-<button type="submit" style="font-size:1.2em;width:4.5em;height:50px"> 查例句</button>
+<input id="inputbox" type="text" name="keyword" value="$keyword_input" style="margin-right:0.5em;font-size:1.5em; width:400px;height:50px" />
+<button type="submit" style="font-size:1.2em;width:5.5em;height:50px"> 查例句</button>
 <br />
 </div>
 <div style="margin-top:5em;">
@@ -48,6 +48,7 @@ input.onpaste = function(e) {
 </script>
 
 <h2>例句</h2>
+<div style="font-size: 1.5em;">
 html;
 
 $dict = [
@@ -85,6 +86,7 @@ echo $result;
 
 
 echo <<<html
+</div>
 </body>
 </html>
 html;

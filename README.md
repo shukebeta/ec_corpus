@@ -3,7 +3,7 @@
 
 在你的vps上快速搭建"英汉单句查询服务"，就是基于某个单词或者某个短语查英文例句（及其对应的汉语解释）。
 
-[这是一个例子](http://cha.shukebeta.com/world) 欢迎点击查看效果
+[这是一个例子](https://corpus.shukebeta.com/world) 欢迎点击查看效果
 
 克隆下版本库之后，你需要修改 
 

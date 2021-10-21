@@ -60,7 +60,7 @@ if (strpos($keyword, '+') && strpos($keyword, '\\+') == false) {
 }
 
 $keyword = strtr($keyword, $dict);
-$command = "ag -B2 -A1 --noheading --nofilename \"${keyword}\" ../data";
+$command = "ag -i -B2 -A1 --noheading --nofilename \"${keyword}\" ../data";
 $result = `$command`;
 
 if ($result) {
@@ -75,12 +75,13 @@ if ($result) {
 } else {
     $result = '抱歉，关键字<font color="red"> ' . $keyword_input . ' </font>一个例句也没找到。';
 }
-$k = str_replace('\b', '', $keyword);
+$k = preg_replace('/\\\\[a-z*+\'"]/i', '', $keyword);
 $k = urlencode($k);
 $result .= "<p>其他词典 <a href='https://www.dictionary.com/browse/{$k}?s=t' target='_blank'>Dictionary</a>";
 $result .= " | <a href='http://dict.youdao.com/w/eng/{$k}' target='_blank'>有道词典</a>";
 $result .= " | <a href='https://dictionary.cambridge.org/dictionary/english/{$k}' target='_blank'>Cambridge Dictionary</a>";
 $result .= " | <a href='https://vocabulary.com/dictionary/{$k}' target='_blank'>Vocabulary.com</a>";
+$result .= " | <a href='https://idioms.thefreedictionary.com/{$k}' target='_blank'>Idioms free dictionary</a>";
 
 echo $result;
 

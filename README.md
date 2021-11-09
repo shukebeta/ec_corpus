@@ -1,5 +1,6 @@
 # ec_corpus
-用 Docker 快速架设英汉语料库查询
+
+An English/Chinese corpus query service in one PHP file
 
 在你的vps上快速搭建"英汉单句查询服务"，就是基于某个单词或者某个短语查英文例句（及其对应的汉语解释）。
 

@@ -60,7 +60,7 @@ if (strpos($keyword, '+') && strpos($keyword, '\\+') == false) {
 }
 
 $keyword = strtr($keyword, $dict);
-$command = "ag -i -B2 -A1 --noheading --nofilename \"${keyword}\" ../data";
+$command = "rg -i -C2 --no-filename \"${keyword}\" ../data";
 $result = `$command`;
 
 if ($result) {
